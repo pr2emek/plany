@@ -6,5 +6,7 @@ permalink: /wlochy.html
 
 # Przewodnik: Włochy
 
-Witaj w przewodniku po Włoszech! 🇮🇹  
-Tutaj dodasz informacje o miastach, jedzeniu, zabytkach itd.
+Wybierz miasto:
+
+- [Rzym](/plany/rzym.html)
+- [Neapol](/plany/neapol.html)
