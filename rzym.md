@@ -13,21 +13,23 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>📌 Podstawowe informacje</strong></summary>
   <p>
-    Rzym (wł. Roma) to stolica Włoch i jedno z najstarszych nieprzerwanie zamieszkanych miast w Europie. Położony w środkowej części kraju, nad rzeką Tyber, Rzym jest nie tylko ważnym ośrodkiem administracyjnym, ale też historycznym i kulturalnym centrum świata zachodniego.
+<section>
+  <p><strong>Rzym</strong> (wł. <em>Roma</em>) to stolica Włoch i jedno z najstarszych nieprzerwanie zamieszkanych miast w Europie. Położony w środkowej części kraju, nad rzeką Tyber, Rzym jest nie tylko ważnym ośrodkiem administracyjnym, ale też historycznym i kulturalnym centrum świata zachodniego.</p>
 
-Kluczowe fakty:
-	•	Kraj: Włochy
-	•	Region: Lacjum
-	•	Ludność: ok. 2,8 miliona mieszkańców
-	•	Język urzędowy: włoski
-	•	Waluta: euro (EUR)
-	•	Strefa czasowa: CET (UTC+1), w lecie CEST (UTC+2)
-	•	Lotniska: Fiumicino (FCO), Ciampino (CIA)
+  <h3>Kluczowe fakty:</h3>
+  <ul>
+    <li><strong>Kraj:</strong> Włochy</li>
+    <li><strong>Region:</strong> Lacjum</li>
+    <li><strong>Ludność:</strong> ok. 2,8 miliona mieszkańców</li>
+    <li><strong>Język urzędowy:</strong> włoski</li>
+    <li><strong>Waluta:</strong> euro (EUR)</li>
+    <li><strong>Strefa czasowa:</strong> CET (UTC+1), w lecie CEST (UTC+2)</li>
+    <li><strong>Lotniska:</strong> Fiumicino (FCO), Ciampino (CIA)</li>
+  </ul>
 
-Dlaczego warto odwiedzić Rzym?
-
-Rzym to miasto o niesamowitym dziedzictwie – przez tysiące lat był centrum Cesarstwa Rzymskiego, a później Kościoła Katolickiego. Znajduje się tu Watykan – najmniejsze państwo świata i siedziba papieża. Rzym to także miasto muzeów, placów, fontann, starożytnych ruin i wyśmienitej włoskiej kuchni.
-  </p>
+  <h3>Dlaczego warto odwiedzić Rzym?</h3>
+  <p>Rzym to miasto o niesamowitym dziedzictwie – przez tysiące lat był centrum Cesarstwa Rzymskiego, a później Kościoła Katolickiego. Znajduje się tu Watykan – najmniejsze państwo świata i siedziba papieża. Rzym to także miasto muzeów, placów, fontann, starożytnych ruin i wyśmienitej włoskiej kuchni.</p>
+</section>
 </details>
 
 ---
