@@ -97,7 +97,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Forum popadło w ruinę po upadku cesarstwa i przez wieki było zapomniane – znajdowały się tu... pastwiska!</p>
 </details>
 
----
 
 <details>
   <summary><strong>⛪ Watykan i Bazylika św. Piotra</strong></summary>
@@ -122,7 +121,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Na kopule Bazyliki znajduje się napis po łacinie: „Ty jesteś Piotr, i na tej opoce zbuduję mój Kościół”.</p>
 </details>
 
----
 
 <details>
   <summary><strong>🕍 Panteon – świątynia wszystkich bogów</strong></summary>
@@ -144,7 +142,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Kopuła Panteonu była największą na świecie przez ponad 1300 lat – do czasów katedry we Florencji!</p>
 </details>
 
----
 
 <details>
   <summary><strong>⛲ Fontanna di Trevi – wrzuć monetę!</strong></summary>
@@ -167,7 +164,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Codziennie z fontanny wyławia się ponad 3 tysiące euro – pieniądze trafiają do rzymskiej Caritas.</p>
 </details>
 
----
 
 <details>
   <summary><strong>🏰 Zamek Świętego Anioła</strong></summary>
