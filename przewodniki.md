@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Przewodniki
-permalink: /przewodniki.html
+permalink: /plany/przewodniki.html
 ---
 
 # Przewodniki
