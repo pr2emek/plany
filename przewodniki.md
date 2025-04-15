@@ -6,4 +6,8 @@ permalink: /przewodniki.html
 
 # Przewodniki
 
-Tutaj znajdziesz przewodniki po różnych krajach i miastach.
+Wybierz kraj:
+
+- [Włochy](/plany/wlochy.html)
+- [Hiszpania](/plany/hiszpania.html)
+- [Portugalia](/plany/portugalia.html)
