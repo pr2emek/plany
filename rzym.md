@@ -72,7 +72,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Po upadku Rzymu Koloseum było rozbierane na kamień. Mimo to przetrwało wieki i dziś jest jednym z cudów architektury starożytnej – przyciąga miliony turystów rocznie.</p>
 </details>
 
----
 
 <details>
   <summary><strong>🏛️ Forum Romanum – serce starożytnego Rzymu</strong></summary>
