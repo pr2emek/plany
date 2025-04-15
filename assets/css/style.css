@@ -1,7 +1,115 @@
-body {
-  background-color: #f9f4ef; /* jasny niebiesko-szary – możesz zmienić */
-  color: #222; /* kolor tekstu, żeby dobrze się czytało */
-  font-family: Arial, sans-serif;
+/* Resetowanie marginesów, paddingu i ustawienia box-model */
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tło i tekst */
+body {
+  background-color: #f0f4f8; /* Jasny niebiesko-szary */
+  color: #222; /* Ciemny kolor tekstu dla dobrego kontrastu */
+  font-family: Arial, sans-serif;
+  line-height: 1.6; /* Lepsza czytelność */
+}
+
+/* Główna sekcja z treścią */
+.container {
+  max-width: 1200px;
+  margin: 0 auto; /* Wyśrodkowanie strony */
+  padding: 20px; /* Margines wewnętrzny */
+}
+
+/* Nagłówki */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+/* Linki */
+a {
+  color: #0066cc; /* Kolor linków */
+  text-decoration: none; /* Bez podkreślenia */
+}
+
+a:hover {
+  text-decoration: underline; /* Podkreślenie linku przy najechaniu */
+}
+
+/* Tło w sekcjach */
+section {
+  background-color: #ffffff; /* Białe tło dla sekcji */
+  border-radius: 8px; /* Zaokrąglone rogi */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Lekki cień */
+  padding: 20px;
+  margin-bottom: 20px; /* Przerwa między sekcjami */
+}
+
+/* Stylowanie dla rozwijanych sekcji */
+details {
+  margin-bottom: 10px;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+summary:hover {
+  color: #0066cc; /* Kolor zmienia się na niebieski po najechaniu */
+}
+
+/* Dodatkowe marginesy i padding w stopce */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #333;
+  color: white;
+}
+
+/* Stylowanie tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+/* Style dla przycisków */
+button {
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #005bb5;
+}
+
+/* Formatyowanie dla list numerowanych i nienumerowanych */
+ul, ol {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+/* Dodanie responsywności */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px; /* Mniejsze marginesy na mniejszych ekranach */
+  }
 }
