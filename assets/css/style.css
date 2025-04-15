@@ -1,0 +1,7 @@
+body {
+  background-color: #f9f4ef; /* jasny niebiesko-szary – możesz zmienić */
+  color: #222; /* kolor tekstu, żeby dobrze się czytało */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
