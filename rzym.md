@@ -35,12 +35,33 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🗺️ Plany zwiedzania</strong></summary>
-  <p>
-    <strong>1 dzień:</strong> Koloseum, Forum Romanum, Fontanna di Trevi<br>
-    <strong>2 dni:</strong> + Watykan, Panteon, plac Hiszpański<br>
-    <strong>3 dni:</strong> + Trastevere i relaks przy lodach
-  </p>
-</details>
+
+  <details>
+    <summary><strong>📅 1-dniowy plan</strong></summary>
+    <p>
+      - Koloseum<br>
+      - Forum Romanum<br>
+      - Fontanna di Trevi<br>
+      - Spacer po Piazza Navona<br>
+      - Lody w Gelateria Giolitti
+    </p>
+  </details>
+
+  <details>
+    <summary><strong>📅 2-dniowy plan</strong></summary>
+    <p>
+      Dzień 1: jak wyżej<br>
+      Dzień 2: Watykan, Muzea Watykańskie, Bazylika św. Piotra, Panteon, plac Hiszpański
+    </p>
+  </details>
+
+  <details>
+    <summary><strong>📅 3-dniowy plan</strong></summary>
+    <p>
+      Dzień 1 i 2: jak wyżej<br>
+      Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
+    </p>
+  </details>
 
 ---
 
