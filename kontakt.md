@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-permalink: /kontakt.html
+permalink: /plany/kontakt.html
 ---
 
 # Kontakt
