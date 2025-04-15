@@ -13,7 +13,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>📌 Podstawowe informacje</strong></summary>
   <p>
-<section>
   <p><strong>Rzym</strong> (wł. <em>Roma</em>) to stolica Włoch i jedno z najstarszych nieprzerwanie zamieszkanych miast w Europie. Położony w środkowej części kraju, nad rzeką Tyber, Rzym jest nie tylko ważnym ośrodkiem administracyjnym, ale też historycznym i kulturalnym centrum świata zachodniego.</p>
 
   <h3>Kluczowe fakty:</h3>
@@ -29,7 +28,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <h3>Dlaczego warto odwiedzić Rzym?</h3>
   <p>Rzym to miasto o niesamowitym dziedzictwie – przez tysiące lat był centrum Cesarstwa Rzymskiego, a później Kościoła Katolickiego. Znajduje się tu Watykan – najmniejsze państwo świata i siedziba papieża. Rzym to także miasto muzeów, placów, fontann, starożytnych ruin i wyśmienitej włoskiej kuchni.</p>
-</section>
 </details>
 
 ---
