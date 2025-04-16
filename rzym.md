@@ -271,6 +271,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
     <summary><strong>🕵️ Sekretne miejsca Rzymu</strong></summary>
+    <div class="mapa-rzymu">
+    <iframe src="{{ '/assets/mapy/sekretne_miejsca_rzymu_mapa.html' | relative_url }}" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
+  </div>
 
     <h3>🧱 Kościół San Clemente – warstwy historii</h3>
     <p><em>Współrzędne: 41.8894° N, 12.4951° E</em></p>
