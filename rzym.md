@@ -45,7 +45,13 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
     <p><em>Współrzędne: 41.8902° N, 12.4922° E</em></p>
-    <p><strong>Koloseum</strong> (wł. <em>Colosseo</em>) to największy amfiteatr starożytnego Rzymu i jeden z najsłynniejszych zabytków świata. Zbudowane w I wieku n.e., mieściło nawet 50 tysięcy widzów i było miejscem walk gladiatorów, pokazów i rekonstrukcji bitew. Dziś to symbol Wiecznego Miasta.</p>
+    <p>Witaj w Koloseum, największym arenie walk, gdzie nie ma miejsca na nudę, ale na pewno jest miejsce na zaskoczenie! Jeśli myślisz, że koloseum to tylko miejsce, gdzie niegdyś walczyli gladiatorzy, to jesteś w błędzie. To także miejsce, które przypomina ci, że Rzymianie mieli wyobraźnię! Dziś to jedno z najbardziej popularnych miejsc turystycznych na świecie – i to z dobrego powodu. Każdy, kto je odwiedza, zostaje wciągnięty w wir historii i… tłumów turystów. Oczywiście nie ma się co dziwić – Koloseum jest po prostu wspaniałe!</p>
+
+<p>To prawda, że nie znajdziesz tu już walk gladiatorów ani pokazów lwów, ale za to jest całe mnóstwo przewodników, którzy opowiedzą Ci, jak to kiedyś było. I to naprawdę robi wrażenie. Z jednej strony czujesz się, jakbyś przeniósł się do starożytnego Rzymu, a z drugiej – nie możesz się doczekać, aż uda ci się zrobić idealne selfie przed tą monumentalną budowlą. W końcu, kto by nie chciał mieć na zdjęciu Koloseum? I kto by nie chciał poczuć się jak w filmie?</p>
+
+<p>Koloseum to także doskonały przykład, jak Rzymianie potrafili budować coś, co przetrwa wieki. Tak, Koloseum ma ponad 2000 lat i nadal robi wrażenie. A jeśli myślisz, że to tylko „stara ruina”, to się mylisz – w rzeczywistości Koloseum to miejsce, które może pochwalić się nie tylko olbrzymimi rozmiarami, ale i wielką historią. Kiedy patrzysz na tę ogromną arenę, masz wrażenie, że zaraz usłyszysz bębny i krzyki tłumów. I kto wie – może wciąż znajdziesz tu ślady dawnych dni!</p>
+
+<p>Jeśli planujesz odwiedzić Koloseum, pamiętaj, że nie jest to wcale takie łatwe. Mimo że budowla jest absolutnie majestatyczna, to dotarcie do środka może wymagać cierpliwości. Tłumy turystów, długie kolejki i ten nieustający gwar – to wszystko należy do „uroków” turystyki w Rzymie. Ale jeśli nie chcesz czekać, polecamy opcję zakupu biletów online. A potem – gotowy na podbój Koloseum? Bo kiedy już znajdziesz się w środku, poczujesz się jak prawdziwy gladiator!</p>
 
     <h3>Jak dotrzeć?</h3>
     <ul>
@@ -86,7 +92,14 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Forum Romanum – serce starożytnego Rzymu</strong></summary>
     <p><em>Współrzędne: 41.8925° N, 12.4853° E</em></p>
-  <p><strong>Forum Romanum</strong> to najważniejsze miejsce życia publicznego w starożytnym Rzymie – centrum polityczne, religijne i handlowe przez prawie 1000 lat.</p>
+  <p>Witaj na Forum Romanum, miejscu, które kiedyś było epicentrum życia politycznego, towarzyskiego, a także… plotkarskiego w starożytnym Rzymie. Jeśli kiedykolwiek marzyłeś o byciu świadkiem wielkich przemówień i politycznych intryg, to Forum Romanum to miejsce, które spełni Twoje marzenia. Oczywiście, w dzisiejszych czasach jest tu już tylko sporo kamieni, ale dzięki wyobraźni łatwo możesz poczuć się jak obywatel starożytnego Rzymu – tylko z nowoczesnym aparatem i w sandałkach zamiast tuniki.</p>
+
+<p>Forum Romanum było kiedyś areną dla wielkich przemów, politycznych spotkań i... okolicznych plotek. Możesz sobie wyobrazić, jak senatorowie przekrzykiwali się, rzucali oskarżenia i sporządzali plany na przyszłość. I tak, w międzyczasie przechodziły tam także wieści o wojnach, zwycięstwach, a może nawet rzymskich romansach. Z całym tym zamieszaniem w powietrzu, nikt nie myślał, że te ruiny przetrwają przez wieki i staną się turystycznym magnesem.</p>
+
+<p>Dziś Forum Romanum to bardziej "wielki plac ruin", ale to nie zmienia faktu, że wciąż jest to jedno z najbardziej fascynujących miejsc w Rzymie. Spacerując pośród kamieni, starych kolumn i ruin świątyń, można poczuć się jakby czas stanął w miejscu, a wokół ciebie wciąż słychać echa starożytnych debat i rozmów. Chcesz poczuć się jak senator? Wystarczy postać przy jednym z tych ogromnych kamieni i poczuć się ważnym.</p>
+
+<p>Tak, Forum Romanum to wspaniałe miejsce do spacerów, ale także doskonała okazja, by pochwalić się znajomym, że widziałeś miejsce, gdzie decydowały się losy imperium. Co więcej, pamiętaj, że nie tylko politycy mieli swoje spotkania na Forum. To także miejsce, gdzie odbywały się publiczne ogłoszenia, targi i zabawy. A jeśli marzysz o takim starożytnym Rzymie, Forum Romanum jest świetnym miejscem, by poczuć się jak prawdziwy obywatel.</p>
+
 
   <h3>Co zobaczyć?</h3>
   <ul>
@@ -167,8 +180,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛲ Fontanna di Trevi – wrzuć monetę!</strong></summary>
   <p><em>Współrzędne: 41.9009° N, 12.4833° E</em></p>
-  <p><strong>Fontanna di Trevi</strong> to najsłynniejsza fontanna Rzymu, barokowe dzieło ukończone w XVIII wieku. Jej centralną postacią jest Neptun na rydwanie zaprzężonym w morskie konie.</p>
+  <p>Ah, Fontanna di Trevi! To miejsce, które sprawia, że czujesz się jak bohater romantycznego filmu, nawet jeśli właśnie spóźniłeś się na obiad i przypadkiem popełniłeś modowe faux pas. W tym magicznym zakątku Rzymu nie tylko możesz poczuć się jak gwiazda, ale masz również szansę na spełnienie swojego marzenia (jeśli wrzucisz odpowiednią monetę, oczywiście!).</p>
 
+<p>Fontanna została zaprojektowana przez Nicola Salvi, który pewnie wziął pod uwagę, że „więcej zawsze znaczy lepiej”. Z tej zasady powstała jedna z najbardziej okazałych fontann na świecie, która przyciąga miliony turystów z całego globu. Jeśli kiedykolwiek pomyślałeś, że fontanna to tylko kilka strumieni wody, to jesteś w błędzie. Tutaj woda jest wręcz artystycznym tańcem, a rzeźby w kamieniu opowiadają historie, które mógłbyś zobaczyć tylko w najlepszych filmach. I wszystko to w jednym miejscu – z wodą w tle, która jest wręcz zbyt fotogeniczna.</p>
+
+<p>Teraz najważniejszy punkt: jeśli chcesz być częścią tej legendarnej atmosfery, to czas na „monetowy rytuał”! Rzucenie monety do fontanny ma sprawić, że wrócisz do Rzymu. Możesz rzucić tylko jedną monetę (bo to wystarczy!), ale pamiętaj, aby zrobić to prawą ręką, przez lewe ramię. Trochę jak magia, ale w wersji turystycznej. A jeśli chcesz podnieść poprzeczkę, wrzuć dwie monety – wtedy podobno miłość życia czeka na Ciebie w Wiecznym Mieście! Ale spokojnie, jeśli nie wierzysz w takie historie, zawsze możesz liczyć na najnowszy post na Instagramie z idealnym selfie przy fontannie. Kto by się nie cieszył z takiego kadru?</p>
+
+<p>Choć fontanna jest tłumnie odwiedzana przez turystów, to i tak jest to miejsce, w którym na pewno poczujesz magię Rzymu. Więc, drogi podróżniku, nie czekaj dłużej! Rzucaj monetę, miej nadzieję na powrót do tego miasta i… nie zapomnij zrobić ściśle turystycznego zdjęcia!</p>
+
+<p>Fontanna di Trevi to jedno z tych miejsc, które stają się częścią Twoich wspomnień – woda, monety, a potem znowu woda. Ale za każdym razem, gdy spojrzysz na zdjęcie, przypomnisz sobie o tym jednym, wyjątkowym momencie w Rzymie. I kto wie? Może magia rzeczywiście działa!</p>
   <h3>Tradycja</h3>
   <ul>
     <li>Wrzuć <strong>1 monetę</strong> – wrócisz do Rzymu</li>
@@ -190,8 +210,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏰 Zamek Świętego Anioła</strong></summary>
   <p><em>Współrzędne: 41.9031° N, 12.4663° E</em></p>
-  <p><strong>Zamek Świętego Anioła</strong> to masywna forteca nad Tybrem, która powstała jako grobowiec cesarza Hadriana. Później pełniła funkcję twierdzy papieskiej, więzienia i arsenału.</p>
+  <p>Wiesz, co wspólnego ma Zamek Świętego Anioła z najbardziej tajemniczymi zamkami w Europie? Otóż, jest jednym z najbardziej uroczych (i tajemniczych) zabytków w Rzymie! Zamek, który przez wieki pełnił różne funkcje – od cesarskiej nekropolii po fortecę, a także miejsce, gdzie wieszano najwięcej sekretów, przekształcił się w jeden z najciekawszych punktów turystycznych w Wiecznym Mieście. A jeśli marzysz o tym, by poczuć się jak bohater filmów sensacyjnych, to idealne miejsce dla Ciebie!</p>
 
+<p>Po pierwsze, Zamek Świętego Anioła wcale nie wygląda jak typowy zamek – zamiast strzelistych wież, ma okrągłą formę. I to jest właśnie urok tego miejsca – żadnych zbytnich dekoracji, tylko klasyka, jakby z innej epoki. A na szczycie tego okrągłego, tajemniczego tworu znajduje się figura św. Michała Archanioła, który ponoć rozbrajał demony. Dzisiaj nie ma demonów, ale turystów do pokonania! Kiedy wspinasz się na wzgórze, czujesz się jak bohater średniowiecznej opowieści – nieistotne, że głównie robisz zdjęcia. Liczy się efekt końcowy!</p>
+
+<p>Historia tego zamku to prawdziwa karuzela zmian. Pierwotnie zbudowany jako grobowiec cesarza Hadriana, zamek był przez wieki siedzibą papieży, miejscem ukrycia skarbów i – a jakże! – także fortecą wojskową. W jego wnętrzach możesz poczuć się niczym w prawdziwym thrillerze, pełnym tajnych przejść, murów i historii, które mówią: „tak, to tu, gdzie ukrywano sekrety!”. W końcu nie bez powodu ten zamek to jedna z najlepszych atrakcji Rzymu. To przecież nie tylko murale i zabytkowe sztukaterie – to prawdziwa historia!</p>
+
+<p>Jeśli chcesz poczuć się jak bohater średniowiecznej opowieści, zamień swój smartfon na lampę i wyobraź sobie, że jesteś jednym z papieży, którzy – dosłownie – mieli kontrolę nad wszystkim, co działo się w Rzymie. Chociaż… musisz przyznać, że bycie papieżem nie miało wtedy lekkiego życia. Zamek był używany do przechowywania papieskich tajemnic, a teraz jest otwarty dla turystów, którzy chcą zajrzeć do jednego z najważniejszych symboli papieskiej władzy.</p>
+
+<p>Zamek Świętego Anioła to miejsce, które łączy historię, legendy i trochę filmowej magii. Więc jeśli marzysz o spacerze po średniowiecznych korytarzach z przeszłością pełną intryg, to śmiało – zamek czeka na Ciebie. I pamiętaj, nigdy nie wiesz, co się może kryć za tymi murami… Może kolejna zagadka do rozwiązania!</p>
   <h3>Co zobaczyć?</h3>
   <ul>
     <li>Taras z panoramicznym widokiem na Rzym</li>
