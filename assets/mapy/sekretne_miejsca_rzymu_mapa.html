@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_db0044bac010ad70a8034b03cf689b75 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_db0044bac010ad70a8034b03cf689b75" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_db0044bac010ad70a8034b03cf689b75 = L.map(
+                "map_db0044bac010ad70a8034b03cf689b75",
+                {
+                    center: [41.8902, 12.4922],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_928c4345022c7cfa427cb18e4362ff66 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var marker_8df4e8e1b9045f2e637aec5783fb035e = L.marker(
+                [41.8894, 12.4951],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_a42227ebdef6b3c3caae3d8c9d75b076 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_8df4e8e1b9045f2e637aec5783fb035e.setIcon(icon_a42227ebdef6b3c3caae3d8c9d75b076);
+        
+    
+        var popup_2ab94d0f164cd72abbe1d8ab44b28f52 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_03911ed3b05e3421298783f6b217edeb = $(`<div id="html_03911ed3b05e3421298783f6b217edeb" style="width: 100.0%; height: 100.0%;">Kościół San Clemente</div>`)[0];
+            popup_2ab94d0f164cd72abbe1d8ab44b28f52.setContent(html_03911ed3b05e3421298783f6b217edeb);
+        
+
+        marker_8df4e8e1b9045f2e637aec5783fb035e.bindPopup(popup_2ab94d0f164cd72abbe1d8ab44b28f52)
+        ;
+
+        
+    
+    
+            var marker_cb938607b63fdb97442b87991620cfd7 = L.marker(
+                [41.8428, 12.5114],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_3776455693c1a94ca484803a3e40fc29 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_cb938607b63fdb97442b87991620cfd7.setIcon(icon_3776455693c1a94ca484803a3e40fc29);
+        
+    
+        var popup_145a19b45e1b3f452115aafd25201b69 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c4e099b15f5a88ccb977bd8d1b0ce5a9 = $(`<div id="html_c4e099b15f5a88ccb977bd8d1b0ce5a9" style="width: 100.0%; height: 100.0%;">Via Appia Antica</div>`)[0];
+            popup_145a19b45e1b3f452115aafd25201b69.setContent(html_c4e099b15f5a88ccb977bd8d1b0ce5a9);
+        
+
+        marker_cb938607b63fdb97442b87991620cfd7.bindPopup(popup_145a19b45e1b3f452115aafd25201b69)
+        ;
+
+        
+    
+    
+            var marker_5e01151a467c1e1675f309128af08438 = L.marker(
+                [41.8759, 12.4793],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_e8a5823c047c8b06367ebf6df2a066dd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_5e01151a467c1e1675f309128af08438.setIcon(icon_e8a5823c047c8b06367ebf6df2a066dd);
+        
+    
+        var popup_93e362df7844311ba3a379714d28af9e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_30ccecdad9bdf0eb4ce581bc8aebe65b = $(`<div id="html_30ccecdad9bdf0eb4ce581bc8aebe65b" style="width: 100.0%; height: 100.0%;">Cimitero Acattolico</div>`)[0];
+            popup_93e362df7844311ba3a379714d28af9e.setContent(html_30ccecdad9bdf0eb4ce581bc8aebe65b);
+        
+
+        marker_5e01151a467c1e1675f309128af08438.bindPopup(popup_93e362df7844311ba3a379714d28af9e)
+        ;
+
+        
+    
+    
+            var marker_84932d513d3eb6b9adab545efadbe83c = L.marker(
+                [41.9172, 12.5119],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_4b57e19b936143fd105d6fe5dbe4635f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_84932d513d3eb6b9adab545efadbe83c.setIcon(icon_4b57e19b936143fd105d6fe5dbe4635f);
+        
+    
+        var popup_bcaa379f6fc55fe575282cacc8afe55f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2cc9ebdd8e14d448da0aa544a0f3e20b = $(`<div id="html_2cc9ebdd8e14d448da0aa544a0f3e20b" style="width: 100.0%; height: 100.0%;">Quartiere Coppedè</div>`)[0];
+            popup_bcaa379f6fc55fe575282cacc8afe55f.setContent(html_2cc9ebdd8e14d448da0aa544a0f3e20b);
+        
+
+        marker_84932d513d3eb6b9adab545efadbe83c.bindPopup(popup_bcaa379f6fc55fe575282cacc8afe55f)
+        ;
+
+        
+    
+    
+            var marker_7e68a7f4f681f4435eaf7a49e007f6cb = L.marker(
+                [41.875, 12.4767],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_ba0ae91dabc8925f338e2c33f7ac5781 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_7e68a7f4f681f4435eaf7a49e007f6cb.setIcon(icon_ba0ae91dabc8925f338e2c33f7ac5781);
+        
+    
+        var popup_9da146e6f15f2ba9a4a353c08a7f34bb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9cabcb57fdbdc02aa9ed944b23611839 = $(`<div id="html_9cabcb57fdbdc02aa9ed944b23611839" style="width: 100.0%; height: 100.0%;">Testaccio</div>`)[0];
+            popup_9da146e6f15f2ba9a4a353c08a7f34bb.setContent(html_9cabcb57fdbdc02aa9ed944b23611839);
+        
+
+        marker_7e68a7f4f681f4435eaf7a49e007f6cb.bindPopup(popup_9da146e6f15f2ba9a4a353c08a7f34bb)
+        ;
+
+        
+    
+    
+            var marker_e4fb76c77e16fbef2c72fc0b62a29229 = L.marker(
+                [41.847, 12.562],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_f20d0c3249947891e7d17d4b89777fa5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_e4fb76c77e16fbef2c72fc0b62a29229.setIcon(icon_f20d0c3249947891e7d17d4b89777fa5);
+        
+    
+        var popup_db388fd6ec9cfa5db437ddb19c3230a5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1e883ed645f84373598f388235f75f59 = $(`<div id="html_1e883ed645f84373598f388235f75f59" style="width: 100.0%; height: 100.0%;">Park Gli Acquedotti</div>`)[0];
+            popup_db388fd6ec9cfa5db437ddb19c3230a5.setContent(html_1e883ed645f84373598f388235f75f59);
+        
+
+        marker_e4fb76c77e16fbef2c72fc0b62a29229.bindPopup(popup_db388fd6ec9cfa5db437ddb19c3230a5)
+        ;
+
+        
+    
+    
+            var marker_ddedfb2bb71c776fd93369bc1f3dc9ae = L.marker(
+                [41.8886, 12.4828],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_3694ee1bd9b2f418085d016a3386750e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_ddedfb2bb71c776fd93369bc1f3dc9ae.setIcon(icon_3694ee1bd9b2f418085d016a3386750e);
+        
+    
+        var popup_40286c273daa7838c3fc932c10fbf38e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2a2cb1809f643d4b8ac37dedae297458 = $(`<div id="html_2a2cb1809f643d4b8ac37dedae297458" style="width: 100.0%; height: 100.0%;">Il Buco della Serratura</div>`)[0];
+            popup_40286c273daa7838c3fc932c10fbf38e.setContent(html_2a2cb1809f643d4b8ac37dedae297458);
+        
+
+        marker_ddedfb2bb71c776fd93369bc1f3dc9ae.bindPopup(popup_40286c273daa7838c3fc932c10fbf38e)
+        ;
+
+        
+    
+    
+            var marker_ce592a2b6f1eeb6f7397173a93a8eb40 = L.marker(
+                [41.8919, 12.4608],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_d45e5afbe2dc6e3e7506d955608b65e4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_ce592a2b6f1eeb6f7397173a93a8eb40.setIcon(icon_d45e5afbe2dc6e3e7506d955608b65e4);
+        
+    
+        var popup_0fdf274affe49b084d50b794045277f7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_31b06dae9ac1580fddd2b394e766dc20 = $(`<div id="html_31b06dae9ac1580fddd2b394e766dc20" style="width: 100.0%; height: 100.0%;">Taras Janikulum (Gianicolo)</div>`)[0];
+            popup_0fdf274affe49b084d50b794045277f7.setContent(html_31b06dae9ac1580fddd2b394e766dc20);
+        
+
+        marker_ce592a2b6f1eeb6f7397173a93a8eb40.bindPopup(popup_0fdf274affe49b084d50b794045277f7)
+        ;
+
+        
+    
+    
+            var marker_a26fce199ba2bfa830d5c5effe122570 = L.marker(
+                [41.8883, 12.4766],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_81c4820849f250a33507f336150e5fa0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_a26fce199ba2bfa830d5c5effe122570.setIcon(icon_81c4820849f250a33507f336150e5fa0);
+        
+    
+        var popup_ff1503e7addbed96f809284e30b3bd98 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_02fcac57ed100f56d90f263ff0875136 = $(`<div id="html_02fcac57ed100f56d90f263ff0875136" style="width: 100.0%; height: 100.0%;">Ogród Pomarańczowy</div>`)[0];
+            popup_ff1503e7addbed96f809284e30b3bd98.setContent(html_02fcac57ed100f56d90f263ff0875136);
+        
+
+        marker_a26fce199ba2bfa830d5c5effe122570.bindPopup(popup_ff1503e7addbed96f809284e30b3bd98)
+        ;
+
+        
+    
+    
+            var marker_9e7b38225807a4712b2f10b466eeb32c = L.marker(
+                [41.8894, 12.488],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_1c0c79ceeb8002e981a07d212ac60748 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_9e7b38225807a4712b2f10b466eeb32c.setIcon(icon_1c0c79ceeb8002e981a07d212ac60748);
+        
+    
+        var popup_c71958ba7cfb8ccd8dca40485d84a327 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_8972d60c2fd92bcaa93d2cc88c672275 = $(`<div id="html_8972d60c2fd92bcaa93d2cc88c672275" style="width: 100.0%; height: 100.0%;">Dom Augusta</div>`)[0];
+            popup_c71958ba7cfb8ccd8dca40485d84a327.setContent(html_8972d60c2fd92bcaa93d2cc88c672275);
+        
+
+        marker_9e7b38225807a4712b2f10b466eeb32c.bindPopup(popup_c71958ba7cfb8ccd8dca40485d84a327)
+        ;
+
+        
+    
+    
+            var marker_a2cc4a1b3d8c3929cc7de0fb802a196b = L.marker(
+                [41.8919, 12.48],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_b9f59bbe552faeb878aff02ea521109b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_a2cc4a1b3d8c3929cc7de0fb802a196b.setIcon(icon_b9f59bbe552faeb878aff02ea521109b);
+        
+    
+        var popup_8fbef5eb70f7f8f4f23ec3e782aef1e7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_86dc20b67a18fd07fb4c7b9fcaee7978 = $(`<div id="html_86dc20b67a18fd07fb4c7b9fcaee7978" style="width: 100.0%; height: 100.0%;">Teatr Marcellusa</div>`)[0];
+            popup_8fbef5eb70f7f8f4f23ec3e782aef1e7.setContent(html_86dc20b67a18fd07fb4c7b9fcaee7978);
+        
+
+        marker_a2cc4a1b3d8c3929cc7de0fb802a196b.bindPopup(popup_8fbef5eb70f7f8f4f23ec3e782aef1e7)
+        ;
+
+        
+    
+    
+            var marker_9e6e20d2aa66701deec0aa7397348dba = L.marker(
+                [41.8939, 12.4775],
+                {}
+            ).addTo(map_db0044bac010ad70a8034b03cf689b75);
+        
+    
+            var icon_3d749c7a7159ed41f5b4763b174f37f1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "darkblue", "prefix": "glyphicon"}
+            );
+            marker_9e6e20d2aa66701deec0aa7397348dba.setIcon(icon_3d749c7a7159ed41f5b4763b174f37f1);
+        
+    
+        var popup_cf5fedcd441257d653f3f063c4ac120b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d7f5a8132ee5716db02931731a388b0b = $(`<div id="html_d7f5a8132ee5716db02931731a388b0b" style="width: 100.0%; height: 100.0%;">Fontanna Żółwi</div>`)[0];
+            popup_cf5fedcd441257d653f3f063c4ac120b.setContent(html_d7f5a8132ee5716db02931731a388b0b);
+        
+
+        marker_9e6e20d2aa66701deec0aa7397348dba.bindPopup(popup_cf5fedcd441257d653f3f063c4ac120b)
+        ;
+
+        
+    
+</script>
+</html>
