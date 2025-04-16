@@ -398,7 +398,41 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🤔 Ciekawostki</strong></summary>
   <ul>
-    <li>Rzym ma własne metro od 1955 roku, ale kopanie tuneli jest trudne przez ruiny pod ziemią</li>
-    <li>W Rzymie działa jeden z najstarszych uniwersytetów w Europie – La Sapienza</li>
+    <hr>
+
+<div class="legend">
+  <h2>🐈 Legenda o kotach z Largo di Torre Argentina</h2>
+  <p>W ruinach starożytnych świątyń na Largo di Torre Argentina mieszka setki kotów. Legenda głosi, że dusze zamordowanych w Idy Marcowe, w tym Juliusza Cezara, reinkarnowały się w te koty, by strzec miejsca zdrady. Koty miauczą nocą tak złowieszczo, że wielu uważa je za strażników przeszłości.</p>
+</div>
+
+<hr>
+
+<div class="legend">
+  <h2>👰‍♀️ Zakonnica z Ponte Sisto</h2>
+  <p>W nocy, przy pełni księżyca, niektórzy twierdzą, że widzą ducha zakonnicy spacerującej po moście Ponte Sisto. To siostra Olimpia Maidalchini, teściowa papieża Innocentego X, która miała zdradzić Kościół. Skazana na wieczne błąkanie się, przemierza most w poszukiwaniu przebaczenia.</p>
+</div>
+
+<hr>
+
+<div class="legend">
+  <h2>🏠 Nawiedzony dom przy Via del Governo Vecchio</h2>
+  <p>Na tej uroczej ulicy stoi dom, w którym ponoć mieszkał alchemik. Po jego tajemniczej śmierci drzwi zamknęły się na zawsze, a okna poruszają się same. Duch właściciela wciąż poszukuje recepty na nieśmiertelność i odstrasza nieproszonych gości.</p>
+</div>
+
+<hr>
+
+<div class="legend">
+  <h2>💘 Studnia zakochanych przy Panteonie</h2>
+  <p>Ukryta niedaleko Panteonu studnia zwana jest „Studnią Zakochanych”. Mówi się, że para, która napije się z niej jednocześnie, będzie razem na zawsze. Jej woda nigdy nie wysycha – symbol wiecznego uczucia i lojalności.</p>
+</div>
+
+<hr>
+
+<div class="legend">
+  <h2>🐍 Schody Hiszpańskie i zakazana miłość</h2>
+  <p>Na Schodach Hiszpańskich spotykała się para zakochanych – szlachcianka i biedny poeta. Gdy ich uczucie wyszło na jaw, zostali rozdzieleni. Podobno w letnie noce można usłyszeć ich szepty, a ślad po białym szalu dziewczyny pojawia się na kamieniach o świcie.</p>
+</div>
+
+<hr>
   </ul>
 </details>
