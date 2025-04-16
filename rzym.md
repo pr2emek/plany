@@ -42,8 +42,6 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 </div>
  </details>
 
----
-
 <details>
     
   <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
