@@ -38,13 +38,18 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
   <div class="mapa-rzymu">
-  <iframe src="/assets/mapy/rzym_co_zobaczyc_mapa.html" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
+<iframe src="{{ '/assets/mapy/rzym_co_zobaczyc_mapa.html' | relative_url }}" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
 </div>
-  <details>
+ </details>
+
+---
+
+<details>
+    
   <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
   <p><em>Współrzędne: 41.8902° N, 12.4922° E</em></p>
   <p><strong>Koloseum</strong> (wł. <em>Colosseo</em>) to największy amfiteatr starożytnego Rzymu i jeden z najsłynniejszych zabytków świata. Zbudowane w I wieku n.e., mieściło nawet 50 tysięcy widzów i było miejscem walk gladiatorów, pokazów i rekonstrukcji bitew. Dziś to symbol Wiecznego Miasta.</p>
-
+<details>
   <h3>Jak dotrzeć?</h3>
   <ul>
     <li>Znajduje się w centrum Rzymu, przy stacji metra <strong>Colosseo</strong> (linia B).</li>
