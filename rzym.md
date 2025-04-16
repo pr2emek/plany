@@ -433,6 +433,11 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Na Schodach Hiszpańskich spotykała się para zakochanych – szlachcianka i biedny poeta. Gdy ich uczucie wyszło na jaw, zostali rozdzieleni. Podobno w letnie noce można usłyszeć ich szepty, a ślad po białym szalu dziewczyny pojawia się na kamieniach o świcie.</p>
 </div>
 
+<div class="legend">
+  <h2><i class="fas fa-stone"></i> Wielki kamień w Villa Borghese</h2>
+  <p>W Villa Borghese, jednym z najpiękniejszych ogrodów Rzymu, znajduje się ogromny kamień, który według legendy miał zostać rzucony przez bogów. Kamień jest ponoć miejscem spotkań dla dusz, które nie mogły przejść do zaświatów, ponieważ wciąż były zbyt przywiązane do ziemskiego życia. Opowiada się, że w nocy, jeśli ktoś dotknie kamienia, może usłyszeć szeptujące głosy z zaświatów.</p>
+</div>
+
 <hr>
   </ul>
 </details>
