@@ -137,7 +137,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🕍 Panteon – świątynia wszystkich bogów</strong></summary>
   <p><em>Współrzędne: 41.8986° N, 12.4769° E</em></p>
-  <p><strong>Panteon</strong> to jedna z najlepiej zachowanych budowli starożytnego Rzymu, zbudowana w II wieku n.e. jako świątynia wszystkich rzymskich bóstw. Dziś to kościół katolicki i miejsce spoczynku wielu wielkich Włochów, m.in. Rafaela.</p>
+  <p>Wchodzisz do Panteonu, a pierwsze, co czujesz, to… ciepło! Nie tylko dlatego, że temperatura w Rzymie zazwyczaj przypomina piekarnik, ale też dlatego, że ten budynek ma więcej energii niż większość współczesnych biurowców. Kiedy wchodzi się do środka, ma się wrażenie, że zaraz wybuchnie fajerwerkami. Dlaczego? Bo w 126 roku n.e. Rzymianie postanowili stworzyć miejsce, które nie tylko miało zaskakiwać rozmiarem, ale i praktycznością. I o ile nie możemy dostać tu Wi-Fi, to na pewno dostaniemy niezapomniane wrażenia.</p>
+
+<p>Ale zacznijmy od początku. Panteon to świątynia poświęcona wszystkim bogom starożytnego Rzymu (tak, wszystkie!). Na pewno nie chciałbyś tu spotkać swojego szefa, bo nawet bogowie mogą mieć problem z załatwieniem sprawy w kolejce. Słynna kopuła Panteonu, z otworem w suficie (<em>okulus</em>), jest tak perfekcyjnie zaprojektowana, że wpuszcza światło… ale nie deszcz. Dzięki temu wnętrze wygląda jak niekończąca się scena w najlepszym filmie, który wciąż kręcą od 1900 lat.</p>
+
+<p>A teraz najlepsze: Panteon, mimo że jest ponad 1900 lat stary, wygląda jakby dopiero co przeszedł renowację. Rzymianie wiedzieli, jak zrobić coś na wieczność. Chociaż my, ludzie współcześni, z pewnością byśmy się złamali, gdybyśmy musieli dbać o taki budynek przez tyle lat – Panteon nadal zachwyca swoją perfekcyjną harmonią. Tak, to coś, co robi wrażenie na każdym, kto lubi starożytną inżynierię, ale też na tych, którzy po prostu szukają idealnej fotki na Instagram.</p>
+
+<p>Pod względem „bezpieczeństwa turystów”, Panteon daje radę. Wystarczy unikać momentów, kiedy na zewnątrz pojawia się tłum, bo w środku to już całkiem cicho i spokojnie – idealnie, żeby rozważyć życie. A potem wyjść na Piazza della Rotonda i przypomnieć sobie, że jesteś w Rzymie, gdzie pizza jest zawsze dobra, a kawa równie cudowna.</p>
+
+<p>A teraz powiedzmy to głośno: Panteon to nie tylko kolejna starożytna budowla. To miejsce, które ma coś w rodzaju „magii”: każdy, kto je odwiedza, czuje się jakby przeniósł się w czasie. Warto podjąć ten wysiłek i dać się oczarować, bo naprawdę… nie ma nic lepszego niż poczuć się jak na planie filmu „Rzym w 3D”!</p>
 
   <h3>Cechy charakterystyczne</h3>
   <ul>
