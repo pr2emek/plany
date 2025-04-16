@@ -249,6 +249,46 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 </details>
 
+<details>
+    <summary><strong>🕵️ Sekretne miejsca Rzymu</strong></summary>
+
+    <h3>🧱 Kościół San Clemente – warstwy historii</h3>
+    <p>Kościół składa się z trzech poziomów: średniowiecznej bazyliki, wcześniejszego kościoła z IV wieku i jeszcze niższego mitreum z czasów rzymskich.</p>
+
+    <h3>🌉 Via Appia Antica – najstarsza droga</h3>
+    <p>Starorzymska droga otoczona ruinami i zielenią. Idealna na rower lub spacer w ciszy.</p>
+
+    <h3>🪦 Cimitero Acattolico – romantyczny cmentarz</h3>
+    <p>Spokojne, zielone miejsce z grobami Keatsa i Shelleya. Piękne rzeźby i cicha atmosfera.</p>
+
+    <h3>🎭 Quartiere Coppedè – surrealistyczna dzielnica</h3>
+    <p>Baśniowa architektura, smoki, mozaiki i fontanny. Inny świat w środku Rzymu.</p>
+
+    <h3>🍝 Testaccio – dzielnica smaków</h3>
+    <p>Mało turystyczna, z najlepszym street foodem, lokalnymi knajpami i targiem Testaccio.</p>
+
+    <h3>🏞️ Park Gli Acquedotti</h3>
+    <p>Park z rzymskimi akweduktami. Magiczne miejsce, idealne na piknik lub zdjęcia o zachodzie słońca.</p>
+
+    <h3>🔭 Il Buco della Serratura – dziurka od klucza na Awentynie</h3>
+    <p>Popatrz przez dziurkę – zobaczysz kopułę Bazyliki św. Piotra idealnie wkomponowaną w alejkę cyprysów.</p>
+
+    <h3>🌄 Taras Janikulum (Gianicolo)</h3>
+    <p>Mało znany punkt widokowy na miasto. Codziennie o 12:00 strzał z armaty!</p>
+
+    <h3>🍊 Ogród Pomarańczowy (Giardino degli Aranci)</h3>
+    <p>Spokojny park z widokiem na Tyber i kopuły kościołów. Idealne miejsce na chwilę oddechu.</p>
+
+    <h3>🏚️ Dom Augusta – rezydencja pierwszego cesarza</h3>
+    <p>Mniej znane, ale fascynujące ruiny prywatnego domu Oktawiana Augusta z oryginalnymi freskami.</p>
+
+    <h3>🏛️ Teatr Marcellusa</h3>
+    <p>Przodek Koloseum, dziś wkomponowany w mieszkania! Przykład, jak Rzym żyje w swoich ruinach.</p>
+
+    <h3>🐢 Fontanna Żółwi (Fontana delle Tartarughe)</h3>
+    <p>Urocza fontanna z żółwiami, w cichej dzielnicy żydowskiej. Piękny detal i brak tłumów.</p>
+
+  </details>
 
 </details>
 
