@@ -36,50 +36,52 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
  
   <details>
-<summary><strong>🏛️ Co zobaczyć</strong></summary>
+  <summary><strong>🏛️ Co zobaczyć</strong></summary>
+
   <div class="mapa-rzymu">
-<iframe src="{{ '/assets/mapy/rzym_co_zobaczyc_mapa.html' | relative_url }}" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
-</div>
- </details>
+    <iframe src="{{ '/assets/mapy/rzym_co_zobaczyc_mapa.html' | relative_url }}" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
+  </div>
 
   <details>
-  <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
-  <p><em>Współrzędne: 41.8902° N, 12.4922° E</em></p>
-  <p><strong>Koloseum</strong> (wł. <em>Colosseo</em>) to największy amfiteatr starożytnego Rzymu i jeden z najsłynniejszych zabytków świata. Zbudowane w I wieku n.e., mieściło nawet 50 tysięcy widzów i było miejscem walk gladiatorów, pokazów i rekonstrukcji bitew. Dziś to symbol Wiecznego Miasta.</p>
-<details>
-  <h3>Jak dotrzeć?</h3>
-  <ul>
-    <li>Znajduje się w centrum Rzymu, przy stacji metra <strong>Colosseo</strong> (linia B).</li>
-  </ul>
+    <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
+    <p><em>Współrzędne: 41.8902° N, 12.4922° E</em></p>
+    <p><strong>Koloseum</strong> (wł. <em>Colosseo</em>) to największy amfiteatr starożytnego Rzymu i jeden z najsłynniejszych zabytków świata. Zbudowane w I wieku n.e., mieściło nawet 50 tysięcy widzów i było miejscem walk gladiatorów, pokazów i rekonstrukcji bitew. Dziś to symbol Wiecznego Miasta.</p>
 
-  <h3>Godziny otwarcia</h3>
-  <ul>
-    <li><strong>Codziennie</strong>: od 9:00 do ok. 19:00 (ostatnie wejście godzinę wcześniej)</li>
-    <li><strong>Zamknięte</strong>: 25 grudnia i 1 stycznia</li>
-  </ul>
+    <h3>Jak dotrzeć?</h3>
+    <ul>
+      <li>Znajduje się w centrum Rzymu, przy stacji metra <strong>Colosseo</strong> (linia B).</li>
+    </ul>
 
-  <h3>Rodzaje biletów</h3>
-  <ul>
-    <li><strong>Bilet standardowy</strong> (~18€): Koloseum, Forum Romanum i Palatyn, ważny 24h</li>
-    <li><strong>Z audio przewodnikiem</strong> lub <strong>z przewodnikiem</strong></li>
-    <li><strong>Bilet Arena Floor</strong>: wejście na arenę</li>
-    <li><strong>Underground & Upper Levels</strong>: podziemia i wyższe piętra – tylko z przewodnikiem</li>
-  </ul>
+    <h3>Godziny otwarcia</h3>
+    <ul>
+      <li><strong>Codziennie</strong>: od 9:00 do ok. 19:00 (ostatnie wejście godzinę wcześniej)</li>
+      <li><strong>Zamknięte</strong>: 25 grudnia i 1 stycznia</li>
+    </ul>
 
-  <h3>Gdzie kupić bilety?</h3>
-  <ul>
-    <li>Najlepiej <strong>online z wyprzedzeniem</strong> – duże kolejki na miejscu</li>
-    <li>Oficjalna strona: <a href="https://colosseo.it" target="_blank">colosseo.it</a></li>
-  </ul>
+    <h3>Rodzaje biletów</h3>
+    <ul>
+      <li><strong>Bilet standardowy</strong> (~18€): Koloseum, Forum Romanum i Palatyn, ważny 24h</li>
+      <li><strong>Z audio przewodnikiem</strong> lub <strong>z przewodnikiem</strong></li>
+      <li><strong>Bilet Arena Floor</strong>: wejście na arenę</li>
+      <li><strong>Underground & Upper Levels</strong>: podziemia i wyższe piętra – tylko z przewodnikiem</li>
+    </ul>
 
-  <h3>Wskazówki</h3>
-  <ul>
-    <li>Latem zabierz wodę i czapkę – mało cienia</li>
-    <li>Nie zabieraj dużych plecaków – mogą być zakazane</li>
-  </ul>
+    <h3>Gdzie kupić bilety?</h3>
+    <ul>
+      <li>Najlepiej <strong>online z wyprzedzeniem</strong> – duże kolejki na miejscu</li>
+      <li>Oficjalna strona: <a href="https://colosseo.it" target="_blank">colosseo.it</a></li>
+    </ul>
 
-  <h3>Ciekawostka</h3>
-  <p>Po upadku Rzymu Koloseum było rozbierane na kamień. Mimo to przetrwało wieki i dziś jest jednym z cudów architektury starożytnej – przyciąga miliony turystów rocznie.</p>
+    <h3>Wskazówki</h3>
+    <ul>
+      <li>Latem zabierz wodę i czapkę – mało cienia</li>
+      <li>Nie zabieraj dużych plecaków – mogą być zakazane</li>
+    </ul>
+
+    <h3>Ciekawostka</h3>
+    <p>Po upadku Rzymu Koloseum było rozbierane na kamień. Mimo to przetrwało wieki i dziś jest jednym z cudów architektury starożytnej – przyciąga miliony turystów rocznie.</p>
+  </details>
+
 </details>
 
 
