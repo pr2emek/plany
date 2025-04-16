@@ -39,6 +39,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
   <details>
   <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
+  <p><em>Współrzędne: 41.8902° N, 12.4922° E</em></p>
   <p><strong>Koloseum</strong> (wł. <em>Colosseo</em>) to największy amfiteatr starożytnego Rzymu i jeden z najsłynniejszych zabytków świata. Zbudowane w I wieku n.e., mieściło nawet 50 tysięcy widzów i było miejscem walk gladiatorów, pokazów i rekonstrukcji bitew. Dziś to symbol Wiecznego Miasta.</p>
 
   <h3>Jak dotrzeć?</h3>
@@ -79,6 +80,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🏛️ Forum Romanum – serce starożytnego Rzymu</strong></summary>
+    <p><em>Współrzędne: 41.8925° N, 12.4853° E</em></p>
   <p><strong>Forum Romanum</strong> to najważniejsze miejsce życia publicznego w starożytnym Rzymie – centrum polityczne, religijne i handlowe przez prawie 1000 lat.</p>
 
   <h3>Co zobaczyć?</h3>
@@ -104,6 +106,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>⛪ Watykan i Bazylika św. Piotra</strong></summary>
+  <p><em>Współrzędne: 41.9022° N, 12.4539° E</em></p>
   <p><strong>Watykan</strong> to najmniejsze państwo świata i duchowe centrum katolicyzmu. To siedziba papieża i miejsce pielgrzymek milionów wiernych.</p>
 
   <h3>Co zobaczyć?</h3>
@@ -128,6 +131,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🕍 Panteon – świątynia wszystkich bogów</strong></summary>
+  <p><em>Współrzędne: 41.8986° N, 12.4769° E</em></p>
   <p><strong>Panteon</strong> to jedna z najlepiej zachowanych budowli starożytnego Rzymu, zbudowana w II wieku n.e. jako świątynia wszystkich rzymskich bóstw. Dziś to kościół katolicki i miejsce spoczynku wielu wielkich Włochów, m.in. Rafaela.</p>
 
   <h3>Cechy charakterystyczne</h3>
@@ -149,6 +153,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>⛲ Fontanna di Trevi – wrzuć monetę!</strong></summary>
+  <p><em>Współrzędne: 41.9009° N, 12.4833° E</em></p>
   <p><strong>Fontanna di Trevi</strong> to najsłynniejsza fontanna Rzymu, barokowe dzieło ukończone w XVIII wieku. Jej centralną postacią jest Neptun na rydwanie zaprzężonym w morskie konie.</p>
 
   <h3>Tradycja</h3>
@@ -171,6 +176,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🏰 Zamek Świętego Anioła</strong></summary>
+  <p><em>Współrzędne: 41.9031° N, 12.4663° E</em></p>
   <p><strong>Zamek Świętego Anioła</strong> to masywna forteca nad Tybrem, która powstała jako grobowiec cesarza Hadriana. Później pełniła funkcję twierdzy papieskiej, więzienia i arsenału.</p>
 
   <h3>Co zobaczyć?</h3>
@@ -191,6 +197,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 <details>
   <summary><strong>🏞️ Villa Borghese – zielone serce miasta</strong></summary>
+  <p><em>Współrzędne: 41.9142° N, 12.4923° E</em></p>
   <p>Villa Borghese to jeden z największych parków miejskich w Europie. To idealne miejsce na spacer, piknik lub przejażdżkę rowerową.</p>
 
   <h3>Co zobaczyć?</h3>
@@ -206,6 +213,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🪨 Schody Hiszpańskie – klasyczne selfie</strong></summary>
+  <p><em>Współrzędne: 41.9057° N, 12.4823° E</em></p>
   <p><strong>Piazza di Spagna</strong> i słynne Schody Hiszpańskie to jedno z najbardziej fotogenicznych miejsc w Rzymie.</p>
 
   <h3>Warto wiedzieć</h3>
@@ -218,6 +226,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🕯️ Campo de’ Fiori – życie nocne i targ</strong></summary>
+  <p><em>Współrzędne: 41.8954° N, 12.4723° E</em></p>
   <p>To tętniący życiem plac – rano działa tu targ warzywny i kwiatowy, wieczorem – knajpki i aperitivo.</p>
 
   <h3>Ciekawostka</h3>
@@ -226,6 +235,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>⛲ Piazza Navona – barokowy klejnot</strong></summary>
+  <p><em>Współrzędne: 41.8992° N, 12.4731° E</em></p>
   <p>Dawny stadion rzymski, dziś jeden z najpiękniejszych placów w Rzymie. Otoczony restauracjami i artystami ulicznymi.</p>
 
   <h3>Najważniejsze punkty</h3>
@@ -238,6 +248,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🏛️ Termy Karakalli – łaźnie cesarzy</strong></summary>
+  <p><em>Współrzędne: 41.8793° N, 12.4963° E</em></p>
   <p>Monumentalne ruiny dawnych rzymskich łaźni publicznych. Kompleks z II wieku n.e. mógł pomieścić kilka tysięcy osób jednocześnie.</p>
 
   <h3>Co znajdziesz?</h3>
