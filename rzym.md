@@ -185,6 +185,71 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <h3>Ciekawostka</h3>
   <p>W czasie oblężeń papieże uciekali z Watykanu do zamku tajnym korytarzem. Dziś możesz i Ty nim przejść!</p>
 </details>
+<details>
+  <summary><strong>🏞️ Villa Borghese – zielone serce miasta</strong></summary>
+  <p>Villa Borghese to jeden z największych parków miejskich w Europie. To idealne miejsce na spacer, piknik lub przejażdżkę rowerową.</p>
+
+  <h3>Co zobaczyć?</h3>
+  <ul>
+    <li>Galeria Borghese – muzeum z dziełami Berniniego, Caravaggia i Rafaela</li>
+    <li>Taras Pincio – widok na Piazza del Popolo</li>
+    <li>Ogrody, fontanny, małe jezioro z wypożyczalnią łódek</li>
+  </ul>
+
+  <h3>Ciekawostka</h3>
+  <p>Wstęp do parku jest darmowy, ale do Galerii Borghese obowiązuje rezerwacja – liczba miejsc ograniczona.</p>
+</details>
+
+<details>
+  <summary><strong>🪨 Schody Hiszpańskie – klasyczne selfie</strong></summary>
+  <p><strong>Piazza di Spagna</strong> i słynne Schody Hiszpańskie to jedno z najbardziej fotogenicznych miejsc w Rzymie.</p>
+
+  <h3>Warto wiedzieć</h3>
+  <ul>
+    <li>Znajdują się u podnóża kościoła Trinità dei Monti</li>
+    <li>W pobliżu luksusowe butiki (Via dei Condotti)</li>
+    <li>Obecnie zakazane jest siadanie na schodach – grożą mandaty</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🕯️ Campo de’ Fiori – życie nocne i targ</strong></summary>
+  <p>To tętniący życiem plac – rano działa tu targ warzywny i kwiatowy, wieczorem – knajpki i aperitivo.</p>
+
+  <h3>Ciekawostka</h3>
+  <p>Na środku placu stoi pomnik filozofa Giordano Bruno, spalonego tu na stosie za poglądy heretyckie.</p>
+</details>
+
+<details>
+  <summary><strong>⛲ Piazza Navona – barokowy klejnot</strong></summary>
+  <p>Dawny stadion rzymski, dziś jeden z najpiękniejszych placów w Rzymie. Otoczony restauracjami i artystami ulicznymi.</p>
+
+  <h3>Najważniejsze punkty</h3>
+  <ul>
+    <li>Fontanna Czterech Rzek (Bernini)</li>
+    <li>Kościół Sant’Agnese in Agone</li>
+    <li>Świąteczne jarmarki i wydarzenia sezonowe</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🏛️ Termy Karakalli – łaźnie cesarzy</strong></summary>
+  <p>Monumentalne ruiny dawnych rzymskich łaźni publicznych. Kompleks z II wieku n.e. mógł pomieścić kilka tysięcy osób jednocześnie.</p>
+
+  <h3>Co znajdziesz?</h3>
+  <ul>
+    <li>Resztki basenów, mozaiki i sauny</li>
+    <li>Latem – koncerty i opery na otwartym powietrzu</li>
+  </ul>
+
+  <h3>Wstęp</h3>
+  <ul>
+    <li>Bilet: ok. 10€</li>
+    <li>Dostępne bilety łączone z Koloseum</li>
+  </ul>
+</details>
+
+
 </details>
 
 ---
