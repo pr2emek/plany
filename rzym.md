@@ -273,39 +273,51 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
     <summary><strong>🕵️ Sekretne miejsca Rzymu</strong></summary>
 
     <h3>🧱 Kościół San Clemente – warstwy historii</h3>
+    <p><em>Współrzędne: 41.8894° N, 12.4951° E</em></p>
     <p>Kościół składa się z trzech poziomów: średniowiecznej bazyliki, wcześniejszego kościoła z IV wieku i jeszcze niższego mitreum z czasów rzymskich.</p>
 
     <h3>🌉 Via Appia Antica – najstarsza droga</h3>
+    <p><em>Współrzędne: 41.8428° N, 12.5114° E</em></p>
     <p>Starorzymska droga otoczona ruinami i zielenią. Idealna na rower lub spacer w ciszy.</p>
 
     <h3>🪦 Cimitero Acattolico – romantyczny cmentarz</h3>
+    <p><em>Współrzędne: 41.8759° N, 12.4793° E</em></p>
     <p>Spokojne, zielone miejsce z grobami Keatsa i Shelleya. Piękne rzeźby i cicha atmosfera.</p>
 
     <h3>🎭 Quartiere Coppedè – surrealistyczna dzielnica</h3>
+    <p><em>Współrzędne: 41.9172° N, 12.5119° E</em></p>
     <p>Baśniowa architektura, smoki, mozaiki i fontanny. Inny świat w środku Rzymu.</p>
 
     <h3>🍝 Testaccio – dzielnica smaków</h3>
+    <p><em>Współrzędne: 41.8750° N, 12.4767° E</em></p>
     <p>Mało turystyczna, z najlepszym street foodem, lokalnymi knajpami i targiem Testaccio.</p>
 
     <h3>🏞️ Park Gli Acquedotti</h3>
+    <p><em>Współrzędne: 41.8470° N, 12.5620° E</em></p>
     <p>Park z rzymskimi akweduktami. Magiczne miejsce, idealne na piknik lub zdjęcia o zachodzie słońca.</p>
 
     <h3>🔭 Il Buco della Serratura – dziurka od klucza na Awentynie</h3>
+    <p><em>Współrzędne: 41.8886° N, 12.4828° E</em></p>
     <p>Popatrz przez dziurkę – zobaczysz kopułę Bazyliki św. Piotra idealnie wkomponowaną w alejkę cyprysów.</p>
 
     <h3>🌄 Taras Janikulum (Gianicolo)</h3>
+    <p><em>Współrzędne: 41.8919° N, 12.4608° E</em></p>
     <p>Mało znany punkt widokowy na miasto. Codziennie o 12:00 strzał z armaty!</p>
 
     <h3>🍊 Ogród Pomarańczowy (Giardino degli Aranci)</h3>
+    <p><em>Współrzędne: 41.8883° N, 12.4766° E</em></p>
     <p>Spokojny park z widokiem na Tyber i kopuły kościołów. Idealne miejsce na chwilę oddechu.</p>
 
     <h3>🏚️ Dom Augusta – rezydencja pierwszego cesarza</h3>
+    <p><em>Współrzędne: 41.8894° N, 12.4880° E</em></p>
     <p>Mniej znane, ale fascynujące ruiny prywatnego domu Oktawiana Augusta z oryginalnymi freskami.</p>
 
     <h3>🏛️ Teatr Marcellusa</h3>
+    <p><em>Współrzędne: 41.8919° N, 12.4800° E</em></p>
     <p>Przodek Koloseum, dziś wkomponowany w mieszkania! Przykład, jak Rzym żyje w swoich ruinach.</p>
 
     <h3>🐢 Fontanna Żółwi (Fontana delle Tartarughe)</h3>
+    <p><em>Współrzędne: 41.8939° N, 12.4775° E</em></p>
     <p>Urocza fontanna z żółwiami, w cichej dzielnicy żydowskiej. Piękny detal i brak tłumów.</p>
 
   </details>
