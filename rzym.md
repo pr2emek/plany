@@ -434,7 +434,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 </div>
 
 <div class="legend">
-  <h2><i class="fas fa-gem"></i> Wielki kamień w Villa Borghese</h2>
+  <h2><i class="fas fa-stone"></i></i> Wielki kamień w Villa Borghese</h2>
   <p>W Villa Borghese, jednym z najpiękniejszych ogrodów Rzymu, znajduje się ogromny kamień, który według legendy miał zostać rzucony przez bogów. Kamień jest ponoć miejscem spotkań dla dusz, które nie mogły przejść do zaświatów, ponieważ wciąż były zbyt przywiązane do ziemskiego życia. Opowiada się, że w nocy, jeśli ktoś dotknie kamienia, może usłyszeć szeptujące głosy z zaświatów.</p>
 </div>
 
