@@ -331,9 +331,65 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🚇 Transport</strong></summary>
   <ul>
-    <li>Metro A i B – prosta sieć, przydatna do najważniejszych punktów</li>
-    <li>Autobusy i tramwaje – dobre uzupełnienie</li>
-    <li>Spacer – najlepiej!</li>
+  <p>Rzym oferuje dobrze rozwiniętą sieć transportu publicznego obejmującą metro, autobusy, tramwaje i pociągi podmiejskie. System jest zarządzany głównie przez firmę <strong>ATAC</strong>.</p>
+
+<h2>Rodzaje transportu</h2>
+
+<ul>
+  <li><strong>Metro</strong> – 3 linie: A (pomarańczowa), B (niebieska), C (zielona). Kursuje co kilka minut.</li>
+  <li><strong>Autobusy</strong> – sieć obejmuje cały Rzym. Autobusy bywają zatłoczone i niepunktualne, ale pozwalają dotrzeć do miejsc niedostępnych metrem.</li>
+  <li><strong>Tramwaje</strong> – wygodne na krótkie dystanse. Linia 8 jest szczególnie użyteczna dla turystów.</li>
+  <li><strong>Pociągi podmiejskie (Trenitalia / FL)</strong> – przydatne do dojazdu z lotnisk i na obrzeża miasta.</li>
+</ul>
+
+<h2>Bilety</h2>
+
+<p>Ten sam bilet obowiązuje w metrze, autobusach, tramwajach i pociągach regionalnych FL (w granicach Rzymu). Bilety należy skasować przed wejściem lub od razu po wejściu do pojazdu.</p>
+
+<ul>
+  <li><strong>BIT</strong> (100 minut): €1,50</li>
+  <li><strong>ROMA 24H</strong>: €7,00</li>
+  <li><strong>ROMA 48H</strong>: €12,50</li>
+  <li><strong>ROMA 72H</strong>: €18,00</li>
+  <li><strong>CIS</strong> (7 dni): €24,00</li>
+</ul>
+
+<h2>Gdzie kupić bilety?</h2>
+<ul>
+  <li>Automaty w metrze i na większych przystankach</li>
+  <li>Sklepy typu tabaccheria (oznaczone literą „T”)</li>
+  <li>Niektóre kioski z prasą</li>
+  <li>Aplikacje mobilne, np. <strong>myCicero</strong> lub <strong>Tabnet</strong></li>
+</ul>
+
+<h2>Lotniska</h2>
+
+<ul>
+  <li><strong>Fiumicino (FCO)</strong> – główne lotnisko. Dojazd:
+    <ul>
+      <li><em>Leonardo Express</em> (pociąg bezpośredni do Termini, €14, 32 min)</li>
+      <li><em>Pociąg FL1</em> (do stacji Trastevere, Tuscolana lub Tiburtina)</li>
+      <li>Autobusy Terravision, SitBus (ok. €6, 45-60 min)</li>
+    </ul>
+  </li>
+  <li><strong>Ciampino (CIA)</strong> – mniejsze lotnisko. Dojazd:
+    <ul>
+      <li>Autobus + pociąg z Ciampino stazione</li>
+      <li>Bezpośrednie autobusy do Termini (Terravision, SitBus)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>Przydatne wskazówki</h2>
+
+<ul>
+  <li>Metro działa od 5:30 do 23:30 (w piątki i soboty do 1:30).</li>
+  <li>Niektóre autobusy nocne oznaczone są literą „N”.</li>
+  <li>Sprawdź trasę na Google Maps lub w aplikacji Moovit.</li>
+  <li>Bądź ostrożny – kieszonkowcy działają zwłaszcza w metrze i na Termini!</li>
+</ul>
+
+<p>Więcej informacji: <a href="https://www.atac.roma.it" target="_blank">www.atac.roma.it</a></p>
   </ul>
 </details>
 
