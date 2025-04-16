@@ -125,8 +125,19 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛪ Watykan i Bazylika św. Piotra</strong></summary>
   <p><em>Współrzędne: 41.9022° N, 12.4539° E</em></p>
-  <p><strong>Watykan</strong> to najmniejsze państwo świata i duchowe centrum katolicyzmu. To siedziba papieża i miejsce pielgrzymek milionów wiernych.</p>
+  <p>Watykan – to miejsce, które nie tylko jest najmniejszym państwem na świecie (tak, mniejsze niż niektóre parki w Rzymie), ale również pełnym magii centrum religii katolickiej. Przynajmniej tak mówią. Jeśli jeszcze nie miałeś okazji odwiedzić Watykanu, to... wiesz, co mówi się o tym miejscu? To jak wchodzić do magicznej krainy, gdzie każda statua, każdy obraz i każdy fragment marmuru wygląda jakby miał swoją własną historię do opowiedzenia.</p>
 
+<p>Warto zacząć od Bazyliki św. Piotra, która jest bardziej znana niż niejedno supergwiazdorskie dzieło sztuki. Kiedy wchodzisz do tej gigantycznej świątyni, czujesz się jak mikroczłowiek w porównaniu z jej olbrzymimi kolumnami i gigantyczną kopułą, która – swoją drogą – jest jednym z największych cudów architektonicznych na świecie. Powiem to wprost: Bazylika św. Piotra to trochę jak olbrzymi sklep spożywczy... tylko zamiast jedzenia, masz pełno dzieł sztuki i religijnych artefaktów. Można się poczuć jak dziecko w sklepie z czekoladkami, ale w tym przypadku chodzi o 400 lat historii i, oczywiście, o niewiarygodnie wyszukaną architekturę.</p>
+
+<p>W środku Bazyliki poczujesz się jak w teatrze, tylko że na scenie zamiast aktorów są mozaiki i malowidła. Najbardziej imponująca jest „Pieta” Michała Anioła – rzeźba, która sprawia, że cała reszta Bazyliki wydaje się być tłem. Dodatkowo, jeśli masz ochotę na mały workout, możesz wybrać się na wspinaczkę po schodach, by dotrzeć do samego szczytu kopuły. Z góry rozciąga się widok, który sprawi, że poczujesz się jak cesarz Rzymu... lub przynajmniej jak ktoś, kto ma bardzo, bardzo dobry widok na miasto.</p>
+
+<p>A teraz mała ciekawostka: czy wiesz, że Bazylika św. Piotra została zbudowana na miejscu grobu św. Piotra, który był jednym z apostołów Jezusa? No tak, można powiedzieć, że wybór lokalizacji był całkiem dobry. A to, że cała konstrukcja trwała setki lat? To już tylko potwierdza, jak bardzo Rzym lubi robić rzeczy na wielką skalę.</p>
+
+<p>Oczywiście, Bazylika to tylko część Watykanu. Po drodze na pewno natrafisz na Plac św. Piotra, który ma jeden z najbardziej rozpoznawalnych widoków na świecie – owalny kształt z gigantycznymi kolumnami w kształcie serca. Możesz sobie wyobrazić, że jesteś częścią pielgrzymki lub po prostu robisz selfie. Wybór należy do Ciebie.</p>
+
+<p>Nie zapomnij również o Muzeach Watykańskich. Jeśli masz trochę więcej czasu (i energii, bo to jak odwiedzić całą galerię sztuki świata w jednym miejscu), będziesz miał okazję zobaczyć nie tylko zbiory papieskie, ale i... no tak, słynne freski Michała Anioła w Kaplicy Sykstyńskiej. I pamiętaj, nie spiesz się – bo po drodze trafisz na tyle dzieł sztuki, że będzie to prawdziwa uczta dla Twoich oczu (a także trochę dla umysłu, jeśli potrafisz rozpoznać każdy obraz i jego znaczenie).</p>
+
+<p>Podsumowując, Watykan to prawdziwa podróż w czasie, historii i... pięknej architekturze. Warto poświęcić trochę czasu na zachwycanie się tym miejscem. Możesz śmiało powiedzieć, że odwiedziłeś „małe” państwo, które jest w stanie oczarować nawet tych, którzy nie są aż tak religijni. A jeśli nawet nie planujesz zostać papieżem, to przynajmniej masz wyjątkowe wspomnienia i zdjęcia na Instagramie!</p>
   <h3>Co zobaczyć?</h3>
   <ul>
     <li><strong>Bazylika św. Piotra</strong> – największy kościół chrześcijański na świecie</li>
@@ -238,8 +249,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏞️ Villa Borghese – zielone serce miasta</strong></summary>
   <p><em>Współrzędne: 41.9142° N, 12.4923° E</em></p>
-  <p>Villa Borghese to jeden z największych parków miejskich w Europie. To idealne miejsce na spacer, piknik lub przejażdżkę rowerową.</p>
+  <p>Jeśli myślisz, że Villa Borghese to tylko kolejny park w Rzymie, to grubo się mylisz! To jedno z tych miejsc, które łączy sztukę, naturę i trochę magii. Wyobraź sobie, że wchodzisz do parku i zamiast po prostu biegać za frisbee, nagle stajesz przed jednym z najpiękniejszych dzieł sztuki na świecie. Tak, Villa Borghese to nie tylko ogród – to także dom dla jednych z najważniejszych kolekcji sztuki w Rzymie. Kiedyś była to posiadłość rodziny Borghese (tak, tej rodziny, która miała wszystko), a teraz jest to raj dla turystów i lokalnych mieszkańców, którzy marzą o chwili spokoju w centrum tętniącego życiem miasta.</p>
 
+<p>Co jest takiego wyjątkowego w Villa Borghese? Po pierwsze, to olbrzymi park, gdzie możesz się zgubić (dosłownie, i to bez żadnych konsekwencji!). Ale to nie wszystko – na terenie parku znajduje się również słynna Galeria Borghese, w której możesz podziwiać prace takich mistrzów jak Caravaggio, Rafael czy Bernini. Tak, dobrze widzisz – Bernini! Czy to nie brzmi jak zaproszenie do odkrywania historii, gdzie każdy krok to nowa historia?</p>
+
+<p>Park to idealne miejsce na relaksujący spacer, piknik, albo… jazdę na rowerze. Tak, rower w parku? Dlaczego nie! Villa Borghese to jedno z tych miejsc, które daje Ci wszystko – od sztuki, przez zielone alejki, po spokój, którego potrzebujesz po całym dniu zwiedzania Rzymu. Jeśli chcesz poczuć się jak artysta z epoki renesansu, wsiądź na rower, przejedź przez park i poczuj się, jakbyś miał sztukę na wyciągnięcie ręki. Gwarantuję Ci, że nie będziesz rozczarowany!</p>
+
+<p>A jeśli masz ochotę na coś naprawdę unikalnego, odwiedź Bioparco, czyli rzymskie zoo, które znajduje się w sercu parku. Co może być lepszego niż podziwianie sztuki… z małą przerwą na podziwianie zebry? Dla miłośników przyrody to świetna okazja, by połączyć relaks wśród zieleni z czymś bardziej dzikim – dosłownie!</p>
+
+<p>Villa Borghese to też miejsce, w którym możesz poczuć się jak w bajce – wieczne spacery po ślicznych ogrodach, sztuka na każdym kroku, a do tego – czy może być coś lepszego niż spędzanie popołudnia w tak magicznym miejscu? Jeśli więc kiedykolwiek będziesz w Rzymie i poczujesz, że Twoja dusza potrzebuje odrobiny relaksu, pamiętaj o Villa Borghese. To jedno z tych miejsc, które potrafi wciągnąć Cię w swój świat na długie godziny. I kto wie, może to właśnie tam znajdziesz swoją własną inspirację!</p>
   <h3>Co zobaczyć?</h3>
   <ul>
     <li>Galeria Borghese – muzeum z dziełami Berniniego, Caravaggia i Rafaela</li>
@@ -254,8 +272,17 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🪨 Schody Hiszpańskie – klasyczne selfie</strong></summary>
   <p><em>Współrzędne: 41.9057° N, 12.4823° E</em></p>
-  <p><strong>Piazza di Spagna</strong> i słynne Schody Hiszpańskie to jedno z najbardziej fotogenicznych miejsc w Rzymie.</p>
+  <p>Schody Hiszpańskie – znane na całym świecie jako "wielka atrakcja turystyczna", a w rzeczywistości ulubione miejsce do... siedzenia. Te wspaniałe, monumentalne schody prowadzą z Placu Hiszpańskiego do Kościoła Trinità dei Monti, ale dla większości turystów, to raczej miejsce na odpoczynek i podziwianie innych turystów. Kiedy już pokonasz te 135 stopni (tak, to jest trochę jak maraton, ale w wersji turystycznej), dotrzesz do miejsca, w którym chcesz po prostu usiąść, patrzeć na ludzi i poczuć się jak część "Rzymu w ruchu".</p>
 
+<p>Schody Hiszpańskie stały się ikoną Instagramu, gdzie każdy turysta próbuje zrobić "to jedyne zdjęcie", które będzie miał w galerii przez resztę życia. Oczywiście, najczęściej próbujesz uchwycić całą szerokość schodów, tylko po to, by odkryć, że wszyscy inni próbowali tego samego. W ten sposób, nagle zrozumiesz, że schody Hiszpańskie są tak popularne, że właściwie przypominają bardziej park rozrywki niż zabytkowy punkt widokowy.</p>
+
+<p>Ale schody Hiszpańskie to nie tylko miejsce na selfie – to także fantastyczne miejsce na obcowanie z prawdziwym rytmem rzymskiego życia. Chociaż możesz na nich odpoczywać, nie zapomnij o jednej ważnej rzeczy – <em>rzymianie nie odpoczywają na schodach</em>. Właściwie oni po prostu przechodzą obok, robiąc to, co najlepiej potrafią: wyglądać jakby byli zajęci czymś bardzo ważnym. Ty natomiast możesz się poczuć jak część tej eleganckiej miejskiej scenerii.</p>
+
+<p>Schody Hiszpańskie to również świetne miejsce na obserwowanie mody. Nie tylko na Tobie, ale także na innych turystach. Czy jest coś lepszego niż oglądanie, jak wszyscy podążają w jednym kierunku, próbując zmieścić się na jednym małym stopniu? Więc jeśli chcesz poczuć się jak prawdziwy Rzymianin – idź na Schody Hiszpańskie, zamów kawę, usiądź na kilku stopniach (chociaż nie za długo, bo zaraz ktoś zajmie Twoje miejsce) i poczuj się jak gwiazda na czerwonym dywanie. I pamiętaj – zawsze miej przy sobie kamerę. To miejsce, w którym trzeba udokumentować wszystko!</p>
+
+<p>Oczywiście, jak w każdym popularnym miejscu turystycznym, Schody Hiszpańskie mają swoją specjalną atmosferę – a mianowicie tłumy ludzi. Ale to też część uroku! W końcu, co to za turystyka, jeśli nie można poczuć się przez chwilę jak część wielkiej rzymskiej rodziny? Więc nie zapomnij przynieść ze sobą wygodnych butów (choć wiesz, że raczej nie będziesz w nich biegać, prawda?).</p>
+
+<p>Schody Hiszpańskie to też dobry punkt startowy, jeśli masz ochotę na zakupy. W końcu z ich szczytu łatwo trafić do Via Condotti, czyli ulicy pełnej luksusowych sklepów, gdzie wiesz, że w końcu można zacząć marzyć o tej wymarzonej torbie. Ale najpierw – te schody, a potem zakupy! Tylko pamiętaj – nie siadamy na schodach zbyt długo, bo miłość do mody nie jest wieczna!</p>
   <h3>Warto wiedzieć</h3>
   <ul>
     <li>Znajdują się u podnóża kościoła Trinità dei Monti</li>
@@ -267,16 +294,33 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🕯️ Campo de’ Fiori – życie nocne i targ</strong></summary>
   <p><em>Współrzędne: 41.8954° N, 12.4723° E</em></p>
-  <p>To tętniący życiem plac – rano działa tu targ warzywny i kwiatowy, wieczorem – knajpki i aperitivo.</p>
+  <p>Campo de' Fiori to jedno z tych miejsc, które w Rzymie wciąż tętni życiem, jakby każdy kamień miał swoją historię do opowiedzenia. Wyobraź sobie rynek, na którym możesz kupić wszystko – od świeżych warzyw po najnowsze modne gadżety – a jednocześnie poczuć, jak przeszłość odzywa się w tle. To nie tylko targ, to także miejsce, w którym wciąż panuje ta sama energia, co przed wiekami. Na tym placu możesz poczuć się jak turysta i mieszkaniec w jednym – bo kto powiedział, że zakupy nie mogą być historyczną przygodą?</p>
 
+<p>Oczywiście, Campo de' Fiori nie jest tylko miejscem, w którym kupujesz pomidory, które będą smaczniejsze niż te, które miałeś w domu. To także plac, na którym znajduje się pomnik Giordano Bruno, filozofa, który w XVI wieku miał trochę zbyt nowoczesne poglądy jak na ówczesne czasy. Został skazany na spalenie na stosie, ale jego pomnik na Campo de' Fiori przypomina, że w tym miejscu historia naprawdę daje o sobie znać – w najlepszym, najbardziej rzymskim stylu.</p>
+
+<p>Choć dziś rynek wygląda jak typowa sceneria z włoskiego filmu, kiedyś był to jeden z głównych punktów spotkań mieszkańców Rzymu. Chciałbyś porozmawiać z sąsiadami o pogodzie? Campo de' Fiori to idealne miejsce. Chciałbyś się pochwalić nowym kapeluszem? Wiesz, gdzie go założyć. Właściwie, jeśli nie spędzisz przynajmniej godziny w tym miejscu, to nie możesz powiedzieć, że naprawdę byłeś w Rzymie!</p>
+
+<p>Tak, to jedno z tych miejsc, które ma nie tylko historyczne znaczenie, ale też wyjątkowy klimat. To trochę jak spotkanie z rzymską wersją "targu z duszą" – z gwarą, zapachami i kolorami, które sprawiają, że czujesz się częścią tej miejskiej opowieści. Jeśli zdecydujesz się na poranny spacer po tym placu, na pewno poczujesz się jak prawdziwy Rzymianin. A jak skończysz zakupy, możesz udać się na kawę do jednej z okolicznych kawiarni, gdzie znowu poczujesz się jak bohater w filmie – tym razem z napisem "relaks" na planszy!</p>
+
+<p>Campo de' Fiori to też doskonałe miejsce na złapanie oddechu i odpoczynek od zwiedzania. Zresztą, kto nie chciałby się spalić na stosie idei jak Giordano Bruno, rozkoszując się świeżym powietrzem, owocami, warzywami i odrobiną rzymskiego słońca? Tylko pamiętaj, żeby nie kupować za dużo – w końcu nie będziesz mógł unieść wszystkiego sam!</p>
   <h3>Ciekawostka</h3>
   <p>Na środku placu stoi pomnik filozofa Giordano Bruno, spalonego tu na stosie za poglądy heretyckie.</p>
 </details>
 
 <details>
-  <summary><strong>⛲ Piazza Navona – barokowy klejnot</strong></summary>
+  <summary><strong>⛲ Piazza Navona – plac gdzie wszyscy robią to samo zdjęcie</strong></summary>
   <p><em>Współrzędne: 41.8992° N, 12.4731° E</em></p>
-  <p>Dawny stadion rzymski, dziś jeden z najpiękniejszych placów w Rzymie. Otoczony restauracjami i artystami ulicznymi.</p>
+  <p>Piazza Navona – miejsce, które niemal każdy turysta w Rzymie zna z opowieści... i Instagramu! Ten elegancki plac, który kiedyś był stadionem, a teraz jest najbardziej znanym placem w mieście, przyciąga tłumy zarówno turystów, jak i... artystów malujących portrety na każdym kroku. Właściwie, Piazza Navona to jedno z tych miejsc, w którym nie masz pojęcia, czy więcej jest turystów, czy ludzi próbujących sprzedawać Ci coś, czego na pewno nie potrzebujesz.</p>
+
+<p>Na Piazza Navona znajduje się kilka niesamowitych fontann, w tym Fontanna Czterech Rzek, która na pewno zrobi wrażenie, bo – jak sama nazwa wskazuje – zawiera cztery rzeki. A może to jednak cztery fontanny? Kto to wie, bo w tym zabytkowym chaosie trudno się połapać. Najważniejsze jest to, że wszyscy stoją wokół i próbują zrobić to perfekcyjne zdjęcie, w którym widoczna jest cała fontanna, a Ty przypadkowo wyglądasz jak część krajobrazu. Czysta magia!</p>
+
+<p>Po prostu musisz zobaczyć Fontannę Czterech Rzek, której centralną częścią jest posąg przedstawiający rzeki: Nil, Ganges, Dunaj i La Plata. Jak to możliwe, że te cztery rzeki spotykają się w jednym miejscu? To tajemnica Rzymu. Tak samo jak tajemnicą pozostaje, dlaczego zawsze na Piazza Navona jest pełno ludzi, którzy próbują zrobić jedno z tych samych zdjęć, z tym samym kadrem.</p>
+
+<p>Warto tu przyjść również dla niepowtarzalnej atmosfery. Wyobraź sobie, że siedzisz w kawiarni, popijasz espresso i patrzysz na tłum ludzi, który po prostu nie przestaje przychodzić i odchodzić. To jak oglądanie filmu, tylko bez subskrypcji Netflixa. Do tego dołączają artyści malujący portrety, muzycy, a nawet uliczni performerzy, którzy starają się prześcignąć siebie nawzajem w szalonych popisach. Przeżycie na miarę Rzymu!</p>
+
+<p>A jeśli jeszcze nie poczułeś się jak prawdziwy turysta, to wiesz, co musisz zrobić – kupić coś z lokalnego straganu. Chociaż oczywiście nie zapomnij o klasycznym pamiątkowym magnesie, bo jak wszyscy wiemy, to jedyna rzecz, która będzie przypominać Ci o Rzymie, kiedy będziesz wracać do domu i odkryjesz, że jednak nie zrobiłeś żadnego zdjęcia.</p>
+
+<p>Piazza Navona to również idealne miejsce na zakończenie dnia. Kiedy słońce zaczyna zachodzić, a lampy na placu zapalają się, cała scena zmienia się w romantyczny, lekko magiczny krajobraz. I choć zapewne jest tu tłum ludzi, to nadal poczujesz się jak część tego spektaklu. Tak, to Rzym – po prostu nie próbuj zrozumieć, jak to wszystko działa, bo i tak nie masz szans!</p>
 
   <h3>Najważniejsze punkty</h3>
   <ul>
@@ -289,7 +333,17 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Termy Karakalli – łaźnie cesarzy</strong></summary>
   <p><em>Współrzędne: 41.8793° N, 12.4963° E</em></p>
-  <p>Monumentalne ruiny dawnych rzymskich łaźni publicznych. Kompleks z II wieku n.e. mógł pomieścić kilka tysięcy osób jednocześnie.</p>
+  <<p>Jeśli kiedykolwiek marzyłeś o tym, by poczuć się jak starożytny Rzymianin w najmodniejszym spa, Termy Karakalli są miejscem, które musisz odwiedzić. Tak, dobrze słyszysz! Kiedy myślisz o luksusie w starożytnym Rzymie, to właśnie tu – w jednym z największych kompleksów termalnych w historii – Rzymianie odpoczywali, relaksowali się, a także toczyli poważne rozmowy o polityce, pogodzie i oczywiście... plotkach o cesarzach.</p>
+
+<p>Termy Karakalli to miejsce, gdzie można poczuć się jak cesarz, nawet jeśli nie masz armii ani pałacu. Zbudowane w III wieku n.e., te ogromne łaźnie publiczne były dla Rzymian miejscem spotkań towarzyskich, relaksu, a także... popisywania się. Jak zresztą wszędzie w Rzymie, liczyło się nie tylko to, jak się bawisz, ale także jak pokazujesz się innym. W Termach Karakalli możesz poczuć się częścią tej wielkiej społecznej machiny, chociaż teraz to raczej tylko kawałek ruiny i wiele wyobraźni.</p>
+
+<p>Nie daj się jednak zwieść pozorom – Termy Karakalli to nie tylko ruiny! To prawdziwy labirynt wielkich przestrzeni, z salami pełnymi zdobionych ścian, których fragmenty można podziwiać, jakbyś znalazł się w starożytnym spa z epoki superluksusu. No dobrze, może nie ma już wody, ale wyobraź sobie, jakbyś zanurzył się w tych basenach – odpoczywając po ciężkim dniu... polowania, wojny, czy co tam robili cesarze.</p>
+
+<p>Oczywiście, w tym ogromnym kompleksie nie tylko kąpali się Rzymianie. Termy Karakalli to także miejsce, w którym znajdowały się biblioteki, gimnazja, a także małe sklepy z wszelkimi drobiazgami, które mogłyby zainteresować niejednego turystę. No i nie zapominajmy o wspaniałych ogrodach – bo kto nie chciałby spędzić dnia w ogrodzie w środku miasta, odpoczywając po dniu pełnym wojskowych spotkań i biegania w tunice?</p>
+
+<p>Nie zapomnij również o samym Karakalli – cesarzu, który postanowił rozbudować tę termalną świątynię, by zadowolić swoich poddanych (i może też pochwalić się, jak bardzo mu się udało). Pamiętaj tylko, że nie możesz liczyć na gorącą kąpiel, ale możesz liczyć na wspaniałą okazję, by poczuć się jak część tego wielkiego, złożonego świata.</p>
+
+<p>A jeśli znajdziesz czas na zwiedzanie Term, nie zapomnij zrobić selfie na tle tych olbrzymich ruin. To przecież jedna z najstarszych form spa w historii, więc spokojnie możesz pochwalić się, że relaksowałeś się w Rzymie – nawet jeśli woda jest już tylko wspomnieniem.</p>
 
   <h3>Co znajdziesz?</h3>
   <ul>
