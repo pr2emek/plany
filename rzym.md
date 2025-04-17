@@ -591,4 +591,31 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Rzym z dziećmi? To może być cudowna przygoda... albo emocjonalny rollercoaster z lodami, fontannami i kryzysem przy piątej ruinie. Ale spokojnie – mamy dla Ciebie listę miejsc, które naprawdę podobają się <em>i dorosłym, i dzieciom</em>. Bez nudy, za to z pizzą i przygodą!
   </p>
-  
+  <h2>🛝 1. Place zabaw – oazy radości</h2>
+<p>
+  Tak, istnieją! Co prawda nie na każdym rogu, ale gdy już znajdziesz <strongdobry rzymski plac zabaw</strong>, to dzieciaki szaleją, a Ty wreszcie możesz usiąść na ławce i udawać, że ogarniasz plan zwiedzania. 😉 
+</p>
+<ul>
+  <li><strong>Villa Borghese</strong> – kilka fajnych placów, m.in. przy Bioparco</li>
+  <li><strong>Piazza San Cosimato</strong> (Trastevere) – świetne miejsce na popołudniowy chill</li>
+  <li><strong>Parco Savello</strong> (Ogród Pomarańczowy) – plac mały, ale za to z widokiem!</li>
+  <li><strong>Villa Doria Pamphilj</strong> – wielki park z miejscem do biegania i bawienia się do woli</li>
+</ul>
+<p>
+  Uwaga: nie wszystkie place mają cień, więc w letnie południe dzieci i zjeżdżalnie się topią. Wybieraj rano lub późnym popołudniem – i weź butelkę wody!
+</p>
+
+<h3>🦁 2. Bioparco – czyli rzymskie zoo</h3>
+<p>
+  W samym sercu <strong>Villa Borghese</strong> czeka na Was ponad 1000 zwierząt, uroczy staw i mnóstwo zieleni. Idealne miejsce, by dzieciaki się wyszalały, a dorośli... no cóż, trochę odpoczęli. 😄
+</p>
+
+<h3>🚂 3. Time Elevator – podróż w czasie (i trochę hałasu)</h3>
+<p>
+  Multimedialne show o historii Rzymu z efektami 4D – fotele się ruszają, dźwięki lecą z każdej strony, dzieci są zachwycone, dorośli lekko skołowani. Ale warto!
+</p>
+
+<h3>🧙 4. Poszukiwanie magicznych miejsc</h3>
+<p>
+  Fontanna Żółwi, dziurka od klucza na Awentynie, ukryte ogrody... Zróbcie z tego <strong>grę miejską</strong>. A może dzieci znajdą „prawdziwego rzymskiego kota” na ruinach Largo di Torre Argentina?
+</p>
