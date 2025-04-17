@@ -41,6 +41,21 @@
       color: #333;
     }
 
+    .has-submenu .submenu {
+      display: none;
+      list-style: none;
+      padding-left: 15px;
+      margin-top: 5px;
+    }
+
+    .has-submenu.active .submenu {
+      display: block;
+    }
+
+    .has-submenu > a {
+      cursor: pointer;
+    }
+
     main {
       flex: 1;
       padding: 40px;
@@ -91,8 +106,25 @@
     </nav>
   </header>
 
-</li>
-       </ul>
+  <div class="container">
+    <aside>
+      <h2>Menu</h2>
+      <ul>
+        <li class="has-submenu">
+          <a href="#" onclick="toggleSubmenu(event)">🇮🇹 Włochy ▼</a>
+          <ul class="submenu">
+            <li><a href="/plany/rzym.html">Rzym</a></li>
+            <li><a href="/plany/neapol.html">Neapol</a></li>
+          </ul>
+        </li>
+        <li class="has-submenu">
+          <a href="#" onclick="toggleSubmenu(event)">🇪🇸 Hiszpania ▼</a>
+          <ul class="submenu">
+            <li><a href="/plany/madryt.html">Madryt</a></li>
+            <li><a href="/plany/barcelona.html">Barcelona</a></li>
+          </ul>
+        </li>
+      </ul>
     </aside>
 
     <main>
@@ -103,6 +135,7 @@
   <footer>
     <p>© {{ site.time | date: "%Y" }} – Strona „plan podróży”</p>
   </footer>
+
   <script>
     function toggleSubmenu(event) {
       event.preventDefault();
