@@ -587,7 +587,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🧒 Co robić z dziećmi w Rzymie (i nie osiwieć)</strong></summary>
+  <summary><strong>🧒 Co robić z dziećmi w Rzymie</strong></summary>
   <p>
     Rzym z dziećmi? To może być cudowna przygoda... albo emocjonalny rollercoaster z lodami, fontannami i kryzysem przy piątej ruinie. Ale spokojnie – mamy dla Ciebie listę miejsc, które naprawdę podobają się <em>i dorosłym, i dzieciom</em>. Bez nudy, za to z pizzą i przygodą!
   </p>
