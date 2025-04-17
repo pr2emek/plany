@@ -108,4 +108,35 @@
           <a href="#" onclick="toggleSubmenu(event)">🇮🇹 Włochy ▼</a>
           <ul class="submenu">
             <li><a href="/rzym.html">Rzym</a></li>
-            <li><a href="/neapol.html">Neapol</a
+            <li><a href="/neapol.html">Neapol</a></li>
+          </ul>
+        </li>
+        <li class="has-submenu">
+          <a href="#" onclick="toggleSubmenu(event)">🇪🇸 Hiszpania ▼</a>
+          <ul class="submenu">
+            <li><a href="/madryt.html">Madryt</a></li>
+            <li><a href="/barcelona.html">Barcelona</a></li>
+          </ul>
+        </li>
+      </ul>
+    </aside>
+
+    <main>
+      <h1>Witaj w dziale Przewodniki</h1>
+      <p>Wybierz kraj po lewej stronie, aby rozwinąć miasta i przejść do przewodników.</p>
+    </main>
+  </div>
+
+  <footer>
+    <p>© {{ site.time | date: "%Y" }} – Strona „plan podróży”</p>
+  </footer>
+
+  <script>
+    function toggleSubmenu(event) {
+      event.preventDefault();
+      const item = event.target.closest('.has-submenu');
+      item.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
