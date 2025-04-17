@@ -615,29 +615,29 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>
  <p>Bioparco di Roma to jedno z najstarszych zoo w Europie, położone w samym sercu Rzymu, w parku Villa Borghese. To idealne miejsce na rodzinny wypad, gdzie dzieci mogą zobaczyć ponad 1000 zwierząt z różnych zakątków świata. Przygoda z fauną, edukacyjne atrakcje i piękne tereny sprawiają, że Bioparco to wspaniały punkt w programie turystycznym.</p>
 
-  <h3>🦁 Co można zobaczyć?</h3>
+  <h4>🦁 Co można zobaczyć?</h4>
   <p>Bioparco to nie tylko zoo, ale również centrum edukacji ekologicznej. Wśród zwierząt znajdziesz: lwy, pandy, egzotyczne ptaki, małpy, goryle, a także inne rzadkie i zagrożone gatunki. To miejsce, gdzie można poznać życie dzikich zwierząt w ich naturalnym środowisku.</p>
 
-  <h3>🦓 Atrakcje dla dzieci</h3>
+  <h4>🦓 Atrakcje dla dzieci</h4>
   <p>Bioparco jest rajem dla dzieci! Oprócz zwierząt, dzieci mogą bawić się w specjalnych strefach edukacyjnych, korzystać z interaktywnych eksponatów i spędzać czas w placach zabaw, które znajdują się na terenie zoo. Możliwość uczestniczenia w pokazach karmienia zwierząt również sprawia, że wizyty są pełne emocji.</p>
 
-  <h3>🚶‍♂️ Gdzie to jest?</h3>
+  <h4>🚶‍♂️ Gdzie to jest?</h4>
   <p>Bioparco znajduje się w parku Villa Borghese, w samym centrum Rzymu. Z łatwością dostaniesz się tam pieszo z głównych atrakcji turystycznych lub komunikacją miejską.</p>
 
-  <h3>🐒 Ciekawostki</h3>
+  <h4>🐒 Ciekawostki</h4>
   <ul>
     <li>Bioparco ma ponad 100 lat historii i jest jednym z najstarszych ogrodów zoologicznych w Europie.</li>
     <li>Oprócz zwiedzania, Bioparco oferuje liczne warsztaty, pokazy karmienia i zajęcia edukacyjne dla dzieci.</li>
   </ul>
 
-  <h3>🕰️ Godziny otwarcia</h3>
+  <h4>🕰️ Godziny otwarcia</h4>
   <p>Bioparco jest otwarte codziennie:</p>
   <ul>
     <li><strong>W sezonie letnim (kwiecień – październik):</strong> 9:30 – 18:00</li>
     <li><strong>W sezonie zimowym (listopad – marzec):</strong> 9:30 – 17:00</li>
   </ul>
 
-  <h3>💰 Cennik</h3>
+  <h4>💰 Cennik</h4>
   <p>Ceny biletów:</p>
   <ul>
     <li><strong>Bilet standardowy:</strong> 16€ (dorośli)</li>
