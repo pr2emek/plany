@@ -453,68 +453,86 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚇 Transport</strong></summary>
+  <h2>🚌 Rzymski transport publiczny, czyli safari po Wiecznym Mieście</h2>
+  <p>
+    Ach, transport publiczny w Rzymie… przygoda sama w sobie. To nie tylko sposób przemieszczania się, to pełnoprawna atrakcja turystyczna. Gotowi? Wsiadamy – najlepiej z otwartym umysłem i zamkniętym portfelem.
+  </p>
+
+  <h3>🚇 Metro – czyli dwa kolory (i jedno marzenie)</h3>
+  <p>
+    Rzymskie metro to jak dwie linijki narysowane w Wordzie: linia A (pomarańczowa) i linia B (niebieska). Trzecia linia C niby istnieje, ale wielu twierdzi, że to mit jak Syrenka w Wiśle. 
+    Metro jeździ, kiedy chce – często, ale niekoniecznie punktualnie. Plus: klimatyzacja! Minus: ciasno jak w słoiku oliwek.
+  </p>
+
+  <h3>🚌 Autobusy – bilet na loterię losu</h3>
+  <p>
+    Autobusy w Rzymie mają osobowość. Czasem przyjadą, czasem nie. Czasem jadą jak szalone, czasem stoją w korku jak rzeźba w muzeum. Ale kiedy już się pojawią – poczujesz się jak gladiator walczący o miejsce siedzące.
+    I pamiętaj: wejście tylko przednimi drzwiami (chyba że akurat nie), a bilety kasuj od razu, bo kontrolerzy są jak ninja – pojawiają się niespodziewanie.
+  </p>
+
+  <h3>🚋 Tramwaje – wehikuły czasu</h3>
+  <p>
+    Rzymskie tramwaje mają swój styl. Czasem wyglądają jak wyciągnięte z lat 70., czasem jak z przyszłości (ale głównie z lat 70.). Ich trasy to tajemnica – nie wiadomo, dokąd jadą, ale z pewnością będzie to podróż pełna niespodzianek.
+  </p>
+
+  <h3>🎫 Bilety – papierowe amulety</h3>
+  <p>
+    Bilet kosztuje ok. 1,50€ i działa przez 100 minut. Można kupić w kioskach, automatach i niektórych barach z espresso. Ważne: biletu <strong>nie kasujesz, nie istniejesz</strong>. A jeśli kasownik się zepsuł – no cóż… ryzykujesz jak w ruletce.
+  </p>
+
+  <h3>🛵 Alternatywy? Ależ proszę!</h3>
   <ul>
-  <p>Rzym oferuje dobrze rozwiniętą sieć transportu publicznego obejmującą metro, autobusy, tramwaje i pociągi podmiejskie. System jest zarządzany głównie przez firmę <strong>ATAC</strong>.</p>
-
-<h2>Rodzaje transportu</h2>
-
-<ul>
-  <li><strong>Metro</strong> – 3 linie: A (pomarańczowa), B (niebieska), C (zielona). Kursuje co kilka minut.</li>
-  <li><strong>Autobusy</strong> – sieć obejmuje cały Rzym. Autobusy bywają zatłoczone i niepunktualne, ale pozwalają dotrzeć do miejsc niedostępnych metrem.</li>
-  <li><strong>Tramwaje</strong> – wygodne na krótkie dystanse. Linia 8 jest szczególnie użyteczna dla turystów.</li>
-  <li><strong>Pociągi podmiejskie (Trenitalia / FL)</strong> – przydatne do dojazdu z lotnisk i na obrzeża miasta.</li>
-</ul>
-
-<h2>Bilety</h2>
-
-<p>Ten sam bilet obowiązuje w metrze, autobusach, tramwajach i pociągach regionalnych FL (w granicach Rzymu). Bilety należy skasować przed wejściem lub od razu po wejściu do pojazdu.</p>
-
-<ul>
-  <li><strong>BIT</strong> (100 minut): €1,50</li>
-  <li><strong>ROMA 24H</strong>: €7,00</li>
-  <li><strong>ROMA 48H</strong>: €12,50</li>
-  <li><strong>ROMA 72H</strong>: €18,00</li>
-  <li><strong>CIS</strong> (7 dni): €24,00</li>
-</ul>
-
-<h2>Gdzie kupić bilety?</h2>
-<ul>
-  <li>Automaty w metrze i na większych przystankach</li>
-  <li>Sklepy typu tabaccheria (oznaczone literą „T”)</li>
-  <li>Niektóre kioski z prasą</li>
-  <li>Aplikacje mobilne, np. <strong>myCicero</strong> lub <strong>Tabnet</strong></li>
-</ul>
-
-<h2>Lotniska</h2>
-
-<ul>
-  <li><strong>Fiumicino (FCO)</strong> – główne lotnisko. Dojazd:
-    <ul>
-      <li><em>Leonardo Express</em> (pociąg bezpośredni do Termini, €14, 32 min)</li>
-      <li><em>Pociąg FL1</em> (do stacji Trastevere, Tuscolana lub Tiburtina)</li>
-      <li>Autobusy Terravision, SitBus (ok. €6, 45-60 min)</li>
-    </ul>
-  </li>
-  <li><strong>Ciampino (CIA)</strong> – mniejsze lotnisko. Dojazd:
-    <ul>
-      <li>Autobus + pociąg z Ciampino stazione</li>
-      <li>Bezpośrednie autobusy do Termini (Terravision, SitBus)</li>
-    </ul>
-  </li>
-</ul>
-
-<h2>Przydatne wskazówki</h2>
-
-<ul>
-  <li>Metro działa od 5:30 do 23:30 (w piątki i soboty do 1:30).</li>
-  <li>Niektóre autobusy nocne oznaczone są literą „N”.</li>
-  <li>Sprawdź trasę na Google Maps lub w aplikacji Moovit.</li>
-  <li>Bądź ostrożny – kieszonkowcy działają zwłaszcza w metrze i na Termini!</li>
-</ul>
-
-<p>Więcej informacji: <a href="https://www.atac.roma.it" target="_blank">www.atac.roma.it</a></p>
+    <li><strong>Elektryczne hulajnogi:</strong> Super, jeśli chcesz poczuć się jak James Bond… albo jechać 12 km/h w tłumie turystów.</li>
+    <li><strong>Rowerki miejskie:</strong> Idealne, jeśli nie boisz się brukowanych ulic i… rzymskiego ruchu.</li>
+    <li><strong>Spacer:</strong> Najpewniejszy transport w Rzymie. Z widokiem na kolumny, fontanny i koty.</li>
   </ul>
+
+  <p>
+    Podsumowując: transport publiczny w Rzymie to nie tylko środek do celu – to <strong>część rzymskiego doświadczenia</strong>. Trochę chaosu, trochę uroku i mnóstwo historii… również w autobusie!
+  </p>
+  <h3>🎟️ Bilety 24h, 48h, 72h – czyli jazda bez ograniczeń (prawie)</h3>
+  <p>
+    Jeśli planujesz zwiedzać jak szalony – z rana Koloseum, w południe Bazylika, wieczorem gelato w Trastevere – to bilety czasowe są dla Ciebie! Co mamy w ofercie Wiecznego Miasta?
+  </p>
+  <ul>
+    <li><strong>BIT (100 minut)</strong> – bilet ekspresowy. Idealny na szybki skok do metra i ucieczkę przed upałem (1,50€).</li>
+    <li><strong>Roma 24H</strong> – 7€: jeździsz ile dusza zapragnie przez dobę. Tylko pamiętaj, że doba = 24h od skasowania, a nie „do końca dnia”.</li>
+    <li><strong>Roma 48H</strong> – 12,50€: dla średnio ambitnych podróżników z planem na dwa dni rzymskiej przygody.</li>
+    <li><strong>Roma 72H</strong> – 18€: trzy dni, tysiąc kroków, dwie kawy dziennie i zero stresu z biletami.</li>
+    <li><strong>CIS (bilet tygodniowy)</strong> – 24€: jeśli Rzym to Twoja druga Toskania, to bilet na tydzień to strzał w dziesiątkę (i kolano, bo dużo chodzenia).</li>
+  </ul>
+  <p>
+    Bilety działają w metrze, autobusach, tramwajach i pociągach regionalnych w obrębie miasta (czyli NIE dojazd do lotniska). Kasy, kioski i automaty czekają – tylko Ty możesz zdecydować, ile Roma da Ci z siebie!
+  </p>
+
+<h3>✈️ Jak przeżyć transport z lotnisk (i nie zbankrutować)</h3>
+
+<p>
+  Przyleciałeś do Rzymu z głową pełną marzeń i walizką pełną klapek? Świetnie! Teraz jeszcze tylko trzeba <em>jakoś</em> dostać się do centrum. Spokojnie, Rzym ma dla Ciebie kilka opcji – od ekspresów po aplikacje z XXI wieku.
+</p>
+
+<h4>🛬 Fiumicino (Leonardo da Vinci) – czyli główne lotnisko</h4>
+<ul>
+  <li><strong>Leonardo Express</strong> – pociąg premium (czyli droższy). Jedzie prosto na dworzec Termini bez przystanków w 32 minuty. Koszt? 14€ – za luksus braku przesiadek i klimatyzację.</li>
+  <li><strong>Regionale FL1</strong> – tańszy pociąg (8€), ale nie dojeżdża na Termini, tylko np. do Trastevere czy Tiburtina. Dla tych, którzy lubią kombinować i przesiadki traktują jak sport ekstremalny.</li>
+  <li><strong>Autobus</strong> – dużo firm, dużo opcji. Przejazd za 5–7€, ale czasem możesz zdążyć obejrzeć "Rzymskie wakacje" po drodze (czytaj: korki).</li>
+  <li><strong>Taksówka</strong> – oficjalna taryfa to 50€ do centrum. Upewnij się, że to biała taksówka z napisem „Comune di Roma”, a nie „wujek Giuseppe z własnym Fiatem Panda”.</li>
+  <li><strong>Uber, Bolt, FreeNow</strong> – są dostępne, ale <em>uwaga</em>: Uber we Włoszech to głównie Uber Black (czyli wersja „biznes klasy z krawatem”) – więc nie zdziw się ceną wyższą niż lot Ryanairem. FreeNow i Bolt często mają bardziej przyziemne ceny, ale czas oczekiwania bywa rzymsko... rozciągliwy.</li>
+</ul>
+
+<h4>🛬 Ciampino – mniejsze, ale też potrafi zaskoczyć</h4>
+<ul>
+  <li><strong>Autobus + metro</strong> – z lotniska jedziesz autobusem do stacji metra <em>Anagnina</em>, potem czerwoną linią A do centrum. Całość tania (ok. 2€), ale trwa tyle, co spokojny spacer przez całe Forum Romanum.</li>
+  <li><strong>Bezpośredni autobus</strong> – np. Terravision, SitBus, FlixBus. Ceny od 4€, czas jazdy 40–60 minut (albo 80, jak kierowca lubi krajobrazy).</li>
+  <li><strong>Taksówka</strong> – stała opłata 31€ do centrum. Ale znów: tylko oficjalne, białe taksówki. Inne mogą zabrać Cię do Florencji... przez Watykan.</li>
+  <li><strong>Uber, Bolt, FreeNow</strong> – opcje dostępne, choć podobnie jak na Fiumicino, Uber to głównie wersja luksusowa. FreeNow i Bolt to czasem strzał w dziesiątkę – a czasem czekasz dłużej niż na bagaż.</li>
+</ul>
+
+<p>
+  <strong>Pro tip:</strong> sprawdź godziny kursowania transportu <em>przed</em> lotem powrotnym. W Rzymie nie wszystko jeździ o 4:00 rano – oprócz gołębi i Twojego stresu.
+</p>
+
+  
 </details>
 
 ---
