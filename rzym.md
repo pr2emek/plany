@@ -593,7 +593,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
   
 <div class="naglowek-dzieci">
-<img src="{{ '/assets/images/Co_robic_z_dziecmi_rzym.png' | relative_url }}" alt="Co robić z dziećmi w Rzymie">
+<img src="{{ '/assets/images/Co_robic_z_dziecmi_rzym.png' | relative_url }}" alt="Co robić z dziećmi w Rzymie style="height: 500px; width: auto;">
 </div>
   
   <h2>🛝 1. Place zabaw – oazy radości</h2>
