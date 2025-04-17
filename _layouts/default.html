@@ -4,28 +4,111 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
- </head>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    aside {
+      width: 250px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    }
+
+    aside h2 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    aside ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    aside ul li {
+      margin-bottom: 10px;
+    }
+
+    aside ul li a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    main {
+      flex: 1;
+      padding: 40px;
+    }
+
+    header, footer {
+      padding: 20px;
+      background-color: #fff;
+      border-bottom: 1px solid #ccc;
+      text-align: center;
+    }
+
+    footer {
+      border-top: 1px solid #ccc;
+      margin-top: 40px;
+    }
+
+    nav ul.top-menu {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    nav ul.top-menu li a {
+      text-decoration: none;
+      font-weight: bold;
+      color: #444;
+    }
+
+    nav ul.top-menu li a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
 <body>
   <header>
     <h1>{{ site.title }}</h1>
     <p>{{ site.description }}</p>
     <nav>
-      <ul style="list-style: none; padding: 0; display: flex; gap: 1rem;">
+      <ul class="top-menu">
         <li><a href="/plany/index.html">Start</a></li>
         <li><a href="/plany/przewodniki.html">Przewodniki</a></li>
         <li><a href="/plany/kontakt.html">Kontakt</a></li>
       </ul>
     </nav>
-    <hr>
   </header>
 
-  <main>
-    {{ content }}
-  </main>
+  <div class="container">
+    <aside>
+      <h2>Menu</h2>
+      <ul>
+        <li><a href="/plany/rzym.html">Rzym</a></li>
+        <li><a href="#co-zobaczyc">Co zobaczyć</a></li>
+        <li><a href="#transport">Transport</a></li>
+        <li><a href="#dzieci">Dzieci</a></li>
+        <li><a href="#ciekawostki">Ciekawostki</a></li>
+      </ul>
+    </aside>
+
+    <main>
+      {{ content }}
+    </main>
+  </div>
 
   <footer>
-    <hr>
-    <p>© {{ site.time | date: "%Y" }} – Strona „plan podrozy”</p>
+    <p>© {{ site.time | date: "%Y" }} – Strona „plan podróży”</p>
   </footer>
 </body>
 </html>
