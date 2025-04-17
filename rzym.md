@@ -591,6 +591,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Rzym z dziećmi? To może być cudowna przygoda... albo emocjonalny rollercoaster z lodami, fontannami i kryzysem przy piątej ruinie. Ale spokojnie – mamy dla Ciebie listę miejsc, które naprawdę podobają się <em>i dorosłym, i dzieciom</em>. Bez nudy, za to z pizzą i przygodą!
   </p>
+
+<img src="{{ '/assets/images/Co_robic_z_dziecmi_rzym.png' | relative_url }}" alt="Co robić z dziećmi w Rzymie">
+  
   <h2>🛝 1. Place zabaw – oazy radości</h2>
 <p>
   Tak, istnieją! Co prawda nie na każdym rogu, ale gdy już znajdziesz <strongdobry rzymski plac zabaw</strong>, to dzieciaki szaleją, a Ty wreszcie możesz usiąść na ławce i udawać, że ogarniasz plan zwiedzania. 😉 
