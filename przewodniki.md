@@ -93,9 +93,9 @@
     <p>Twoje przewodniki po Europie</p>
     <nav>
       <ul class="top-menu">
-        <li><a href="/plany/index.html">Start</a></li>
-        <li><a href="/plany/przewodniki.html">Przewodniki</a></li>
-        <li><a href="/plany/kontakt.html">Kontakt</a></li>
+        <li><a href="/index.html">Start</a></li>
+        <li><a href="/przewodniki.html">Przewodniki</a></li>
+        <li><a href="/kontakt.html">Kontakt</a></li>
       </ul>
     </nav>
   </header>
@@ -107,5 +107,5 @@
         <li class="has-submenu">
           <a href="#" onclick="toggleSubmenu(event)">🇮🇹 Włochy ▼</a>
           <ul class="submenu">
-            <li><a href="/plany/rzym.html">Rzym</a></li>
-            <li><a href="/plany/neapol.html">Neapol</a
+            <li><a href="/rzym.html">Rzym</a></li>
+            <li><a href="/neapol.html">Neapol</a
