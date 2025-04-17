@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      display: flex;
+      min-height: 100vh;
+    }
+
+    aside {
+      width: 250px;
+      background-color: #f2f2f2;
+      padding: 20px;
+      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    }
+
+    aside h2 {
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+    }
+
+    aside ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    aside ul li {
+      margin-bottom: 10px;
+    }
+
+    aside ul li a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    .has-submenu .submenu {
+      display: none;
+      list-style: none;
+      padding-left: 15px;
+      margin-top: 5px;
+    }
+
+    .has-submenu.active .submenu {
+      display: block;
+    }
+
+    .has-submenu > a {
+      cursor: pointer;
+    }
+
+    main {
+      flex: 1;
+      padding: 40px;
+    }
+
+    header, footer {
+      padding: 20px;
+      background-color: #fff;
+      border-bottom: 1px solid #ccc;
+      text-align: center;
+    }
+
+    footer {
+      border-top: 1px solid #ccc;
+      margin-top: 40px;
+    }
+
+    nav ul.top-menu {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    nav ul.top-menu li a {
+      text-decoration: none;
+      font-weight: bold;
+      color: #444;
+    }
+
+    nav ul.top-menu li a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+    <nav>
+      <ul class="top-menu">
+        <li><a href="/plany/index.html">Start</a></li>
+        <li><a href="/plany/przewodniki.html">Przewodniki</a></li>
+        <li><a href="/plany/kontakt.html">Kontakt</a></li>
+        <li><a href="/plany/omnie.html">O mnie</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    
+    <main>
+      {{ content }}
+    </main>
+  </div>
+
+  <footer>
+    <p>© {{ site.time | date: "%Y" }} – Strona „plan podróży”</p>
+  </footer>
+
+  <script>
+    function toggleSubmenu(event) {
+      event.preventDefault();
+      const item = event.target.closest('.has-submenu');
+      item.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
