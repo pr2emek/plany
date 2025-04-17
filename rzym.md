@@ -453,7 +453,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚌 Rzymski transport publiczny, czyli safari po Wiecznym Mieście</strong></summary>
+  <summary><strong>🚌 Transport publiczny</strong></summary>
     <p>
     Ach, transport publiczny w Rzymie… przygoda sama w sobie. To nie tylko sposób przemieszczania się, to pełnoprawna atrakcja turystyczna. Gotowi? Wsiadamy – najlepiej z otwartym umysłem i zamkniętym portfelem.
   </p>
