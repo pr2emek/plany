@@ -12,10 +12,4 @@ permalink: /przewodniki.html
   </main>
 </div>
 
-<script>
-  function toggleSubmenu(event) {
-    event.preventDefault();
-    const item = event.target.closest('.has-submenu');
-    item.classList.toggle('active');
-  }
-</script>
+
