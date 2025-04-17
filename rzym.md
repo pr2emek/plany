@@ -538,7 +538,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🤔 Ciekawostki</strong></summary>
+  <summary><strong>🤔 Legendy</strong></summary>
   <ul>
     <hr>
 
