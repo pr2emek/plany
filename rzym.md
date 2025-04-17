@@ -613,7 +613,40 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <h3>🦁 2. Bioparco – czyli rzymskie zoo</h3>
 <p>
-  W samym sercu <strong>Villa Borghese</strong> czeka na Was ponad 1000 zwierząt, uroczy staw i mnóstwo zieleni. Idealne miejsce, by dzieciaki się wyszalały, a dorośli... no cóż, trochę odpoczęli. 😄
+ <p>Bioparco di Roma to jedno z najstarszych zoo w Europie, położone w samym sercu Rzymu, w parku Villa Borghese. To idealne miejsce na rodzinny wypad, gdzie dzieci mogą zobaczyć ponad 1000 zwierząt z różnych zakątków świata. Przygoda z fauną, edukacyjne atrakcje i piękne tereny sprawiają, że Bioparco to wspaniały punkt w programie turystycznym.</p>
+
+  <h3>🦁 Co można zobaczyć?</h3>
+  <p>Bioparco to nie tylko zoo, ale również centrum edukacji ekologicznej. Wśród zwierząt znajdziesz: lwy, pandy, egzotyczne ptaki, małpy, goryle, a także inne rzadkie i zagrożone gatunki. To miejsce, gdzie można poznać życie dzikich zwierząt w ich naturalnym środowisku.</p>
+
+  <h3>🦓 Atrakcje dla dzieci</h3>
+  <p>Bioparco jest rajem dla dzieci! Oprócz zwierząt, dzieci mogą bawić się w specjalnych strefach edukacyjnych, korzystać z interaktywnych eksponatów i spędzać czas w placach zabaw, które znajdują się na terenie zoo. Możliwość uczestniczenia w pokazach karmienia zwierząt również sprawia, że wizyty są pełne emocji.</p>
+
+  <h3>🚶‍♂️ Gdzie to jest?</h3>
+  <p>Bioparco znajduje się w parku Villa Borghese, w samym centrum Rzymu. Z łatwością dostaniesz się tam pieszo z głównych atrakcji turystycznych lub komunikacją miejską.</p>
+
+  <h3>🐒 Ciekawostki</h3>
+  <ul>
+    <li>Bioparco ma ponad 100 lat historii i jest jednym z najstarszych ogrodów zoologicznych w Europie.</li>
+    <li>Oprócz zwiedzania, Bioparco oferuje liczne warsztaty, pokazy karmienia i zajęcia edukacyjne dla dzieci.</li>
+  </ul>
+
+  <h3>🕰️ Godziny otwarcia</h3>
+  <p>Bioparco jest otwarte codziennie:</p>
+  <ul>
+    <li><strong>W sezonie letnim (kwiecień – październik):</strong> 9:30 – 18:00</li>
+    <li><strong>W sezonie zimowym (listopad – marzec):</strong> 9:30 – 17:00</li>
+  </ul>
+
+  <h3>💰 Cennik</h3>
+  <p>Ceny biletów:</p>
+  <ul>
+    <li><strong>Bilet standardowy:</strong> 16€ (dorośli)</li>
+    <li><strong>Bilet ulgowy:</strong> 13€ (dzieci 3-12 lat, seniorzy powyżej 65. roku życia)</li>
+    <li><strong>Bilet rodzinny (2 dorosłych + 2 dzieci):</strong> 50€</li>
+    <li><strong>Bilet dla dzieci poniżej 3. roku życia:</strong> darmowy</li>
+  </ul>
+
+  <p>Warto zaplanować wizytę, bo Bioparco to nie tylko zoo, ale prawdziwa przygoda z naturą!</p>
 </p>
 
 <h3>🚂 3. Time Elevator – podróż w czasie (i trochę hałasu)</h3>
