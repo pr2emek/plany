@@ -5,4 +5,14 @@ title: Strona główna
 
 # Witaj na stronie **plan pozdróży**!
 
-Plany Podróży to blog dla tych, którzy lubią wiedzieć, gdzie iść, zanim zgubią się w nowym mieście. Znajdziesz tu przewodniki po miastach, opisy zabytków (tych znanych i tych „a co to w ogóle jest?”), triki na poruszanie się transportem bez paniki i gotowe plany zwiedzania – bo czasem dobrze mieć plan, zanim zacznie się improwizować!
+Plany Podróży to blog dla tych, którzy lubią mieć wszystko ogarnięte… zanim dadzą się porwać urokowi błądzenia po nieznanym mieście. Jeśli należysz do osób, które jeszcze przed wyjazdem wertują mapy, zapisują ciekawostki i układają trasę spaceru z dokładnością do najbliższego przystanku tramwajowego – jesteś u siebie!
+
+Znajdziesz tu przewodniki po miastach – tych znanych, mniej znanych i zupełnie „z przypadku”. Opisujemy zabytki (zarówno klasyki z pocztówek, jak i te, przy których trzeba się chwilę zastanowić: „czy to coś ważnego?”), dajemy triki na poruszanie się transportem publicznym bez stresu i paniki, oraz podrzucamy gotowe plany zwiedzania – dla tych, którzy lubią improwizować, ale najlepiej zaczynając od dobrze przemyślanego planu.
+
+Mamy też dział dla rodzin z dziećmi – bo podróż z maluchem to zupełnie inna przygoda! Podpowiadamy, gdzie iść, żeby dzieci się nie nudziły, a dorośli nie padli z wyczerpania. Przyjazne muzea, parki, atrakcje dla całej rodziny i trasy spacerowe, które da się przejść z wózkiem.
+
+A ponieważ zwiedzanie na głodniaka to zbrodnia, znajdziesz tu również polecajki kulinarne – od lokalnych knajpek z klimatem, przez miejsca z szybkimi i dobrymi opcjami w centrum, aż po te perełki, do których warto zboczyć z trasy (choćby dla samego deseru).
+
+Dla miłośników pięknych kadrów podrzucamy też najciekawsze instaspoty – miejsca z widokiem, światłem i klimatem, które aż się proszą o dobre zdjęcie (albo kilka). Bo kto nie lubi ładnego tła do wspomnień?
+
+To blog dla tych, którzy lubią mieć plan – ale też nie boją się go porzucić, kiedy pojawi się coś ciekawszego za rogiem. Zajrzyj, zainspiruj się i zaplanuj kolejną podróż z głową… i z apetytem. I z miejscem w pamięci telefonu!
