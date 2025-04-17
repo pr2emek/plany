@@ -103,5 +103,12 @@
   <footer>
     <p>© {{ site.time | date: "%Y" }} – Strona „plan podróży”</p>
   </footer>
+  <script>
+    function toggleSubmenu(event) {
+      event.preventDefault();
+      const item = event.target.closest('.has-submenu');
+      item.classList.toggle('active');
+    }
+  </script>
 </body>
 </html>
