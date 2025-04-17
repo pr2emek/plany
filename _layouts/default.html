@@ -107,7 +107,26 @@
   </header>
 
   <div class="container">
-    
+    <aside>
+      <h2>Przewodniki</h2>
+      <ul>
+        <li class="has-submenu">
+          <a href="#">Włochy</a>
+          <ul class="submenu">
+            <li><a href="/plany/italy/rome.html">Rzym</a></li>
+            <li><a href="/plany/italy/naples.html">Neapol</a></li>
+          </ul>
+        </li>
+        <li class="has-submenu">
+          <a href="#">Hiszpania</a>
+          <ul class="submenu">
+            <li><a href="/plany/spain/madrid.html">Madryt</a></li>
+            <li><a href="/plany/spain/barcelona.html">Barcelona</a></li>
+          </ul>
+        </li>
+      </ul>
+    </aside>
+
     <main>
       {{ content }}
     </main>
@@ -123,6 +142,11 @@
       const item = event.target.closest('.has-submenu');
       item.classList.toggle('active');
     }
+
+    // Add event listeners to toggle submenus
+    document.querySelectorAll('.has-submenu > a').forEach(item => {
+      item.addEventListener('click', toggleSubmenu);
+    });
   </script>
 </body>
 </html>
