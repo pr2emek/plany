@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layoutsprzewodnik
 title: Rzym
 permalink: /rzym.html
 ---
