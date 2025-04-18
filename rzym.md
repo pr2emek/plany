@@ -606,9 +606,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <img src="{{ '/assets/images/Co_robic_z_dziecmi_rzym.png' | relative_url }}" alt="Co robić z dziećmi w Rzymie" style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-  </div>
-  
-  <h2>🛝 1. Place zabaw – oazy radości</h2>
+    <h2>🛝 1. Place zabaw – oazy radości</h2>
 <p>
   Tak, istnieją! Co prawda nie na każdym rogu, ale gdy już znajdziesz <strongdobry rzymski plac zabaw</strong>, to dzieciaki szaleją, a Ty wreszcie możesz usiąść na ławce i udawać, że ogarniasz plan zwiedzania. 😉 
 </p>
