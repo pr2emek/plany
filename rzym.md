@@ -597,6 +597,7 @@ Pierwszy dzień za Tobą? Gratulacje, przetrwałeś starożytność, tłumy i pr
   <p>
     Idealny finał dnia. Punkt widokowy, z którego zobaczysz całe Wieczne Miasto jak na dłoni. Jeśli trafisz na godzinę 12:00 – zobaczysz strzał z armaty. Jeśli nie – też warto!
   </li>
+    </ol>
   
 <p>
 Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczony. Przeszedłeś przez historię, sztukę, bazyliki, kopuły i być może kilka pamiątkowych straganów z magnesami „Made in China”. Teraz czas na pizzę, kieliszek wina i zasłużony odpoczynek. A jutro? Więcej Może chill nad Tybrem? A może jeszcze jedna runda gelato. Bo w Rzymie każda wymówka jest dobra.
@@ -611,6 +612,7 @@ Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczon
       Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
     </p>
   </details>
+  
    </details>
 
 ---
