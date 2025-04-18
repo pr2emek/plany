@@ -754,3 +754,52 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>
   Fontanna Żółwi, dziurka od klucza na Awentynie, ukryte ogrody... Zróbcie z tego <strong>grę miejską</strong>. A może dzieci znajdą „prawdziwego rzymskiego kota” na ruinach Largo di Torre Argentina?
 </p>
+
+---
+
+<details>
+  <summary><strong>🧒 Gdzie zjesc? </strong></summary>
+  <article>
+    <h3>1. Trattoria Da Enzo al 29 (Trastevere)</h3>
+   <p>Załóż wygodne buty, bo czeka Cię spacer do prawdziwego rzymskiego skarbu! Trattoria Da Enzo to miejsce, które zdobyło serca lokalnych smakoszy i turystów, którzy zdążyli usłyszeć o nim w „kręgach wtajemniczonych”. Wchodzisz do środka, a tam… drewniane stoły, włoska muzyka, zapach makaronu w powietrzu i uśmiechnięta obsługa, która podchodzi do każdego jak do starego przyjaciela. Czeka Cię prawdziwa podróż kulinarna – od kremowej carbonary po prawdziwy klasyk: cacio e pepe, czyli makaron z serem i pieprzem. A wino? Czerwone jak rzymski zachód słońca – lokalne, tanie i idealne na kieliszek lub dwa. Nie przyjmują rezerwacji, więc bądź gotowy na walkę o miejsce, ale nie martw się – atmosfera jest tak ciepła, że i tak poczujesz się jak u siebie.</p>
+     <p><strong>Kuchnia:</strong> klasyczna rzymska</p>
+    <p><strong>Najlepsze dania:</strong> Carbonara, Cacio e Pepe, Saltimbocca alla Romana</p>
+    <p><strong>Alkohol:</strong> domowe wino czerwone, Aperol Spritz, Campari, lokalne wina butelkowe</p>
+  
+  </article>
+
+  <article>
+    <h3>2. Trattoria Luzzi (Esquilino)</h3>
+    <p>Luzzi to typowa trattoria, której nie trzeba przedstawiać – jeśli przyjechałeś do Rzymu i nie odwiedziłeś tej świątyni wstępnej wersji rzymskiego fast foodu, to jakbyś nie był w stolicy Włoch! Szybko i pysznie, prosto z pieca opalanego drewnem – pizza cienka jak bibuła, ale na tyle smaczna, że nie potrzebujesz szukać niczego innego. A jeśli masz czas na coś więcej niż tylko pizzę, to wpadnij na klasyczną amatricianę – cała kuchnia w jednym talerzu. I nie zapomnij o winie! W Luzzi nie musisz wybierać drogiego trunku, bo każde wino jest jak prawdziwy rzymski przyjaciel – tani, ale zawsze sprawdza się w sytuacji. A jeśli już szukasz czegoś z wyższej półki, to limoncello na deser na pewno Cię zaskoczy!</p>
+    <p><strong>Kuchnia:</strong> tradycyjna, domowa</p>
+    <p><strong>Najlepsze dania:</strong> Lasagne, Amatriciana, Pizza z pieca opalanego drewnem</p>
+    <p><strong>Alkohol:</strong> tanie wino domowe, włoskie piwa (Peroni, Nastro Azzurro), limoncello</p>
+
+  </article>
+
+  <article>
+    <h3>3. Mimì e Cocò (Via del Governo Vecchio)</h3>
+    <p>Jeśli planujesz romantyczną kolację (albo po prostu chcesz poczuć się jak bohater włoskiego filmu), to Mimì e Cocò będzie idealnym miejscem! Mniejsze niż twój dom, ale za to bardziej stylowe. Restauracja ma takie klimatyczne wnętrze, że nawet grube warstwy makijażu nie przykryją wrażenia, jakie robi na Tobie wystrój. Wchodzisz i od razu wiesz – to miejsce ma duszę. Po pierwsze, jedzenie: tagliatelle z truflami, fettuccine z pancettą… kto by się oprzeć? A tiramisu na deser? Cóż, to już nie deser – to prawdziwe włoskie doświadczenie, które przeżywasz z każdym kęsem. A do tego? Wino, które będzie tańsze od Twojego biletu do Rzymu, ale za to równie dobre jak widok na Koloseum o zachodzie słońca. Mimì e Cocò to miejsce, w którym zakochasz się od pierwszego kęsa (i kieliszka wina).</p>
+    <p><strong>Kuchnia:</strong> włoska, domowa</p>
+    <p><strong>Najlepsze dania:</strong> Tagliatelle z truflami, Fettuccine z pancettą, Tiramisu</p>
+    <p><strong>Alkohol:</strong> lokalne wina czerwone i białe, Negroni, Hugo, butelki prosecco</p>
+    
+  </article>
+
+  <article>
+    <h3>4. Paciotti Salumeria (Aurelio)</h3>
+    <p>Jeśli jesteś fanem włoskich przysmaków, ale nie chcesz stać w kolejkach do luksusowych sklepów, to Paciotti Salumeria to dla Ciebie idealne miejsce. Zamiast w restauracji, zajmujesz miejsce przy małym stoliku w środku delikatesów i zaczynasz prawdziwą włoską ucztę. Deska serów, wędliny, karczochy, oliwki – tu nie chodzi o to, żeby jeść jak w restauracji, ale raczej jak prawdziwy Włoch, który wie, że najlepsze wino i jedzenie trzeba spożywać w towarzystwie. I tu, w tym małym raju, możesz spróbować lokalnych win, a jeśli masz ochotę na coś mocniejszego – limoncello będzie idealnym dopełnieniem tej podróży smakowej. Paciotti to taki włoski sklep, który sprawia, że poczujesz się jak miejscowy, który przyszedł na przekąskę do swojego ulubionego miejsca.</p>
+    <p><strong>Kuchnia:</strong> delikatesowa, lunch/degustacja</p>
+    <p><strong>Najlepsze dania:</strong> deska serów i wędlin, panini z mortadelą, oliwki, karczochy</p>
+    <p><strong>Alkohol:</strong> regionalne wina na kieliszki lub butelki, czasem degustacje, włoskie likiery</p>
+  </article>
+
+  <article>
+    <h3>5. La Tradizione (Prati/Cipro)</h3>
+    <p>Jeśli kiedykolwiek marzyłeś o zakupach w sklepie, który mógłby konkurować z Twoją kuchnią (i to bez przepłacania za markowe produkty), La Tradizione spełni te oczekiwania. To jak wejście do świata rzymskich specjałów – od oliwy, przez wina, po domowe sosy i makaron. W tym miejscu kupisz wszystko, czego potrzebujesz do kulinarnej uczty (albo po prostu zjesz na miejscu). Jeśli masz ochotę na prawdziwe włoskie danie, wybierz gnocchi alla romana lub paste al forno – jak u babci, ale w wersji „gourmet”. A do tego? Kilka kieliszków lokalnego wina, które w La Tradizione jest jak najlepszy towarzysz – dobrze dobrany, ale nigdy nie przechodzi granicy taniości. W tym sklepie poczujesz się jak Rzymianin, który wie, gdzie szukać najlepszych smaków.</p>
+    <p><strong>Kuchnia:</strong> kuchnia gotowa + sklep delikatesowy</p>
+    <p><strong>Najlepsze dania:</strong> pasta al forno, gnocchi alla romana, sery długodojrzewające</p>
+    <p><strong>Alkohol:</strong> duży wybór włoskich win, limoncello, amaro, niszowe alkohole</p>
+  </article>
+</details>
+  
