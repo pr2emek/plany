@@ -515,7 +515,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <details>
     <summary><strong>📅 1-dniowy plan</strong></summary>
-    
+        <p>
+    Dzień 1: Muzea Watykańskie, Villa Borghese, Schody hiszpańskie, Via del Corso, Taras Janikulum
+  </p>
  <p>Masz tylko jeden dzień w Rzymie? Spokojnie – nie jesteś sam. Rzym to miasto, w którym można zgubić sandał, serce i pół budżetu – ale warto. Poniżej znajdziesz plan, dzięki któremu zaliczysz największe atrakcje bez potrzeby teleportacji.</p>
 
   <ol>
@@ -562,15 +564,12 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
     <summary><strong>📅 2-dniowy plan</strong></summary>
     <p>
       Dzień 1: jak wyżej<br>
-      Dzień 2: Watykan, Muzea Watykańskie, Bazylika św. Piotra, Panteon, plac Hiszpański
+      Dzień 2: Muzea Watykańskie, Villa Borghese, Schody hiszpańskie, Via del Corso, Taras Janikulum
     </p>
-
-<details>
-  <summary><strong>📅 Dzień 2 – Kultura, chill i szczypta panoramy</strong></summary>
-  <p>
-    Dzień drugi to idealna mieszanka: sztuka, spacery i chwile "dolce far niente". Po wczorajszym maratonie przez starożytność dziś zasługujesz na kulturalny masaż oczu i relaks duszy.
-  </p>
-
+<p>
+Pierwszy dzień za Tobą? Gratulacje, przetrwałeś starożytność, tłumy i prawdopodobnie jedną z lepszych porcji tiramisu w życiu. Teraz czas na poziom drugi: kultura wyższa, więcej zieleni i momenty, w których powiesz: „Ooo, tu bym zamieszkał”. Dzień 2 to mniej biegania (taaa... jasne), więcej zachwytów – i zero wyrzutów sumienia, jeśli skończy się na lodach o 10 rano.
+</p>
+  
   <h3>🖼️ 1. Muzea Watykańskie (41.9065° N, 12.4536° E)</h3>
   <p>
     Jeśli myślisz, że to tylko "papieska galeria" – przygotuj się na ośmiokilometrowy labirynt dzieł sztuki. Kaplica Sykstyńska? Oczywiście. Ale zanim tam dotrzesz, zobaczysz więcej pokoi niż przeciętny włoski hotel.
@@ -595,6 +594,11 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Idealny finał dnia. Punkt widokowy, z którego zobaczysz całe Wieczne Miasto jak na dłoni. Jeśli trafisz na godzinę 12:00 – zobaczysz strzał z armaty. Jeśli nie – też warto!
   </p>
+  
+<p>
+Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczony. Przeszedłeś przez historię, sztukę, bazyliki, kopuły i być może kilka pamiątkowych straganów z magnesami „Made in China”. Teraz czas na pizzę, kieliszek wina i zasłużony odpoczynek. A jutro? Więcej Może chill nad Tybrem? A może jeszcze jedna runda gelato. Bo w Rzymie każda wymówka jest dobra.
+</p>
+
 
 </details>
 
@@ -605,7 +609,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
       Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
     </p>
   </details>
-  
+  </details>
+
+
 ---
 
 <details>
