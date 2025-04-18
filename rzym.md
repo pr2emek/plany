@@ -600,6 +600,8 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
+---
+
 <details>
   <summary><strong>🚌 Transport publiczny</strong></summary>
 
