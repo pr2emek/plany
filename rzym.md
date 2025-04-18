@@ -102,6 +102,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Forum Romanum – serce starożytnego Rzymu</strong></summary>
     <p><em>Współrzędne: 41.8925° N, 12.4853° E</em></p>
+
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/forumromanum.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <p>Witaj na Forum Romanum, miejscu, które kiedyś było epicentrum życia politycznego, towarzyskiego, a także… plotkarskiego w starożytnym Rzymie. Jeśli kiedykolwiek marzyłeś o byciu świadkiem wielkich przemówień i politycznych intryg, to Forum Romanum to miejsce, które spełni Twoje marzenia. Oczywiście, w dzisiejszych czasach jest tu już tylko sporo kamieni, ale dzięki wyobraźni łatwo możesz poczuć się jak obywatel starożytnego Rzymu – tylko z nowoczesnym aparatem i w sandałkach zamiast tuniki.</p>
 
 <p>Forum Romanum było kiedyś areną dla wielkich przemów, politycznych spotkań i... okolicznych plotek. Możesz sobie wyobrazić, jak senatorowie przekrzykiwali się, rzucali oskarżenia i sporządzali plany na przyszłość. I tak, w międzyczasie przechodziły tam także wieści o wojnach, zwycięstwach, a może nawet rzymskich romansach. Z całym tym zamieszaniem w powietrzu, nikt nie myślał, że te ruiny przetrwają przez wieki i staną się turystycznym magnesem.</p>
