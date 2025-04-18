@@ -515,189 +515,119 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <details>
     <summary><strong>📅 1-dniowy plan</strong></summary>
-        <p>
-    Dzień 1: Muzea Watykańskie, Villa Borghese, Schody hiszpańskie, Via del Corso, Taras Janikulum
-  </p>
- <p>Masz tylko jeden dzień w Rzymie? Spokojnie – nie jesteś sam. Rzym to miasto, w którym można zgubić sandał, serce i pół budżetu – ale warto. Poniżej znajdziesz plan, dzięki któremu zaliczysz największe atrakcje bez potrzeby teleportacji.</p>
+    <p>Dzień 1: Koloseum, Forum Romanum, Panteon, Fontanna di Trevi, Piazza Navona, Zamek Świętego Anioła, Watykan</p>
+    <p>Masz tylko jeden dzień w Rzymie? Spokojnie – nie jesteś sam. Rzym to miasto, w którym można zgubić sandał, serce i pół budżetu – ale warto. Poniżej znajdziesz plan, dzięki któremu zaliczysz największe atrakcje bez potrzeby teleportacji.</p>
+    
+    <ol>
+      <li>
+        <strong>🏟️ Koloseum</strong> <em>41.8902° N, 12.4922° E</em><br>
+        Dzień zaczynamy z przytupem – od areny, gdzie kiedyś ścinali głowy, a dziś ścinają ceny na magnesy. Koloseum to symbol Rzymu, duma inżynierii i ulubione tło influencerów. Bądź jak gladiator – odważny, pewny siebie i z butelką wody, bo cienia tu tyle co rozsądku w ruchu ulicznym.
+      </li>
 
-  <ol>
-    <li>
-      <strong>🏟️ Koloseum</strong> <em>41.8902° N, 12.4922° E</em><br>
-      Dzień zaczynamy z przytupem – od areny, gdzie kiedyś ścinali głowy, a dziś ścinają ceny na magnesy. Koloseum to symbol Rzymu, duma inżynierii i ulubione tło influencerów. Bądź jak gladiator – odważny, pewny siebie i z butelką wody, bo cienia tu tyle co rozsądku w ruchu ulicznym.
-    </li>
+      <li>
+        <strong>🏛️ Forum Romanum</strong> <em>41.8925° N, 12.4853° E</em><br>
+        Tu starożytni Rzymianie chodzili na zakupy, obgadywali senatorów i debatowali, kto ma lepszą tunikę.
+      </li>
 
-    <li>
-      <strong>🏛️ Forum Romanum</strong> <em>41.8925° N, 12.4853° E</em><br>
-      Tu starożytni Rzymianie chodzili na zakupy, obgadywali senatorów i debatowali, kto ma lepszą tunikę. Przejdź się ścieżkami sprzed dwóch tysięcy lat i poczuj klimat – najlepiej w sandałach, z miną filozofa. Tylko uważaj – niektóre kamienie są starsze niż Twoje drzewo genealogiczne.
-    </li>
+      <li>
+        <strong>⛪ Panteon</strong> <em>41.8986° N, 12.4768° E</em><br>
+        Kopuła większa niż Twoje plany życiowe i oculus, przez który nawet deszcz ma styl.
+      </li>
 
-    <li>
-      <strong>⛪ Panteon</strong> <em>41.8986° N, 12.4768° E</em><br>
-      Kopuła większa niż Twoje plany życiowe i oculus, przez który nawet deszcz ma styl. Panteon był świątynią wszystkich bogów – dziś to doskonałe miejsce, by zastanowić się, czy wrzucać kolejne zdjęcie na Insta, czy już przesadzasz. Poza tym – chłodno, cicho i majestatycznie. Idealne miejsce na odpoczynek od siebie i turystów.
-    </li>
+      <li>
+        <strong>⛲ Fontanna di Trevi</strong> <em>41.9009° N, 12.4833° E</em><br>
+        Wrzuć monetę, a Rzym Cię wezwie z powrotem. Wrzuć dwie – zakochasz się. Wrzuć trzy – prawdopodobnie zbankrutujesz.
+      </li>
 
-    <li>
-      <strong>⛲ Fontanna di Trevi</strong> <em>41.9009° N, 12.4833° E</em><br>
-      Wrzuć monetę, a Rzym Cię wezwie z powrotem. Wrzuć dwie – zakochasz się. Wrzuć trzy – prawdopodobnie zbankrutujesz. Pamiętaj – nie patrz w tył po rzucie! Fontanna to barokowy majstersztyk i jeden z niewielu powodów, by dobrowolnie stać w tłumie. Uwaga: kieszonkowcy też lubią to miejsce. Nawet bardzo.
-    </li>
+      <li>
+        <strong>🖼️ Piazza Navona</strong> <em>41.8989° N, 12.4731° E</em><br>
+        Tu życie toczy się powoli, jak makaron w ustach zakochanego Włocha.
+      </li>
 
-    <li>
-      <strong>🖼️ Piazza Navona</strong> <em>41.8989° N, 12.4731° E</em><br>
-      Tu życie toczy się powoli, jak makaron w ustach zakochanego Włocha. Fontanna Czterech Rzek zachwyca, artyści uliczni walczą o Twoją uwagę, a kelnerzy przekonują, że „dzisiejsza promocja” obowiązuje tylko dla Ciebie. Idealne miejsce, żeby coś przekąsić – i niekoniecznie chodzi o kanapkę, tylko o małą fortunę w euro.
-    </li>
+      <li>
+        <strong>🏰 Zamek Świętego Anioła</strong> <em>41.9031° N, 12.4663° E</em><br>
+        Wejdź na taras i zobacz Rzym z góry. Widok tak piękny, że nawet Twoja babcia będzie zazdrosna.
+      </li>
 
-    <li>
-      <strong>🏰 Zamek Świętego Anioła</strong> <em>41.9031° N, 12.4663° E</em><br>
-      Kiedy cesarz Hadrian planował swoje mauzoleum, nie wiedział jeszcze, że jego grób stanie się schronieniem papieży i tłem dla 1000 selfie. Wejdź na taras i zobacz Rzym z góry. Widok tak piękny, że nawet Twoja babcia będzie zazdrosna. A po drodze spotkasz gołębie – jedyni stali mieszkańcy zamku.
-    </li>
+      <li>
+        <strong>🎩 Watykan i Bazylika św. Piotra</strong> <em>41.9022° N, 12.4539° E</em><br>
+        Kończymy w najmniejszym państwie świata – ale z największym kościołem!
+      </li>
+    </ol>
 
-    <li>
-      <strong>🎩 Watykan i Bazylika św. Piotra</strong> <em>41.9022° N, 12.4539° E</em><br>
-      Kończymy w najmniejszym państwie świata – ale za to z największym kościołem! Bazylika to nie tylko architektoniczne arcydzieło, ale też idealna miejscówka do przemyśleń egzystencjalnych. Jeśli masz siłę, wchodź na kopułę – stamtąd widać wszystko: Rzym, życie i swoją przeszłą decyzję, żeby iść pieszo przez cały dzień.
-    </li>
-  </ol>
+    <p><strong>Bonus:</strong> Po drodze skorzystaj z każdej lodziarni. Gelato to świętość!</p>
+  </details>
 
-  <p><strong>Bonus turystyczny:</strong> Po drodze skorzystaj z każdej lodziarni, którą spotkasz. Włoskie gelato to świętość – a zwiedzanie z cukrem w ręce smakuje lepiej. I pamiętaj: espresso to nie latte. Jeśli zamówisz latte, dostaniesz szklankę mleka. Zderzenie z kulturą gwarantowane!</p>
-</details>
-        
   <details>
     <summary><strong>📅 2-dniowy plan</strong></summary>
-    <p>
-      Dzień 1: jak wyżej<br>
-      Dzień 2: Muzea Watykańskie, Villa Borghese, Schody hiszpańskie, Via del Corso, Taras Janikulum
-    </p>
-<p>
-Pierwszy dzień za Tobą? Gratulacje, przetrwałeś starożytność, tłumy i prawdopodobnie jedną z lepszych porcji tiramisu w życiu. Teraz czas na poziom drugi: kultura wyższa, więcej zieleni i momenty, w których powiesz: „Ooo, tu bym zamieszkał”. Dzień 2 to mniej biegania (taaa... jasne), więcej zachwytów – i zero wyrzutów sumienia, jeśli skończy się na lodach o 10 rano.
-</p>
-  
+    <p>Dzień 2: Muzea Watykańskie, Villa Borghese, Schody Hiszpańskie, Via del Corso, Taras Janikulum</p>
+    <p>Pierwszy dzień za Tobą? Gratulacje! Teraz czas na poziom drugi: kultura, zieleń i gelato o 10 rano.</p>
+
     <ol>
-    <li>
-  <strong>🖼️ 1. Muzea Watykańskie </strong> <em>41.9065° N, 12.4536° E</em>
-  <p>
-    Jeśli myślisz, że to tylko "papieska galeria" – przygotuj się na ośmiokilometrowy labirynt dzieł sztuki. Kaplica Sykstyńska? Oczywiście. Ale zanim tam dotrzesz, zobaczysz więcej pokoi niż przeciętny włoski hotel.
-  </li>
-  <li>
-    
-  <strong>🌳 2. Villa Borghese</strong> <em>41.9142° N, 12.4924° E</em>
-  <p>
-    Czas przewietrzyć głowę. Park Borghese to raj dla nóg, które muszą odpocząć. Można tu wypożyczyć rower, łódkę albo po prostu rozłożyć się na trawie i udawać, że jesteś miejscowym poetą.
-  </li>
+      <li>
+        <strong>🖼️ Muzea Watykańskie</strong> <em>41.9065° N, 12.4536° E</em><br>
+        Ośmiokilometrowy labirynt sztuki i finał w Kaplicy Sykstyńskiej. Można się zgubić – i dobrze.
+      </li>
 
-  <strong>>🪜 3. Schody Hiszpańskie</strong> <em>41.9059° N, 12.4823° E</em>
-  <p>
-    Schodów nie wolno "okupować", ale pamiątkowe selfie na pewno zrobisz. W tle kościół Trinità dei Monti, a obok... najdroższe sklepy, do których zaglądasz tylko „dla klimatu”.
-  </p>
+      <li>
+        <strong>🌳 Villa Borghese</strong> <em>41.9142° N, 12.4924° E</em><br>
+        Raj dla nóg i oczu. Można wypożyczyć rower, łódkę lub trawę.
+      </li>
 
-  <strong>🛍️ 4. Via del Corso </strong> <em>41.9003° N, 12.4795° E</em>
-  <p>
-    Główna arteria zakupowa Rzymu – i raj dla tych, którzy lubią udawać, że "tylko oglądają". Idealna na spacer z lodami albo polowanie na włoski kapelusz w stylu Audrey Hepburn.
-  </li>
-  
-  <strong>🌇 5. Taras Janikulum</strong> (Gianicolo) <em>41.8931° N, 12.4608° E</em>
-  <p>
-    Idealny finał dnia. Punkt widokowy, z którego zobaczysz całe Wieczne Miasto jak na dłoni. Jeśli trafisz na godzinę 12:00 – zobaczysz strzał z armaty. Jeśli nie – też warto!
-  </li>
+      <li>
+        <strong>🪜 Schody Hiszpańskie</strong> <em>41.9059° N, 12.4823° E</em><br>
+        Nie można siedzieć, ale można się zachwycać. I selfie też można.
+      </li>
+
+      <li>
+        <strong>🛍️ Via del Corso</strong> <em>41.9003° N, 12.4795° E</em><br>
+        Główna ulica zakupowa, idealna na lodowy spacer.
+      </li>
+
+      <li>
+        <strong>🌇 Taras Janikulum</strong> <em>41.8931° N, 12.4608° E</em><br>
+        Finał z widokiem. A o 12:00 – strzał z armaty. Dosłownie.
+      </li>
     </ol>
-  
-<p>
-Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczony. Przeszedłeś przez historię, sztukę, bazyliki, kopuły i być może kilka pamiątkowych straganów z magnesami „Made in China”. Teraz czas na pizzę, kieliszek wina i zasłużony odpoczynek. A jutro? Więcej Może chill nad Tybrem? A może jeszcze jedna runda gelato. Bo w Rzymie każda wymówka jest dobra.
-</p>
 
-</details>
+    <p><strong>Uwaga:</strong> Dzień 2 ma ok. 8 km spaceru – ale dusza się nie zmęczy, tylko nogi.</p>
+  </details>
 
   <details>
     <summary><strong>📅 3-dniowy plan</strong></summary>
-    <p>
-      Dzień 1 i 2: jak wyżej<br>
-      Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
-    </p>
+    <p>Dzień 3: Trastevere, wzgórze Gianicolo, chill nad Tybrem i więcej lodów (na zdrowie!).</p>
   </details>
-  
-   </details>
 
----
+</details>
 
 <details>
   <summary><strong>🚌 Transport publiczny</strong></summary>
-    <p>
-    Ach, transport publiczny w Rzymie… przygoda sama w sobie. To nie tylko sposób przemieszczania się, to pełnoprawna atrakcja turystyczna. Gotowi? Wsiadamy – najlepiej z otwartym umysłem i zamkniętym portfelem.
-  </p>
 
-  <h3>🚇 Metro – czyli dwa kolory (i jedno marzenie)</h3>
-  <p>
-    Rzymskie metro to jak dwie linijki narysowane w Wordzie: linia A (pomarańczowa) i linia B (niebieska). Trzecia linia C niby istnieje, ale wielu twierdzi, że to mit jak Syrenka w Wiśle. 
-    Metro jeździ, kiedy chce – często, ale niekoniecznie punktualnie. Plus: klimatyzacja! Minus: ciasno jak w słoiku oliwek.
-  </p>
+  <p>Transport w Rzymie to przygoda sama w sobie – trochę chaosu, ale z urokiem i klimatyzacją.</p>
 
-  <h3>🚌 Autobusy – bilet na loterię losu</h3>
-  <p>
-    Autobusy w Rzymie mają osobowość. Czasem przyjadą, czasem nie. Czasem jadą jak szalone, czasem stoją w korku jak rzeźba w muzeum. Ale kiedy już się pojawią – poczujesz się jak gladiator walczący o miejsce siedzące.
-    I pamiętaj: wejście tylko przednimi drzwiami (chyba że akurat nie), a bilety kasuj od razu, bo kontrolerzy są jak ninja – pojawiają się niespodziewanie.
-  </p>
+  <h3>🚇 Metro</h3>
+  <p>Dwie linie, jeden mit i wiele emocji. Działa… kiedy chce.</p>
 
-  <h3>🚋 Tramwaje – wehikuły czasu</h3>
-  <p>
-    Rzymskie tramwaje mają swój styl. Czasem wyglądają jak wyciągnięte z lat 70., czasem jak z przyszłości (ale głównie z lat 70.). Ich trasy to tajemnica – nie wiadomo, dokąd jadą, ale z pewnością będzie to podróż pełna niespodzianek.
-  </p>
+  <h3>🚌 Autobusy</h3>
+  <p>Gra w losowanie: przyjedzie albo nie. Kasuj bilety – ninja kontrolerzy czuwają.</p>
 
-  <h3>🎫 Bilety – papierowe amulety</h3>
-  <p>
-    Bilet kosztuje ok. 1,50€ i działa przez 100 minut. Można kupić w kioskach, automatach i niektórych barach z espresso. Ważne: biletu <strong>nie kasujesz, nie istniejesz</strong>. A jeśli kasownik się zepsuł – no cóż… ryzykujesz jak w ruletce.
-  </p>
+  <h3>🚋 Tramwaje</h3>
+  <p>Retro klimat i nieoczekiwane zwroty akcji (dosłownie).</p>
 
-  <h3>🛵 Alternatywy? Ależ proszę!</h3>
+  <h3>🎫 Bilety</h3>
   <ul>
-    <li><strong>Elektryczne hulajnogi:</strong> Super, jeśli chcesz poczuć się jak James Bond… albo jechać 12 km/h w tłumie turystów.</li>
-    <li><strong>Rowerki miejskie:</strong> Idealne, jeśli nie boisz się brukowanych ulic i… rzymskiego ruchu.</li>
-    <li><strong>Spacer:</strong> Najpewniejszy transport w Rzymie. Z widokiem na kolumny, fontanny i koty.</li>
+    <li>BIT – 100 minut (1,50€)</li>
+    <li>Roma 24H – 7€</li>
+    <li>Roma 48H – 12,50€</li>
+    <li>Roma 72H – 18€</li>
+    <li>CIS – tydzień za 24€</li>
   </ul>
 
-  <p>
-    Podsumowując: transport publiczny w Rzymie to nie tylko środek do celu – to <strong>część rzymskiego doświadczenia</strong>. Trochę chaosu, trochę uroku i mnóstwo historii… również w autobusie!
-  </p>
-  <h3>🎟️ Bilety 24h, 48h, 72h – czyli jazda bez ograniczeń (prawie)</h3>
-  <p>
-    Jeśli planujesz zwiedzać jak szalony – z rana Koloseum, w południe Bazylika, wieczorem gelato w Trastevere – to bilety czasowe są dla Ciebie! Co mamy w ofercie Wiecznego Miasta?
-  </p>
-  <ul>
-    <li><strong>BIT (100 minut)</strong> – bilet ekspresowy. Idealny na szybki skok do metra i ucieczkę przed upałem (1,50€).</li>
-    <li><strong>Roma 24H</strong> – 7€: jeździsz ile dusza zapragnie przez dobę. Tylko pamiętaj, że doba = 24h od skasowania, a nie „do końca dnia”.</li>
-    <li><strong>Roma 48H</strong> – 12,50€: dla średnio ambitnych podróżników z planem na dwa dni rzymskiej przygody.</li>
-    <li><strong>Roma 72H</strong> – 18€: trzy dni, tysiąc kroków, dwie kawy dziennie i zero stresu z biletami.</li>
-    <li><strong>CIS (bilet tygodniowy)</strong> – 24€: jeśli Rzym to Twoja druga Toskania, to bilet na tydzień to strzał w dziesiątkę (i kolano, bo dużo chodzenia).</li>
-  </ul>
-  <p>
-    Bilety działają w metrze, autobusach, tramwajach i pociągach regionalnych w obrębie miasta (czyli NIE dojazd do lotniska). Kasy, kioski i automaty czekają – tylko Ty możesz zdecydować, ile Roma da Ci z siebie!
-  </p>
+  <h3>✈️ Lotniska</h3>
+  <p><strong>Fiumicino:</strong> Leonardo Express (14€), autobus (5–7€), taksówka (50€), Uber/Bolt (drożej).<br>
+     <strong>Ciampino:</strong> autobus + metro (~2€), bezpośredni autobus (4–6€), taksówka (31€).</p>
 
-<h3>✈️ Jak przeżyć transport z lotnisk (i nie zbankrutować)</h3>
-
-<p>
-  Przyleciałeś do Rzymu z głową pełną marzeń i walizką pełną klapek? Świetnie! Teraz jeszcze tylko trzeba <em>jakoś</em> dostać się do centrum. Spokojnie, Rzym ma dla Ciebie kilka opcji – od ekspresów po aplikacje z XXI wieku.
-</p>
-
-<h4>🛬 Fiumicino (Leonardo da Vinci) – czyli główne lotnisko</h4>
-<ul>
-  <li><strong>Leonardo Express</strong> – pociąg premium (czyli droższy). Jedzie prosto na dworzec Termini bez przystanków w 32 minuty. Koszt? 14€ – za luksus braku przesiadek i klimatyzację.</li>
-  <li><strong>Regionale FL1</strong> – tańszy pociąg (8€), ale nie dojeżdża na Termini, tylko np. do Trastevere czy Tiburtina. Dla tych, którzy lubią kombinować i przesiadki traktują jak sport ekstremalny.</li>
-  <li><strong>Autobus</strong> – dużo firm, dużo opcji. Przejazd za 5–7€, ale czasem możesz zdążyć obejrzeć "Rzymskie wakacje" po drodze (czytaj: korki).</li>
-  <li><strong>Taksówka</strong> – oficjalna taryfa to 50€ do centrum. Upewnij się, że to biała taksówka z napisem „Comune di Roma”, a nie „wujek Giuseppe z własnym Fiatem Panda”.</li>
-  <li><strong>Uber, Bolt, FreeNow</strong> – są dostępne, ale <em>uwaga</em>: Uber we Włoszech to głównie Uber Black (czyli wersja „biznes klasy z krawatem”) – więc nie zdziw się ceną wyższą niż lot Ryanairem. FreeNow i Bolt często mają bardziej przyziemne ceny, ale czas oczekiwania bywa rzymsko... rozciągliwy.</li>
-</ul>
-
-<h4>🛬 Ciampino – mniejsze, ale też potrafi zaskoczyć</h4>
-<ul>
-  <li><strong>Autobus + metro</strong> – z lotniska jedziesz autobusem do stacji metra <em>Anagnina</em>, potem czerwoną linią A do centrum. Całość tania (ok. 2€), ale trwa tyle, co spokojny spacer przez całe Forum Romanum.</li>
-  <li><strong>Bezpośredni autobus</strong> – np. Terravision, SitBus, FlixBus. Ceny od 4€, czas jazdy 40–60 minut (albo 80, jak kierowca lubi krajobrazy).</li>
-  <li><strong>Taksówka</strong> – stała opłata 31€ do centrum. Ale znów: tylko oficjalne, białe taksówki. Inne mogą zabrać Cię do Florencji... przez Watykan.</li>
-  <li><strong>Uber, Bolt, FreeNow</strong> – opcje dostępne, choć podobnie jak na Fiumicino, Uber to głównie wersja luksusowa. FreeNow i Bolt to czasem strzał w dziesiątkę – a czasem czekasz dłużej niż na bagaż.</li>
-</ul>
-
-<p>
-  <strong>Pro tip:</strong> sprawdź godziny kursowania transportu <em>przed</em> lotem powrotnym. W Rzymie nie wszystko jeździ o 4:00 rano – oprócz gołębi i Twojego stresu.
-</p>
-
-  
+  <p><strong>Pro tip:</strong> Zawsze miej plan B i naładowany telefon!</p>
 </details>
 
 ---
