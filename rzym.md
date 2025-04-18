@@ -144,6 +144,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛪ Watykan i Bazylika św. Piotra</strong></summary>
   <p><em>Współrzędne: 41.9022° N, 12.4539° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/watykan.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <p>Watykan – to miejsce, które nie tylko jest najmniejszym państwem na świecie (tak, mniejsze niż niektóre parki w Rzymie), ale również pełnym magii centrum religii katolickiej. Przynajmniej tak mówią. Jeśli jeszcze nie miałeś okazji odwiedzić Watykanu, to... wiesz, co mówi się o tym miejscu? To jak wchodzić do magicznej krainy, gdzie każda statua, każdy obraz i każdy fragment marmuru wygląda jakby miał swoją własną historię do opowiedzenia.</p>
 
 <p>Warto zacząć od Bazyliki św. Piotra, która jest bardziej znana niż niejedno supergwiazdorskie dzieło sztuki. Kiedy wchodzisz do tej gigantycznej świątyni, czujesz się jak mikroczłowiek w porównaniu z jej olbrzymimi kolumnami i gigantyczną kopułą, która – swoją drogą – jest jednym z największych cudów architektonicznych na świecie. Powiem to wprost: Bazylika św. Piotra to trochę jak olbrzymi sklep spożywczy... tylko zamiast jedzenia, masz pełno dzieł sztuki i religijnych artefaktów. Można się poczuć jak dziecko w sklepie z czekoladkami, ale w tym przypadku chodzi o 400 lat historii i, oczywiście, o niewiarygodnie wyszukaną architekturę.</p>
@@ -180,6 +189,16 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🕍 Panteon – świątynia wszystkich bogów</strong></summary>
   <p><em>Współrzędne: 41.8986° N, 12.4769° E</em></p>
+  
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/panteon.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
+  
   <p>Wchodzisz do Panteonu, a pierwsze, co czujesz, to… ciepło! Nie tylko dlatego, że temperatura w Rzymie zazwyczaj przypomina piekarnik, ale też dlatego, że ten budynek ma więcej energii niż większość współczesnych biurowców. Kiedy wchodzi się do środka, ma się wrażenie, że zaraz wybuchnie fajerwerkami. Dlaczego? Bo w 126 roku n.e. Rzymianie postanowili stworzyć miejsce, które nie tylko miało zaskakiwać rozmiarem, ale i praktycznością. I o ile nie możemy dostać tu Wi-Fi, to na pewno dostaniemy niezapomniane wrażenia.</p>
 
 <p>Ale zacznijmy od początku. Panteon to świątynia poświęcona wszystkim bogom starożytnego Rzymu (tak, wszystkie!). Na pewno nie chciałbyś tu spotkać swojego szefa, bo nawet bogowie mogą mieć problem z załatwieniem sprawy w kolejce. Słynna kopuła Panteonu, z otworem w suficie (<em>okulus</em>), jest tak perfekcyjnie zaprojektowana, że wpuszcza światło… ale nie deszcz. Dzięki temu wnętrze wygląda jak niekończąca się scena w najlepszym filmie, który wciąż kręcą od 1900 lat.</p>
@@ -210,6 +229,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛲ Fontanna di Trevi – wrzuć monetę!</strong></summary>
   <p><em>Współrzędne: 41.9009° N, 12.4833° E</em></p>
+ 
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/fontannaditrevi.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <p>Ah, Fontanna di Trevi! To miejsce, które sprawia, że czujesz się jak bohater romantycznego filmu, nawet jeśli właśnie spóźniłeś się na obiad i przypadkiem popełniłeś modowe faux pas. W tym magicznym zakątku Rzymu nie tylko możesz poczuć się jak gwiazda, ale masz również szansę na spełnienie swojego marzenia (jeśli wrzucisz odpowiednią monetę, oczywiście!).</p>
 
 <p>Fontanna została zaprojektowana przez Nicola Salvi, który pewnie wziął pod uwagę, że „więcej zawsze znaczy lepiej”. Z tej zasady powstała jedna z najbardziej okazałych fontann na świecie, która przyciąga miliony turystów z całego globu. Jeśli kiedykolwiek pomyślałeś, że fontanna to tylko kilka strumieni wody, to jesteś w błędzie. Tutaj woda jest wręcz artystycznym tańcem, a rzeźby w kamieniu opowiadają historie, które mógłbyś zobaczyć tylko w najlepszych filmach. I wszystko to w jednym miejscu – z wodą w tle, która jest wręcz zbyt fotogeniczna.</p>
@@ -240,6 +268,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏰 Zamek Świętego Anioła</strong></summary>
   <p><em>Współrzędne: 41.9031° N, 12.4663° E</em></p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/zamekswietegoaniola.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <p>Wiesz, co wspólnego ma Zamek Świętego Anioła z najbardziej tajemniczymi zamkami w Europie? Otóż, jest jednym z najbardziej uroczych (i tajemniczych) zabytków w Rzymie! Zamek, który przez wieki pełnił różne funkcje – od cesarskiej nekropolii po fortecę, a także miejsce, gdzie wieszano najwięcej sekretów, przekształcił się w jeden z najciekawszych punktów turystycznych w Wiecznym Mieście. A jeśli marzysz o tym, by poczuć się jak bohater filmów sensacyjnych, to idealne miejsce dla Ciebie!</p>
 
 <p>Po pierwsze, Zamek Świętego Anioła wcale nie wygląda jak typowy zamek – zamiast strzelistych wież, ma okrągłą formę. I to jest właśnie urok tego miejsca – żadnych zbytnich dekoracji, tylko klasyka, jakby z innej epoki. A na szczycie tego okrągłego, tajemniczego tworu znajduje się figura św. Michała Archanioła, który ponoć rozbrajał demony. Dzisiaj nie ma demonów, ale turystów do pokonania! Kiedy wspinasz się na wzgórze, czujesz się jak bohater średniowiecznej opowieści – nieistotne, że głównie robisz zdjęcia. Liczy się efekt końcowy!</p>
@@ -268,6 +305,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏞️ Villa Borghese – zielone serce miasta</strong></summary>
   <p><em>Współrzędne: 41.9142° N, 12.4923° E</em></p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/villaborghese.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+    
   <p>Jeśli myślisz, że Villa Borghese to tylko kolejny park w Rzymie, to grubo się mylisz! To jedno z tych miejsc, które łączy sztukę, naturę i trochę magii. Wyobraź sobie, że wchodzisz do parku i zamiast po prostu biegać za frisbee, nagle stajesz przed jednym z najpiękniejszych dzieł sztuki na świecie. Tak, Villa Borghese to nie tylko ogród – to także dom dla jednych z najważniejszych kolekcji sztuki w Rzymie. Kiedyś była to posiadłość rodziny Borghese (tak, tej rodziny, która miała wszystko), a teraz jest to raj dla turystów i lokalnych mieszkańców, którzy marzą o chwili spokoju w centrum tętniącego życiem miasta.</p>
 
 <p>Co jest takiego wyjątkowego w Villa Borghese? Po pierwsze, to olbrzymi park, gdzie możesz się zgubić (dosłownie, i to bez żadnych konsekwencji!). Ale to nie wszystko – na terenie parku znajduje się również słynna Galeria Borghese, w której możesz podziwiać prace takich mistrzów jak Caravaggio, Rafael czy Bernini. Tak, dobrze widzisz – Bernini! Czy to nie brzmi jak zaproszenie do odkrywania historii, gdzie każdy krok to nowa historia?</p>
@@ -291,6 +337,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🪨 Schody Hiszpańskie – klasyczne selfie</strong></summary>
   <p><em>Współrzędne: 41.9057° N, 12.4823° E</em></p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/schodyhiszpanskie.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <p>Schody Hiszpańskie – znane na całym świecie jako "wielka atrakcja turystyczna", a w rzeczywistości ulubione miejsce do... siedzenia. Te wspaniałe, monumentalne schody prowadzą z Placu Hiszpańskiego do Kościoła Trinità dei Monti, ale dla większości turystów, to raczej miejsce na odpoczynek i podziwianie innych turystów. Kiedy już pokonasz te 135 stopni (tak, to jest trochę jak maraton, ale w wersji turystycznej), dotrzesz do miejsca, w którym chcesz po prostu usiąść, patrzeć na ludzi i poczuć się jak część "Rzymu w ruchu".</p>
 
 <p>Schody Hiszpańskie stały się ikoną Instagramu, gdzie każdy turysta próbuje zrobić "to jedyne zdjęcie", które będzie miał w galerii przez resztę życia. Oczywiście, najczęściej próbujesz uchwycić całą szerokość schodów, tylko po to, by odkryć, że wszyscy inni próbowali tego samego. W ten sposób, nagle zrozumiesz, że schody Hiszpańskie są tak popularne, że właściwie przypominają bardziej park rozrywki niż zabytkowy punkt widokowy.</p>
@@ -329,6 +384,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛲ Piazza Navona – plac gdzie wszyscy robią to samo zdjęcie</strong></summary>
   <p><em>Współrzędne: 41.8992° N, 12.4731° E</em></p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/piazzanavona.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <p>Piazza Navona – miejsce, które niemal każdy turysta w Rzymie zna z opowieści... i Instagramu! Ten elegancki plac, który kiedyś był stadionem, a teraz jest najbardziej znanym placem w mieście, przyciąga tłumy zarówno turystów, jak i... artystów malujących portrety na każdym kroku. Właściwie, Piazza Navona to jedno z tych miejsc, w którym nie masz pojęcia, czy więcej jest turystów, czy ludzi próbujących sprzedawać Ci coś, czego na pewno nie potrzebujesz.</p>
 
 <p>Na Piazza Navona znajduje się kilka niesamowitych fontann, w tym Fontanna Czterech Rzek, która na pewno zrobi wrażenie, bo – jak sama nazwa wskazuje – zawiera cztery rzeki. A może to jednak cztery fontanny? Kto to wie, bo w tym zabytkowym chaosie trudno się połapać. Najważniejsze jest to, że wszyscy stoją wokół i próbują zrobić to perfekcyjne zdjęcie, w którym widoczna jest cała fontanna, a Ty przypadkowo wyglądasz jak część krajobrazu. Czysta magia!</p>
@@ -352,6 +416,15 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Termy Karakalli – łaźnie cesarzy</strong></summary>
   <p><em>Współrzędne: 41.8793° N, 12.4963° E</em></p>
+  
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/termykarakalli.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+  
   <<p>Jeśli kiedykolwiek marzyłeś o tym, by poczuć się jak starożytny Rzymianin w najmodniejszym spa, Termy Karakalli są miejscem, które musisz odwiedzić. Tak, dobrze słyszysz! Kiedy myślisz o luksusie w starożytnym Rzymie, to właśnie tu – w jednym z największych kompleksów termalnych w historii – Rzymianie odpoczywali, relaksowali się, a także toczyli poważne rozmowy o polityce, pogodzie i oczywiście... plotkach o cesarzach.</p>
 
 <p>Termy Karakalli to miejsce, gdzie można poczuć się jak cesarz, nawet jeśli nie masz armii ani pałacu. Zbudowane w III wieku n.e., te ogromne łaźnie publiczne były dla Rzymian miejscem spotkań towarzyskich, relaksu, a także... popisywania się. Jak zresztą wszędzie w Rzymie, liczyło się nie tylko to, jak się bawisz, ale także jak pokazujesz się innym. W Termach Karakalli możesz poczuć się częścią tej wielkiej społecznej machiny, chociaż teraz to raczej tylko kawałek ruiny i wiele wyobraźni.</p>
