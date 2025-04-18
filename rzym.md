@@ -45,6 +45,16 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
     <p><em>Współrzędne: 41.8902° N, 12.4922° E</em></p>
+
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/koloseum.jpg' | relative_url }}" 
+    alt="Koloseum" 
+    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+  >
+</div>
+
+    
     <p>Witaj w Koloseum, największym arenie walk, gdzie nie ma miejsca na nudę, ale na pewno jest miejsce na zaskoczenie! Jeśli myślisz, że koloseum to tylko miejsce, gdzie niegdyś walczyli gladiatorzy, to jesteś w błędzie. To także miejsce, które przypomina ci, że Rzymianie mieli wyobraźnię! Dziś to jedno z najbardziej popularnych miejsc turystycznych na świecie – i to z dobrego powodu. Każdy, kto je odwiedza, zostaje wciągnięty w wir historii i… tłumów turystów. Oczywiście nie ma się co dziwić – Koloseum jest po prostu wspaniałe!</p>
 
 <p>To prawda, że nie znajdziesz tu już walk gladiatorów ani pokazów lwów, ale za to jest całe mnóstwo przewodników, którzy opowiedzą Ci, jak to kiedyś było. I to naprawdę robi wrażenie. Z jednej strony czujesz się, jakbyś przeniósł się do starożytnego Rzymu, a z drugiej – nie możesz się doczekać, aż uda ci się zrobić idealne selfie przed tą monumentalną budowlą. W końcu, kto by nie chciał mieć na zdjęciu Koloseum? I kto by nie chciał poczuć się jak w filmie?</p>
@@ -593,9 +603,10 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
   
 <div class="naglowek-dzieci">
-  <img src="{{ '/assets/images/Co_robic_z_dziecmi_rzym.png' | relative_url }}" alt="Co robić z dziećmi w Rzymie" style="height: 500px; width: auto;">
+  <img src="{{ '/assets/images/Co_robic_z_dziecmi_rzym.png' | relative_url }}" alt="Co robić z dziećmi w Rzymie" style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
+  </div>
   
   <h2>🛝 1. Place zabaw – oazy radości</h2>
 <p>
