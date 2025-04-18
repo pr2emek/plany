@@ -3,9 +3,9 @@ layout: default
 title: Strona główna
 ---
 
-# Witaj na stronie **plan pozdróży**!
+# Witaj na stronie **walizka planow**!
 
-Plany Podróży to strona dla tych, którzy lubią mieć wszystko ogarnięte… zanim dadzą się porwać urokowi błądzenia po nieznanym mieście. Jeśli należysz do osób, które jeszcze przed wyjazdem wertują mapy, zapisują ciekawostki i układają trasę spaceru z dokładnością do najbliższego przystanku tramwajowego – jesteś u siebie!
+WalizkaPlanow to strona dla tych, którzy lubią mieć wszystko ogarnięte… zanim dadzą się porwać urokowi błądzenia po nieznanym mieście. Jeśli należysz do osób, które jeszcze przed wyjazdem wertują mapy, zapisują ciekawostki i układają trasę spaceru z dokładnością do najbliższego przystanku tramwajowego – jesteś u siebie!
 
 Znajdziesz tu przewodniki po miastach – tych znanych, mniej znanych i zupełnie „z przypadku”. Opisuję zabytki (zarówno klasyki z pocztówek, jak i te, przy których trzeba się chwilę zastanowić: „czy to coś ważnego?”), daję triki na poruszanie się transportem publicznym bez stresu i paniki, oraz podrzucam gotowe plany zwiedzania – dla tych, którzy lubią improwizować, ale najlepiej zaczynając od dobrze przemyślanego planu.
 
