@@ -602,18 +602,16 @@ Pierwszy dzień za Tobą? Gratulacje, przetrwałeś starożytność, tłumy i pr
 Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczony. Przeszedłeś przez historię, sztukę, bazyliki, kopuły i być może kilka pamiątkowych straganów z magnesami „Made in China”. Teraz czas na pizzę, kieliszek wina i zasłużony odpoczynek. A jutro? Więcej Może chill nad Tybrem? A może jeszcze jedna runda gelato. Bo w Rzymie każda wymówka jest dobra.
 </p>
 
-
 </details>
 
   <details>
+
     <summary><strong>📅 3-dniowy plan</strong></summary>
     <p>
       Dzień 1 i 2: jak wyżej<br>
       Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
     </p>
   </details>
-  </details>
-
 
 ---
 
