@@ -570,30 +570,33 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 Pierwszy dzień za Tobą? Gratulacje, przetrwałeś starożytność, tłumy i prawdopodobnie jedną z lepszych porcji tiramisu w życiu. Teraz czas na poziom drugi: kultura wyższa, więcej zieleni i momenty, w których powiesz: „Ooo, tu bym zamieszkał”. Dzień 2 to mniej biegania (taaa... jasne), więcej zachwytów – i zero wyrzutów sumienia, jeśli skończy się na lodach o 10 rano.
 </p>
   
-  <h3>🖼️ 1. Muzea Watykańskie (41.9065° N, 12.4536° E)</h3>
+    <ol>
+    <li>
+  <strong>🖼️ 1. Muzea Watykańskie </strong> <em>41.9065° N, 12.4536° E</em>
   <p>
     Jeśli myślisz, że to tylko "papieska galeria" – przygotuj się na ośmiokilometrowy labirynt dzieł sztuki. Kaplica Sykstyńska? Oczywiście. Ale zanim tam dotrzesz, zobaczysz więcej pokoi niż przeciętny włoski hotel.
-  </p>
-
-  <h3>🌳 2. Villa Borghese (41.9142° N, 12.4924° E)</h3>
+  </li>
+  <li>
+    
+  <strong>🌳 2. Villa Borghese</strong> <em>41.9142° N, 12.4924° E</em>
   <p>
     Czas przewietrzyć głowę. Park Borghese to raj dla nóg, które muszą odpocząć. Można tu wypożyczyć rower, łódkę albo po prostu rozłożyć się na trawie i udawać, że jesteś miejscowym poetą.
-  </p>
+  </li>
 
-  <h3>🪜 3. Schody Hiszpańskie (41.9059° N, 12.4823° E)</h3>
+  <strong>>🪜 3. Schody Hiszpańskie</strong> <em>41.9059° N, 12.4823° E</em>
   <p>
     Schodów nie wolno "okupować", ale pamiątkowe selfie na pewno zrobisz. W tle kościół Trinità dei Monti, a obok... najdroższe sklepy, do których zaglądasz tylko „dla klimatu”.
   </p>
 
-  <h3>🛍️ 4. Via del Corso (41.9003° N, 12.4795° E)</h3>
+  <strong>🛍️ 4. Via del Corso </strong> <em>41.9003° N, 12.4795° E</em>
   <p>
     Główna arteria zakupowa Rzymu – i raj dla tych, którzy lubią udawać, że "tylko oglądają". Idealna na spacer z lodami albo polowanie na włoski kapelusz w stylu Audrey Hepburn.
-  </p>
+  </li>
   
-  <h3>🌇 5. Taras Janikulum (Gianicolo) (41.8931° N, 12.4608° E)</h3>
+  <strong>🌇 5. Taras Janikulum</strong> (Gianicolo) <em>41.8931° N, 12.4608° E</em>
   <p>
     Idealny finał dnia. Punkt widokowy, z którego zobaczysz całe Wieczne Miasto jak na dłoni. Jeśli trafisz na godzinę 12:00 – zobaczysz strzał z armaty. Jeśli nie – też warto!
-  </p>
+  </li>
   
 <p>
 Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczony. Przeszedłeś przez historię, sztukę, bazyliki, kopuły i być może kilka pamiątkowych straganów z magnesami „Made in China”. Teraz czas na pizzę, kieliszek wina i zasłużony odpoczynek. A jutro? Więcej Może chill nad Tybrem? A może jeszcze jedna runda gelato. Bo w Rzymie każda wymówka jest dobra.
