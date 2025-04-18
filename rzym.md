@@ -605,15 +605,13 @@ Dotarłeś do końca drugiego dnia! Masz prawo być dumny – i trochę zmęczon
 </details>
 
   <details>
-
     <summary><strong>📅 3-dniowy plan</strong></summary>
     <p>
       Dzień 1 i 2: jak wyżej<br>
       Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
     </p>
   </details>
- 
-  </details>
+   </details>
 
 ---
 
