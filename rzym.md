@@ -758,7 +758,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🧒 Gdzie zjesc? </strong></summary>
+  <summary><strong> <i class="fas fa-utensils"></i>Gdzie zjesc? </strong></summary>
   <article>
     <h3>1. Trattoria Da Enzo al 29 (Trastevere)</h3>
    <p>Załóż wygodne buty, bo czeka Cię spacer do prawdziwego rzymskiego skarbu! Trattoria Da Enzo to miejsce, które zdobyło serca lokalnych smakoszy i turystów, którzy zdążyli usłyszeć o nim w „kręgach wtajemniczonych”. Wchodzisz do środka, a tam… drewniane stoły, włoska muzyka, zapach makaronu w powietrzu i uśmiechnięta obsługa, która podchodzi do każdego jak do starego przyjaciela. Czeka Cię prawdziwa podróż kulinarna – od kremowej carbonary po prawdziwy klasyk: cacio e pepe, czyli makaron z serem i pieprzem. A wino? Czerwone jak rzymski zachód słońca – lokalne, tanie i idealne na kieliszek lub dwa. Nie przyjmują rezerwacji, więc bądź gotowy na walkę o miejsce, ale nie martw się – atmosfera jest tak ciepła, że i tak poczujesz się jak u siebie.</p>
