@@ -515,22 +515,88 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <details>
     <summary><strong>📅 1-dniowy plan</strong></summary>
-    <p>
-      - Koloseum<br>
-      - Forum Romanum<br>
-      - Fontanna di Trevi<br>
-      - Spacer po Piazza Navona<br>
-      - Lody w Gelateria Giolitti
-    </p>
-  </details>
+    
+ <p>Masz tylko jeden dzień w Rzymie? Spokojnie – nie jesteś sam. Rzym to miasto, w którym można zgubić sandał, serce i pół budżetu – ale warto. Poniżej znajdziesz plan, dzięki któremu zaliczysz największe atrakcje bez potrzeby teleportacji.</p>
 
+  <ol>
+    <li>
+      <strong>🏟️ Koloseum</strong> – <em>41.8902° N, 12.4922° E</em><br>
+      Dzień zaczynamy z przytupem – od areny, gdzie kiedyś ścinali głowy, a dziś ścinają ceny na magnesy. Koloseum to symbol Rzymu, duma inżynierii i ulubione tło influencerów. Bądź jak gladiator – odważny, pewny siebie i z butelką wody, bo cienia tu tyle co rozsądku w ruchu ulicznym.
+    </li>
+
+    <li>
+      <strong>🏛️ Forum Romanum</strong> – <em>41.8925° N, 12.4853° E</em><br>
+      Tu starożytni Rzymianie chodzili na zakupy, obgadywali senatorów i debatowali, kto ma lepszą tunikę. Przejdź się ścieżkami sprzed dwóch tysięcy lat i poczuj klimat – najlepiej w sandałach, z miną filozofa. Tylko uważaj – niektóre kamienie są starsze niż Twoje drzewo genealogiczne.
+    </li>
+
+    <li>
+      <strong>⛪ Panteon</strong> – <em>41.8986° N, 12.4768° E</em><br>
+      Kopuła większa niż Twoje plany życiowe i oculus, przez który nawet deszcz ma styl. Panteon był świątynią wszystkich bogów – dziś to doskonałe miejsce, by zastanowić się, czy wrzucać kolejne zdjęcie na Insta, czy już przesadzasz. Poza tym – chłodno, cicho i majestatycznie. Idealne miejsce na odpoczynek od siebie i turystów.
+    </li>
+
+    <li>
+      <strong>⛲ Fontanna di Trevi</strong> – <em>41.9009° N, 12.4833° E</em><br>
+      Wrzuć monetę, a Rzym Cię wezwie z powrotem. Wrzuć dwie – zakochasz się. Wrzuć trzy – prawdopodobnie zbankrutujesz. Pamiętaj – nie patrz w tył po rzucie! Fontanna to barokowy majstersztyk i jeden z niewielu powodów, by dobrowolnie stać w tłumie. Uwaga: kieszonkowcy też lubią to miejsce. Nawet bardzo.
+    </li>
+
+    <li>
+      <strong>🖼️ Piazza Navona</strong> – <em>41.8989° N, 12.4731° E</em><br>
+      Tu życie toczy się powoli, jak makaron w ustach zakochanego Włocha. Fontanna Czterech Rzek zachwyca, artyści uliczni walczą o Twoją uwagę, a kelnerzy przekonują, że „dzisiejsza promocja” obowiązuje tylko dla Ciebie. Idealne miejsce, żeby coś przekąsić – i niekoniecznie chodzi o kanapkę, tylko o małą fortunę w euro.
+    </li>
+
+    <li>
+      <strong>🏰 Zamek Świętego Anioła</strong> – <em>41.9031° N, 12.4663° E</em><br>
+      Kiedy cesarz Hadrian planował swoje mauzoleum, nie wiedział jeszcze, że jego grób stanie się schronieniem papieży i tłem dla 1000 selfie. Wejdź na taras i zobacz Rzym z góry. Widok tak piękny, że nawet Twoja babcia będzie zazdrosna. A po drodze spotkasz gołębie – jedyni stali mieszkańcy zamku.
+    </li>
+
+    <li>
+      <strong>🎩 Watykan i Bazylika św. Piotra</strong> – <em>41.9022° N, 12.4539° E</em><br>
+      Kończymy w najmniejszym państwie świata – ale za to z największym kościołem! Bazylika to nie tylko architektoniczne arcydzieło, ale też idealna miejscówka do przemyśleń egzystencjalnych. Jeśli masz siłę, wchodź na kopułę – stamtąd widać wszystko: Rzym, życie i swoją przeszłą decyzję, żeby iść pieszo przez cały dzień.
+    </li>
+  </ol>
+
+  <p><strong>Bonus turystyczny:</strong> Po drodze skorzystaj z każdej lodziarni, którą spotkasz. Włoskie gelato to świętość – a zwiedzanie z cukrem w ręce smakuje lepiej. I pamiętaj: espresso to nie latte. Jeśli zamówisz latte, dostaniesz szklankę mleka. Zderzenie z kulturą gwarantowane!</p>
+</details>
+        
   <details>
     <summary><strong>📅 2-dniowy plan</strong></summary>
     <p>
       Dzień 1: jak wyżej<br>
       Dzień 2: Watykan, Muzea Watykańskie, Bazylika św. Piotra, Panteon, plac Hiszpański
     </p>
-  </details>
+
+<details>
+  <summary><strong>📅 Dzień 2 – Kultura, chill i szczypta panoramy</strong></summary>
+  <p>
+    Dzień drugi to idealna mieszanka: sztuka, spacery i chwile "dolce far niente". Po wczorajszym maratonie przez starożytność dziś zasługujesz na kulturalny masaż oczu i relaks duszy.
+  </p>
+
+  <h3>🖼️ 1. Muzea Watykańskie (41.9065° N, 12.4536° E)</h3>
+  <p>
+    Jeśli myślisz, że to tylko "papieska galeria" – przygotuj się na ośmiokilometrowy labirynt dzieł sztuki. Kaplica Sykstyńska? Oczywiście. Ale zanim tam dotrzesz, zobaczysz więcej pokoi niż przeciętny włoski hotel.
+  </p>
+
+  <h3>🌳 2. Villa Borghese (41.9142° N, 12.4924° E)</h3>
+  <p>
+    Czas przewietrzyć głowę. Park Borghese to raj dla nóg, które muszą odpocząć. Można tu wypożyczyć rower, łódkę albo po prostu rozłożyć się na trawie i udawać, że jesteś miejscowym poetą.
+  </p>
+
+  <h3>🪜 3. Schody Hiszpańskie (41.9059° N, 12.4823° E)</h3>
+  <p>
+    Schodów nie wolno "okupować", ale pamiątkowe selfie na pewno zrobisz. W tle kościół Trinità dei Monti, a obok... najdroższe sklepy, do których zaglądasz tylko „dla klimatu”.
+  </p>
+
+  <h3>🛍️ 4. Via del Corso (41.9003° N, 12.4795° E)</h3>
+  <p>
+    Główna arteria zakupowa Rzymu – i raj dla tych, którzy lubią udawać, że "tylko oglądają". Idealna na spacer z lodami albo polowanie na włoski kapelusz w stylu Audrey Hepburn.
+  </p>
+  
+  <h3>🌇 5. Taras Janikulum (Gianicolo) (41.8931° N, 12.4608° E)</h3>
+  <p>
+    Idealny finał dnia. Punkt widokowy, z którego zobaczysz całe Wieczne Miasto jak na dłoni. Jeśli trafisz na godzinę 12:00 – zobaczysz strzał z armaty. Jeśli nie – też warto!
+  </p>
+
+</details>
 
   <details>
     <summary><strong>📅 3-dniowy plan</strong></summary>
@@ -539,9 +605,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
       Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
     </p>
   </details>
-
-</details>
-
+  
 ---
 
 <details>
