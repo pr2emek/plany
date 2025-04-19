@@ -516,7 +516,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>📅 1-dniowy plan</strong></summary>
     <p>Dzień 1: Koloseum, Forum Romanum, Panteon, Fontanna di Trevi, Piazza Navona, Zamek Świętego Anioła, Watykan</p>
-    <p>Masz tylko jeden dzień w Rzymie? Spokojnie – nie jesteś sam. Rzym to miasto, w którym można zgubić sandał, serce i pół budżetu – ale warto. Poniżej znajdziesz plan, dzięki któremu zaliczysz największe atrakcje bez potrzeby teleportacji.</p>
+    <p>Masz tylko jeden dzień w Rzymie? Spokojnie – nie jesteś jedyny. Wieczne Miasto od wieków kusi podróżnych, którzy chcą zobaczyć wszystko naraz i wrócić z walizką wspomnień (i magnesów). Rzym to miejsce, gdzie możesz zgubić orientację, zakochać się w architekturze i niepostrzeżenie wyczyścić kartę płatniczą na espresso i lody – ale absolutnie warto.
+
+Gotowy? Spakuj wygodne buty (najlepiej sprawdzone, nie nowe z przeceny), zaopatrz się w butelkę wody, ładnie uśmiechnij się do mapy i ruszaj! Poniżej znajdziesz trasę, która pozwoli Ci zobaczyć największe perełki miasta, bez potrzeby teleportacji.</p>
     
     <ol>
       <li>
