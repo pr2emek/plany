@@ -593,11 +593,127 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
     <p><strong>Uwaga:</strong> Dzień 2 ma ok. 8 km spaceru – ale dusza się nie zmęczy, tylko nogi.</p>
   </details>
 
-  <details>
-    <summary><strong>📅 3-dniowy plan</strong></summary>
-    <p>Dzień 3: Trastevere, wzgórze Gianicolo, chill nad Tybrem i więcej lodów (na zdrowie!).</p>
-  </details>
+<details>
+  <summary><strong>📅 3-dniowy plan – Dzień 3: archeologia + plaża</strong></summary>
 
+  <p>
+    Po dwóch dniach biegania od Koloseum do Watykanu Twoje nogi zaczynają się buntować, a umysł marzy o leżaku i chłodnej lemoniadzie? Spokojnie. Trzeci dzień to idealna mieszanka – trochę historii, trochę piachu i mnóstwo słońca. Tak, dziś jedziemy nad morze! Ale zanim zanurzysz stopy w Adriatyku (no dobrze, to właściwie Morze Tyrreńskie), czeka Cię podróż w czasie – bez wehikułu, tylko z biletem za 1,50€.
+  </p>
+
+  <ol>
+    <li>
+      <strong>🏛️ Ostia Antica</strong> <em>41.7551° N, 12.2998° E</em><br>
+      Jeśli Koloseum to film akcji, Ostia Antica to dokument historyczny z nutką przygody. Dawny port Rzymu, dziś ciche ruiny zatopione w zieleni. Bez tłumów, selfie-sticków i zgiełku. Możesz spacerować po prawdziwych starożytnych ulicach, zobaczyć mozaiki, które pamiętają czasy Cezara, i odwiedzić amfiteatr, w którym echo nadal niesie się po kamiennych ławach.
+      <br><br>
+      <span style="font-size: 1.2em;">🚆</span> <strong>Dojazd:</strong> Ze stacji <strong>Roma Porta San Paolo</strong> (obok metra <em>Piramide</em>) wsiądź do pociągu i wysiądź na stacji <strong>Ostia Antica</strong>. Potem krótki spacer przez mostek i jesteś na miejscu!
+    </li>
+
+    <li>
+      <strong>⛱️ Lido di Ostia – morze!</strong> <em>41.7321° N, 12.2852° E</em><br>
+      Czas porzucić kamienie na rzecz piasku! Po archeologicznej uczcie wróć na stację i jedź dalej pociągiem do końcowej stacji <strong>Lido Centro</strong>. Od wyjścia z peronu do plaży dzieli Cię jakieś 10 minut spaceru, a potem… tylko Ty, szum fal i zapach opalanego ciała z sąsiedniego ręcznika.
+      <br><br>
+      <span style="font-size: 1.2em;">🩴</span> <strong>Wybór plaży:</strong> Darmowa publiczna? Jasne. Ale płatna z leżakiem i parasolem (5–10€) może okazać się najlepszą decyzją dnia. Szczególnie, gdy słońce nie żartuje.
+    </li>
+
+    <li>
+      <strong>🍝 Lunch z widokiem</strong><br>
+      <span style="font-size: 1.2em;">🍷</span> <em>Najlepiej nad samym morzem!</em><br>
+      Nic tak nie smakuje jak talerz spaghetti alle vongole (z małżami) z widokiem na wodę. Restauracje przy plaży kuszą turystycznie, ale szukaj tych, w których siedzą miejscowi. I pamiętaj – espresso po obiedzie to nie opcja, to obowiązek.
+    </li>
+
+    <li>
+      <strong>🛤️ Powrót do Rzymu</strong><br>
+      <span style="font-size: 1.2em;">🕔</span> <strong>Popołudniowy powrót:</strong> złap pociąg z Lido Centro (co 15–20 min), a wysiąść możesz albo na <strong>Piramide</strong>, albo <strong>Roma Trastevere</strong>, jeśli chcesz zakończyć dzień pizzą i winem w nastrojowym zaułku.
+    </li>
+  </ol>
+
+  <p>
+    <strong>💸 Koszt transportu:</strong> 1,50€ w jedną stronę – działa ten sam bilet co na metro i autobus w Rzymie! Jeśli masz bilet dzienny, 48h, 72h lub tygodniowy – nie płacisz dodatkowo.
+  </p>
+
+  <hr>
+
+  <h3>🕐 Plan dnia – skrócona wersja</h3>
+  <ul>
+    <li><span style="font-size: 1.2em;">⏰</span> <strong>8:30</strong> – pociąg z Roma Porta San Paolo</li>
+    <li><span style="font-size: 1.2em;">🏛️</span> <strong>9:00–11:30</strong> – zwiedzanie Ostia Antica</li>
+    <li><span style="font-size: 1.2em;">⛱️</span> <strong>12:00–15:30</strong> – plażowanie i lunch w Lido di Ostia</li>
+    <li><span style="font-size: 1.2em;">🚆</span> <strong>16:00–17:00</strong> – powrót do Rzymu</li>
+    <li><span style="font-size: 1.2em;">🌆</span> <strong>18:00</strong> – wieczór w Trastevere (opcjonalnie – i bardzo polecane!)</li>
+  </ul>
+
+  <p><strong>🌞 Pro tip:</strong> Nie zapomnij o kremie z filtrem, ręczniku, czapce i powerbanku. Włoskie słońce + antyczne ruiny + brak ładowarki = przepis na wakacyjną tragedię.</p>
+</details>
+
+<details>
+  <summary><strong>📅 Dzień 4: Tivoli – czyli fontanny, cesarze i luksus w wersji antycznej</strong></summary>
+  <p>
+    Po trzech dniach intensywnego zwiedzania Rzymu przychodzi moment, gdy Twoje stopy szepczą „daj nam coś spokojniejszego”. I wtedy wchodzi Tivoli – całe na zielono. To niewielkie miasteczko oddalone o ok. godzinę jazdy z Rzymu to miejsce, w którym natura i architektura postanowiły ze sobą współpracować i stworzyć coś zachwycającego.
+  </p>
+  <p>
+    <strong>🌊 Villa d’Este</strong> to jak wodny park rozrywki, tyle że bez zjeżdżalni i krzyczących dzieci. W zamian dostajesz kilkaset fontann, śpiewające wodospady, ukryte alejki i romantyczne zakątki, w których można zapomnieć o świecie (albo udawać, że jesteś we włoskiej ekranizacji „Bridgertonów”).
+  </p>
+  <p>
+    <strong>🏛️ Villa Adriana</strong> to z kolei starożytna rezydencja cesarza Hadriana – tak wielka, że w zasadzie mogłaby być własnym miastem. Chodzisz po ruinach jego prywatnych basenów, sal bankietowych, teatrów i… prywatnego spa. W skrócie – cesarz wiedział, jak żyć.
+  </p>
+  <p>
+    <strong>🚆 Jak dojechać?</strong> Najwygodniej pociągiem lub autobusem z dworca <em>Roma Tiburtina</em> – podróż trwa około 1 godziny. W Tivoli wszystko jest na wyciągnięcie nogi, choć przydadzą się wygodne buty – bo marmury Hadriana nie są już tak równe jak kiedyś.
+  </p>
+</details>
+
+<details>
+  <summary><strong>📅 Dzień 5: Castelli Romani – czyli rzymski „all inclusive” dla lokalnych</strong></summary>
+  <p>
+    Potrzebujesz oddechu od miejskiego zgiełku? Rzymianie też. Dlatego w weekendy pakują się w małe Fiaciki i ruszają w kierunku Castelli Romani – malowniczego regionu pełnego wzgórz, jezior i... pieczonej świnki.
+  </p>
+  <p>
+    <strong>🍓 Nemi</strong> to maleńkie miasteczko z widokiem na jezioro, które wygląda jak z bajki. Miejsce słynie z poziomek – rosną tam wszędzie, a lokalne konfitury smakują jak słońce zamknięte w słoiku. Spacer wzdłuż jeziora, poziomkowe cappuccino i uczucie, że oto znalazłeś włoski Eden.
+  </p>
+  <p>
+    <strong>🍷 Frascati</strong> to mekka winopijców. Lokalne wino o tej samej nazwie można dostać wszędzie – nawet w plastikowym kubku, bo tu nikt nie udaje, że jest sommelierem. Do tego sycylijska kuchnia, trattorie pełne życia i ludzie, którzy wiedzą, jak celebrować niedzielę.
+  </p>
+  <p>
+    <strong>🐷 Ariccia</strong> to miejsce, gdzie porchetta (pieczona wieprzowina z ziołami) jest ważniejsza niż prognoza pogody. Tutaj jada się tłusto, głośno i z sercem. Wchodząc do lokalnego lokalu (czyli salki z obrusem w kratkę), czujesz się jak u włoskiej babci – która nie pozwoli Ci wyjść głodnym.
+  </p>
+  <p>
+    <strong>🚆 Dojazd?</strong> Pociąg z <em>Roma Termini</em> do Frascati lub Albano Laziale – dalej lokalnie autobusem, pieszo albo pod wpływem wina i życzliwości lokalnych dziadków, którzy wskażą Ci drogę lepiej niż Google Maps.
+  </p>
+</details>
+
+<details>
+  <summary><strong>📅 Dzień 6: Cerveteri – groby, które opowiadają historie</strong></summary>
+  <p>
+    Zapomnij na chwilę o Koloseum i fontannach – czas cofnąć się jeszcze dalej, do czasów, kiedy Rzym był tylko pomysłem. Etruskowie – tajemniczy lud, który zostawił po sobie mniej pomników, a więcej... nekropolii. Ale nie takich jak na cmentarzu. Mowa o <strong>Nekropolii Banditaccia</strong> – wpisanej na listę UNESCO, przypominającej starożytne miasto, tyle że pod ziemią.
+  </p>
+  <p>
+    Spacerujesz po zielonych alejkach między kamiennymi kopułami, które przypominają domki Hobbitów. Wewnątrz grobów są komnaty, łóżka, a nawet schody – jakby ktoś właśnie wyszedł na chwilę po oliwę. Mimo że to miejsce pamięci – czujesz spokój, harmonię i dziwną fascynację światem, który przeminął, ale zostawił coś pięknego.
+  </p>
+  <p>
+    Po wizycie w nekropolii zajrzyj do miasteczka Cerveteri. Niewielkie, urocze, z kawiarniami, w których cappuccino podają z uśmiechem i lokalnym ciastkiem.
+  </p>
+  <p>
+    <strong>🚆 Jak się dostać?</strong> Z <em>Roma Termini</em> lub <em>San Pietro</em> pociąg do <strong>Cerveteri-Ladispoli</strong>, potem krótki przejazd autobusem i spacer (ok. 20 minut). Brzmi jak wyprawa? To raczej przygoda.
+  </p>
+</details>
+
+<details>
+  <summary><strong>📅 Dzień 7: Orvieto – katedra na skale i sekrety pod ziemią</strong></summary>
+  <p>
+    Orvieto wygląda jak miasto, które ktoś postawił na ogromnym cieście wulkanicznym. Gdy pociąg wjeżdża pod skałę, a Ty kolejką linową wyjeżdżasz na szczyt – czujesz się jak bohater baśni. A potem wchodzisz na starówkę i… zostajesz tam duchem na zawsze.
+  </p>
+  <p>
+    <strong>⛪ Katedra Duomo</strong> robi wrażenie od pierwszego spojrzenia – misternie zdobiona fasada, złocenia, mozaiki, kolory. W środku – cisza, gotycki majestat i freski, które sprawią, że przestaniesz się spieszyć.
+  </p>
+  <p>
+    <strong>🔦 Orvieto Underground</strong> to sieć tuneli, które ciągną się pod całym miastem. Etruskowie, średniowieczni mieszkańcy, papieże – każdy zostawił tam swoje piętno. Możesz zwiedzać z przewodnikiem i dowiedzieć się, że życie pod ziemią wcale nie było takie straszne.
+  </p>
+  <p>
+    W bonusie: lokalne sklepy z ceramiką, kawiarnie z widokiem i małe restauracje z jedzeniem tak dobrym, że zapominasz o selfie.
+  </p>
+  <p>
+    <strong>🚆 Jak się dostać?</strong> Bezpośredni pociąg z <em>Roma Termini</em> (1,5h), potem kolejka Funicolare na górę. Reszta to spacer, zachwyt i pytanie, czemu nie przyjechałeś tu wcześniej.
+  </p>
+</details>
 </details>
 
 ---
