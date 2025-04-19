@@ -594,7 +594,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
 <details>
-  <summary><strong>📅 3-dniowy plan – Dzień 3: archeologia + plaża</strong></summary>
+  <summary><strong>📅 3-dniowy plan</strong></summary>
 
   <p>
     Po dwóch dniach biegania od Koloseum do Watykanu Twoje nogi zaczynają się buntować, a umysł marzy o leżaku i chłodnej lemoniadzie? Spokojnie. Trzeci dzień to idealna mieszanka – trochę historii, trochę piachu i mnóstwo słońca. Tak, dziś jedziemy nad morze! Ale zanim zanurzysz stopy w Adriatyku (no dobrze, to właściwie Morze Tyrreńskie), czeka Cię podróż w czasie – bez wehikułu, tylko z biletem za 1,50€.
