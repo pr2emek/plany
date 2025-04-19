@@ -563,7 +563,13 @@ Gotowy? Spakuj wygodne buty (najlepiej sprawdzone, nie nowe z przeceny), zaopatr
   <details>
     <summary><strong>📅 2-dniowy plan</strong></summary>
     <p>Dzień 2: Muzea Watykańskie, Villa Borghese, Schody Hiszpańskie, Via del Corso, Taras Janikulum</p>
-    <p>Pierwszy dzień za Tobą? Gratulacje! Teraz czas na poziom drugi: kultura, zieleń i gelato o 10 rano.</p>
+    <p>Pierwszy dzień za Tobą? Gratulacje! Przetrwałeś starożytność, tłumy, brukowane uliczki i przynajmniej jedną porcję carbonary, która zmieniła Twoje podejście do makaronu. Twoje stopy pewnie nieco protestują, aparat odmawia współpracy, a Ty już czujesz, że Rzym wciąga bardziej niż wieczorne scrollowanie Instagrama. Ale uwaga – to dopiero początek.
+
+Dzień drugi to inny wymiar zwiedzania. Mniej zgiełku, więcej przestrzeni. Mniej „wow, kolejna kolumna”, więcej „hej, tu naprawdę można odetchnąć”. Dziś odkryjesz Rzym nieco spokojniejszy, bardziej elegancki, otoczony zielenią, sztuką i widokami, które zostają w głowie na długo po powrocie do domu.
+
+To dzień idealny na balans – między muzealnym zachwytem a parkowym lenistwem, między monumentalnym pięknem a ulicznym urokiem. Zobaczysz dzieła Michała Anioła i Raffaella, ale też zrobisz piknik w cieniu piniowych drzew. Będziesz kontemplować Kaplicę Sykstyńską, by chwilę później gapić się na fontannę z kawą w dłoni i nic nie mówić. Bo w Rzymie milczenie bywa równie wymowne jak zachwyt.
+
+Ten dzień pozwoli Ci zobaczyć Wieczne Miasto z innej perspektywy – z tarasu, z parku, z kawiarni przy bocznej uliczce. I choć krokomierz znów zapłacze, Ty się uśmiechniesz. Bo drugi dzień w Rzymie to nie tylko zwiedzanie. To styl życi</p>
 
     <ol>
       <li>
