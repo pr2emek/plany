@@ -344,7 +344,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 
 <details>
   
-  <summary><strong>🚌 Transport publiczny w Neapolu – czyli jazda z przygodami</summary>strong><summary>
+  <summary><strong>🚌 Transport publiczny w Neapolu<strong></summary>
   <p>
     Witaj w Neapolu – mieście, gdzie transport publiczny to sport ekstremalny, społeczny eksperyment i darmowy rollercoaster w jednym. Jeśli myślałeś, że korki w Warszawie są uciążliwe – witaj w raju spóźnień, niespodziewanych przystanków i metra, które czasem jedzie, a czasem nie. Ale hej – wszystko w swoim stylu!
   </p>
