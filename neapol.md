@@ -12,10 +12,59 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>📌 Podstawowe informacje</strong></summary>
+  <section>
+  <h2>🌋 Neapol – miasto chaosu, pizzy i boskiej lewicy</h2>
   <p>
-    Rzym to stolica Włoch i jedno z najstarszych miast Europy.<br>
-    Znajduje się tutaj Watykan – najmniejsze państwo świata.
+    Neapol to nie jest zwykłe miasto – to doświadczenie. Tutaj powietrze pachnie kawą, uliczni sprzedawcy krzyczą głośniej niż Twój budzik, a na każdym kroku grozi Ci zakochanie… w widoku, w jedzeniu, w tempie życia. To miasto, które żyje intensywnie, głośno i bez filtra – jak film w wersji reżyserskiej. A w tle? Król Wezuwiusz – dumny, groźny, trochę jak włoska mama.
   </p>
+  <p>
+    Neapol to nie tylko pizza (choć... głównie pizza). To tętniące serce południa Włoch, miasto kontrastów i niespodzianek. Od podziemnych tuneli po pałace, od malowniczych zatoczek po surowe dzielnice z duszą. Tu możesz zgubić się w labiryncie wąskich uliczek i odnaleźć siebie – lub przynajmniej najlepsze espresso w życiu.
+  </p>
+</section>
+
+<section>
+  <h3>⚽ Maradona – bóg z Argentyny i święty z Neapolu</h3>
+  <p>
+    Dla Neapolitańczyków Diego Armando Maradona to nie tylko piłkarz. To legenda, cudotwórca i patron uliczny w jednym. Gdy w 1984 roku trafił do SSC Napoli, zmienił historię klubu i całego miasta. Dzięki niemu Neapol po raz pierwszy zdobył mistrzostwo Włoch – i to dwukrotnie. W zamian dostał… bezgraniczną miłość. 
+  </p>
+  <p>
+    Jego wizerunek zobaczysz wszędzie: na murach, w barach, na koszulkach i... w sanktuariach zrobionych ze zdjęć i świeczek. Chcesz poczuć klimat? Odwiedź słynny mural Maradony przy Via Emanuele de Deo – albo wybierz się na stadion, który dziś nosi jego imię: <strong>Stadio Diego Armando Maradona</strong>. W Neapolu nikt nie mówi „był genialny”. Tu się mówi: „On był naszym zbawicielem z numerem 10”.
+  </p>
+</section>
+
+<section>
+  <h3>✈️ Jak się dostać do Neapolu?</h3>
+  <p>
+    Dotrzeć do Neapolu to bułka z mozzarellą! Miasto jest dobrze skomunikowane, a opcji masz tyle, co rodzajów pizzy. Oto najpopularniejsze sposoby:
+  </p>
+  <ul>
+    <li><strong>Samolotem:</strong> Na Neapol latają bezpośrednie loty z wielu miast Europy – także z Polski (Warszawa, Kraków, Katowice, Wrocław, Gdańsk). Lot trwa ok. 2,5 godziny, czyli mniej więcej tyle, co zrobienie porządnej lasagni.</li>
+    <li><strong>Pociągiem z Rzymu:</strong> Superszybki pociąg <em>Frecciarossa</em> lub <em>Italo</em> pokonuje trasę z Rzymu do Neapolu w ok. 1 godzinę i 10 minut. Szybko, wygodnie, z widokiem – i z działającą klimatyzacją (zazwyczaj).</li>
+    <li><strong>Samochodem:</strong> Droga autostradą A1 z Rzymu do Neapolu to niecałe 2 godziny – o ile Wezuwiusz nie postanowi się przeciągnąć, a turyści nie zrobią korków.</li>
+  </ul>
+</section>
+
+<section>
+  <h3>🛬 Lotnisko Neapol-Capodichino (NAP)</h3>
+  <p>
+    Neapol ma jedno główne lotnisko – <strong>Aeroporto Internazionale di Napoli-Capodichino (NAP)</strong>, położone zaledwie 7 km od centrum miasta. To jedno z najbardziej kompaktowych lotnisk we Włoszech – czyli: wylądujesz, wyjdziesz i po 20 minutach możesz już jeść pizzę na Piazza del Plebiscito.
+  </p>
+  <p>
+    <strong>Dojazd z lotniska:</strong>
+  </p>
+  <ul>
+    <li><strong>Alibus</strong> – oficjalny shuttle bus do centrum i na dworzec Napoli Centrale. Koszt ok. 5€, czas przejazdu: 20–30 minut.</li>
+    <li><strong>Taksówka</strong> – oficjalna taryfa: ok. 18–23€ do centrum. Tylko upewnij się, że to oficjalna biała taksówka z logo.</li>
+    <li><strong>Uber i Bolt</strong> – dostępne, ale ceny porównywalne do taksówek (czasem nawet wyższe w godzinach szczytu).</li>
+  </ul>
+</section>
+
+<section>
+  <h3>🚢 A może z morza?</h3>
+  <p>
+    Jeśli jesteś na Capri, Ischii czy Procidzie, możesz dopłynąć do Neapolu promem. Port Molo Beverello obsługuje mnóstwo połączeń dziennie – i gwarantuje najlepsze widoki na miasto (plus wiatr we włosach, jeśli siedzisz na pokładzie).
+  </p>
+</section>
 </details>
 
 ---
