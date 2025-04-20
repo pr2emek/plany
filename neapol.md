@@ -70,7 +70,7 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
-  <ul>
+  
     <details>
 <summary><strong>🏰 Castel dell’Ovo – zamek z jajem</strong></summary>
  <li><strong>Współrzędne:</strong> <em>40.8309° N, 14.2471° E</em></li>
@@ -84,16 +84,10 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 <ul>
   <li><strong>Bilety:</strong> Wejście darmowe! Twój portfel właśnie ci podziękował.</li>
  
-</ul>
 </details>
-<details>
-<summary><strong>🖼️ Muzeum Archeologiczne – więcej rzeźb niż w siłowni</strong></summary>
-  <li><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></li>
-</details>
-
 <details>
   <summary><strong>🏛️ Narodowe Muzeum Archeologiczne – tam, gdzie Rzym i Pompeje się spotykają</strong></summary>
-
+  <li><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></li>
   <p>
     Jeśli jesteś typem, który lubi starożytność bardziej niż współczesne seriale, to trafiłeś do raju. A jeśli nie – to też. Bo <strong>Narodowe Muzeum Archeologiczne w Neapolu</strong> to nie kolekcja zakurzonych waz i smutnych kamieni. To istny skarbiec epickich historii, zakazanych rzeźb i... mozaik, które mają więcej detali niż tapeta w modnym bistro.
   </p>
@@ -116,14 +110,12 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 <ul>
  
   <li><strong>Bilety:</strong> 15€ normalny.</li>
-  <li><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></li>
+
 </ul>
 </details>
 <details>
 <summary><strong>🌋 Wezuwiusz – zrób sobie zdjęcie z wulkanem</strong></summary>
-  <li><strong>Współrzędne:</strong> <em>40.8214° N, 14.4265° E</em></li>
-<details>
-  <summary><strong>🌋 Wezuwiusz – czyli wulkan z osobowością</strong></summary>
+  <li><strong>Współrzędne:</strong> <em>40.8214° N, 14.4265° E</em></li
 
   <p>
     Wezuwiusz. Jedyny wulkan w kontynentalnej Europie, który nie tylko lubi dramaty, ale też pisał własną historię krwią i popiołem. Tak, to ten sam, który w 79 roku n.e. zrobił z Pompejów i Herkulanum najbardziej znane ruiny świata. Dziś śpi. Ale jak to z Wezuwiuszem – nigdy nie wiadomo, czy to tylko drzemka, czy przerwa między odcinkami.
@@ -140,13 +132,13 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Legenda głosi, że kto spojrzy w krater, ten... wróci tu ponownie. Ale może to tylko marketing Parku Narodowego. Tak czy inaczej – jeśli chcesz połączyć górską przygodę z dreszczykiem historii i widokami jak z filmu fantasy, to Wezuwiusz to twój człowiek. A właściwie – twoja góra.
   </p>
-</details>
 <ul>
   <li><strong>Jak dojechać:</strong> Pociąg Circumvesuviana do Ercolano Scavi, potem bus Navetta Vesuvio lub pieszo (dla odważnych i spoconych).</li>
   <li><strong>Bilety:</strong> 10€ + opcjonalny transport ~10€ – najlepiej rezerwować online.</li>
   
 </ul>
 </details>
+
 <details>
 <summary><strong>🏛️ Pompeje – zatrzymane w czasie</strong></summary>
  <li><strong>Współrzędne:</strong> <em>40.7498° N, 14.4861° E</em></li>
