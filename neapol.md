@@ -83,6 +83,49 @@ Patron Neapolu – św. January – ma wyjątkowy dar: jego krew zamienia się w
 </ul>
 </details>
 
+<details>
+<summary><strong>🕳️ Galleria Borbonica – podziemna ucieczka</strong></summary>
+    <li><strong>Współrzędne:</strong> <em>40.8373° N, 14.2486° E</em></li>
+<p>
+Nie każdy wie, że pod Neapolem kryje się... drugi Neapol. Galleria Borbonica to tunel z XIX wieku, zbudowany przez króla, który bardzo nie chciał zostać złapany podczas zamieszek. W czasie wojny służył jako schron, a dziś – jako świetna lekcja historii z nutką klaustrofobii. Latarka niepotrzebna, ale odwaga – tak.
+</p>
+<ul>
+  
+  <li><strong>Bilety:</strong> 10–15€, zależnie od trasy. Warto zarezerwować z wyprzedzeniem.</li>
+
+</ul>
+</details>
+<details>
+<summary><strong>🧱 Castel Nuovo (Maschio Angioino) – zamek, który widział wszystko</strong></summary>
+    <li><strong>Współrzędne:</strong> <em>40.8381° N, 14.2542° E</em></li>
+<p>
+W centrum miasta, tuż przy porcie, stoi twierdza tak solidna, że nawet Wezuwiusz jej nie straszy. Castel Nuovo to średniowieczny zamek, który był domem królów, armat i bardzo wielu duchów (ponoć). Wnętrze? Muzeum. Z zewnątrz? Instagram-ready. Wchodzisz i od razu czujesz się jak ktoś z rodu Anjou, tylko z telefonem zamiast miecza.
+</p>
+<ul>
+  
+  <li><strong>Bilety:</strong> 6€, niedziele często za darmo (jeśli trafisz, jesteś szczęściarzem).</li>
+
+</ul>
+</details>
+<details>
+<summary><strong>🛥️ Lungomare Caracciolo – bulwar do bujania się</strong></summary>
+    <li><strong>Współrzędne:</strong> <em>40.8296° N, 14.2396° E</em></li>
+<p>
+Lungomare to neapolitańska wersja promenady – z widokiem na morze, Wezuwiusza, Castel dell’Ovo i lody co 20 metrów. Spacerując tutaj, poczujesz się jak w reklamie perfum: elegancki, romantyczny, z wiatrem we włosach (i mozzarellą w buzi). Najlepsze miejsce na zachód słońca albo leniwe włoskie "dolce far niente".
+</p>
+<ul>
+  <li><strong>Jak dojechać:</strong> Spacer z centrum lub autobus z Piazza Municipio – linie 140 i C24.</li>
+</ul>
+</details>
+<details>
+<summary><strong>🛒 Spaccanapoli – serce i brzuch Neapolu</strong></summary>
+   <li><strong>Współrzędne:</strong> <em>40.8493° N, 14.2585° E</em></li>
+<p>
+Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, głośna i cudownie żywa. Spaccanapoli dosłownie "rozłupuje" miasto na pół. Tu życie toczy się na ulicy: piekarnie pachnące sfogliatellą, starsze panie narzekające na pogodę, a skuterzyści przeciskający się z prędkością światła. Idealne miejsce na pizzę z pieca i obserwację ludzi.
+</p>
+
+</details>
+
   </ul>
 </details>
 
