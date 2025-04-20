@@ -89,6 +89,8 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
 <summary><strong>🖼️ Muzeum Archeologiczne – więcej rzeźb niż w siłowni</strong></summary>
   <li><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></li>
+</details>
+
 <details>
   <summary><strong>🏛️ Narodowe Muzeum Archeologiczne – tam, gdzie Rzym i Pompeje się spotykają</strong></summary>
 
@@ -111,7 +113,6 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     To miejsce łączy wszystko, co najlepsze w Neapolu: chaos, piękno, historię i nutkę pikanterii. Idealne dla tych, którzy chcą zanurzyć się w przeszłości bez ryzyka utknięcia w czasie – bo jak się zmęczysz, to zawsze możesz uciec do pobliskiego baru na espresso. Takie muzeum to skarb. I nie trzeba kopać, by go znaleźć.
   </p>
-</details>
 <ul>
  
   <li><strong>Bilety:</strong> 15€ normalny.</li>
@@ -402,7 +403,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 ---
 
 <details>
-  <summary><strong>🤔 Ciekawostki</strong></summary>
+  <summary><strong>🤔 Legendy</strong></summary>
   <ul>
     <li>Rzym ma własne metro od 1955 roku, ale kopanie tuneli jest trudne przez ruiny pod ziemią</li>
     <li>W Rzymie działa jeden z najstarszych uniwersytetów w Europie – La Sapienza</li>
