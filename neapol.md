@@ -1,5 +1,5 @@
 ---
-layout: layoutprzewodnik
+layout: layoutsprzewodnik
 title: Neapol
 permalink: /neapol.html
 ---
