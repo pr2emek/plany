@@ -300,8 +300,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
     <p>
     Tak, dobrze czytasz. To malutka, wąska uliczka na Quartieri Spagnoli, której nazwa – Ulica Czarownic – działa na wyobraźnię. Nie znajdziesz tu muzeum ani pamiątek, ale poczujesz klimat prawdziwego Neapolu: wąskie schody, pranie nad głową i tajemniczy szept w powietrzu.
   </p>
-  
-  </ul>
+
 </details>
 
 
