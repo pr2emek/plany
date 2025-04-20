@@ -125,6 +125,35 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 </p>
 
 </details>
+<details>
+    <summary><strong>🕵️ Sekretne miejsca Neapolu</strong></summary>
+  
+
+   <h3>⚽ Mural Maradony w Quartieri Spagnoli – Sanktuarium futbolu</h3>
+<p><em>Współrzędne: 40.8437° N, 14.2478° E</em></p>
+
+    <p>To nie jest zwykły mural – to ołtarz. W dzielnicy Quartieri Spagnoli, na jednej ze ścian przy Via Emanuele De Deo, znajduje się ogromny portret Diego Maradony, który dla wielu mieszkańców Neapolu jest świętym... dosłownie. Pod muralem palą się znicze, wiszą proporczyki, koszulki, zdjęcia i modlitwy.</p>
+<p>Miejsce działa na emocje: nawet jeśli nie jesteś fanem piłki, poczujesz energię i szacunek, jakim darzony jest tu boski Diego. To miejsce kultu, wspomnień i dumy – zwłaszcza że Maradona pomógł Napoli zdobyć mistrzostwo Włoch w czasach, gdy było to równie możliwe, co śnieg w sierpniu.</p>
+
+<h3>🧱 Kaplica Maradony – Piłkarskie sanktuarium (Quartieri Spagnoli)</h3>  
+<p><em>Współrzędne: 40.8441° N, 14.2481° E</em></p>  
+<p>W ciasnej uliczce Quartieri Spagnoli znajdziesz nie tylko słynny mural, ale i coś jeszcze bardziej osobistego – **miniaturową kapliczkę z relikwiami**: włos z głowy Maradony, zdjęcia z lat świetności, oprawione gazety, a nawet... błogosławieństwo od kibiców. To miejsce łączy sacrum z profanum. Świece, flagi, modlitwy i graffiti. Niektóre dzieciaki wierzą, że Maradona to ich patron.</p>  
+
+  <h3>🔮 Sansevero – Kaplica tajemnic</h3>
+  <p><em>Współrzędne: 40.8465° N, 14.2543° E</em></p>
+  <p>Mała, niepozorna kaplica w samym sercu Neapolu, a w środku… arcydzieło! Rzeźba „Veiled Christ” wygląda tak realistycznie, że wielu podejrzewa, iż autor znał magię. A to dopiero początek – w podziemiach znajdziesz "anatomiczne maszyny", czyli ludzkie szkielety z... systemem krwionośnym. Tak, Neapol potrafi zaskoczyć.</p>
+
+  <h3>🌆 Belvedere di San Martino – widok tylko dla wytrwałych</h3>
+  <p><em>Współrzędne: 40.8474° N, 14.2417° E</em></p>
+  <p>Wejdź (albo podjedź kolejką) na wzgórze Vomero, a dostaniesz nagrodę w postaci jednego z najpiękniejszych widoków na miasto, Wezuwiusza i Zatokę Neapolitańską. Mało ludzi, dużo zachwytów. Idealne miejsce na zdjęcie, które zbierze więcej lajków niż Twoje selfie z pizzą.</p>
+
+  <h3>👻 Cimitero delle Fontanelle – grobowiec dusz</h3>
+  <p><em>Współrzędne: 40.8642° N, 14.2476° E</em></p>
+  <p>Kiedy cmentarz wygląda jak jaskinia i pełen jest czaszek, wiesz, że jesteś w Neapolu. Miejsce to pełniło funkcję cmentarza dla ubogich, dziś owiane jest legendami. Niektóre czaszki mają własnych „opiekunów” – mieszkańcy zostawiają im kwiaty i prośby o... pomoc z zaświatów.</p>
+
+  <h3>⛰️ Park Virgiliano – park, którego nie znają turyści</h3>
+  <p><em>Współrzędne: 40.8176° N, 14.1995° E</em></p>
+  <p>To nie tylko park. To balkon Neapolu. Znajduje się daleko od centrum, na wzgórzu Posillipo, i oferuje widoki na Capri, Ischię i całą Zatokę. Cisza, zieleń i śpiew ptaków – i zero selfie-sticków w zasięgu wzroku.</p>
 
   </ul>
 </details>
