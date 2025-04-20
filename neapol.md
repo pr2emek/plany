@@ -343,12 +343,62 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 ---
 
 <details>
-  <summary><strong>🚇 Transport</strong></summary>
+<section>
+  <h2>🚌 Transport publiczny w Neapolu – czyli jazda z przygodami</h2>
+  <p>
+    Witaj w Neapolu – mieście, gdzie transport publiczny to sport ekstremalny, społeczny eksperyment i darmowy rollercoaster w jednym. Jeśli myślałeś, że korki w Warszawie są uciążliwe – witaj w raju spóźnień, niespodziewanych przystanków i metra, które czasem jedzie, a czasem nie. Ale hej – wszystko w swoim stylu!
+  </p>
+
+  <h3>🚇 Metro – dwie linie i mnóstwo sztuki</h3>
+  <p>
+    Neapol ma dwie główne linie metra – linię 1 (żółtą) i linię 2 (niebieską). Ta pierwsza jest bardziej nowoczesna i znana z niesamowitych stacji, które przypominają galerie sztuki współczesnej. Zresztą nie bez powodu – stacje takie jak <strong>Toledo</strong> czy <strong>Università</strong> były nagradzane za design!
+  </p>
+  <p>
+    Metro jeździ zazwyczaj od około 6:00 do 23:00, a pociągi kursują co kilka-kilkanaście minut. Brzmi pięknie? Pamiętaj, to Neapol – zegarek to sugestia, nie zobowiązanie.
+  </p>
+
+  <h3>🚌 Autobusy i trolejbusy – nawigacja z dreszczykiem</h3>
+  <p>
+    Autobusy w Neapolu jeżdżą wszędzie – a czasem nigdzie. Mapa tras jest imponująca, ale czasem autobus po prostu... nie przyjeżdża. Ale jak już się pojawi – wsiadasz z tłumem lokalnych mieszkańców i jesteś częścią wielkiej, żywej sceny miejskiej.
+  </p>
+  <p>
+    Kierowcy często są artystami na zakrętach, a dźwięki klaksonów tworzą neapolitańską symfonię. Wejście tylko przednimi drzwiami (jeśli nie są zablokowane), kasowanie biletu obowiązkowe (jeśli działa kasownik).
+  </p>
+
+  <h3>🚋 Tramwaje – styl retro i spokój</h3>
+  <p>
+    Neapolskie tramwaje mają niepowtarzalny klimat – trochę jak wehikuły czasu. Kursują głównie na obrzeżach, ale oferują piękne widoki na zatokę i codzienne życie miasta. Są nieco wolniejsze, ale za to fotogeniczne.
+  </p>
+
+  <h3>🎫 Bilety – kup, zanim wsiądziesz!</h3>
+  <p>
+    Bilet normalny kosztuje ok. <strong>1,30–1,60€</strong> i jest ważny przez <strong>90 minut</strong> na wszystkie środki transportu miejskiego (metro, autobus, tramwaj). Bilety kupisz:
+  </p>
   <ul>
-    <li>Metro A i B – prosta sieć, przydatna do najważniejszych punktów</li>
-    <li>Autobusy i tramwaje – dobre uzupełnienie</li>
-    <li>Spacer – najlepiej!</li>
+    <li>w kioskach oznaczonych „Tabacchi” (szukaj znaku „T”)</li>
+    <li>w automatach na stacjach metra</li>
+    <li>w niektórych aplikacjach mobilnych (np. Unico Campania)</li>
   </ul>
+  <p>
+    <strong>Uwaga:</strong> W pojeździe nie da się kupić biletu – i nie da się też przeprosić kontrolera, który pojawia się z zaskoczenia. Mandat? 40–100€. Za tę cenę lepiej zjeść pizzę dla całej rodziny.
+  </p>
+
+  <h3>📱 Bilety elektroniczne – nowocześnie w chaotycznym stylu</h3>
+  <p>
+    Jeśli jesteś fanem technologii, możesz pobrać aplikację <strong>Unico Campania</strong> i kupić bilet w wersji cyfrowej. Bez stresu, bez szukania kiosku – tylko pamiętaj, żeby aktywować bilet przed wejściem!
+  </p>
+
+  <h3>🧭 Co warto wiedzieć?</h3>
+  <ul>
+    <li><strong>Rozkłady jazdy</strong> traktuj jako… sugestie.</li>
+    <li><strong>Spóźnienia</strong> są standardem, nie wyjątkiem.</li>
+    <li><strong>Przygoda</strong> gwarantowana – z widokiem na Wezuwiusza w tle!</li>
+  </ul>
+
+  <p>
+    Transport publiczny w Neapolu to nie tylko sposób przemieszczania się – to integralna część lokalnego klimatu. Trochę chaosu, trochę uroku i dużo historii na czterech kółkach.
+  </p>
+</section>
 </details>
 
 ---
