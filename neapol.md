@@ -432,7 +432,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
       Podobno w jednej z komnat Castel dell’Ovo wciąż słychać kroki dawno zmarłej księżniczki. Legenda głosi, że była więziona przez zazdrosnego króla i zmarła z żalu. Od tej pory jej duch snuje się po zamku, szczególnie w pochmurne wieczory, kiedy morze szumi niespokojnie. Mówi się, że jeśli poczujesz nagły chłód – nie jesteś sam.
     </p>
   
-    <h3>🐈 Koty ze Spaccanapoli – strażnicy podziemi<h3>
+    <h3>🐈 Koty ze Spaccanapoli – strażnicy podziemi</h3>
     <p>
       Mieszkańcy Neapolu wierzą, że czarne koty, które kręcą się wzdłuż Spaccanapoli, nie są zwyczajne. To duchowi strażnicy miasta – znają każdy zakamarek, każde przejście do podziemi, każdą starą tajemnicę. Podobno kot, który spojrzy Ci w oczy, „przeskanuje” Twoje intencje. Jeśli miauknie – masz zgodę miasta. Jeśli syknie… może lepiej wróć później.
     </p>
