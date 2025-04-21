@@ -40,9 +40,7 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   <ul>
     <li><strong>Samolotem:</strong> Na Neapol latają bezpośrednie loty z wielu miast Europy – także z Polski (Warszawa, Kraków, Katowice, Wrocław, Gdańsk). Lot trwa ok. 2,5 godziny, czyli mniej więcej tyle, co zrobienie porządnej lasagni.</li>
     <li><strong>Pociągiem z Rzymu:</strong> Superszybki pociąg <em>Frecciarossa</em> lub <em>Italo</em> pokonuje trasę z Rzymu do Neapolu w ok. 1 godzinę i 10 minut. Szybko, wygodnie, z widokiem – i z działającą klimatyzacją (zazwyczaj).</li>
-    
   </ul>
-
 
 
   <h3>🛬 Lotnisko Neapol-Capodichino (NAP)</h3>
@@ -165,7 +163,7 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Jeśli kochasz historię, architekturę, zagadki i nutkę starożytnej sensacji – Pompeje są obowiązkowym przystankiem. Tylko pamiętaj: nie próbuj „przytulić” niczego z ruin. Rzymianie byli surowi, ale współczesna policja archeologiczna bywa jeszcze bardziej bezlitosna.
   </p>
-</details>
+
 <ul>
   <li><strong>Jak dojechać:</strong> Circumvesuviana z Neapolu – stacja Pompei Scavi.</li>
   <li><strong>Bilety:</strong> 18€ normalny, są też karnety np. z Herkulanum.</li>
@@ -272,6 +270,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 <p><em>Współrzędne: 40.8437° N, 14.2478° E</em></p>
 
     <p>To nie jest zwykły mural – to ołtarz. W dzielnicy Quartieri Spagnoli, na jednej ze ścian przy Via Emanuele De Deo, znajduje się ogromny portret Diego Maradony, który dla wielu mieszkańców Neapolu jest świętym... dosłownie. Pod muralem palą się znicze, wiszą proporczyki, koszulki, zdjęcia i modlitwy.</p>
+    
 <p>Miejsce działa na emocje: nawet jeśli nie jesteś fanem piłki, poczujesz energię i szacunek, jakim darzony jest tu boski Diego. To miejsce kultu, wspomnień i dumy – zwłaszcza że Maradona pomógł Napoli zdobyć mistrzostwo Włoch w czasach, gdy było to równie możliwe, co śnieg w sierpniu.</p>
 
 <h3>🧱 Kaplica Maradony – Piłkarskie sanktuarium (Quartieri Spagnoli)</h3>  
