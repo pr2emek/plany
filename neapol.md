@@ -442,13 +442,13 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
       W kościele przy Mergellinie, na tyłach Piazza Sannazaro, znajduje się cudowny obraz Madonny, który – według legendy – kilkukrotnie uratował dzielnicę przed katastrofami naturalnymi. Najbardziej znana historia mówi o tsunami, które zatrzymało się tuż przed świątynią, jakby niewidzialna siła odgoniła fale. Od tego czasu co roku mieszkańcy organizują procesję z lampionami i muzyką, by podziękować za ochronę.
     </p>
     
-    <h3📖 Alchemik z San Domenico Maggiore<h3>
+    <h3📖 Alchemik z San Domenico Maggiore</h3>
     <p>
       W jednym z klasztorów miał mieszkać mnich, który znał tajemnice przemiany ołowiu w złoto. Był cichy, tajemniczy i nigdy nie sypiał. Kiedy zmarł, jego cela była pusta – z wyjątkiem księgi zapisanej w niezrozumiałym języku i kawałka złota w kształcie serca. Dziś niektórzy uważają, że jego duch wciąż odwiedza krużganki klasztoru, szepcząc formuły tym, którzy mają „otwarte serce”.
     </p>
   
 
-  <h3>🪙 Legenda o szczęśliwej monecie<h3>
+  <h3>🪙 Legenda o szczęśliwej monecie</h3>
     <p>
       W Neapolu krąży opowieść o magicznej monecie, którą jeden z żebraków znalazł w Quartieri Spagnoli. Podobno moneta przynosiła szczęście każdemu, kto ją posiadał – ale tylko pod warunkiem, że nigdy się nią nie zapłaci. Gdy jeden z właścicieli użył jej na kawę, szczęście się skończyło, a moneta znów zniknęła. Dziś mówi się, że jeśli znajdziesz monetę przy starych schodach w dzielnicy – lepiej ją zatrzymaj. Ale nie wydawaj.
     </p>
