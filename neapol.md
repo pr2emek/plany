@@ -426,5 +426,31 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   <p>
     Ta wąska uliczka o złowieszczej nazwie ma swoją mroczną historię. Dawniej miały tu mieszkać kobiety parające się magią i zielarstwem – jedne mówiły o uzdrawianiu, inne o klątwach. Choć dziś znajdziesz tam tylko schody, pranie i ciszę, starsi mieszkańcy twierdzą, że w niektóre noce słychać szepty. Ale może to tylko wiatr... albo nie?
   </p>
+  
+    <h3>👻 Duch księżniczki w Castel dell’Ovo</h3>
+    <p>
+      Podobno w jednej z komnat Castel dell’Ovo wciąż słychać kroki dawno zmarłej księżniczki. Legenda głosi, że była więziona przez zazdrosnego króla i zmarła z żalu. Od tej pory jej duch snuje się po zamku, szczególnie w pochmurne wieczory, kiedy morze szumi niespokojnie. Mówi się, że jeśli poczujesz nagły chłód – nie jesteś sam.
+    </p>
+  
+    <h3>🐈 Koty ze Spaccanapoli – strażnicy podziemi<h3>
+    <p>
+      Mieszkańcy Neapolu wierzą, że czarne koty, które kręcą się wzdłuż Spaccanapoli, nie są zwyczajne. To duchowi strażnicy miasta – znają każdy zakamarek, każde przejście do podziemi, każdą starą tajemnicę. Podobno kot, który spojrzy Ci w oczy, „przeskanuje” Twoje intencje. Jeśli miauknie – masz zgodę miasta. Jeśli syknie… może lepiej wróć później.
+    </p>
+  
+    <h3>🕊️ Cudowna Madonna z Piedigrotta</h3>
+    <p>
+      W kościele przy Mergellinie, na tyłach Piazza Sannazaro, znajduje się cudowny obraz Madonny, który – według legendy – kilkukrotnie uratował dzielnicę przed katastrofami naturalnymi. Najbardziej znana historia mówi o tsunami, które zatrzymało się tuż przed świątynią, jakby niewidzialna siła odgoniła fale. Od tego czasu co roku mieszkańcy organizują procesję z lampionami i muzyką, by podziękować za ochronę.
+    </p>
+    
+    <h3📖 Alchemik z San Domenico Maggiore<h3>
+    <p>
+      W jednym z klasztorów miał mieszkać mnich, który znał tajemnice przemiany ołowiu w złoto. Był cichy, tajemniczy i nigdy nie sypiał. Kiedy zmarł, jego cela była pusta – z wyjątkiem księgi zapisanej w niezrozumiałym języku i kawałka złota w kształcie serca. Dziś niektórzy uważają, że jego duch wciąż odwiedza krużganki klasztoru, szepcząc formuły tym, którzy mają „otwarte serce”.
+    </p>
+  
 
+  <h3>🪙 Legenda o szczęśliwej monecie<h3>
+    <p>
+      W Neapolu krąży opowieść o magicznej monecie, którą jeden z żebraków znalazł w Quartieri Spagnoli. Podobno moneta przynosiła szczęście każdemu, kto ją posiadał – ale tylko pod warunkiem, że nigdy się nią nie zapłaci. Gdy jeden z właścicieli użył jej na kawę, szczęście się skończyło, a moneta znów zniknęła. Dziś mówi się, że jeśli znajdziesz monetę przy starych schodach w dzielnicy – lepiej ją zatrzymaj. Ale nie wydawaj.
+    </p>
+  
 </details>
