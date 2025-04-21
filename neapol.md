@@ -73,7 +73,7 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   
     <details>
 <summary><strong>🏰 Castel dell’Ovo – zamek z jajem</strong></summary>
- <li><strong>Współrzędne:</strong> <em>40.8309° N, 14.2471° E</em></li>
+ <p><strong>Współrzędne:</strong> <em>40.8309° N, 14.2471° E</em></p>
   <p>
     Na pierwszy rzut oka to zwykła forteca na skałce w zatoce. Ale nie daj się zwieść – <strong>Castel dell’Ovo</strong> ma więcej legend niż niejeden włoski wujek przy winie. Nazwa oznacza dosłownie „Zamek Jajeczny”, a wszystko zaczęło się od poety Wergiliusza, który – oprócz pisania klasyków – miał też hobby: magię. Podobno ukrył on w fundamentach zamku magiczne jajko, które chroniło budowlę (i cały Neapol) przed zagładą. Co się stanie, jeśli jajko pęknie? Wolimy nie sprawdzać. Ale może dlatego turyści chodzą tam na palcach.
   </p>
@@ -83,11 +83,12 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 <ul>
   <li><strong>Bilety:</strong> Wejście darmowe! Twój portfel właśnie ci podziękował.</li>
- 
+</ul>
 </details>
+
 <details>
   <summary><strong>🏛️ Narodowe Muzeum Archeologiczne – tam, gdzie Rzym i Pompeje się spotykają</strong></summary>
-  <li><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></li>
+  <p><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></p>
   <p>
     Jeśli jesteś typem, który lubi starożytność bardziej niż współczesne seriale, to trafiłeś do raju. A jeśli nie – to też. Bo <strong>Narodowe Muzeum Archeologiczne w Neapolu</strong> to nie kolekcja zakurzonych waz i smutnych kamieni. To istny skarbiec epickich historii, zakazanych rzeźb i... mozaik, które mają więcej detali niż tapeta w modnym bistro.
   </p>
@@ -113,9 +114,10 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 </ul>
 </details>
+
 <details>
 <summary><strong>🌋 Wezuwiusz – zrób sobie zdjęcie z wulkanem</strong></summary>
-  <li><strong>Współrzędne:</strong> <em>40.8214° N, 14.4265° E</em></li
+  <p><strong>Współrzędne:</strong> <em>40.8214° N, 14.4265° E</em></p>
 
   <p>
     Wezuwiusz. Jedyny wulkan w kontynentalnej Europie, który nie tylko lubi dramaty, ale też pisał własną historię krwią i popiołem. Tak, to ten sam, który w 79 roku n.e. zrobił z Pompejów i Herkulanum najbardziej znane ruiny świata. Dziś śpi. Ale jak to z Wezuwiuszem – nigdy nie wiadomo, czy to tylko drzemka, czy przerwa między odcinkami.
@@ -141,9 +143,8 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
 <summary><strong>🏛️ Pompeje – zatrzymane w czasie</strong></summary>
- <li><strong>Współrzędne:</strong> <em>40.7498° N, 14.4861° E</em></li>
-  <details>
-  <summary><strong>🏛️ Pompeje – miasto, które zasnęło nagle</strong></summary>
+ <p><strong>Współrzędne:</strong> <em>40.7498° N, 14.4861° E</em></p>
+
 
   <p>
     Witaj w Pompejach – miejscu, gdzie czas się zatrzymał, a popiół zrobił z miasta archeologiczne Hollywood. W 79 roku n.e. Wezuwiusz miał gorszy dzień i postanowił dać upust emocjom. Efekt? Miasto pokryte warstwą lawy, popiołu i historii na tysiąclecia. Dziś to nie muzeum – to żywa scena życia sprzed dwóch tysięcy lat. Bez efektów specjalnych.
@@ -171,9 +172,10 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
  
 </ul>
 </details>
+
 <details>
 <summary><strong>⛪ Katedra św. Januarego – święty z supermocą</strong></summary>
-   <li><strong>Współrzędne:</strong> <em>40.8529° N, 14.2595° E</em></li>
+   <p><strong>Współrzędne:</strong> <em>40.8529° N, 14.2595° E</em></p>
  <p>
     Jeśli Neapol ma serce, to bije ono właśnie tutaj – w Katedrze św. Januarego. Ten gotycko-barokowy cud architektury jest nie tylko największym kościołem w mieście, ale i najważniejszym duchowym centrum Neapolitańczyków. A to wszystko za sprawą jednego gościa… który zmarł w III wieku. Tak, mowa o św. Januariuszu, lokalnym celebrycie od cudów z krwią.
   </p>
@@ -194,7 +196,7 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
 <summary><strong>🕳️ Galleria Borbonica – podziemna ucieczka</strong></summary>
-    <li><strong>Współrzędne:</strong> <em>40.8373° N, 14.2486° E</em></li>
+    <p><strong>Współrzędne:</strong> <em>40.8373° N, 14.2486° E</em></p>
  <p>
     Neapol ma swoje sekrety – dosłownie pod nogami. A jednym z najbardziej fascynujących jest <strong>Galleria Borbonica</strong>, czyli sieć podziemnych tuneli, korytarzy i zakamarków, które kryją więcej historii niż niejedna książka do liceum. Jeśli myślałeś, że Neapol kończy się na pizzy i Wezuwiuszu – czas zejść poziom (albo dwa) niżej.
   </p>
@@ -216,9 +218,10 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 </ul>
 </details>
+
 <details>
 <summary><strong>🧱 Castel Nuovo (Maschio Angioino) – zamek, który widział wszystko</strong></summary>
-    <li><strong>Współrzędne:</strong> <em>40.8381° N, 14.2542° E</em></li>
+    <p><strong>Współrzędne:</strong> <em>40.8381° N, 14.2542° E</em></p>
   <p>
     Pierwsze rozczarowanie: <strong>Castel Nuovo</strong>, czyli „Nowy Zamek”, wcale nie jest taki nowy. Został zbudowany w... XIII wieku. Ale hej, w Neapolu czas płynie inaczej – więc może mają rację. Dla nas to średniowiecze, dla nich: "świeżynka".
   </p>
@@ -240,9 +243,10 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 
 </ul>
 </details>
+
 <details>
 <summary><strong>🛥️ Lungomare Caracciolo – bulwar do bujania się</strong></summary>
-    <li><strong>Współrzędne:</strong> <em>40.8296° N, 14.2396° E</em></li>
+    <p><strong>Współrzędne:</strong> <em>40.8296° N, 14.2396° E</em></p>
 <p>
 Lungomare to neapolitańska wersja promenady – z widokiem na morze, Wezuwiusza, Castel dell’Ovo i lody co 20 metrów. Spacerując tutaj, poczujesz się jak w reklamie perfum: elegancki, romantyczny, z wiatrem we włosach. Najlepsze miejsce na zachód słońca albo leniwe włoskie "dolce far niente".
 </p>
@@ -250,14 +254,16 @@ Lungomare to neapolitańska wersja promenady – z widokiem na morze, Wezuwiusza
   <li><strong>Jak dojechać:</strong> Spacer z centrum lub autobus z Piazza Municipio – linie 140 i C24.</li>
 </ul>
 </details>
+
 <details>
 <summary><strong>🛒 Spaccanapoli – serce i brzuch Neapolu</strong></summary>
-   <li><strong>Współrzędne:</strong> <em>40.8493° N, 14.2585° E</em></li>
+   <p><strong>Współrzędne:</strong> <em>40.8493° N, 14.2585° E</em></p>
 <p>
 Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, głośna i cudownie żywa. Spaccanapoli dosłownie "rozłupuje" miasto na pół. Tu życie toczy się na ulicy: piekarnie pachnące sfogliatellą, starsze panie narzekające na pogodę, a skuterzyści przeciskający się z prędkością światła. Idealne miejsce na pizzę z pieca i obserwację ludzi.
 </p>
 
 </details>
+
 <details>
     <summary><strong>🕵️ Sekretne miejsca Neapolu</strong></summary>
   
@@ -295,6 +301,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   </p>
 
 </details>
+
 </details>
 
 ---
