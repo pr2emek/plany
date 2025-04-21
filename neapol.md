@@ -401,9 +401,30 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 ---
 
 <details>
-  <summary><strong>🤔 Legendy</strong></summary>
-  <ul>
-    <li>Rzym ma własne metro od 1955 roku, ale kopanie tuneli jest trudne przez ruiny pod ziemią</li>
-    <li>W Rzymie działa jeden z najstarszych uniwersytetów w Europie – La Sapienza</li>
-  </ul>
+  <summary><strong>🧙 Legendy Neapolu</strong></summary>
+
+  <h3>🪙 Moneta życzeń przy San Gregorio Armeno</h3>
+  <p><em>Lokalizacja: wejście na uliczkę San Gregorio Armeno</em></p>
+  <p>
+    Wśród rzemieślników, figurek świętych i dźwięku młotków, jest tu pewien kamień ze śladem w kształcie koła. Według legendy, jeśli wrzucisz tam błyszczącą monetę i wypowiesz życzenie w myślach – spełni się. Ale uwaga: nie możesz nikomu zdradzić, o co prosiłeś. Jeśli ktoś znajdzie Twoją monetę i ją podniesie – życzenie przechodzi na niego. Kto wie, może dlatego Neapol pełen jest ludzi, którzy wyglądają jakby właśnie wygrali los na loterii?
+  </p>
+
+  <h3>🔥 Moneta piekarza z Forcelli</h3>
+  <p><em>Lokalna opowieść z dzielnicy Forcella</em></p>
+  <p>
+    W jednej z niepozornych pizzerii właściciel od lat przed rozpoczęciem dnia wrzucał do pieca jednocentówkę „na szczęście”. Mówił, że dzięki niej ciasto wychodziło idealne. Pewnego dnia zapomniał – i piec odmówił współpracy. Od tamtej pory panuje zasada: żadnego ognia bez monety! Czy to magia, czy siła nawyku? W Neapolu to jedno i to samo.
+  </p>
+
+  <h3>🪄 Klątwa Veiled Christ</h3>
+  <p><em>Lokalizacja: Kaplica Sansevero</em></p>
+  <p>
+    Niesamowicie realistyczna rzeźba „Veiled Christ” budzi tyle podziwu, co niepokoju. Niektórzy są przekonani, że marmurowy welon to efekt alchemii, a nie dłuta. Krąży legenda, że autor znał „naukę tajemną” i... zapłacił za to cenę. Ponoć każdy, kto zbyt długo patrzy na rzeźbę i nie odwróci wzroku, ryzykuje dziwne sny i nagłe... zwroty akcji w życiu.
+  </p>
+
+  <h3>🧛 Ulica czarownic – Vicolo delle Streghe</h3>
+  <p><em>Lokalizacja: Quartieri Spagnoli</em></p>
+  <p>
+    Ta wąska uliczka o złowieszczej nazwie ma swoją mroczną historię. Dawniej miały tu mieszkać kobiety parające się magią i zielarstwem – jedne mówiły o uzdrawianiu, inne o klątwach. Choć dziś znajdziesz tam tylko schody, pranie i ciszę, starsi mieszkańcy twierdzą, że w niektóre noce słychać szepty. Ale może to tylko wiatr... albo nie?
+  </p>
+
 </details>
