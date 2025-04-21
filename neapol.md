@@ -519,3 +519,53 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   </ul>
 
 </details>
+
+---
+
+
+<details>
+  <summary><strong>🍕 Gdzie zjeść w Neapolu</strong></summary>
+
+  <h3>🍕 L’Antica Pizzeria da Michele – klasyka nad klasykami</h3>
+  <p><strong>Adres:</strong> Via Cesare Sersale 1, 80139 Napoli</p>
+  <p>
+    To tu Julia Roberts jadła pizzę w „Jedz, módl się, kochaj”. Ale prawdziwa gwiazda to ciasto – cienkie, sprężyste, idealnie przypieczone. Menu? Minimalistyczne. Smak? Maksymalny. Przygotuj się na kolejkę – ale warto.
+  </p>
+
+  <h3>🔥 Sorbillo – gdzie pizza to sztuka</h3>
+  <p><strong>Adres:</strong> Via dei Tribunali 32, 80138 Napoli</p>
+  <p>
+    Sorbillo to instytucja. Pizza jest ogromna, składniki świeże, a klimat – typowo neapolitański: głośno, rodzinnie, pachnąco. Najlepiej zamów klasyczną z bazylią i mozzarellą di bufala – i nie zapomnij zrobić zdjęcia, zanim zniknie.
+  </p>
+
+  <h3>🍝 Trattoria da Nennella – chaos i makaron</h3>
+  <p><strong>Adres:</strong> Vico Lungo Teatro Nuovo 103/104, Quartieri Spagnoli</p>
+  <p>
+    Głośno, chaotycznie, trochę jak rodzinny obiad u wujka – tylko z lepszym jedzeniem. Makaron al ragù, parmigiana, owoce morza – wszystko domowe, wszystko z humorem. Uwaga: kelnerzy lubią śpiewać i żartować.
+  </p>
+
+  <h3>🍦 Gay-Odin – czekoladowy raj</h3>
+  <p><strong>Adres:</strong> Via Benedetto Croce 61 i inne lokalizacje</p>
+  <p>
+    Najsłynniejsza czekoladziarnia w Neapolu. Lody, czekoladki, orzechowe kremy – wszystko ręcznie robione i tak pyszne, że dietetyk by się rozpłakał. Idealne na prezent (dla siebie też).
+  </p>
+
+  <h3>☕ Caffè Gambrinus – kawa z historią</h3>
+  <p><strong>Adres:</strong> Via Chiaia 1, Piazza del Plebiscito</p>
+  <p>
+    Legendarna kawiarnia z XIX wieku, gdzie bywali pisarze, politycy i artyści. Wnętrza jak z opery, kelnerzy w smokingach, a espresso... mocne jak opinie neapolitańskich babć. Must-have, nawet jeśli tylko na chwilę.
+  </p>
+
+  <h3>🌯 Street food – czyli zjedz, zanim się zastanowisz</h3>
+  <p><strong>Adres:</strong> Cała Via dei Tribunali i okolice Spaccanapoli</p>
+  <p>
+    Neapol to raj dla fanów ulicznego jedzenia. Koniecznie spróbuj <strong>pizza fritta</strong> – smażonego na głębokim oleju pieroga z serem i szynką. Do tego <strong>cuoppo</strong> – stożek z papieru wypełniony smażonymi owocami morza, warzywami i krokiecikami ziemniaczanymi. Albo <strong>sfogliatella</strong> – ciastko o 1000 warstwach i jednym wielkim WOW. I wszystko to zjadasz stojąc, idąc, lub balansując na skuterze. Prawdziwy Neapol.
+  </p>
+
+  <h3>🍹 Aperol z widokiem – gdzie wznosić toasty</h3>
+  <p><strong>Adres:</strong> Piazza Bellini, Piazza del Plebiscito, Lungomare</p>
+  <p>
+    Gdy słońce chyli się ku zachodowi, czas na aperitivo! Wybierz się na <strong>Piazza Bellini</strong> – tu Aperolek smakuje jak nagroda za cały dzień zwiedzania. Jeśli chcesz z widokiem na morze – <strong>Lungomare</strong> jest niezawodne: bary z tarasami, muzyka, szum fal i atmosfera totalnego chilloutu. A jeśli chcesz czuć się jak król – usiądź przy <strong>Piazza del Plebiscito</strong> z kieliszkiem i patrz, jak życie toczy się wokół. Cin cin!
+  </p>
+
+</details>
