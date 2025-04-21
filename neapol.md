@@ -401,7 +401,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 ---
 
 <details>
-  <summary><strong>🧙 Legendy Neapolu</strong></summary>
+  <summary><strong>🧙 Legendy</strong></summary>
 
   <h3>🪙 Moneta życzeń przy San Gregorio Armeno</h3>
   <p><em>Lokalizacja: wejście na uliczkę San Gregorio Armeno</em></p>
@@ -447,4 +447,74 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
       W Neapolu krąży opowieść o magicznej monecie, którą jeden z żebraków znalazł w Quartieri Spagnoli. Podobno moneta przynosiła szczęście każdemu, kto ją posiadał – ale tylko pod warunkiem, że nigdy się nią nie zapłaci. Gdy jeden z właścicieli użył jej na kawę, szczęście się skończyło, a moneta znów zniknęła. Dziś mówi się, że jeśli znajdziesz monetę przy starych schodach w dzielnicy – lepiej ją zatrzymaj. Ale nie wydawaj.
     </p>
   
+</details>
+
+
+<details>
+  <summary><strong>👨‍👩‍👧‍👦co robić z dziećmi w Neapolu – zabawa, pizza i piasek w butach</strong></summary>
+
+  <h3>🦖 Città della Scienza – nauka, która nie boli</h3>
+  <p>
+    Interaktywne centrum nauki w stylu włoskim. Dzieci mogą tu dotykać, kręcić, klikać i... nawet się czegoś nauczyć! Znajdziesz tu wystawę o kosmosie, ludzkim ciele, a nawet mini planetarium. A rodzice? Mogą udawać, że wszystko wiedzą.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> ok. 10€ dzieci, 12€ dorośli.</li>
+  </ul>
+
+  <h3>🐟 Akwarium przy Villa Comunale – podwodny świat po włosku</h3>
+  <p>
+    To jedno z najstarszych akwariów w Europie – i choć nie jest ogromne, to w sam raz dla dziecięcej cierpliwości. Kolorowe ryby, morska edukacja i idealne miejsce na chwilę oddechu od zgiełku miasta.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> ok. 5–7€, dzieci gratis do 3 lat.</li>
+  </ul>
+
+  <h3>🚋 Kolejka funicolare na Vomero – atrakcja z widokiem</h3>
+  <p>
+    Dzieci uwielbiają kolejki! Ta jedzie po stromym zboczu, a na górze czeka widok jak z bajki – idealny na rodzinne zdjęcie. A potem można zjeść pizzę. Bo w Neapolu wszystko kończy się pizzą.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> jak bilet komunikacji – ok. 1,30€, dzieci do lat 6 za darmo.</li>
+  </ul>
+
+  <h3>🎨 Museo delle Illusioni – kraina tricków i śmiechu</h3>
+  <p>
+    Nowoczesne muzeum, gdzie wszystko jest trochę... krzywe, zwariowane i nierealne. Idealne do zdjęć i wygibasów. Dzieciaki są zachwycone, dorośli też – tylko udają, że przyszli dla dzieci.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> ok. 12€ dorośli, 9–10€ dzieci.</li>
+  </ul>
+
+  <h3>⛱️ Plaża Bagno Elena – piasek, wiaderko, gelato</h3>
+  <p>
+    Ciepła woda, spokojna zatoka i miękki piasek – raj dla najmłodszych. Można się chlapać, kopać dołki i zbudować zamek większy niż Castel Nuovo. A jak się zmęczą? Lodziarnia jest zawsze blisko.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> Wejście płatne w sezonie – ok. 5–8€ za leżak.</li>
+  </ul>
+
+  <h3>🌳 Parco Virgiliano – zieleń, widoki i bieganie bez końca</h3>
+  <p>
+    Na wzgórzu Posillipo znajduje się park, który dzieciom daje przestrzeń do biegania, a dorosłym chwilę ciszy (relatywnej). Są place zabaw, alejki i ławki z widokiem na morze i Capri. Bonus: zero aut!
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> Wstęp darmowy.</li>
+  </ul>
+
+  <h3>🌲 Parco di Capodimonte – pałac, piknik i gonitwa gołębi</h3>
+  <p>
+    Wielki park z jeszcze większym pałacem. Można tu spacerować, zorganizować rodzinny piknik, a dzieci mogą biegać do woli. W weekendy spotkasz tu rodziny z Neapolu – i niejednego chłopca w koszulce Napoli.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> Wstęp do parku darmowy. Muzeum płatne (nieobowiązkowe).</li>
+  </ul>
+
+  <h3>🍦 Lody. Po prostu lody.</h3>
+  <p>
+    Gelateria artigianale co kilka kroków. Pistacjowe, czekoladowe, arbuzowe – i oczywiście neapolitańskie. To nie atrakcja – to obowiązek.
+  </p>
+  <ul>
+    <li><strong>Ceny:</strong> od 2,50€ za kulkę. Z każdą kolejną – większe szczęście.</li>
+  </ul>
+
 </details>
