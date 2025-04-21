@@ -71,7 +71,7 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
   
-    <details>
+    
 <summary><strong>🏰 Castel dell’Ovo – zamek z jajem</strong></summary>
  <p><strong>Współrzędne:</strong> <em>40.8309° N, 14.2471° E</em></p>
   <p>
