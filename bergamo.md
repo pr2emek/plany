@@ -173,7 +173,8 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
 
 <details>
-  <h2> <i class="fas fa-bench"></i> Sekretna ławeczka z widokiem – gdzie czas zwalnia, a serce przyspiesza</h2>
+ 
+    <summary><strong> <i class="fas fa-bench"></i> Sekretna ławeczka z widokiem</strong></summary>
   <p><strong>Współrzędne:</strong> 45.7030, 9.6645</p>
 
   <p>
@@ -193,7 +194,6 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
-
 
   <details>
     <summary><strong>🪞 Vicolo della Neve – Ulica Ciszy i Cieni</strong></summary>
