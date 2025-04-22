@@ -377,8 +377,9 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🧙‍♂️ Legendy Wenecj</strong></summary>
 
-  <details>
-    <summary><strong>⚔️ Duch templariusza przy Campo San Zan Degolà</strong></summary>
+  
+    <h3>⚔️ Duch templariusza przy Campo San Zan Degolà</h3>
+    
     <p><strong>Współrzędne:</strong> <em>45.4437° N, 12.3249° E</em></p>
     <p>
       W okolicach Campo San Zan Degolà słychać ponoć nocami stukot zbroi. Legenda mówi o duchu templariusza, który został zdradzony i zabity podczas krucjat. Wraca tu, gdzie miał ukryty skarb – w dawnym klasztorze przy kanale. Miejsce owiane tajemnicą, idealne na spacer po zmroku… z latarką i odwagą.
