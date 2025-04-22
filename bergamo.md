@@ -246,62 +246,46 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  
-  <summary><strong>🚌 Transport publiczny w Neapolu</strong></summary>
+  <summary><strong>🚌 Transport publiczny w Bergamo</strong></summary>
   <p>
-    Witaj w Neapolu – mieście, gdzie transport publiczny to sport ekstremalny, społeczny eksperyment i darmowy rollercoaster w jednym. Jeśli myślałeś, że korki w Warszawie są uciążliwe – witaj w raju spóźnień, niespodziewanych przystanków i metra, które czasem jedzie, a czasem nie. Ale hej – wszystko w swoim stylu!
+    Transport publiczny w Bergamo to jak szwajcarski zegarek… tylko włoski. Czyli działa dobrze, ale z nutką temperamentu. Miasto jest kompaktowe, więc większość rzeczy da się zrobić pieszo – ale jeśli chcesz zaoszczędzić siły (albo zobaczyć więcej), skorzystaj z lokalnych autobusów i kolejki górskiej.
   </p>
 
-  <h3>🚇 Metro – dwie linie i mnóstwo sztuki</h3>
+  <h3>🚍 Autobusy – ATB rządzi (i wozi)</h3>
   <p>
-    Neapol ma dwie główne linie metra – linię 1 (żółtą) i linię 2 (niebieską). Ta pierwsza jest bardziej nowoczesna i znana z niesamowitych stacji, które przypominają galerie sztuki współczesnej. Zresztą nie bez powodu – stacje takie jak <strong>Toledo</strong> czy <strong>Università</strong> były nagradzane za design!
-  </p>
-  <p>
-    Metro jeździ zazwyczaj od około 6:00 do 23:00, a pociągi kursują co kilka-kilkanaście minut. Brzmi pięknie? Pamiętaj, to Neapol – zegarek to sugestia, nie zobowiązanie.
-  </p>
-
-  <h3>🚌 Autobusy i trolejbusy – nawigacja z dreszczykiem</h3>
-  <p>
-    Autobusy w Neapolu jeżdżą wszędzie – a czasem nigdzie. Mapa tras jest imponująca, ale czasem autobus po prostu... nie przyjeżdża. Ale jak już się pojawi – wsiadasz z tłumem lokalnych mieszkańców i jesteś częścią wielkiej, żywej sceny miejskiej.
-  </p>
-  <p>
-    Kierowcy często są artystami na zakrętach, a dźwięki klaksonów tworzą neapolitańską symfonię. Wejście tylko przednimi drzwiami (jeśli nie są zablokowane), kasowanie biletu obowiązkowe (jeśli działa kasownik).
-  </p>
-
-  <h3>🚋 Tramwaje – styl retro i spokój</h3>
-  <p>
-    Neapolskie tramwaje mają niepowtarzalny klimat – trochę jak wehikuły czasu. Kursują głównie na obrzeżach, ale oferują piękne widoki na zatokę i codzienne życie miasta. Są nieco wolniejsze, ale za to fotogeniczne.
-  </p>
-
-  <h3>🎫 Bilety – kup, zanim wsiądziesz!</h3>
-  <p>
-    Bilet normalny kosztuje ok. <strong>1,30–1,60€</strong> i jest ważny przez <strong>90 minut</strong> na wszystkie środki transportu miejskiego (metro, autobus, tramwaj). Bilety kupisz:
+    Miejski przewoźnik ATB obsługuje większość linii w Bergamo – zarówno w Città Bassa (dolnym mieście), jak i górnym. Autobusy są nowoczesne, klimatyzowane i (o dziwo) dość punktualne. Dojedziesz nimi m.in. na lotnisko, do stacji kolejowej i pod samą kolejkę do Città Alta.
   </p>
   <ul>
-    <li>w kioskach oznaczonych „Tabacchi” (szukaj znaku „T”)</li>
-    <li>w automatach na stacjach metra</li>
-    <li>w niektórych aplikacjach mobilnych (np. Unico Campania)</li>
+    <li><strong>Bilet jednorazowy:</strong> 1,50€ (ważny przez 75 minut)</li>
+    <li><strong>Gdzie kupić:</strong> w automatach, kioskach, aplikacji ATB Mobile</li>
   </ul>
-  <p>
-    <strong>Uwaga:</strong> W pojeździe nie da się kupić biletu – i nie da się też przeprosić kontrolera, który pojawia się z zaskoczenia. Mandat? 40–100€. Za tę cenę lepiej zjeść pizzę dla całej rodziny.
-  </p>
 
-  <h3>📱 Bilety elektroniczne – nowocześnie w chaotycznym stylu</h3>
+  <h3>🚠 Funicolare – kolejka górska z charakterem</h3>
   <p>
-    Jeśli jesteś fanem technologii, możesz pobrać aplikację <strong>Unico Campania</strong> i kupić bilet w wersji cyfrowej. Bez stresu, bez szukania kiosku – tylko pamiętaj, żeby aktywować bilet przed wejściem!
+    Ikona Bergamo! Łączy dolne miasto z Città Alta. Podróż trwa dosłownie 2 minuty, ale frajda? 100%. Przejażdżka starym wagonikiem po stromym zboczu to obowiązkowy punkt każdej wycieczki. A jeśli masz szczęście – trafisz na wagon z widokiem przez całą szybę.
   </p>
-
-  <h3>🧭 Co warto wiedzieć?</h3>
   <ul>
-    <li><strong>Rozkłady jazdy</strong> traktuj jako… sugestie.</li>
-    <li><strong>Spóźnienia</strong> są standardem, nie wyjątkiem.</li>
-    <li><strong>Przygoda</strong> gwarantowana – z widokiem na Wezuwiusza w tle!</li>
+    <li><strong>Cena:</strong> wliczona w zwykły bilet ATB</li>
+    <li><strong>Druga linia:</strong> Jest też osobna kolejka z Città Alta na wzgórze San Vigilio. Widok? Insta-ready.</li>
+  </ul>
+
+  <h3>✈️ Dojazd z lotniska Orio al Serio</h3>
+  <p>
+    Lotnisko Bergamo-Orio al Serio leży tylko 5 km od centrum miasta – można by dojść pieszo, ale po co? Złap autobus linii <strong>1</strong>, który jedzie do centrum i stacji kolejowej. Podróż trwa ok. 15–20 minut, a bilety kupisz w hali przylotów, automacie lub przez aplikację.
+  </p>
+
+  <h3>🧭 Wskazówki lokalne</h3>
+  <ul>
+    <li>Nie zapomnij skasować biletu (albo aktywować w aplikacji) – kontrolerzy mają dobre wyczucie czasu!</li>
+    <li>Bilet 24-godzinny kosztuje tylko 5€, a obejmuje także obie kolejki</li>
+    <li>W niedziele i wieczorami kursy są rzadsze – planuj z wyprzedzeniem</li>
   </ul>
 
   <p>
-    Transport publiczny w Neapolu to nie tylko sposób przemieszczania się – to integralna część lokalnego klimatu. Trochę chaosu, trochę uroku i dużo historii na czterech kółkach.
+    Transport publiczny w Bergamo jest wygodny, estetyczny i nieprzesadnie drogi. A jazda kolejką? To taka lokalna wersja rollercoastera – tylko spokojniejsza i z lepszym widokiem.
   </p>
 </details>
+
 
 ---
 
