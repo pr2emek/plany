@@ -262,7 +262,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
   <p><em>Bergamo skrywa swoje sekrety w zaułkach, bramach i starych murach. Jeśli chcesz naprawdę poznać duszę miasta – daj się poprowadzić legendom i opowieściom. A może sam odkryjesz kolejną?</em></p>
-</details
+</details>
 
 ---
 
