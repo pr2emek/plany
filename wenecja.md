@@ -119,70 +119,56 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
       <li><strong>Bilety:</strong> Zwiedzanie ok. 12€, spektakle od 30€ w górę.</li>
     </ul>
   </details>
-</details>
+
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Wenecji</strong></summary>
 
   <details>
-    <summary><strong>🚋 Tramwaj widokowy nr 1 – retro jazda przez historię</strong></summary>
-    <p> Zapomnij na chwilę o metrze i taksówkach – jeśli chcesz poczuć Mediolan w stylu vintage, wskakuj do <strong>tramwaju nr 1</strong>. To nie tylko środek transportu, to podróż w czasie… z przystankami! </p> <p> Tramwaje tej linii to odrestaurowane wagoniki z lat 20. XX wieku, które nadal kursują po ulicach miasta. Drewniane siedzenia, mosiężne poręcze, skrzypiące drzwi i panorama Mediolanu za oknem – czego chcieć więcej? Może tylko ciepłej focacci na drogę. </p> <p> Trasa przebiega przez najpiękniejsze części miasta: od <strong>Piazza Castello</strong> przez <strong>Via Manzoni</strong>, <strong>Corso Sempione</strong>, aż do spokojniejszych dzielnic północnych. Nie spieszy się, nie hałasuje – idealna opcja na spokojną obserwację miasta z klimatyzacją… lat 30. </p> <ul> <li><strong>Bilet:</strong> 2,20€ (standardowy bilet ATM, ważny 90 minut)</li> <li><strong>Start:</strong> Piazza Castello lub Cairoli</li> <li><strong>Styl jazdy:</strong> retro chill z widokiem</li> </ul>
+    <summary><strong>🌀 Scala Contarini del Bovolo – schody donikąd (a może do nieba?)</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4344° N, 12.3346° E</em></p>
+    <p>
+      Ukryta w wąskim zaułku, z dala od turystycznych tłumów – spiralna klatka schodowa, która wygląda jak kręgosłup ślimaka w wersji renesansowej. Niegdyś symbol prestiżu rodu Contarini, dziś tajemniczy zakątek ze wspaniałym widokiem na dachy Wenecji. Mało kto tu trafia – a szkoda. A może i dobrze?
+    </p>
   </details>
 
   <details>
-    <summary><strong>🔔 Torre del Gombito – wieża, której nikt nie szuka… a szkoda</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7040° N, 9.6639° E</em></p>
-     <p> Mediolan to miasto mody, betonu i espresso na stojąco… ale ma też swoje ciche, zielone zakątki. Jednym z nich jest <strong>ukryty ogród przy Palazzo Brera</strong> – miejsce, o którym nie wie nawet większość turystów. A szkoda! </p> <p> Za masywnymi drzwiami Galerii Brera kryje się uroczy ogród botaniczny – mały, romantyczny i zadziwiająco spokojny. Kiedyś należał do jezuitów, dziś to oaza ciszy, pełna roślin, ławeczek i klimatu jak z powieści historycznej (ale bez inkwizycji). </p> <p> Znajdziesz tu stare studnie, rzadkie rośliny i ukryte zaułki – idealne na chwilę odpoczynku między jedną kawą a drugim muzeum. Wstęp wolny, cisza obowiązkowa, a Instagram będzie zachwycony. </p> <ul> <li><strong>Lokalizacja:</strong> Via Brera 28 (wejście przez dziedziniec Pinacoteca di Brera)</li> <li><strong>Wstęp:</strong> darmowy</li> <li><strong>Idealny czas wizyty:</strong> wczesne popołudnie – najwięcej słońca i najmniej ludzi</li> </ul>
+    <summary><strong>👻 Campo dei Mori – dzielnica duchów kupców</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4442° N, 12.3286° E</em></p>
+    <p>
+      Na tym cichym placyku znajdziesz rzeźby trzech "mędrców" – a według legend: przeklętych kupców z Orientu, którzy próbowali oszukać świętego. Za karę zostali zamienieni w kamień i tak sobie stoją... od wieków. Jednego z nich możesz dotknąć – podobno przynosi szczęście. Albo klątwę. Równowaga.
+    </p>
   </details>
 
- <details>
-  <summary><strong>❤️ Tunel Miłości – zielony zakątek zakochanych</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4506° N, 9.1663° E</em></p>
-  <p>
-    Nie trzeba jechać do Japonii, żeby przejść się przez romantyczny tunel z roślin – <strong>Mediolan ma własny Tunel Miłości</strong>, i to całkiem nieźle ukryty. Znajdziesz go w pobliżu <em>Porta Genova</em>, przy trasie dawnej kolejki towarowej, zamienionej dziś w coś między parkiem, galerią i... idealnym tłem do zdjęć.
-  </p>
+  <details>
+    <summary><strong>🔮 Libreria Acqua Alta – książkowe szaleństwo z gondolą w środku</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4371° N, 12.3432° E</em></p>
+    <p>
+      Najbardziej surrealistyczna księgarnia świata. Książki ułożone w wannach, kajakach, a nawet w prawdziwej gondoli – bo kiedy przychodzi "acqua alta" (wysoka woda), wszystko... pływa. Na tyłach jest schodzik z książek, z którego widać kanał. Raj dla miłośników literatury, kotów i chaosu.
+    </p>
+  </details>
 
-  <p>
-    Tunel powstał z naturalnie rosnących bluszczy i krzewów, które utworzyły gęsty, zielony korytarz. Latem – cień i chłód. Wiosną – kwiaty i zakochani z piknikiem. Jesienią – złote liście. Zimą... no cóż, wtedy trzeba użyć wyobraźni.
-  </p>
+  <details>
+    <summary><strong>🗝️ Wyspa San Giorgio Maggiore – widok bez tłumów</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4256° N, 12.3437° E</em></p>
+    <p>
+      Zamiast wdrapywać się na wieżę Bazyliki św. Marka z tłumem selfie-sticków – wskocz w vaporetto i popłyń na wyspę San Giorgio. Tamtejsza dzwonnica oferuje ten sam widok – tylko bez kolejek, przepychania i hałasu. Panorama laguny, Wenecji i dachów jak z obrazu Canaletta.
+    </p>
+  </details>
 
-  <p>
-    To miejsce ma wyjątkową atmosferę – idealne na romantyczny spacer, zaręczyny (nie przesadzam!) albo po prostu chwilę spokoju w wielkim mieście. Legenda głosi, że para, która przejdzie przez cały tunel trzymając się za ręce i nie puści dłoni, będzie razem na zawsze. Jeśli to nie magia, to nie wiem, co nią jest.
-  </p>
+  <details>
+    <summary><strong>🪞 Zwierciadło w Pałacu Dożów – sekretne drzwi w lustrze</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4335° N, 12.3391° E</em></p>
+    <p>
+      Jeśli wybierzesz trasę „Sekretne korytarze” w Pałacu Dożów, znajdziesz pokój z pozornie zwykłym lustrem. Tylko że to nie lustro, a... drzwi. Sekretne przejście prowadzące do biur inkwizycji, cel Casanovy i sal, gdzie podsłuchiwano rozmowy. Wenecja naprawdę miała swoje tajne życie – i wciąż je skrywa.
+    </p>
+  </details>
 
-  <ul>
-    <li><strong>Lokalizacja:</strong> Via Tortona / Via Voghera (okolice Porta Genova)</li>
-    <li><strong>Wstęp:</strong> oczywiście darmowy</li>
-    <li><strong>Protip:</strong> przyjdź o zachodzie słońca – światło robi cuda</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🕯️ San Bernardino alle Ossa – kaplica z kośćmi</strong></summary>
-   <p><strong>Współrzędne:</strong> <em>45.4615° N, 9.1948° E</em></p>
-  <p>
-    Myślisz, że Mediolan to tylko moda, design i luksusowe butiki? A co powiesz na... ściany wyłożone ludzkimi czaszkami? <strong>San Bernardino alle Ossa</strong> to jedno z najbardziej niepokojących, a zarazem fascynujących miejsc w mieście. 
-  </p>
-
-  <p>
-    Położona tuż obok Piazza Santo Stefano kaplica została zbudowana w XIII wieku przy dawnym szpitalu i kostnicy. Kiedy zabrakło miejsca na cmentarzu, kości zaczęto przenosić właśnie tutaj – i... ozdabiać nimi ściany. Efekt? Gotycko-barokowy klimat, który robi wrażenie nawet na najbardziej odpornych turystach.
-  </p>
-
-  <p>
-    Atmosfera tego miejsca jest absolutnie wyjątkowa – mistyczna, trochę makabryczna, ale i... spokojna. To nie atrakcja dla każdego, ale jeśli lubisz odkrywać ukryte historie i miejsca, które nie pojawiają się w przewodnikach, to musisz tu zajrzeć.
-  </p>
-
-  <ul>
-    <li><strong>Lokalizacja:</strong> Piazza Santo Stefano, kilka minut pieszo od Duomo</li>
-    <li><strong>Wstęp:</strong> darmowy, choć mile widziana jest symboliczna ofiara</li>
-    <li><strong>Tip:</strong> najlepiej odwiedzać rano lub poza godzinami szczytu – cisza dodaje klimatu</li>
-  </ul>
 </details>
 
 
 </details>
 
-</details>
 
 ---
 
