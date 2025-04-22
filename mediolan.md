@@ -178,7 +178,7 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Plany zwiedzania</strong></summary>
 
-  <summary><strong>📅 Dzień 1 – dzień pełen stylu, sztuki i... Aperola</strong></summary>
+ <details> <summary><strong>📅 Dzień 1 – dzień pełen stylu, sztuki i... Aperola</strong></summary>
 
   <h3>⛪ Start przy Katedrze Duomo</h3>
   <p>
@@ -224,6 +224,7 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Na zakończenie dnia – spacer wzdłuż kanałów, gdzie lampki odbijają się w wodzie, ludzie grają na gitarze, a ty myślisz, że jednak się zakochałeś… w tym mieście. I bardzo dobrze!
   </p>
+</details>
 
 <details>
   <summary><strong>📅 Dzień 2 – Wycieczka nad Jezioro Como</strong></summary>
