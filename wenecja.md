@@ -331,7 +331,7 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚤 Transport w Wenecji</strong></summary>
+  <summary><strong>🚤 Transport publiczny w Wenecji</strong></summary>
 
   <p>
     Wenecja to miasto bez samochodów. Serio – zapomnij o korkach i autobusach, tu króluje woda i nogi. Transport publiczny to głównie <strong>vaporetto</strong>, czyli wodny tramwaj, który łączy wszystkie dzielnice i wyspy. A jeśli lubisz spacery – całe centrum jest idealne do zwiedzania pieszo.
@@ -376,49 +376,37 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 <details>
   <summary><strong>🧙‍♂️ Legendy Wenecj</strong></summary>
-
   
     <h3>⚔️ Duch templariusza przy Campo San Zan Degolà</h3>
-    
     <p><strong>Współrzędne:</strong> <em>45.4437° N, 12.3249° E</em></p>
     <p>
       W okolicach Campo San Zan Degolà słychać ponoć nocami stukot zbroi. Legenda mówi o duchu templariusza, który został zdradzony i zabity podczas krucjat. Wraca tu, gdzie miał ukryty skarb – w dawnym klasztorze przy kanale. Miejsce owiane tajemnicą, idealne na spacer po zmroku… z latarką i odwagą.
     </p>
-  </details>
 
-  <details>
-    <summary><strong>💔 Most Westchnień – historia miłości i rozpaczy</strong></summary>
+  <h3>💔 Most Westchnień – historia miłości i rozpaczy</h3>
     <p><strong>Współrzędne:</strong> <em>45.4335° N, 12.3400° E</em></p>
     <p>
       Choć turyści robią tu romantyczne zdjęcia, legenda mówi, że nazwa „most westchnień” nie pochodzi od zakochanych – a od więźniów. Przechodząc przez ten most, wzdychali po raz ostatni, patrząc na Wenecję przed dożywotnim uwięzieniem. Podobno duch jednego z nich – niewinnie skazanego artysty – wraca nocą i szepcze wersy do ucha tym, którzy przechodzą sami.
     </p>
-  </details>
 
-  <details>
-    <summary><strong>🪞 Zaczarowane lustro z Palazzo Dario</strong></summary>
+    <h3>🪞 Zaczarowane lustro z Palazzo Dario</h3>
     <p><strong>Współrzędne:</strong> <em>45.4308° N, 12.3315° E</em></p>
     <p>
       Pałac Dario przy Canal Grande jest piękny, ale podobno... przeklęty. Należał do rodu, którego niemal wszyscy członkowie zginęli tragicznie. Mówi się, że w jednym z pokoi znajdowało się lustro sprowadzone z Bliskiego Wschodu – pokazujące przyszłość. Niestety, każdy kto w nie spojrzał, tracił rozum lub majątek. Pałac przez lata zmieniał właścicieli – i żaden nie miał szczęścia.
     </p>
-  </details>
-
-  <details>
-    <summary><strong>🦴 Cmentarz duchów na wyspie San Michele</strong></summary>
+  
+    <h3>🦴 Cmentarz duchów na wyspie San Michele</h3>
     <p><strong>Współrzędne:</strong> <em>45.4445° N, 12.3543° E</em></p>
     <p>
       San Michele to oficjalny cmentarz Wenecji. Ale według legend – także miejsce, gdzie dusze nie zaznały spokoju. Przesiadują tu duchy żałobników, mnichów i artystów (w tym Strawińskiego!), a niektórzy twierdzą, że w nocy słychać tu chór bez ciała. Wenecjanie podchodzą do wyspy z szacunkiem… i lekkim niepokojem.
     </p>
-  </details>
 
-  <details>
-    <summary><strong>🌫️ Zjawa na Campiello del Remer</strong></summary>
+    <h3>🌫️ Zjawa na Campiello del Remer</h3>
     <p><strong>Współrzędne:</strong> <em>45.4423° N, 12.3340° E</em></p>
     <p>
       Tuż przy Canal Grande, w małym zaułku, podobno nocą pojawia się zjawa kobiety w czerni. Według lokalnej opowieści, była to kochanka pewnego doży, którą zdradził i porzucił. Kobieta zniknęła bez śladu. Dziś jej cień przemyka przez plac, patrząc w okna, jakby wciąż czekała na powrót swojego oprawcy.
     </p>
   </details>
-
-</details>
 
 
 ---
