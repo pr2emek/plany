@@ -38,23 +38,36 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>⛪ Katedra Duomo – koronka z marmuru</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.4642° N, 9.1900° E</em></p>
-    <p>
-      Symbol Mediolanu, z którym selfie robi każdy – od backpackerów po influencerki w kapeluszu. Budowana przez prawie 600 lat (czyli tyle, ile trwa remont przeciętnej polskiej drogi), ale opłacało się – to jeden z największych i najbardziej misternych kościołów na świecie. Marmur biały jak z reklamy pasty do zębów i wieżyczki, które przypominają gotycką koronę. 
-    </p>
-    <p>
-      Możesz wejść do środka (za darmo, ale za dach płacisz), albo wspiąć się na dach i pospacerować między gargulcami z widokiem na całe miasto. Przy dobrej pogodzie widać nawet Alpy! Idealne miejsce na medytację... albo stories z hashtagiem #blessed.
-    </p>
+   
+     <p> Jeśli Mediolan ma serce, to bije ono właśnie tutaj – z marmuru, z iglicami i z 3500 rzeźbami, które patrzą na Ciebie z każdej strony. <strong>Duomo di Milano</strong> to nie tylko największa katedra we Włoszech (po Watykanie), ale i jeden z najbardziej imponujących budynków gotyckich na świecie. Budowano ją przez... 600 lat. Włoska precyzja + tempo espresso? Niekoniecznie. Ale efekt? Absolutnie wart każdej dekady. 
+     </p>
+     <p> Z zewnątrz wygląda jak marmurowy tort weselny z koroną z iglic – a na szczycie czuwa <strong>Madonnina</strong>, złota figurka Maryi, która strzeże miasta z wysokości 108 metrów. Podobno nikt nie może budować wyżej niż ona, dlatego wiele nowoczesnych wieżowców... ma kopie Madonniny na dachu. Sprytne. 
+     </p> 
+     <p> Wnętrze? Ciemne, majestatyczne i monumentalne. Filary grube jak sekwoje, witraże jak obrazy z Photoshopa sprzed 500 lat, a organy tak potężne, że można by nimi zagrać hymn dla całego Lombardii. W środku znajdziesz też relikwie, posągi, a nawet – uwaga – gwoździe z krzyża Chrystusa (według legendy). Jeden z nich jest wystawiany raz do roku podczas uroczystej procesji z udziałem arcybiskupa... i specjalnego koszyczka na sznurku. Włosi potrafią. 
+     </p> 
+     <p> Największy hit to jednak <strong>tarasy na dachu</strong>. Windą (albo schodami, jeśli jesteś w formie) można się wspiąć na dach katedry i przejść się pośród iglic, rzeźb i chimerycznych potworów. Panorama Mediolanu, a przy dobrej pogodzie – widok aż po Alpy. Idealne miejsce na zdjęcia, kontemplację... albo Aperola po zejściu. 
+     </p> 
+     <ul>
+     <li><strong>Wstęp do katedry:</strong> ok. 5–8€</li>
+     <li><strong>Tarasy (schody lub winda):</strong> 10–15€ (w zależności od opcji)</li> 
+     <li><strong>Godziny otwarcia:</strong> ok. 9:00–19:00</li> 
+     <li><strong>Wskazówka:</strong> Weź okulary przeciwsłoneczne – marmur naprawdę odbija światło!</li>
+     </ul>
   </details>
 
   <details>
     <summary><strong>🎨 Galeria Vittorio Emanuele II – świątynia zakupów</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.4663° N, 9.1895° E</em></p>
-    <p>
-      Po sąsiedzku z Duomo znajduje się galeria handlowa z czasów, gdy "shopping mall" oznaczało mozaiki, marmur i żeliwną kopułę. Galeria Vittorio Emanuele II to luksusowa pasaż handlowa z XIX wieku, w której znajdziesz butiki takie jak Prada, Louis Vuitton… i turystów z zadartą głową. 
-    </p>
-    <p>
-      Koniecznie zrób rytualny obrót na pięcie na mozaice byka (na "męskiej części" jego anatomii – nie pytaj, po prostu zrób). Legenda mówi, że przynosi to szczęście. A jeśli nie pomoże, to przynajmniej rozciągniesz łydki.
-    </p>
+
+<p> Witamy w najbardziej stylowej galerii handlowej, jaką widziała Europa – <strong>Galleria Vittorio Emanuele II</strong>, zwana też „salonem Mediolanu”. To tutaj marmur spotyka żelazo, luksus ociera się o historię, a cappuccino kosztuje tyle, co pół pizzy... ale za to z widokiem na kopułę jak z pałacu. 
+</p>
+<p> Zbudowana w XIX wieku ku czci pierwszego króla zjednoczonych Włoch – Vittorio Emanuele II – galeria miała być wizytówką postępu, klasy i dobrego smaku. I udało się – to nie tylko miejsce na zakupy, ale też architektoniczne cudo. Cztery skrzydła, wielka szklana kopuła, mozaiki na podłodze, freski na ścianach, a nad wszystkim unoszą się marki takie jak Prada, Gucci i Louis Vuitton... czyli trochę jak spacer po Instagramie w wersji premium. 
+</p>
+<p> Ale nawet jeśli nie planujesz wydawać fortuny na skórzaną torebkę, warto tu przyjść dla <strong>tradycji</strong>. W samym środku galerii znajdziesz mozaikę z bykiem – a dokładniej z jego... częściami, które przynoszą szczęście. Trzeba stanąć piętą na jego genitaliach i obrócić się trzy razy dookoła. Tak, serio. Tak robią wszyscy – od turystów po garniturowców z dzielnicy biznesowej. 
+</p> 
+<p> Galeria łączy dwa najważniejsze punkty w Mediolanie – Katedrę Duomo i Teatr La Scala. Więc nawet jeśli nie planujesz zakupów, przejście przez nią to jak spacer przez historię z dodatkiem złotej karty kredytowej. A jeśli chcesz chłonąć klimat jak prawdziwy mediolańczyk – usiądź w jednej z historycznych kawiarni, zamów espresso, załóż okulary przeciwsłoneczne (nawet w środku) i po prostu... wyglądaj świetnie. 
+</p> 
+    
   </details>
 
   <details>
@@ -71,12 +84,20 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🏰 Zamek Sforzów – średniowieczny kolos z atrium</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.4700° N, 9.1795° E</em></p>
-    <p>
-      Kiedyś rezydencja rodziny Sforzów, dziś miejsce spacerów, muzeów i... idealnych selfie w bramie z fontanną. Zamek przypomina, że Mediolan to nie tylko moda i design, ale też historia pełna intryg, bitew i dynastii, które nie znały litości (ale znały architekturę).
-    </p>
-    <p>
-      W środku: dziedzińce jak z bajki, muzeum z freskami Leonarda i zbrojownia, która przypomina grę RPG. A za murami – ogromny park Sempione, gdzie można odpocząć w cieniu, napić się espresso albo... przespać pół dnia, jak to robią niektórzy lokalsi.
-    </p>
+     
+    <p> <strong>Castello Sforzesco</strong> to prawdziwa perła Mediolanu – monumentalna forteca, która widziała więcej wojen, buntów i renesansowego dramatu niż niejeden sezon „Rodu Smoka”. Zbudowany w XV wieku przez potężny ród Sforzów, był nie tylko bastionem obronnym, ale i elegancką rezydencją. A dziś? To zamek, który łączy w sobie historię, sztukę i odrobinę mediolańskiego ego. 
+    </p> 
+    <p> Na pierwszy rzut oka wygląda jak klasyczna warownia – potężne mury, fosa, masywna brama. Ale wewnątrz kryje się cały świat – od muzeów, przez freski Leonarda da Vinci, po spokojne dziedzińce, gdzie można odpocząć w cieniu wieży. Tak, <strong>Leonardo</strong> też tu działał – ozdabiał komnaty, zanim został bohaterem książek Dana Browna. 
+    </p> 
+    <p> Zamek jest ogromny – i można go zwiedzać godzinami. Znajdziesz tu m.in. <strong>Muzeum Sztuki Antycznej</strong>, <strong>Pinakotekę</strong> z dziełami mistrzów włoskich, kolekcję instrumentów muzycznych i… rzeźbę nie byle jaką, bo <strong>ostatnie, niedokończone dzieło Michała Anioła – „Rondanini Pietà”</strong>. Tyle renesansu w jednym miejscu, że człowiek czuje się mądrzejszy już po wejściu. 
+    </p> 
+    <p> Ale nawet jeśli nie jesteś fanem muzeów, warto tu przyjść – posiedzieć na dziedzińcu, zrobić zdjęcie z fontanną (słynna „Fontana di Piazza Castello”) albo przejść przez zamek prosto do <strong>Parco Sempione</strong> – zielonych płuc Mediolanu. Świetne miejsce na piknik, chill i obserwację lokalnych, jak grają w piłkę lub wyprowadzają psy, które wyglądają lepiej niż większość ludzi na lotniskach. 
+    </p> 
+    <ul>
+    <li><strong>Wstęp na dziedziniec:</strong> darmowy</li> 
+       <li><strong>Wstęp do muzeów:</strong> 5€ (darmowy w pierwszą niedzielę miesiąca)</li> 
+       <li><strong>Czas zwiedzania:</strong> od 1 godziny do pół dnia – zależnie od apetytu na sztukę i historię</li>
+    </ul>
   </details>
 
   <details>
@@ -91,50 +112,60 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
    
 <details>
-  <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
+  <summary><strong>🕵️ Sekretne miejsca Mediolanu</strong></summary>
 
   <details>
-    <summary><strong>🪞 Vicolo della Neve – Ulica Ciszy i Cieni</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7041° N, 9.6639° E</em></p>
-    <p>
-      Ta wąska uliczka w Città Alta to jak teleport do innego czasu. Cisza, stare mury, lekkie zawinięcie drogi i światło wpadające pod dziwnym kątem. Spacer nią wczesnym rankiem daje wrażenie, że zaraz zza rogu wyskoczy mnich albo renesansowy poeta. Albo duch. Ale spokojny!
-    </p>
+    <summary><strong>🚋 Tramwaj widokowy nr 1 – retro jazda przez historię</strong></summary>
+    <p> Zapomnij na chwilę o metrze i taksówkach – jeśli chcesz poczuć Mediolan w stylu vintage, wskakuj do <strong>tramwaju nr 1</strong>. To nie tylko środek transportu, to podróż w czasie… z przystankami! </p> <p> Tramwaje tej linii to odrestaurowane wagoniki z lat 20. XX wieku, które nadal kursują po ulicach miasta. Drewniane siedzenia, mosiężne poręcze, skrzypiące drzwi i panorama Mediolanu za oknem – czego chcieć więcej? Może tylko ciepłej focacci na drogę. </p> <p> Trasa przebiega przez najpiękniejsze części miasta: od <strong>Piazza Castello</strong> przez <strong>Via Manzoni</strong>, <strong>Corso Sempione</strong>, aż do spokojniejszych dzielnic północnych. Nie spieszy się, nie hałasuje – idealna opcja na spokojną obserwację miasta z klimatyzacją… lat 30. </p> <ul> <li><strong>Bilet:</strong> 2,20€ (standardowy bilet ATM, ważny 90 minut)</li> <li><strong>Start:</strong> Piazza Castello lub Cairoli</li> <li><strong>Styl jazdy:</strong> retro chill z widokiem</li> </ul>
   </details>
 
   <details>
     <summary><strong>🔔 Torre del Gombito – wieża, której nikt nie szuka… a szkoda</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7046° N, 9.6642° E</em></p>
-    <p>
-      W centrum Città Alta stoi średniowieczna wieża, którą mijają wszyscy – ale mało kto na nią wchodzi. A szkoda! Latem można się na nią wdrapać (po wcześniejszej rezerwacji) i zobaczyć panoramę miasta z zupełnie innej perspektywy. W gratisie dostajesz mięśnie nóg i brak tłumów.
-    </p>
+       <p> Mediolan to miasto mody, betonu i espresso na stojąco… ale ma też swoje ciche, zielone zakątki. Jednym z nich jest <strong>ukryty ogród przy Palazzo Brera</strong> – miejsce, o którym nie wie nawet większość turystów. A szkoda! </p> <p> Za masywnymi drzwiami Galerii Brera kryje się uroczy ogród botaniczny – mały, romantyczny i zadziwiająco spokojny. Kiedyś należał do jezuitów, dziś to oaza ciszy, pełna roślin, ławeczek i klimatu jak z powieści historycznej (ale bez inkwizycji). </p> <p> Znajdziesz tu stare studnie, rzadkie rośliny i ukryte zaułki – idealne na chwilę odpoczynku między jedną kawą a drugim muzeum. Wstęp wolny, cisza obowiązkowa, a Instagram będzie zachwycony. </p> <ul> <li><strong>Lokalizacja:</strong> Via Brera 28 (wejście przez dziedziniec Pinacoteca di Brera)</li> <li><strong>Wstęp:</strong> darmowy</li> <li><strong>Idealny czas wizyty:</strong> wczesne popołudnie – najwięcej słońca i najmniej ludzi</li> </ul>
   </details>
 
-  <details>
-    <summary><strong>🌳 Scaletta dello Scorlazzone – schody donikąd (a jednak gdzieś)</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7028° N, 9.6621° E</em></p>
-    <p>
-      Urocze, kamienne schody łączące Città Alta z niższym miastem. Prawie nikt ich nie zna, więc masz duże szanse być tam sam. Po drodze – dzikie ogrody, mury, i widoki idealne na melancholijny spacer z muzyką filmową w słuchawkach. Ewentualnie pizzą w ręku. Bo czemu nie.
-    </p>
-  </details>
+ <details>
+  <summary><strong>❤️ Tunel Miłości – zielony zakątek zakochanych</strong></summary>
+  <p>
+    Nie trzeba jechać do Ukrainy czy Japonii, żeby przejść się przez romantyczny tunel z roślin – <strong>Mediolan ma własny Tunel Miłości</strong>, i to całkiem nieźle ukryty. Znajdziesz go w pobliżu <em>Porta Genova</em>, przy trasie dawnej kolejki towarowej, zamienionej dziś w coś między parkiem, galerią i... idealnym tłem do zdjęć.
+  </p>
 
-  <details>
-    <summary><strong>🕳️ Il Lavatoio – średniowieczna pralnia</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7040° N, 9.6625° E</em></p>
-    <p>
-      Tu kiedyś kobiety prały ubrania i plotkowały o całym mieście. Dziś to spokojna altanka z wodą, ukryta przy Piazza Mercato delle Scarpe. Świetne miejsce na chwilę wytchnienia, zdjęcie w stylu „mniej znane perełki” i pogadankę o historii z kimś lokalnym (albo samym sobą).
-    </p>
-  </details>
+  <p>
+    Tunel powstał z naturalnie rosnących bluszczy i krzewów, które utworzyły gęsty, zielony korytarz. Latem – cień i chłód. Wiosną – kwiaty i zakochani z piknikiem. Jesienią – złote liście. Zimą... no cóż, wtedy trzeba użyć wyobraźni.
+  </p>
 
-  <details>
-    <summary><strong>🏺 Museo Donizettiano – dla fanów muzycznych duchów</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7053° N, 9.6649° E</em></p>
-    <p>
-      Gaetano Donizetti, słynny kompozytor operowy, urodził się w Bergamo. I chociaż jego muzeum to nie gigantyczna atrakcja, to właśnie dzięki temu jest idealnym sekretnym miejscem. Stare nuty, instrumenty, listy, biografia jak z filmu. W sam raz na chwilę ciszy i muzycznej refleksji.
-    </p>
-    <ul>
-      <li><strong>Wstęp:</strong> 5€</li>
-    </ul>
-  </details>
+  <p>
+    To miejsce ma wyjątkową atmosferę – idealne na romantyczny spacer, zaręczyny (nie przesadzam!) albo po prostu chwilę spokoju w wielkim mieście. Legenda głosi, że para, która przejdzie przez cały tunel trzymając się za ręce i nie puści dłoni, będzie razem na zawsze. Jeśli to nie magia, to nie wiem, co nią jest.
+  </p>
+
+  <ul>
+    <li><strong>Lokalizacja:</strong> Via Tortona / Via Voghera (okolice Porta Genova)</li>
+    <li><strong>Wstęp:</strong> oczywiście darmowy</li>
+    <li><strong>Protip:</strong> przyjdź o zachodzie słońca – światło robi cuda</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🕯️ San Bernardino alle Ossa – kaplica z kośćmi</strong></summary>
+  <p>
+    Myślisz, że Mediolan to tylko moda, design i luksusowe butiki? A co powiesz na... ściany wyłożone ludzkimi czaszkami? <strong>San Bernardino alle Ossa</strong> to jedno z najbardziej niepokojących, a zarazem fascynujących miejsc w mieście. 
+  </p>
+
+  <p>
+    Położona tuż obok Piazza Santo Stefano kaplica została zbudowana w XIII wieku przy dawnym szpitalu i kostnicy. Kiedy zabrakło miejsca na cmentarzu, kości zaczęto przenosić właśnie tutaj – i... ozdabiać nimi ściany. Efekt? Gotycko-barokowy klimat, który robi wrażenie nawet na najbardziej odpornych turystach.
+  </p>
+
+  <p>
+    Atmosfera tego miejsca jest absolutnie wyjątkowa – mistyczna, trochę makabryczna, ale i... spokojna. To nie atrakcja dla każdego, ale jeśli lubisz odkrywać ukryte historie i miejsca, które nie pojawiają się w przewodnikach, to musisz tu zajrzeć.
+  </p>
+
+  <ul>
+    <li><strong>Lokalizacja:</strong> Piazza Santo Stefano, kilka minut pieszo od Duomo</li>
+    <li><strong>Wstęp:</strong> darmowy, choć mile widziana jest symboliczna ofiara</li>
+    <li><strong>Tip:</strong> najlepiej odwiedzać rano lub poza godzinami szczytu – cisza dodaje klimatu</li>
+  </ul>
+</details>
+
 
 </details>
 
