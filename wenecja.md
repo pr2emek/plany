@@ -357,8 +357,8 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 <details>
-  <summary><strong>🧙‍♂️ Legendy Wenecj</strong></summary>
-  
+  <summary><strong>🧙‍♂️ Legendy Wenecji</strong></summary>
+ 
     <h3>⚔️ Duch templariusza przy Campo San Zan Degolà</h3>
     <p><strong>Współrzędne:</strong> <em>45.4437° N, 12.3249° E</em></p>
     <p>
