@@ -34,9 +34,25 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
    <details>
     <summary><strong>🏰 Città Alta – średniowieczna magia na wzgórzu</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.7048° N, 9.6634° E</em></p>
-    <p>
-      Stare miasto, które wygląda jakby Pinterest zrobił upgrade do rzeczywistości. Città Alta to serce Bergamo – brukowane uliczki, klimatyczne place, dzwonnice, mury obronne i klimat, w którym zakochasz się szybciej niż w lokalnym gelato. Spaceruj bez planu, bo tutaj każdy zakręt prowadzi do czegoś pięknego.
-    </p>
+      <p>
+    Città Alta to taka włoska kapsuła czasu: średniowieczne mury, brukowane uliczki, pachnące focaccie i staruszki w oknach, które znają historię każdej kamienicy (i każdego sąsiada). To właśnie tu bije serce starego Bergamo – choć w praktyce bije nieco wolniej, bo wszyscy się zatrzymują, żeby zrobić zdjęcie, zjeść gelato albo westchnąć „mamooo, jakie to ładne”.
+  </p>
+
+  <p>
+    Można tam dotrzeć pieszo – jeśli lubisz wyzwania, pot i satysfakcję – albo wjechać słynną <strong>kolejką Funicolare</strong>, co jest wersją deluxe dla turystów i ludzi, którzy już dziś zrobili 4000 kroków. Sam przejazd to osobna atrakcja: wagonik skrzypi, ale dzielnie wspina się pod górę, jakby wiedział, że wozi ludzi do bajki.
+  </p>
+
+  <p>
+    Na miejscu znajdziesz wszystko, co włoskie dusze lubią najbardziej: <strong>Piazza Vecchia</strong>, czyli główny plac pełen kawiarenek i architektonicznej poezji, <strong>bazylikę Santa Maria Maggiore</strong>, która wygląda jakby ktoś rozrzucił w niej brokat i sztukaterię bez ograniczeń, a także <strong>Kaplicę Colleoniego</strong> – marmurowe marzenie egocentrycznego kondotiera (ale przyznajmy, gust miał świetny).
+  </p>
+
+  <p>
+    Jeśli chcesz poczuć się jak w filmie, weź espresso, usiądź na ławce i słuchaj dźwięków miasta: dzieci biegających po placu, przewodników opowiadających niestworzone historie i turystów próbujących wymówić „Colleoni” bez śmiechu. A potem zgub się w wąskich uliczkach, bo właśnie tam – za rogiem z suszącym się praniem – kryje się prawdziwy klimat Bergamo.
+  </p>
+
+  <p>
+    <strong>Wskazówka prosto z serca (i żołądka):</strong> nie opuszczaj Città Alta bez spróbowania <em>polenty z mięsnym sosem</em>. W miejscowej wersji jest tak dobra, że możesz na chwilę zapomnieć, jak się mówi „gluten”.
+  </p>
     <ul>
       <li><strong>Wstęp:</strong> Spacer darmowy. Widoki – bezcenne.</li>
     </ul>
@@ -45,9 +61,30 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>⛪ Piazza Vecchia i Bazylika Santa Maria Maggiore – serce i dusza miasta</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.7038° N, 9.6628° E</em></p>
+    
+      <p>
+    Gdyby place miały osobowość, <strong>Piazza Vecchia</strong> byłby starszym dżentelmenem w garniturze z epoki – z filiżanką espresso w jednej ręce i gazetą w drugiej. To serce Città Alta i obowiązkowy przystanek dla każdego turysty, który choć raz powiedział "kocham włoską architekturę", nie odróżniając renesansu od ricotty.
+  </p>
+
+  <p>
+    Plac otoczony jest perełkami – w tym <em>Palazzo della Ragione</em>, średniowiecznym ratuszem, i wieżą Torre Civica, z której dzwony przypominają mieszkańcom, że czas mija (i że kawa stygnie). Na środku placu stoi fontanna Contarinich, przy której codziennie robione są tysiące zdjęć, z czego połowa to selfie z miną „Właśnie znalazłem się w katalogu UNESCO”.
+  </p>
+
+  <p>
+    Idealne miejsce na chwilę kontemplacji, kawę za 4 euro i podsłuchiwanie przewodników tłumaczących, dlaczego ten plac „łączy ducha republikańskiego z architektoniczną czystością”. A Ty po prostu usiądź, zjedz rogalika i udawaj, że rozumiesz.
+  </p>
+
     <p>
-      Piazza Vecchia to taka włoska wersja dziedzińca Hogwartu. Pośrodku fontanna, wokół pałace, a nad wszystkim czuwa wieża zegarowa. Tuż obok znajdziesz Bazylikę, która wygląda niepozornie z zewnątrz, ale w środku... złoto, freski, marmur, rzeźby i aniołowie na każdym centymetrze. Możesz dostać oczopląsu od zachwytu.
-    </p>
+    Bazylika wygląda jak skromna sąsiadka Kaplicy Colleoniego, ale tylko dopóki nie wejdziesz do środka. A żeby było śmieszniej – wejście nie jest przez główne drzwi (bo po co byłoby łatwo), tylko z boku. Takie włoskie „szukaj, a znajdziesz” w wersji sakralnej.
+  </p>
+
+  <p>
+    Wnętrze to czysta barokowa ekstaza. Freski, złote stiuki, rzeźby i misternie rzeźbione drewniane stalle – czyli siedziska, na których chórzyści udają, że nie śpią. Tu naprawdę nie wiadomo, gdzie patrzeć – wszystko krzyczy „ZACHWYĆ SIĘ MNĄ”, a Ty, człowieku, tylko mrugasz oczami i próbujesz nie upuścić szczęki.
+  </p>
+
+  <p>
+    Bazylika powstała w podzięce za ocalenie miasta od zarazy. A patrząc na ten przepych, można podejrzewać, że miasto chciało podziękować naprawdę konkretnie. Co ciekawe, to właśnie tu pochowany jest Donizetti – tak, ten od oper. Gdyby dziś żył, pewnie nagrałby TikToka z wnętrza.
+  </p>
     <ul>
       <li><strong>Wstęp:</strong> Bazylika – darmowy (darowizny mile widziane, nawet w drobniakach).</li>
     </ul>
@@ -56,9 +93,23 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🧱 Mury weneckie – UNESCO z widokiem</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.7043° N, 9.6645° E</em></p>
-    <p>
-      Te mury nie służą już do obrony, tylko do... zachwytu. Zbudowane przez Wenecjan w XVI wieku, otaczają Città Alta i wpisane są na listę UNESCO. Z ich szczytu rozciąga się widok na dolne Bergamo, Alpy i zachody słońca, które powinny mieć własne konto na Instagramie.
-    </p>
+    idna robota i darmowy taras widokowy</h2>
+
+  <p>
+    Gdyby te mury umiały mówić, pewnie westchnęłyby: „Znowu turyści z aparatem…”. Ale nie narzekają, bo od XVI wieku stoją jak stały – dumne, kamienne i wpisane na listę UNESCO (czyli międzynarodowy certyfikat „wow, ale fajne”). <strong>Mury Weneckie</strong> otaczają całą Città Alta i mają ponad 6 kilometrów długości. Idealne na spacer, randkę lub szybki detoks po tiramisu.
+  </p>
+
+  <p>
+    Zbudowane zostały przez Wenecjan – nie z miłości do Bergamo, ale z miłości do strategii wojskowej. Miały chronić miasto przed wrogami, no i chyba się udało, bo dziś jedynym zagrożeniem są turyści z kijkami do selfie i gołębie, które nie mają respektu przed zabytkami.
+  </p>
+
+  <p>
+    Co tu robić? Spacerować! Widoki są spektakularne: z jednej strony panorama Doliny Padu i nowoczesnej części Bergamo, z drugiej – średniowieczne dachy i wieże Città Alta. Idealne miejsce na zdjęcia w stylu „spontaniczne, ale stylizowane”. A jak już się zmęczysz, znajdziesz ławkę z widokiem i zadumasz się nad sensem życia (albo nad tym, gdzie zjeść kolację).
+  </p>
+
+  <p>
+    <strong>Pro tip:</strong> przy zachodzie słońca mury zamieniają się w romantyczny bulwar, który działa lepiej niż aplikacje randkowe. Jeśli tu nie padnie „kocham cię”, to chyba tylko dlatego, że ktoś zagapił się na widok.
+  </p>
     <ul>
       <li><strong>Wstęp:</strong> Bezpłatnie – idealne miejsce na spacer i selfie z historią w tle.</li>
     </ul>
@@ -85,6 +136,26 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
       <li><strong>Wstęp:</strong> 10€ normalny</li>
     </ul>
   </details>
+  
+ <details>
+    <summary><strong>🏛️ Cappella Colleoni – grobowiec na bogato</strong></summary>
+    <p><strong>Współrzędne:</strong> 45.7036, 9.6619</p>
+      <p>
+    Kiedy Bartolomeo Colleoni – kondotier, wojownik i mistrz autopromocji – postanowił zbudować sobie grobowiec, nie poszedł w minimalizm. Zamiast prostego nagrobka, zamówił <strong>kaplicę z marmuru, złota i dumy</strong>, wciśniętą z gracją pomiędzy bazylikę a ratusz. Efekt? Jeden z najbardziej ekstrawaganckich grobowców renesansu – bo przecież jak już umierać, to z klasą.
+  </p>
+
+  <p>
+    Fasada kaplicy to czysta poezja z różowego i białego marmuru, pełna kolumn, rzeźb i ornamentów – wygląda trochę jak deser lodowy dla architektów. Wnętrze? Nie mniej efektowne – z freskami, które bardziej przypominają pałac niż miejsce wiecznego spoczynku.
+  </p>
+
+  <p>
+    I teraz najlepsze: <strong>herb Colleoniego</strong> przedstawia... trzy kule. I tak, legenda głosi, że były to jego... „klejnoty”. Znajdziesz je wszędzie – na fasadzie, na posadzce, w herbach. Jeśli więc zobaczysz trzy kule obok siebie – to nie symbol olimpijski. To Colleoni.
+  </p>
+
+  <p>
+    Dla Włochów to ważne miejsce kultu sztuki. Dla turystów – najlepszy przykład, jak z pompy zrobić arcydzieło. Dla Ciebie – obowiązkowy punkt programu i idealne tło do żartobliwego selfie w stylu "To też bym sobie zrobił, gdybym miał armię i renesans".
+  </p>
+ 
 
   <details>
     <summary><strong>🏛️ GAMeC – nowoczesność w kontrze do renesansu</strong></summary>
