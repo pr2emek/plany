@@ -139,7 +139,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
   
  <details>
-    <summary><strong><i class="fas fa-coffin"></i> Cappella Colleoni – grobowiec na bogato</strong></summary>
+    <summary><strong>🪦 Cappella Colleoni – grobowiec na bogato</strong></summary>
     <p><strong>Współrzędne:</strong> 45.7036, 9.6619</p>
       <p>
     Kiedy Bartolomeo Colleoni – kondotier, wojownik i mistrz autopromocji – postanowił zbudować sobie grobowiec, nie poszedł w minimalizm. Zamiast prostego nagrobka, zamówił <strong>kaplicę z marmuru, złota i dumy</strong>, wciśniętą z gracją pomiędzy bazylikę a ratusz. Efekt? Jeden z najbardziej ekstrawaganckich grobowców renesansu – bo przecież jak już umierać, to z klasą.
@@ -173,7 +173,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
 
 <details>
-    <summary><strong> <i class="fas fa-bench"></i> Sekretna ławeczka z widokiem</strong></summary>
+    <summary><strong> 🪑 Sekretna ławeczka z widokiem</strong></summary>
   <p><strong>Współrzędne:</strong> 45.7030, 9.6645</p>
 
   <p>
