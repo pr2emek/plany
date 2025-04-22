@@ -173,7 +173,6 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
 
 <details>
- 
     <summary><strong> <i class="fas fa-bench"></i> Sekretna ławeczka z widokiem</strong></summary>
   <p><strong>Współrzędne:</strong> 45.7030, 9.6645</p>
 
@@ -238,7 +237,6 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
     </ul>
   </details>
 
-</details>
 </details>
 </details>
 
