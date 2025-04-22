@@ -515,7 +515,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 ---
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦co robić z dziećmi w Neapolu – zabawa, pizza i piasek w butach</strong></summary>
+  <summary><strong>👨‍👩‍👧‍👦Co robić z dziećmi w Neapolu</strong></summary>
 
   <h3>🦖 Città della Scienza – nauka, która nie boli</h3>
   <p>
