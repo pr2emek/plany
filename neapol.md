@@ -187,7 +187,9 @@ Witaj w przewodniku po Neapolu! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 <ul>
 
-  <li><strong>Bilety:</strong> Za darmo, ale datki mile widziane (nawet eurocent działa jak święty).</li>
+  <li>
+    <strong>Bilety:</strong> Za darmo, ale datki mile widziane (nawet eurocent działa jak święty).
+  </li>
  
 </ul>
 </details>
@@ -311,7 +313,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   <details>
     <summary><strong>📅 Dzień 1 – Serce Neapolu: historia, pizza i ulice z charakterem </strong></summary>
     <p>
-    ⛪ Start: Katedra św. Januarego</h3> 
+    <h3>⛪ Start: Katedra św. Januarego</h3> 
     <p> Rozpocznij dzień w miejscu, gdzie historia spotyka cud – dosłownie. Wchodzisz do majestatycznej katedry, gdzie złoto świeci mocniej niż w pierścionkach neapolitańskich mam. Wewnątrz znajdziesz relikwie patrona miasta i słynną ampułkę z krwią, która ponoć się rozpuszcza… jak lody w lipcu. </p> 
     <h3>🛒 Spacer Spaccanapoli – witaj w żywym teatrze</h3> 
     <p> Następny przystanek to deptak-legenda, który przecina starówkę jak nóż pizzę. Tu dzieje się wszystko: dzieci grają w piłkę, panie kłócą się o pomidory, a z balkonów lecą krzyki i... czasem pranie. Zatrzymaj się na espresso i sfogliatellę – i po prostu obserwuj życie. </p> 
@@ -353,7 +355,8 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
     </p>
   </details>
 
- <details> <summary><strong>📅 Dzień 3 – Pompeje i Herkulanum: dzień w cieniu Wezuwiusza</strong></summary> 
+ <details> 
+   <summary><strong>📅 Dzień 3 – Pompeje i Herkulanum: dzień w cieniu Wezuwiusza</strong></summary> 
    <h3>🌅 Poranek: Pompeje – miasto zamrożone w czasie</h3> 
    <ul> <li><strong>Jak dojechać:</strong> Pociąg <em>Circumvesuviana</em> z Neapolu (stacja Napoli Garibaldi) do stacji <strong>Pompei Scavi – Villa dei Misteri</strong>. Czas przejazdu: ok. 35 minut.</li> <li><strong>Bilety:</strong> 18€ normalny (dostępne też pakiety z Herkulanum)</li> 
      <li><strong>Zwiedzanie:</strong> Minimum 2–3 godziny (ale możesz też spędzić tu cały dzień)</li> 
@@ -386,15 +389,16 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   <p> Na stacji Marina Grande wsiądź w kolejkę linową <strong>Funicolare</strong> (kilka minut jazdy) i już jesteś w sercu miasta Capri – eleganckim, kolorowym, pachnącym cytrynami i drogimi perfumami. </p> 
   <h3>🌸 Zwiedzanie Capri – czyli piękno z każdej strony</h3> <ul> <li>🌿 <strong>Ogrody Augusta (Giardini di Augusto)</strong> – pocztówkowy widok na skały Faraglioni i krętą Via Krupp</li> 
     <li>🛍️ Spacer po luksusowych uliczkach – butików więcej niż mieszkańców</li> <li>⛵ <strong>Rejs wokół wyspy</strong> – opcjonalnie: 1–2 godziny, widok na Błękitną Grotę, skały i zatoczki</li>
-    <li>💙 <strong>Grotta Azzurra (Błękitna Grota)</strong> – kultowa jaskinia, gdzie światło robi cuda – <em>tylko przy dobrej pogodzie</em></li> <li>⛰️ <strong>Monte Solaro</strong> – najwyższy punkt wyspy (wjeżdżasz krzesełkową kolejką z Anacapri – zapierający dech widok)</li> </ul> <h3>🍋 Lunch i limoncello w Anacapri</h3> <p> Po południu warto zajrzeć do <strong>Anacapri</strong> – spokojniejszej, bardziej lokalnej części wyspy. Przejdź się po miasteczku, zajrzyj do <strong>Villa San Michele</strong>, zjedz <em>insalatę caprese</em> i wypij kieliszek limoncello tam, gdzie powstał. </p> 
+    <li>💙 <strong>Grotta Azzurra (Błękitna Grota)</strong> – kultowa jaskinia, gdzie światło robi cuda – <em>tylko przy dobrej pogodzie</em></li> <li>⛰️ <strong>Monte Solaro</strong> – najwyższy punkt wyspy (wjeżdżasz krzesełkową kolejką z Anacapri – zapierający dech widok)</li> 
+  </ul> 
+  <h3>🍋 Lunch i limoncello w Anacapri</h3> <p> Po południu warto zajrzeć do <strong>Anacapri</strong> – spokojniejszej, bardziej lokalnej części wyspy. Przejdź się po miasteczku, zajrzyj do <strong>Villa San Michele</strong>, zjedz <em>insalatę caprese</em> i wypij kieliszek limoncello tam, gdzie powstał. </p> 
   <h3>🏖️ Czas wolny – la dolce far niente</h3>
   <p> Po prostu: idź na spacer, usiądź z widokiem i nie rób nic. Bo Capri to też sztuka odpoczywania. Możesz też zejść na plażę (choć większość to małe zatoczki z kamieniami) lub usiąść w kawiarni przy tarasie z widokiem na błękit bez końca. </p>
-  <h3>🚢 Powrót do Neapolu</h3> <p> Wróć na <strong>Marina Grande</strong> i złap ostatni prom do Neapolu – zazwyczaj odpływają między <strong>17:00 a 19:00</strong> (zależnie od sezonu). Pod wieczór Neapol powita Cię światłami i… zapachem pizzy. Czy można chcieć więcej? </p> 
-  
-</details>
+  <h3>🚢 Powrót do Neapolu</h3> 
+  <p> Wróć na <strong>Marina Grande</strong> i złap ostatni prom do Neapolu – zazwyczaj odpływają między <strong>17:00 a 19:00</strong> (zależnie od sezonu). Pod wieczór Neapol powita Cię światłami i… zapachem pizzy. Czy można chcieć więcej? </p> 
+  </details>
 
 </details>
-
 
 ---
 
