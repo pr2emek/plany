@@ -390,6 +390,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   <h3>🏖️ Czas wolny – la dolce far niente</h3>
   <p> Po prostu: idź na spacer, usiądź z widokiem i nie rób nic. Bo Capri to też sztuka odpoczywania. Możesz też zejść na plażę (choć większość to małe zatoczki z kamieniami) lub usiąść w kawiarni przy tarasie z widokiem na błękit bez końca. </p>
   <h3>🚢 Powrót do Neapolu</h3> <p> Wróć na <strong>Marina Grande</strong> i złap ostatni prom do Neapolu – zazwyczaj odpływają między <strong>17:00 a 19:00</strong> (zależnie od sezonu). Pod wieczór Neapol powita Cię światłami i… zapachem pizzy. Czy można chcieć więcej? </p> 
+  
 </details>
 
 </details>
