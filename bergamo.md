@@ -30,188 +30,73 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
-  
-   <details> 
-
-
-<details>
-  <summary><strong>🏛️ Narodowe Muzeum Archeologiczne – tam, gdzie Rzym i Pompeje się spotykają</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>40.8522° N, 14.2505° E</em></p>
-  <p>
-    Jeśli jesteś typem, który lubi starożytność bardziej niż współczesne seriale, to trafiłeś do raju. A jeśli nie – to też. Bo <strong>Narodowe Muzeum Archeologiczne w Neapolu</strong> to nie kolekcja zakurzonych waz i smutnych kamieni. To istny skarbiec epickich historii, zakazanych rzeźb i... mozaik, które mają więcej detali niż tapeta w modnym bistro.
-  </p>
-
-  <p>
-    To tutaj spotykają się Pompeje, Herkulanum i antyczny Rzym – wszystko w jednym miejscu, pod dachem tak masywnym, że mógłby sam być eksponatem. Mówi się, że to jedno z najważniejszych muzeów archeologicznych świata. My mówimy: to jedno z najfajniejszych miejsc, gdzie można patrzeć na coś naprawdę starego, a mimo to się nie nudzić.
-  </p>
-
-  <p>
-    W środku znajdziesz <strong>mozaiki z Pompejów</strong>, które pokazują sceny z życia codziennego… a także życia bardzo niecodziennego. Jest też słynny <strong>gabinet erotyczny</strong>, gdzie zobaczysz antyczne sceny miłosne tak śmiałe, że Instagram mógłby je ocenzurować. A wszystko to stworzone ponad 2000 lat temu. Antyczni Rzymianie wiedzieli, jak się bawić.
-  </p>
-
-  <p>
-    Obok mozaik i rzeźb jest też ogromna kolekcja posągów, marmurowych głów i innych śladów po cywilizacji, która w wolnym czasie wymyślała akwedukty i igrzyska. Tylko w tym muzeum możesz jednego dnia spojrzeć w oczy Cezarowi, przybić (mentalną) piątkę Apollinowi i zastanowić się, czy rzeźba Fauna tańczy, czy ćwiczy pilates.
-  </p>
-
-  <p>
-    To miejsce łączy wszystko, co najlepsze w Neapolu: chaos, piękno, historię i nutkę pikanterii. Idealne dla tych, którzy chcą zanurzyć się w przeszłości bez ryzyka utknięcia w czasie – bo jak się zmęczysz, to zawsze możesz uciec do pobliskiego baru na espresso. Takie muzeum to skarb. I nie trzeba kopać, by go znaleźć.
-  </p>
-<ul>
  
-  <li><strong>Bilety:</strong> 15€ normalny.</li>
+   <details>
+    <summary><strong>🏰 Città Alta – średniowieczna magia na wzgórzu</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.7048° N, 9.6634° E</em></p>
+    <p>
+      Stare miasto, które wygląda jakby Pinterest zrobił upgrade do rzeczywistości. Città Alta to serce Bergamo – brukowane uliczki, klimatyczne place, dzwonnice, mury obronne i klimat, w którym zakochasz się szybciej niż w lokalnym gelato. Spaceruj bez planu, bo tutaj każdy zakręt prowadzi do czegoś pięknego.
+    </p>
+    <ul>
+      <li><strong>Wstęp:</strong> Spacer darmowy. Widoki – bezcenne.</li>
+    </ul>
+  </details>
 
-</ul>
-</details>
+  <details>
+    <summary><strong>⛪ Piazza Vecchia i Bazylika Santa Maria Maggiore – serce i dusza miasta</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.7038° N, 9.6628° E</em></p>
+    <p>
+      Piazza Vecchia to taka włoska wersja dziedzińca Hogwartu. Pośrodku fontanna, wokół pałace, a nad wszystkim czuwa wieża zegarowa. Tuż obok znajdziesz Bazylikę, która wygląda niepozornie z zewnątrz, ale w środku... złoto, freski, marmur, rzeźby i aniołowie na każdym centymetrze. Możesz dostać oczopląsu od zachwytu.
+    </p>
+    <ul>
+      <li><strong>Wstęp:</strong> Bazylika – darmowy (darowizny mile widziane, nawet w drobniakach).</li>
+    </ul>
+  </details>
 
-<details>
-<summary><strong>🌋 Wezuwiusz – zrób sobie zdjęcie z wulkanem</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>40.8214° N, 14.4265° E</em></p>
+  <details>
+    <summary><strong>🧱 Mury weneckie – UNESCO z widokiem</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.7043° N, 9.6645° E</em></p>
+    <p>
+      Te mury nie służą już do obrony, tylko do... zachwytu. Zbudowane przez Wenecjan w XVI wieku, otaczają Città Alta i wpisane są na listę UNESCO. Z ich szczytu rozciąga się widok na dolne Bergamo, Alpy i zachody słońca, które powinny mieć własne konto na Instagramie.
+    </p>
+    <ul>
+      <li><strong>Wstęp:</strong> Bezpłatnie – idealne miejsce na spacer i selfie z historią w tle.</li>
+    </ul>
+  </details>
 
-  <p>
-    Wezuwiusz. Jedyny wulkan w kontynentalnej Europie, który nie tylko lubi dramaty, ale też pisał własną historię krwią i popiołem. Tak, to ten sam, który w 79 roku n.e. zrobił z Pompejów i Herkulanum najbardziej znane ruiny świata. Dziś śpi. Ale jak to z Wezuwiuszem – nigdy nie wiadomo, czy to tylko drzemka, czy przerwa między odcinkami.
-  </p>
+  <details>
+    <summary><strong>🏞️ Parco della Rocca – twierdza z zieloną duszą</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.7052° N, 9.6648° E</em></p>
+    <p>
+      Jeśli chcesz połączyć zieleń, historię i widok, który wywołuje efekt "wow" – to jesteś w dobrym miejscu. Rocca to dawna forteca z XIV wieku, dziś otoczona parkiem. Można wejść na wieżę i spojrzeć na miasto z lotu ptaka (albo drona). Idealne miejsce na piknik lub ucieczkę od tłumu turystów.
+    </p>
+    <ul>
+      <li><strong>Wstęp:</strong> Park za darmo, wejście na wieżę – ok. 3€</li>
+    </ul>
+  </details>
 
-  <p>
-    Spacer na szczyt Wezuwiusza to jak wejście na dach piekła – ale z przepięknym widokiem. Droga nie jest trudna, ale jak to bywa z wulkanami – trochę piachu, trochę kamieni i dużo zadyszki. Po drodze może się zdarzyć: mgła, wiatr, widoki jak z innej planety i pytanie „kto mnie tu w ogóle wyciągnął?”. Ale warto!
-  </p>
+  <details>
+    <summary><strong>🖼️ Accademia Carrara – dla fanów sztuki i ram złoconych</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.7070° N, 9.6750° E</em></p>
+    <p>
+      Galeria sztuki, która może nie jest tak znana jak Uffizi, ale zawstydza niejedne europejskie muzea. Botticelli, Raffaello, Bellini i inni klasycy zawieszeni na ścianach w pięknych salach. Nawet jeśli nie jesteś fanem malarstwa – tu docenisz ciszę, klimat i... klimatyzację.
+    </p>
+    <ul>
+      <li><strong>Wstęp:</strong> 10€ normalny</li>
+    </ul>
+  </details>
 
-  <p>
-    Na górze czeka krater. Ogromny, surowy, trochę jak uśpiony potwór. Z jednej strony widać jego cichy gniew, z drugiej – Zatokę Neapolitańską aż po Capri. Widok? Epicki. I tak, absolutnie instagramowalny. Tylko trzymaj czapkę – bo wiatr potrafi być bardziej dramatyczny niż sam Wezuwiusz.
-  </p>
-
-  <p>
-    Legenda głosi, że kto spojrzy w krater, ten... wróci tu ponownie. Ale może to tylko marketing Parku Narodowego. Tak czy inaczej – jeśli chcesz połączyć górską przygodę z dreszczykiem historii i widokami jak z filmu fantasy, to Wezuwiusz to twój człowiek. A właściwie – twoja góra.
-  </p>
-<ul>
-  <li><strong>Jak dojechać:</strong> Pociąg Circumvesuviana do Ercolano Scavi, potem bus Navetta Vesuvio lub pieszo (dla odważnych i spoconych).</li>
-  <li><strong>Bilety:</strong> 10€ + opcjonalny transport ~10€ – najlepiej rezerwować online.</li>
-  
-</ul>
-</details>
-
-<details>
-<summary><strong>🏛️ Pompeje – zatrzymane w czasie</strong></summary>
- <p><strong>Współrzędne:</strong> <em>40.7498° N, 14.4861° E</em></p>
-
-
-  <p>
-    Witaj w Pompejach – miejscu, gdzie czas się zatrzymał, a popiół zrobił z miasta archeologiczne Hollywood. W 79 roku n.e. Wezuwiusz miał gorszy dzień i postanowił dać upust emocjom. Efekt? Miasto pokryte warstwą lawy, popiołu i historii na tysiąclecia. Dziś to nie muzeum – to żywa scena życia sprzed dwóch tysięcy lat. Bez efektów specjalnych.
-  </p>
-
-  <p>
-    Spacerując po Pompejach, masz wrażenie, że zaraz zza rogu wyjdzie handlarz oliwą albo rzymska matrona z listą zakupów. Ulice z oryginalnym brukiem, termy, amfiteatr, graffiti na murach (tak, starożytni też lubili bazgrać) – wszystko autentyczne, wszystko zamrożone w czasie. Nawet piekarnie mają piece, w których jeszcze czuć... historię. Albo przypaloną focaccię.
-  </p>
-
-  <p>
-    Największe wrażenie robią odlewy ciał mieszkańców – ludzie zaskoczeni tragedią w pół ruchu. To poruszające i niesamowite świadectwo tego, jak kruche jest życie i jak trwałe bywa popiołowe selfie z I wieku.
-  </p>
-
-  <p>
-    Całość zajmuje naprawdę duży teren – ponad 60 hektarów ruin. Więc przygotuj się na długi spacer, solidne buty i sporą dawkę zdziwienia. Bo Pompeje to nie tylko starożytność – to emocje, dramat, codzienność sprzed wieków i dowód, że nawet w czasach bez Wi-Fi ludzie wiedzieli, jak żyć (i plotkować).
-  </p>
-
-  <p>
-    Jeśli kochasz historię, architekturę, zagadki i nutkę starożytnej sensacji – Pompeje są obowiązkowym przystankiem. Tylko pamiętaj: nie próbuj „przytulić” niczego z ruin. Rzymianie byli surowi, ale współczesna policja archeologiczna bywa jeszcze bardziej bezlitosna.
-  </p>
-
-<ul>
-  <li><strong>Jak dojechać:</strong> Circumvesuviana z Neapolu – stacja Pompei Scavi.</li>
-  <li><strong>Bilety:</strong> 18€ normalny, są też karnety np. z Herkulanum.</li>
- 
-</ul>
-</details>
-
-<details>
-<summary><strong>⛪ Katedra św. Januarego – święty z supermocą</strong></summary>
-   <p><strong>Współrzędne:</strong> <em>40.8529° N, 14.2595° E</em></p>
- <p>
-    Jeśli Neapol ma serce, to bije ono właśnie tutaj – w Katedrze św. Januarego. Ten gotycko-barokowy cud architektury jest nie tylko największym kościołem w mieście, ale i najważniejszym duchowym centrum Neapolitańczyków. A to wszystko za sprawą jednego gościa… który zmarł w III wieku. Tak, mowa o św. Januariuszu, lokalnym celebrycie od cudów z krwią.
-  </p>
-
-  <p>
-    Wewnątrz katedry czeka Cię prawdziwy pokaz przepychu: złote sklepienia, marmurowe kolumny, freski, kaplice i ołtarze, których jest więcej niż Twoich zakładek w przeglądarce. Ale najważniejsza jest **Kaplica Skarbca św. Januarego**, gdzie przechowywane są jego relikwie – w tym najsłynniejsza ampułka z zakrzepłą krwią. Trzy razy do roku odbywa się tu ceremonia „cudu krwi” – jeśli się rozpuści, to znak, że Neapol będzie miał dobry rok. Jeśli nie… cóż, lepiej nie pytać.
-  </p>
-
-  <p>
-    Co ciekawe, mieszkańcy traktują św. Januarego trochę jak osobistego ochroniarza miasta. Powód? Podobno to właśnie on powstrzymał wybuch Wezuwiusza i uratował miasto od różnych katastrof. Nieźle jak na gościa, który spoczywa tu już od 1700 lat.
-  </p>
-<ul>
-
-  <li>
-    <strong>Bilety:</strong> Za darmo, ale datki mile widziane (nawet eurocent działa jak święty).
-  </li>
- 
-</ul>
-</details>
-
-<details>
-<summary><strong>🕳️ Galleria Borbonica – podziemna ucieczka</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>40.8373° N, 14.2486° E</em></p>
- <p>
-    Neapol ma swoje sekrety – dosłownie pod nogami. A jednym z najbardziej fascynujących jest <strong>Galleria Borbonica</strong>, czyli sieć podziemnych tuneli, korytarzy i zakamarków, które kryją więcej historii niż niejedna książka do liceum. Jeśli myślałeś, że Neapol kończy się na pizzy i Wezuwiuszu – czas zejść poziom (albo dwa) niżej.
-  </p>
-
-  <p>
-    Galeria została wykuta w połowie XIX wieku na rozkaz króla Ferdynanda II Burbona. Plan był prosty: mieć tajne przejście z pałacu królewskiego, żeby w razie „awarii politycznej” czmychnąć z godnością (czyli szybko i bez świadków). Pomysł królewski, wykonanie – inżynieryjne cudo!
-  </p>
-
-  <p>
-    Później tunel służył jako schronienie podczas II wojny światowej, magazyn, parking, a teraz... muzeum, które pokazuje, jak wiele warstw ma Neapol – i nie mówimy tu tylko o lasagne. Zobaczysz tu m.in. wojenne graffiti, stare samochody porzucone w latach 60. i przedmioty, które opowiadają historie ludzi, którzy tu przetrwali bombardowania.
-  </p>
-
-  <p>
-    Zwiedzanie Galerii to nie zwykły spacer – to przygoda z latarką, kaskiem i ciarkami na plecach. Możesz wybrać wersję klasyczną albo bardziej ekstremalną, z przejściem przez wąskie kanały i wodne przejścia. Tylko dla odważnych (i nie dla klaustrofobów)!
-  </p>
-<ul>
-  
-  <li><strong>Bilety:</strong> 10–15€, zależnie od trasy. Warto zarezerwować z wyprzedzeniem.</li>
-
-</ul>
-</details>
-
-<details>
-<summary><strong>🧱 Castel Nuovo (Maschio Angioino) – zamek, który widział wszystko</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>40.8381° N, 14.2542° E</em></p>
-  <p>
-    Pierwsze rozczarowanie: <strong>Castel Nuovo</strong>, czyli „Nowy Zamek”, wcale nie jest taki nowy. Został zbudowany w... XIII wieku. Ale hej, w Neapolu czas płynie inaczej – więc może mają rację. Dla nas to średniowiecze, dla nich: "świeżynka".
-  </p>
-
-  <p>
-    Zamek jest monumentalny, surowy i jakby mówił: „Nie zadzieraj ze mną, jestem z kamienia i historii.” Zbudowany przez Karola I Andegaweńskiego, służył jako pałac królewski, forteca i scena dla różnych intryg, buntów i – oczywiście – duchów. Bo co to za zamek bez duchów?
-  </p>
-
-  <p>
-    Wejście zdobi <strong>łuk triumfalny</strong> z XV wieku, który wygląda jakby był wklejony między dwie wieże przez architekta z fantazją. W środku czekają Cię sale z freskami, kaplica Palatynów i muzeum, w którym możesz podziwiać sztukę – lub po prostu schronić się przed upałem.
-  </p>
-
-  <p>
-    Castel Nuovo to nie tylko zabytek – to również punkt orientacyjny. Stoi dumnie przy porcie, więc jeśli zgubisz się w Neapolu (co jest całkiem możliwe), znajdź zamek – i znajdziesz drogę.
-  </p>
-<ul>
-  
-  <li><strong>Bilety:</strong> 6€, niedziele często za darmo (jeśli trafisz, jesteś szczęściarzem).</li>
-
-</ul>
-</details>
-
-<details>
-<summary><strong>🛥️ Lungomare Caracciolo – bulwar do bujania się</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>40.8296° N, 14.2396° E</em></p>
-<p>
-Lungomare to neapolitańska wersja promenady – z widokiem na morze, Wezuwiusza, Castel dell’Ovo i lody co 20 metrów. Spacerując tutaj, poczujesz się jak w reklamie perfum: elegancki, romantyczny, z wiatrem we włosach. Najlepsze miejsce na zachód słońca albo leniwe włoskie "dolce far niente".
-</p>
-<ul>
-  <li><strong>Jak dojechać:</strong> Spacer z centrum lub autobus z Piazza Municipio – linie 140 i C24.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>🛒 Spaccanapoli – serce i brzuch Neapolu</strong></summary>
-   <p><strong>Współrzędne:</strong> <em>40.8493° N, 14.2585° E</em></p>
-<p>
-Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, głośna i cudownie żywa. Spaccanapoli dosłownie "rozłupuje" miasto na pół. Tu życie toczy się na ulicy: piekarnie pachnące sfogliatellą, starsze panie narzekające na pogodę, a skuterzyści przeciskający się z prędkością światła. Idealne miejsce na pizzę z pieca i obserwację ludzi.
-</p>
-
+  <details>
+    <summary><strong>🏛️ GAMeC – nowoczesność w kontrze do renesansu</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.7072° N, 9.6745° E</em></p>
+    <p>
+      Bergamo nie żyje tylko przeszłością! Tuż obok Carrary znajduje się <strong>Galleria d'Arte Moderna e Contemporanea</strong> – czyli GAMeC. Instalacje, performance’y, wideoart – to galeria, która mówi: „Zatrzymaj się i pomyśl”. Albo przynajmniej: „Zatrzymaj się i zdziw się”.
+    </p>
+    <ul>
+      <li><strong>Wstęp:</strong> 7€ normalny</li>
+    </ul>
+  </details>
+   
 </details>
 
 <details>
