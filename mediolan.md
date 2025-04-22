@@ -306,32 +306,35 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 ---
-
 <details>
-  <summary><strong>🤔 Legendy Bergamo</strong></summary>
+  <summary><strong>🧙‍♂️ Legendy Mediolanu</strong></summary>
 
-  <h3>👑 Duch króla Teodoryka – wzgórze San Vigilio</h3>
+  <h3>🪞 Kolumna z Diabelskimi Dziurami (Colonna del Diavolo)</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4628° N, 9.1854° E</em></p>
   <p>
-    Na wzgórzu San Vigilio, gdzie dziś rozciągają się ruiny średniowiecznego zamku i jeden z najpiękniejszych widoków na miasto, miejscowi opowiadają o duchu króla Teodoryka Wielkiego. Podobno nocą pojawia się tam jeździec na czarnym koniu – w milczeniu patrolujący wzgórze. Czy to legenda, czy tylko gra światła i cienia – jedno jest pewne: to idealne miejsce na tajemniczy spacer przy zachodzie słońca.
+    Tuż przy bazylice św. Ambrożego stoi niepozorna kolumna z... dwoma dziurami. Według legendy to ślady po rogach samego diabła, który chciał porwać św. Ambrożego. Święty jednak się nie dał, a diabeł – wściekły – wbił w kolumnę rogi i zniknął. Dziś mówi się, że z otworów czuć zapach siarki, a czasem – słychać szepty. Nie polecamy przystawiać ucha zbyt blisko.
   </p>
 
-  <h3>🪙 Cudowna moneta św. Grzegorza – plac przy kościele San Michele al Pozzo Bianco</h3>
+  <h3>👁️‍🗨️ Bazylika św. Eustorgiusza – Trzej Królowie i ukryta krypta</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4544° N, 9.1877° E</em></p>
   <p>
-    W czasach zarazy jeden z zakonników, św. Grzegorz, wrzucił do misy z jałmużną srebrną monetę, która każdego dnia się odnawiała. Miejsce, gdzie miał rzekomo przebywać, to okolice <strong>kościoła San Michele al Pozzo Bianco</strong> – znanego z wyjątkowych fresków i mistycznej atmosfery. Mówi się, że kto znajdzie tam monetę, będzie miał szczęście przez cały rok.
+    W tej bazylice, ukrytej w dzielnicy Ticinese, znajdują się relikwie Trzech Króli. Legenda głosi, że ich szczątki sprowadzono tu z Konstantynopola w IV wieku. Dziś jednak część z nich znajduje się w Kolonii (Niemcy), bo w średniowieczu zostały zrabowane. Mediolańczycy nigdy nie pogodzili się z tą stratą. Podziemia bazyliki i tajemnicza kaplica to miejsce cichej magii i średniowiecznej atmosfery.
   </p>
 
-  <h3>🦅 Orzeł z herbu miasta – Porta San Giacomo</h3>
+  <h3>🕯️ Kościół San Bernardino alle Ossa – kaplica czaszek</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4632° N, 9.1941° E</em></p>
   <p>
-    Herb Bergamo przedstawia złotego orła – a jego legenda związana jest z bramą <strong>Porta San Giacomo</strong>. Według opowieści, właśnie nad tą bramą orzeł krążył przez trzy dni, zanim zniknął w chmurach. Znak uznano za boską ochronę nad miastem, a Porta San Giacomo do dziś zachowała wyjątkowy, niemal magiczny charakter – szczególnie po zmroku.
-  </p>
-  
-  <h3>🌕 Tajemnicze źródło pod Torre del Gombito</h3>
-  <p>
-    Tuż obok wieży <strong>Torre del Gombito</strong> w sercu Città Alta (górnego miasta) znajduje się niepozorne przejście prowadzące do starego źródła. Mówi się, że woda z niego miała kiedyś właściwości uzdrawiające – a kto pił z niego po północy, ten miał śnić prorocze sny. Dziś dostęp jest ograniczony, ale niektórzy nadal próbują dostać się tam... dla klimatu i nuty magii.
+    To jedno z najbardziej osobliwych miejsc w Mediolanie. W niewielkiej kaplicy znajdują się dziesiątki czaszek i kości ułożonych na ścianach – ozdobnie i makabrycznie zarazem. Powstała w XIII wieku, gdy cmentarz był przepełniony. Mówi się, że nocą słychać szepty i modlitwy zza ścian... ale równie dobrze to wyobraźnia podpowiada takie historie.
   </p>
 
-  <p><em>Bergamo skrywa swoje sekrety w zaułkach, bramach i starych murach. Jeśli chcesz naprawdę poznać duszę miasta – daj się poprowadzić legendom i opowieściom. A może sam odkryjesz kolejną?</em></p>
+  <h3>🪄 Zegar Śmierci przy Piazza Mercanti</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4645° N, 9.1857° E</em></p>
+  <p>
+    W średniowieczu Piazza Mercanti było sercem miejskiego handlu, ale i... miejscem publicznych egzekucji. Na jednej z kolumn miał się znajdować zegar, który wybijał godzinę śmierci skazanych. Choć zegar już nie istnieje, lokalni przewodnicy pokazują miejsce, gdzie kiedyś wisiał. Według opowieści, niektórzy w nocy nadal słyszą jego bicie...
+  </p>
+
 </details>
+
 
 ---
 
