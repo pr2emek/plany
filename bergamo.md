@@ -267,120 +267,65 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦Co robić z dziećmi w Neapolu</strong></summary>
+  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Bergamo</strong></summary>
 
-  <h3>🦖 Città della Scienza – nauka, która nie boli</h3>
-  <p>
-    Interaktywne centrum nauki w stylu włoskim. Dzieci mogą tu dotykać, kręcić, klikać i... nawet się czegoś nauczyć! Znajdziesz tu wystawę o kosmosie, ludzkim ciele, a nawet mini planetarium. A rodzice? Mogą udawać, że wszystko wiedzą.
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> ok. 10€ dzieci, 12€ dorośli.</li>
-  </ul>
+  <p><em>Bergamo z dziećmi? Tak! To nie tylko kościoły i renesansowe malowidła – miasto (i okolica) oferuje też sporo atrakcji dla młodszych turystów. A Ty w końcu odpoczniesz – przynajmniej przez 15 minut.</em></p>
 
-  <h3>🐟 Akwarium przy Villa Comunale – podwodny świat po włosku</h3>
-  <p>
-    To jedno z najstarszych akwariów w Europie – i choć nie jest ogromne, to w sam raz dla dziecięcej cierpliwości. Kolorowe ryby, morska edukacja i idealne miejsce na chwilę oddechu od zgiełku miasta.
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> ok. 5–7€, dzieci gratis do 3 lat.</li>
-  </ul>
+  <h3>🚠 Funicolare – kolejka linowa = radość gwarantowana</h3>
+  <p>Dla dzieci to atrakcja sama w sobie. Wjeżdżając z dolnego miasta do Città Alta, maluchy czują się jak w parku rozrywki – a Ty zyskujesz parę chwil ciszy i piękne widoki. Działa też druga linia – z Città Alta na San Vigilio!</p>
 
-  <h3>🚋 Kolejka funicolare na Vomero – atrakcja z widokiem</h3>
-  <p>
-    Dzieci uwielbiają kolejki! Ta jedzie po stromym zboczu, a na górze czeka widok jak z bajki – idealny na rodzinne zdjęcie. A potem można zjeść pizzę. Bo w Neapolu wszystko kończy się pizzą.
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> jak bilet komunikacji – ok. 1,30€, dzieci do lat 6 za darmo.</li>
-  </ul>
+  <h3>🏰 Castello di San Vigilio – zamek z widokiem (i tunelem!)</h3>
+  <p>Ruiny zamku, ścieżki wśród drzew, tajemnicze korytarze i miejsce na piknik. Dzieci mogą bawić się w rycerzy, a dorośli podziwiać panoramę Bergamo i okolic. I tak – wózek lepiej zostawić na dole.</p>
 
-  <h3>🎨 Museo delle Illusioni – kraina tricków i śmiechu</h3>
-  <p>
-    Nowoczesne muzeum, gdzie wszystko jest trochę... krzywe, zwariowane i nierealne. Idealne do zdjęć i wygibasów. Dzieciaki są zachwycone, dorośli też – tylko udają, że przyszli dla dzieci.
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> ok. 12€ dorośli, 9–10€ dzieci.</li>
-  </ul>
+  <h3>🐄 Parco Faunistico Le Cornelle (ok. 20 min autem)</h3>
+  <p>Zoo pod Bergamo, które wygląda jak mini safari. Znajdziesz tu żyrafy, zebry, flamingi, tygrysy, a nawet panda czerwoną. Przestrzeń, plac zabaw i miejsce na piknik. Idealne na pół dnia. Dojazd autobusem z przesiadką albo autem.</p>
 
-  <h3>⛱️ Plaża Bagno Elena – piasek, wiaderko, gelato</h3>
-  <p>
-    Ciepła woda, spokojna zatoka i miękki piasek – raj dla najmłodszych. Można się chlapać, kopać dołki i zbudować zamek większy niż Castel Nuovo. A jak się zmęczą? Lodziarnia jest zawsze blisko.
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> Wejście płatne w sezonie – ok. 5–8€ za leżak.</li>
-  </ul>
+  <h3>🌳 Parco della Trucca – zielona przestrzeń w mieście</h3>
+  <p>Jeśli dzieci mają dosyć kamieni i katedr – tu znajdziesz duży park z alejkami, placem zabaw i jeziorkiem. Można biegać, jeździć na hulajnodze, puszczać kaczki i... zjeść lody. Czyli: odpoczynek na 5+.</p>
 
-  <h3>🌳 Parco Virgiliano – zieleń, widoki i bieganie bez końca</h3>
-  <p>
-    Na wzgórzu Posillipo znajduje się park, który dzieciom daje przestrzeń do biegania, a dorosłym chwilę ciszy (relatywnej). Są place zabaw, alejki i ławki z widokiem na morze i Capri. Bonus: zero aut!
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> Wstęp darmowy.</li>
-  </ul>
+  <h3>🧺 Piknik na murach (Le Mura Veneziane)</h3>
+  <p>Zabierz przekąski, kocyk i znajdź spokojny zakątek przy murach otaczających Città Alta. Widoki cudne, trawa miękka, dzieci zajęte. Ty możesz na chwilę przymknąć oko – tylko nie oddychaj za głośno, bo usłyszą i przybiegną!</p>
 
-  <h3>🌲 Parco di Capodimonte – pałac, piknik i gonitwa gołębi</h3>
-  <p>
-    Wielki park z jeszcze większym pałacem. Można tu spacerować, zorganizować rodzinny piknik, a dzieci mogą biegać do woli. W weekendy spotkasz tu rodziny z Neapolu – i niejednego chłopca w koszulce Napoli.
-  </p>
-  <ul>
-    <li><strong>Bilety:</strong> Wstęp do parku darmowy. Muzeum płatne (nieobowiązkowe).</li>
-  </ul>
+  <h3>🍦 Gelato w La Marianna – lody z historią</h3>
+  <p>To tu powstała legendarna stracciatella. Czy dzieci docenią historię? Nie. Ale zjedzą wszystko – i poproszą o dokładkę. A Ty też się skusisz, bo nie wypada nie spróbować lodów z rodowodem.</p>
 
-  <h3>🍦 Lody. Po prostu lody.</h3>
-  <p>
-    Gelateria artigianale co kilka kroków. Pistacjowe, czekoladowe, arbuzowe – i oczywiście neapolitańskie. To nie atrakcja – to obowiązek.
-  </p>
-  <ul>
-    <li><strong>Ceny:</strong> od 2,50€ za kulkę. Z każdą kolejną – większe szczęście.</li>
-  </ul>
+  <p><em>Bergamo z dziećmi to przygoda pełna kolejek, lodów, zamków i... świętego spokoju (czasami). A jeśli będzie deszcz – zawsze zostaje pizzeria i rysowanie pizzą po talerzu!</em></p>
 
 </details>
+
 
 ---
 
 
 <details>
-  <summary><strong>🍕 Gdzie zjeść w Neapolu</strong></summary>
+  <summary><strong>🍽️ Gdzie zjeść w Bergamo</strong></summary>
 
-  <h3>🍕 L’Antica Pizzeria da Michele – klasyka nad klasykami</h3>
-  <p><strong>Adres:</strong> Via Cesare Sersale 1, 80139 Napoli</p>
-  <p>
-    To tu Julia Roberts jadła pizzę w „Jedz, módl się, kochaj”. Ale prawdziwa gwiazda to ciasto – cienkie, sprężyste, idealnie przypieczone. Menu? Minimalistyczne. Smak? Maksymalny. Przygotuj się na kolejkę – ale warto.
-  </p>
+  <p><em>Bergamo to nie tylko eleganckie trattorie, ale też tanie perełki, które karmią lepiej niż babcia w święta. Chcesz zjeść dobrze, lokalnie i nie wydać fortuny? Da się zrobić!</em></p>
 
-  <h3>🔥 Sorbillo – gdzie pizza to sztuka</h3>
-  <p><strong>Adres:</strong> Via dei Tribunali 32, 80138 Napoli</p>
-  <p>
-    Sorbillo to instytucja. Pizza jest ogromna, składniki świeże, a klimat – typowo neapolitański: głośno, rodzinnie, pachnąco. Najlepiej zamów klasyczną z bazylią i mozzarellą di bufala – i nie zapomnij zrobić zdjęcia, zanim zniknie.
-  </p>
+  <h3>🍕 <strong>Da Mimmo</strong> – pizza z widokiem</h3>
+  <p>W Città Alta. Pizza pieczona na cienkim cieście, klasyka wśród mieszkańców i turystów. Taras z widokiem gratis.</p>
 
-  <h3>🍝 Trattoria da Nennella – chaos i makaron</h3>
-  <p><strong>Adres:</strong> Vico Lungo Teatro Nuovo 103/104, Quartieri Spagnoli</p>
-  <p>
-    Głośno, chaotycznie, trochę jak rodzinny obiad u wujka – tylko z lepszym jedzeniem. Makaron al ragù, parmigiana, owoce morza – wszystko domowe, wszystko z humorem. Uwaga: kelnerzy lubią śpiewać i żartować.
-  </p>
+  <h3>🍷 <strong>Il Circolino</strong> – lokalna dusza Bergamo</h3>
+  <p>Lokal prowadzony przez społeczność – taniej, smaczniej i z sercem. Ogródek, klimat, dobre jedzenie.</p>
 
-  <h3>🍦 Gay-Odin – czekoladowy raj</h3>
-  <p><strong>Adres:</strong> Via Benedetto Croce 61 i inne lokalizacje</p>
-  <p>
-    Najsłynniejsza czekoladziarnia w Neapolu. Lody, czekoladki, orzechowe kremy – wszystko ręcznie robione i tak pyszne, że dietetyk by się rozpłakał. Idealne na prezent (dla siebie też).
-  </p>
+  <h3>🍋 <strong>La Marianna</strong> – lody prosto z legendy</h3>
+  <p>Tu wymyślono lody stracciatella. Świetne miejsce na słodką przerwę, ale mają też dobre risotto i makarony.</p>
 
-  <h3>☕ Caffè Gambrinus – kawa z historią</h3>
-  <p><strong>Adres:</strong> Via Chiaia 1, Piazza del Plebiscito</p>
-  <p>
-    Legendarna kawiarnia z XIX wieku, gdzie bywali pisarze, politycy i artyści. Wnętrza jak z opery, kelnerzy w smokingach, a espresso... mocne jak opinie neapolitańskich babć. Must-have, nawet jeśli tylko na chwilę.
-  </p>
+  <h3>🥪 <strong>PolentOne</strong> – street food po góralsku</h3>
+  <p>Polenta na wynos w każdej formie – z gorgonzolą, z ragù, z grzybami. Tanio, sycąco, lokalnie. I zaskakująco dobre!</p>
 
-  <h3>🌯 Street food – czyli zjedz, zanim się zastanowisz</h3>
-  <p><strong>Adres:</strong> Cała Via dei Tribunali i okolice Spaccanapoli</p>
-  <p>
-    Neapol to raj dla fanów ulicznego jedzenia. Koniecznie spróbuj <strong>pizza fritta</strong> – smażonego na głębokim oleju pieroga z serem i szynką. Do tego <strong>cuoppo</strong> – stożek z papieru wypełniony smażonymi owocami morza, warzywami i krokiecikami ziemniaczanymi. Albo <strong>sfogliatella</strong> – ciastko o 1000 warstwach i jednym wielkim WOW. I wszystko to zjadasz stojąc, idąc, lub balansując na skuterze. Prawdziwy Neapol.
-  </p>
+  <h3>🍞 <strong>Panificio Tresoldi</strong> – pieczywo i focaccia za grosze</h3>
+  <p>Mini piekarnia z gorącymi pizzettami, focaccią i słodkościami. Idealne na budżetowy piknik z widokiem.</p>
 
-  <h3>🍹 Aperol z widokiem – gdzie wznosić toasty</h3>
-  <p><strong>Adres:</strong> Piazza Bellini, Piazza del Plebiscito, Lungomare</p>
-  <p>
-    Gdy słońce chyli się ku zachodowi, czas na aperitivo! Wybierz się na <strong>Piazza Bellini</strong> – tu Aperolek smakuje jak nagroda za cały dzień zwiedzania. Jeśli chcesz z widokiem na morze – <strong>Lungomare</strong> jest niezawodne: bary z tarasami, muzyka, szum fal i atmosfera totalnego chilloutu. A jeśli chcesz czuć się jak król – usiądź przy <strong>Piazza del Plebiscito</strong> z kieliszkiem i patrz, jak życie toczy się wokół. Cin cin!
-  </p>
+  <h3>🍔 <strong>Rustico</strong> – panini i burgery z włoskim twistem</h3>
+  <p>Mała knajpka, w której dostaniesz świeże buły z lokalnymi dodatkami – pancetta, ser, rukola. Tanie i dobre!</p>
 
+  <h3>🥗 <strong>Bar Il Circolino – lunch bar w Città Alta</strong></h3>
+  <p>Menu dnia z pierwszym i drugim daniem za niewielkie pieniądze. Często jedzą tu lokalsi i pracownicy okolicy.</p>
+
+  <h3>🍕 <strong>Pizzeria Capri</strong> – pizza dla każdego</h3>
+  <p>Niepozorna pizzeria z klasykami włoskiego street foodu. Margherita smakuje tu jak we włoskim filmie, tylko taniej.</p>
+
+  <p><em>Bergamo wie, jak nakarmić dobrze i tanio. I za to je kochamy!</em></p>
 </details>
+
