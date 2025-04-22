@@ -83,8 +83,7 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <details>
     <summary><strong>🏰 Zamek Sforzów – średniowieczny kolos z atrium</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4700° N, 9.1795° E</em></p>
-     
+    <p><strong>Współrzędne:</strong> <em>45.4700° N, 9.1795° E</em></p> 
     <p> <strong>Castello Sforzesco</strong> to prawdziwa perła Mediolanu – monumentalna forteca, która widziała więcej wojen, buntów i renesansowego dramatu niż niejeden sezon „Rodu Smoka”. Zbudowany w XV wieku przez potężny ród Sforzów, był nie tylko bastionem obronnym, ale i elegancką rezydencją. A dziś? To zamek, który łączy w sobie historię, sztukę i odrobinę mediolańskiego ego. 
     </p> 
     <p> Na pierwszy rzut oka wygląda jak klasyczna warownia – potężne mury, fosa, masywna brama. Ale wewnątrz kryje się cały świat – od muzeów, przez freski Leonarda da Vinci, po spokojne dziedzińce, gdzie można odpocząć w cieniu wieży. Tak, <strong>Leonardo</strong> też tu działał – ozdabiał komnaty, zanim został bohaterem książek Dana Browna. 
@@ -121,7 +120,8 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <details>
     <summary><strong>🔔 Torre del Gombito – wieża, której nikt nie szuka… a szkoda</strong></summary>
-       <p> Mediolan to miasto mody, betonu i espresso na stojąco… ale ma też swoje ciche, zielone zakątki. Jednym z nich jest <strong>ukryty ogród przy Palazzo Brera</strong> – miejsce, o którym nie wie nawet większość turystów. A szkoda! </p> <p> Za masywnymi drzwiami Galerii Brera kryje się uroczy ogród botaniczny – mały, romantyczny i zadziwiająco spokojny. Kiedyś należał do jezuitów, dziś to oaza ciszy, pełna roślin, ławeczek i klimatu jak z powieści historycznej (ale bez inkwizycji). </p> <p> Znajdziesz tu stare studnie, rzadkie rośliny i ukryte zaułki – idealne na chwilę odpoczynku między jedną kawą a drugim muzeum. Wstęp wolny, cisza obowiązkowa, a Instagram będzie zachwycony. </p> <ul> <li><strong>Lokalizacja:</strong> Via Brera 28 (wejście przez dziedziniec Pinacoteca di Brera)</li> <li><strong>Wstęp:</strong> darmowy</li> <li><strong>Idealny czas wizyty:</strong> wczesne popołudnie – najwięcej słońca i najmniej ludzi</li> </ul>
+    <p><strong>Współrzędne:</strong> <em>45.7040° N, 9.6639° E</em></p>
+     <p> Mediolan to miasto mody, betonu i espresso na stojąco… ale ma też swoje ciche, zielone zakątki. Jednym z nich jest <strong>ukryty ogród przy Palazzo Brera</strong> – miejsce, o którym nie wie nawet większość turystów. A szkoda! </p> <p> Za masywnymi drzwiami Galerii Brera kryje się uroczy ogród botaniczny – mały, romantyczny i zadziwiająco spokojny. Kiedyś należał do jezuitów, dziś to oaza ciszy, pełna roślin, ławeczek i klimatu jak z powieści historycznej (ale bez inkwizycji). </p> <p> Znajdziesz tu stare studnie, rzadkie rośliny i ukryte zaułki – idealne na chwilę odpoczynku między jedną kawą a drugim muzeum. Wstęp wolny, cisza obowiązkowa, a Instagram będzie zachwycony. </p> <ul> <li><strong>Lokalizacja:</strong> Via Brera 28 (wejście przez dziedziniec Pinacoteca di Brera)</li> <li><strong>Wstęp:</strong> darmowy</li> <li><strong>Idealny czas wizyty:</strong> wczesne popołudnie – najwięcej słońca i najmniej ludzi</li> </ul>
   </details>
 
  <details>
