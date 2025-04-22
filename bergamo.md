@@ -11,7 +11,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <details> <summary><strong>📌 Podstawowe informacje</strong></summary> 
+   <summary><strong>📌 Podstawowe informacje</strong></summary> 
   <h3>🏔️ Bergamo – miasto, które ma dwie twarze (i obie piękne)</h3> 
     <p> Bergamo to nie jest „kolejne włoskie miasteczko”. To scenariusz z filmu, który zaczyna się w średniowieczu, a kończy przy kieliszku wina. Znajdziesz tu nie jedno, a dwa miasta: <strong>Città Alta</strong> – zabytkowe, otoczone murami, gdzie czas się zatrzymał (ale cappuccino dalej kosztuje swoje), i <strong>Città Bassa</strong> – nowoczesne, tętniące życiem, z tramwajami, sklepami i pizzą na wynos. </p> 
     <p> Bergamo jest jak włoski kuzyn z północy – elegancki, z klasą, ale potrafi się zabawić. To idealna baza wypadowa: rzut beretem do Mediolanu, rzut kamykiem do jeziora Como, a samolotem – z Bergamo lata pół Europy. Bo tak, tutejsze lotnisko (Orio al Serio) to prawdziwa mekka tanich linii. Przyjeżdżasz tanio, wyjeżdżasz bogatszy w zdjęcia, kalorie i wspomnienia. </p> 
@@ -32,19 +32,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
   
    <details> 
-<summary><strong>🏰 Castel dell’Ovo – zamek z jajem</strong></summary>
- <p><strong>Współrzędne:</strong> <em>40.8309° N, 14.2471° E</em></p>
-  <p>
-    Na pierwszy rzut oka to zwykła forteca na skałce w zatoce. Ale nie daj się zwieść – <strong>Castel dell’Ovo</strong> ma więcej legend niż niejeden włoski wujek przy winie. Nazwa oznacza dosłownie „Zamek Jajeczny”, a wszystko zaczęło się od poety Wergiliusza, który – oprócz pisania klasyków – miał też hobby: magię. Podobno ukrył on w fundamentach zamku magiczne jajko, które chroniło budowlę (i cały Neapol) przed zagładą. Co się stanie, jeśli jajko pęknie? Wolimy nie sprawdzać. Ale może dlatego turyści chodzą tam na palcach.
-  </p>
 
-  <p>
-    Sam zamek jest najstarszą warownią w Neapolu – jego początki sięgają czasów rzymskich. W średniowieczu służył jako forteca, rezydencja królewska, a nawet więzienie. Dziś to miejsce idealne na <strong>romantyczny spacer</strong>, lekcję historii lub sesję zdjęciową z Wezuwiuszem w tle. W środku znajdziesz tarasy widokowe, krużganki i wystawy sztuki, ale największą atrakcją jest <strong>widok z murów</strong> – panorama zatoki, wzgórz Posillipo i wybrzeża Amalfi sprawia, że nawet sceptyk wyciągnie aparat.
-  </p>
-<ul>
-  <li><strong>Bilety:</strong> Wejście darmowe! Twój portfel właśnie ci podziękował.</li>
-</ul>
-</details>
 
 <details>
   <summary><strong>🏛️ Narodowe Muzeum Archeologiczne – tam, gdzie Rzym i Pompeje się spotykają</strong></summary>
