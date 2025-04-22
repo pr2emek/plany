@@ -12,90 +12,85 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
    <summary><strong>📌 Podstawowe informacje</strong></summary> 
-  <h3>🏔️ Bergamo – miasto, które ma dwie twarze (i obie piękne)</h3> 
-    <p> Bergamo to nie jest „kolejne włoskie miasteczko”. To scenariusz z filmu, który zaczyna się w średniowieczu, a kończy przy kieliszku wina. Znajdziesz tu nie jedno, a dwa miasta: <strong>Città Alta</strong> – zabytkowe, otoczone murami, gdzie czas się zatrzymał (ale cappuccino dalej kosztuje swoje), i <strong>Città Bassa</strong> – nowoczesne, tętniące życiem, z tramwajami, sklepami i pizzą na wynos. </p> 
-    <p> Bergamo jest jak włoski kuzyn z północy – elegancki, z klasą, ale potrafi się zabawić. To idealna baza wypadowa: rzut beretem do Mediolanu, rzut kamykiem do jeziora Como, a samolotem – z Bergamo lata pół Europy. Bo tak, tutejsze lotnisko (Orio al Serio) to prawdziwa mekka tanich linii. Przyjeżdżasz tanio, wyjeżdżasz bogatszy w zdjęcia, kalorie i wspomnienia. </p> 
-    <h3>✈️ Jak się dostać do Bergamo?</h3> 
-    <ul> 
-      <li><strong>Samolotem:</strong> Lotnisko <em>Orio al Serio</em> (BGY) obsługuje mnóstwo połączeń z Polski i całej Europy – Ryanair, Wizzair i reszta ekipy low-cost. Do centrum miasta dojedziesz autobusem miejskim w 15–20 minut.</li>
-      <li><strong>Pociągiem:</strong> Z Mediolanu do Bergamo – szybciutko i wygodnie, około godziny jazdy. Widoki po drodze: gratis.</li> 
-    </ul> 
-    <h3>🚠 Bergamo górą… dosłownie!</h3> 
-    <p> Bergamo to jedyne miasto, gdzie komunikacja miejska obejmuje również... kolejkę linową. <strong>Funicolare</strong> łączy dolną i górną część miasta i daje Ci bonusowy widok z góry. Albo pretekst, żeby nie wchodzić po schodach. Jedno i drugie cenne. </p> 
-    <h3>🍽️ Co się je w Bergamo?</h3> 
-    <p> Jeśli lubisz polentę – jesteś w raju. Jeśli nie... to się przyzwyczaisz. Bo tutaj podają ją ze wszystkim: z mięsem, z grzybami, z serem, a pewnie jakby się uprzeć, to i z lodami. Do tego lokalne wino, sery z gór i desery tak słodkie, że cukrzyca aż się uśmiecha. 
-  </p> </details>
+   <h3>🕶️ Mediolan – moda, marmur i madonny na dachach</h3> 
+   <p> Mediolan to miasto, które nosi okulary przeciwsłoneczne nawet w deszczu. Stolica Lombardii i włoskiego stylu życia – elegancka, szybka i zawsze dobrze ubrana. To tutaj moda spotyka gotyk, a espresso wypija się szybciej niż zdążysz powiedzieć „Versace”. </p> 
+   <p> Choć słynie z wybiegów i designu, Mediolan to też historia, którą czuć między marmurowymi filarami katedry i na brukowanych placach. To miasto Leonardo da Vinci, opery w La Scali, aperola z widokiem na Duomo i tramwajów, które wyglądają jak z pocztówki z lat 60. 
+   </p> 
+   <p> Niech Cię nie zwiedzie chłodniejszy północny klimat – mediolańskie serce bije gorąco, zwłaszcza gdy lokalna drużyna gra derbowy mecz. A jeśli myślisz, że Mediolan to tylko zakupy, to… masz trochę racji. Ale też bardzo się mylisz. To miasto z duszą – choć czasem ukrytą za designerską fasadą. 
+   </p> 
+   <h3>🛬 Jak się dostać do Mediolanu?</h3>
+   <ul> 
+      <li><strong>Samolotem:</strong> Mediolan ma aż 3 lotniska! Najbliżej centrum jest Linate (LIN), popularne są też Malpensa (MXP) i Bergamo (BGY) – to ostatnie to klasyk low-costów.</li>
+      <li><strong>Pociągiem:</strong> Z innych miast Włoch (np. Rzym, Florencja, Neapol) złapiesz szybki pociąg Trenitalia lub Italo. Wysiądź na stacji <strong>Milano Centrale</strong> – jednej z najbardziej imponujących stacji kolejowych w Europie.</li> 
+   </ul> 
+   <h3>🚇 Komunikacja miejska</h3> 
+   <p> Metro, tramwaje, autobusy – wszystko działa sprawnie (to nie Neapol 😄). Są 4 linie metra, w tym linia M4, która z Linate do centrum śmiga szybciej niż influencerzy do aperolka. Bilety kupisz w automatach, aplikacjach lub kioskach – obowiązuje jeden system biletowy ATM. 
+   </p> 
+   <h3>🛍️ Zakupy, styl i luksus</h3>
+   <p> Galleria Vittorio Emanuele II to nie galeria handlowa – to katedra konsumpcji. Sklepy, które znasz z modowych żurnali, i turyści kręcący się wokół mozaiki byka dla szczęścia. A jak chcesz taniej – wybierz Corso Buenos Aires albo miejskie outlety. Styl znajdziesz tu nawet na przystanku tramwajowym. </p> 
+</details>
 
 ---
 
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
- 
-   <details>
-    <summary><strong>🏰 Città Alta – średniowieczna magia na wzgórzu</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7048° N, 9.6634° E</em></p>
+
+  <details>
+    <summary><strong>⛪ Katedra Duomo – koronka z marmuru</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4642° N, 9.1900° E</em></p>
     <p>
-      Stare miasto, które wygląda jakby Pinterest zrobił upgrade do rzeczywistości. Città Alta to serce Bergamo – brukowane uliczki, klimatyczne place, dzwonnice, mury obronne i klimat, w którym zakochasz się szybciej niż w lokalnym gelato. Spaceruj bez planu, bo tutaj każdy zakręt prowadzi do czegoś pięknego.
+      Symbol Mediolanu, z którym selfie robi każdy – od backpackerów po influencerki w kapeluszu. Budowana przez prawie 600 lat (czyli tyle, ile trwa remont przeciętnej polskiej drogi), ale opłacało się – to jeden z największych i najbardziej misternych kościołów na świecie. Marmur biały jak z reklamy pasty do zębów i wieżyczki, które przypominają gotycką koronę. 
     </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Spacer darmowy. Widoki – bezcenne.</li>
-    </ul>
+    <p>
+      Możesz wejść do środka (za darmo, ale za dach płacisz), albo wspiąć się na dach i pospacerować między gargulcami z widokiem na całe miasto. Przy dobrej pogodzie widać nawet Alpy! Idealne miejsce na medytację... albo stories z hashtagiem #blessed.
+    </p>
   </details>
 
   <details>
-    <summary><strong>⛪ Piazza Vecchia i Bazylika Santa Maria Maggiore – serce i dusza miasta</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7038° N, 9.6628° E</em></p>
+    <summary><strong>🎨 Galeria Vittorio Emanuele II – świątynia zakupów</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4663° N, 9.1895° E</em></p>
     <p>
-      Piazza Vecchia to taka włoska wersja dziedzińca Hogwartu. Pośrodku fontanna, wokół pałace, a nad wszystkim czuwa wieża zegarowa. Tuż obok znajdziesz Bazylikę, która wygląda niepozornie z zewnątrz, ale w środku... złoto, freski, marmur, rzeźby i aniołowie na każdym centymetrze. Możesz dostać oczopląsu od zachwytu.
+      Po sąsiedzku z Duomo znajduje się galeria handlowa z czasów, gdy "shopping mall" oznaczało mozaiki, marmur i żeliwną kopułę. Galeria Vittorio Emanuele II to luksusowa pasaż handlowa z XIX wieku, w której znajdziesz butiki takie jak Prada, Louis Vuitton… i turystów z zadartą głową. 
     </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Bazylika – darmowy (darowizny mile widziane, nawet w drobniakach).</li>
-    </ul>
+    <p>
+      Koniecznie zrób rytualny obrót na pięcie na mozaice byka (na "męskiej części" jego anatomii – nie pytaj, po prostu zrób). Legenda mówi, że przynosi to szczęście. A jeśli nie pomoże, to przynajmniej rozciągniesz łydki.
+    </p>
   </details>
 
   <details>
-    <summary><strong>🧱 Mury weneckie – UNESCO z widokiem</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7043° N, 9.6645° E</em></p>
+    <summary><strong>🖼️ Ostatnia Wieczerza – więcej niż mural</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4658° N, 9.1704° E</em></p>
     <p>
-      Te mury nie służą już do obrony, tylko do... zachwytu. Zbudowane przez Wenecjan w XVI wieku, otaczają Città Alta i wpisane są na listę UNESCO. Z ich szczytu rozciąga się widok na dolne Bergamo, Alpy i zachody słońca, które powinny mieć własne konto na Instagramie.
+      Dzieło Leonarda da Vinci, które zna cały świat – i które ma więcej teorii spiskowych niż odcinki "Z Archiwum X". Znajduje się w refektarzu klasztoru Santa Maria delle Grazie i przetrwało wojny, wilgoć i nadgorliwych konserwatorów. 
     </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Bezpłatnie – idealne miejsce na spacer i selfie z historią w tle.</li>
-    </ul>
+    <p>
+      Oglądanie „Ostatniej Wieczerzy” to niemal rytuał: mała grupa, krótki czas, zero fleszy. Ale warto – scena, emocje, symbolika, wszystko to sprawia, że patrzysz i myślisz: „Wow, to naprawdę to!” (albo: „Czemu Jezus nie ma jedzenia?”).
+    </p>
   </details>
 
   <details>
-    <summary><strong>🏞️ Parco della Rocca – twierdza z zieloną duszą</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7052° N, 9.6648° E</em></p>
+    <summary><strong>🏰 Zamek Sforzów – średniowieczny kolos z atrium</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4700° N, 9.1795° E</em></p>
     <p>
-      Jeśli chcesz połączyć zieleń, historię i widok, który wywołuje efekt "wow" – to jesteś w dobrym miejscu. Rocca to dawna forteca z XIV wieku, dziś otoczona parkiem. Można wejść na wieżę i spojrzeć na miasto z lotu ptaka (albo drona). Idealne miejsce na piknik lub ucieczkę od tłumu turystów.
+      Kiedyś rezydencja rodziny Sforzów, dziś miejsce spacerów, muzeów i... idealnych selfie w bramie z fontanną. Zamek przypomina, że Mediolan to nie tylko moda i design, ale też historia pełna intryg, bitew i dynastii, które nie znały litości (ale znały architekturę).
     </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Park za darmo, wejście na wieżę – ok. 3€</li>
-    </ul>
+    <p>
+      W środku: dziedzińce jak z bajki, muzeum z freskami Leonarda i zbrojownia, która przypomina grę RPG. A za murami – ogromny park Sempione, gdzie można odpocząć w cieniu, napić się espresso albo... przespać pół dnia, jak to robią niektórzy lokalsi.
+    </p>
   </details>
 
   <details>
-    <summary><strong>🖼️ Accademia Carrara – dla fanów sztuki i ram złoconych</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7070° N, 9.6750° E</em></p>
+    <summary><strong>🌉 Navigli – kanały z duszą i drinkiem</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4474° N, 9.1607° E</em></p>
     <p>
-      Galeria sztuki, która może nie jest tak znana jak Uffizi, ale zawstydza niejedne europejskie muzea. Botticelli, Raffaello, Bellini i inni klasycy zawieszeni na ścianach w pięknych salach. Nawet jeśli nie jesteś fanem malarstwa – tu docenisz ciszę, klimat i... klimatyzację.
+      Dawniej system transportowy i przemysłowy, dziś mekka wieczornych spacerów i aperitivo. Navigli to dzielnica kanałów, które przypominają Wenecję… tylko z większą ilością barów i mniej turystycznym klimatem. 
     </p>
-    <ul>
-      <li><strong>Wstęp:</strong> 10€ normalny</li>
-    </ul>
+    <p>
+      Wieczorem zamienia się w jedno wielkie spotkanie towarzyskie. Siadasz przy wodzie, zamawiasz Aperola i zakąski, i czujesz się jak mieszkaniec Mediolanu z katalogu – tylko bardziej autentycznie. W soboty są też targi vintage i sztuki, a nocą – muzyka, śmiech i światła odbijające się w wodzie.
+    </p>
   </details>
 
-  <details>
-    <summary><strong>🏛️ GAMeC – nowoczesność w kontrze do renesansu</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7072° N, 9.6745° E</em></p>
-    <p>
-      Bergamo nie żyje tylko przeszłością! Tuż obok Carrary znajduje się <strong>Galleria d'Arte Moderna e Contemporanea</strong> – czyli GAMeC. Instalacje, performance’y, wideoart – to galeria, która mówi: „Zatrzymaj się i pomyśl”. Albo przynajmniej: „Zatrzymaj się i zdziw się”.
-    </p>
-    <ul>
-      <li><strong>Wstęp:</strong> 7€ normalny</li>
-    </ul>
-  </details>
+</details>
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
