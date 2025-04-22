@@ -339,30 +339,42 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Bergamo</strong></summary>
+  <summary><strong>🎈 Co robić z dziećmi w Mediolanie</strong></summary>
 
-  <p><em>Bergamo z dziećmi? Tak! To nie tylko kościoły i renesansowe malowidła – miasto (i okolica) oferuje też sporo atrakcji dla młodszych turystów. A Ty w końcu odpoczniesz – przynajmniej przez 15 minut.</em></p>
+  <h3>🦖 MUBA – Museo dei Bambini</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4476° N, 9.1993° E</em></p>
+  <p>
+    To interaktywne muzeum stworzone specjalnie dla dzieci. Znajdziesz tu wystawy, warsztaty i kreatywne zajęcia dostosowane do różnych grup wiekowych – od przedszkolaków po starsze dzieci. Zabawa, nauka i design w jednym! Idealne na deszczowy dzień.
+  </p>
 
-  <h3>🚠 Funicolare – kolejka linowa = radość gwarantowana</h3>
-  <p>Dla dzieci to atrakcja sama w sobie. Wjeżdżając z dolnego miasta do Città Alta, maluchy czują się jak w parku rozrywki – a Ty zyskujesz parę chwil ciszy i piękne widoki. Działa też druga linia – z Città Alta na San Vigilio!</p>
+  <h3>🚂 Muzeum Nauki i Techniki – Leonardo da Vinci</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4603° N, 9.1705° E</em></p>
+  <p>
+    Największe muzeum techniki we Włoszech z ogromną kolekcją modeli Leonarda da Vinci, samolotami, łodziami podwodnymi i interaktywnymi eksperymentami. Dzieci mogą wejść do prawdziwego wagonu kolejowego czy statku kosmicznego. Nauka przez dotyk – i zero nudy!
+  </p>
 
-  <h3>🏰 Castello di San Vigilio – zamek z widokiem (i tunelem!)</h3>
-  <p>Ruiny zamku, ścieżki wśród drzew, tajemnicze korytarze i miejsce na piknik. Dzieci mogą bawić się w rycerzy, a dorośli podziwiać panoramę Bergamo i okolic. I tak – wózek lepiej zostawić na dole.</p>
+  <h3>🛝 Parco Sempione – plac zabaw i zamek</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4712° N, 9.1767° E</em></p>
+  <p>
+    Zielona oaza w centrum miasta, tuż za Zamkiem Sforzów. Duży plac zabaw, alejki do jazdy na hulajnodze, staw z kaczkami i dużo miejsca do biegania. Rodzice mogą odpocząć na ławce, a dzieci spalić energię. Idealne miejsce na piknik.
+  </p>
 
-  <h3>🐄 Parco Faunistico Le Cornelle (ok. 20 min autem)</h3>
-  <p>Zoo pod Bergamo, które wygląda jak mini safari. Znajdziesz tu żyrafy, zebry, flamingi, tygrysy, a nawet panda czerwoną. Przestrzeń, plac zabaw i miejsce na piknik. Idealne na pół dnia. Dojazd autobusem z przesiadką albo autem.</p>
+  <h3>🐒 Park rozrywki Leolandia (niedaleko Mediolanu)</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.5911° N, 9.5058° E</em></p>
+  <p>
+    Jeśli masz więcej czasu – rzut beretem od Mediolanu znajduje się Leolandia: park rozrywki z karuzelami, pokazy bajkowych postaci, miniatura Włoch i strefy tematyczne. Mali fani Świnki Peppy będą zachwyceni! Dojazd z Mediolanu zajmuje około 40 minut.
+  </p>
 
-  <h3>🌳 Parco della Trucca – zielona przestrzeń w mieście</h3>
-  <p>Jeśli dzieci mają dosyć kamieni i katedr – tu znajdziesz duży park z alejkami, placem zabaw i jeziorkiem. Można biegać, jeździć na hulajnodze, puszczać kaczki i... zjeść lody. Czyli: odpoczynek na 5+.</p>
+  <h3>🎭 Teatro Colla – spektakle marionetkowe</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4678° N, 9.2051° E</em></p>
+  <p>
+    Tradycyjny teatr lalek, który od dziesięcioleci zachwyca najmłodszych widzów. Kolorowe kostiumy, zabawne postacie i uniwersalne historie – nawet bez znajomości języka dzieci świetnie się tu bawią.
+  </p>
 
-  <h3>🧺 Piknik na murach (Le Mura Veneziane)</h3>
-  <p>Zabierz przekąski, kocyk i znajdź spokojny zakątek przy murach otaczających Città Alta. Widoki cudne, trawa miękka, dzieci zajęte. Ty możesz na chwilę przymknąć oko – tylko nie oddychaj za głośno, bo usłyszą i przybiegną!</p>
-
-  <h3>🍦 Gelato w La Marianna – lody z historią</h3>
-  <p>To tu powstała legendarna stracciatella. Czy dzieci docenią historię? Nie. Ale zjedzą wszystko – i poproszą o dokładkę. A Ty też się skusisz, bo nie wypada nie spróbować lodów z rodowodem.</p>
-
-  <p><em>Bergamo z dziećmi to przygoda pełna kolejek, lodów, zamków i... świętego spokoju (czasami). A jeśli będzie deszcz – zawsze zostaje pizzeria i rysowanie pizzą po talerzu!</em></p>
-
+  <h3>🍦 Bonus: najlepsze gelato!</h3>
+  <p>
+    Po intensywnym zwiedzaniu dzieci (i dorośli!) zasługują na lody. Polecamy <strong>La Gelateria della Musica</strong> i <strong>Cioccolati Italiani</strong> – pyszności, które wywołają uśmiech na każdej buzi.
+  </p>
 </details>
 
 
@@ -370,33 +382,48 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 <details>
-  <summary><strong>🍽️ Gdzie zjeść w Bergamo</strong></summary>
+  <summary><strong>🍝 Gdzie zjeść w Mediolanie</strong></summary>
 
-  <p><em>Bergamo to nie tylko eleganckie trattorie, ale też tanie perełki, które karmią lepiej niż babcia w święta. Chcesz zjeść dobrze, lokalnie i nie wydać fortuny? Da się zrobić!</em></p>
+  <h3>🍽️ Trattoria Milanese – klasyka Lombardii</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4602° N, 9.1806° E</em></p>
+  <p>
+    To miejsce, gdzie zjesz jak lokalny mieszkaniec: ossobuco alla milanese, risotto z szafranem i cotoletta wielka jak talerz. Tradycyjna atmosfera, drewniane stoły i serwetki w kratkę – tak właśnie smakuje Mediolan.
+  </p>
 
-  <h3>🍕 <strong>Da Mimmo</strong> – pizza z widokiem</h3>
-  <p>W Città Alta. Pizza pieczona na cienkim cieście, klasyka wśród mieszkańców i turystów. Taras z widokiem gratis.</p>
+  <h3>🥩 Osteria del Binari – romantycznie i lokalnie</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4517° N, 9.1723° E</em></p>
+  <p>
+    W klimatycznym ogrodzie blisko Navigli można spróbować lombardzkich klasyków w eleganckim, ale przytulnym stylu. Idealne miejsce na kolację po spacerze wzdłuż kanałów.
+  </p>
 
-  <h3>🍷 <strong>Il Circolino</strong> – lokalna dusza Bergamo</h3>
-  <p>Lokal prowadzony przez społeczność – taniej, smaczniej i z sercem. Ogródek, klimat, dobre jedzenie.</p>
+  <h3>🥖 Panzerotti Luini – street food w stylu mediolańskim</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4642° N, 9.1897° E</em></p>
+  <p>
+    Ikona szybkiego jedzenia w Mediolanie! Panzerotti to smażone (lub pieczone) pierogi z serem, pomidorami i innymi nadzieniami. Lokal mały, kolejki długie – ale warto! Świetna opcja na szybki lunch w centrum.
+  </p>
 
-  <h3>🍋 <strong>La Marianna</strong> – lody prosto z legendy</h3>
-  <p>Tu wymyślono lody stracciatella. Świetne miejsce na słodką przerwę, ale mają też dobre risotto i makarony.</p>
+  <h3>🍕 Piz – najlepsza pizza w centrum</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4599° N, 9.1855° E</em></p>
+  <p>
+    Kolorowy wystrój, luźna atmosfera i absolutnie topowe pizze neapolitańskie. Miejsce lubiane przez turystów i lokalsów, bardzo blisko katedry Duomo. Margherita? Obowiązkowo!
+  </p>
 
-  <h3>🥪 <strong>PolentOne</strong> – street food po góralsku</h3>
-  <p>Polenta na wynos w każdej formie – z gorgonzolą, z ragù, z grzybami. Tanio, sycąco, lokalnie. I zaskakująco dobre!</p>
+  <h3>🍔 Flower Burger – roślinna alternatywa</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4670° N, 9.1929° E</em></p>
+  <p>
+    Dla wegan, wegetarian i ciekawskich: kolorowe burgery roślinne z hummusem, burakami, ciecierzycą i domowymi bułkami. Zdrowo, stylowo i z pomysłem.
+  </p>
 
-  <h3>🍞 <strong>Panificio Tresoldi</strong> – pieczywo i focaccia za grosze</h3>
-  <p>Mini piekarnia z gorącymi pizzettami, focaccią i słodkościami. Idealne na budżetowy piknik z widokiem.</p>
+  <h3>💸 Tanie, a dobre: Ravioleria Sarpi</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4777° N, 9.1826° E</em></p>
+  <p>
+    Maleńki lokal w Chinatown serwujący świeżo robione pierożki na parze i smażone, prosto z woka. Świetna jakość i ceny, które zaskakują – pozytywnie!
+  </p>
 
-  <h3>🍔 <strong>Rustico</strong> – panini i burgery z włoskim twistem</h3>
-  <p>Mała knajpka, w której dostaniesz świeże buły z lokalnymi dodatkami – pancetta, ser, rukola. Tanie i dobre!</p>
+  <h3>🍨 Lody obowiązkowo: Gelateria della Musica</h3>
+  <p><strong>📍 Współrzędne:</strong> <em>45.4473° N, 9.1836° E</em></p>
+  <p>
+    Kultowa lodziarnia, gdzie każda porcja ma nazwę inspirowaną muzyką. Wanilia, pistacja, czekolada – wszystko ręcznie robione, kremowe i bez sztuczności.
+  </p>
 
-  <h3>🥗 <strong>Bar Il Circolino – lunch bar w Città Alta</strong></h3>
-  <p>Menu dnia z pierwszym i drugim daniem za niewielkie pieniądze. Często jedzą tu lokalsi i pracownicy okolicy.</p>
-
-  <h3>🍕 <strong>Pizzeria Capri</strong> – pizza dla każdego</h3>
-  <p>Niepozorna pizzeria z klasykami włoskiego street foodu. Margherita smakuje tu jak we włoskim filmie, tylko taniej.</p>
-
-  <p><em>Bergamo wie, jak nakarmić dobrze i tanio. I za to je kochamy!</em></p>
 </details>
