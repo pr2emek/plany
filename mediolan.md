@@ -126,6 +126,7 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
  <details>
   <summary><strong>❤️ Tunel Miłości – zielony zakątek zakochanych</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4506° N, 9.1663° E</em></p>
   <p>
     Nie trzeba jechać do Ukrainy czy Japonii, żeby przejść się przez romantyczny tunel z roślin – <strong>Mediolan ma własny Tunel Miłości</strong>, i to całkiem nieźle ukryty. Znajdziesz go w pobliżu <em>Porta Genova</em>, przy trasie dawnej kolejki towarowej, zamienionej dziś w coś między parkiem, galerią i... idealnym tłem do zdjęć.
   </p>
@@ -147,6 +148,7 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🕯️ San Bernardino alle Ossa – kaplica z kośćmi</strong></summary>
+   <p><strong>Współrzędne:</strong> <em>45.4615° N, 9.1948° E</em></p>
   <p>
     Myślisz, że Mediolan to tylko moda, design i luksusowe butiki? A co powiesz na... ściany wyłożone ludzkimi czaszkami? <strong>San Bernardino alle Ossa</strong> to jedno z najbardziej niepokojących, a zarazem fascynujących miejsc w mieście. 
   </p>
