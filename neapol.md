@@ -309,29 +309,54 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   <summary><strong>🗺️ Plany zwiedzania</strong></summary>
 
   <details>
-    <summary><strong>📅 1-dniowy plan</strong></summary>
+    <summary><strong>📅 Dzień 1 - Serce Neapolu: historia, pizza i ulice z charakterem </strong></summary>
     <p>
-      - Koloseum<br>
-      - Forum Romanum<br>
-      - Fontanna di Trevi<br>
-      - Spacer po Piazza Navona<br>
-      - Lody w Gelateria Giolitti
+    ⛪ Start: Katedra św. Januarego</h3> 
+    <p> Rozpocznij dzień w miejscu, gdzie historia spotyka cud – dosłownie. Wchodzisz do majestatycznej katedry, gdzie złoto świeci mocniej niż w pierścionkach neapolitańskich mam. Wewnątrz znajdziesz relikwie patrona miasta i słynną ampułkę z krwią, która ponoć się rozpuszcza… jak lody w lipcu. </p> 
+    <h3>🛒 Spacer Spaccanapoli – witaj w żywym teatrze</h3> 
+    <p> Następny przystanek to deptak-legenda, który przecina starówkę jak nóż pizzę. Tu dzieje się wszystko: dzieci grają w piłkę, panie kłócą się o pomidory, a z balkonów lecą krzyki i... czasem pranie. Zatrzymaj się na espresso i sfogliatellę – i po prostu obserwuj życie. </p> 
+    <h3>🔮 Kaplica Sansevero – tajemnice i marmur, który oddycha</h3> 
+    <p> Dosłownie trzy kroki od Spaccanapoli – ukryta perełka Neapolu. Kaplica z rzeźbą „Veiled Christ”, która wygląda, jakby ktoś nałożył marmurową tkaninę na prawdziwe ciało. Mistycyzm, sztuka, trochę grozy w podziemiach. Wychodzisz z wrażeniem, że rzeźbiarze mieli nadprzyrodzone moce. </p> 
+    <h3>🍕 Przerwa obiadowa: Sorbillo lub Da Michele</h3> 
+    <p> Wybierz jedną z legendarnych pizzerii. W kolejce spędzisz chwilę, ale to najlepsze, co może Cię spotkać między jednym zabytkiem a drugim. Margherita, marinara i... szczęście w każdej chrupiącej krawędzi. </p> 
+    <h3>🏛️ Narodowe Muzeum Archeologiczne – sztuka z Pompejów i antyczny content NSFW</h3> 
+    <p> Po obiedzie czas na solidną dawkę historii. W tym muzeum znajdziesz wszystko, co wykopano z Pompejów i Herkulanum – od mozaik, przez rzeźby, aż po słynny „gabinet erotyczny”. Tak, Rzymianie nie byli pruderyjni. </p> 
+    <h3>🧱 Mural Maradony – pielgrzymka fanów futbolu</h3> 
+    <p> Wieczorem wybierz się do Quartieri Spagnoli. Tam, przy Via Emanuele De Deo, znajdziesz mural Maradony – dla wielu bardziej święty niż sam św. January. Palą się znicze, wiszą proporczyki, a klimat? Mistyczno-futbolowy. </p> 
+    <h3>🍹 Finał: Aperol na Piazza Bellini</h3>
+    <p> Po tylu wrażeniach należy się relaks. Usadów się przy stoliku, zamów Aperola i patrz, jak miasto żyje. Dookoła artyści, studenci, turyści, muzyka na żywo – i Ty w środku tej neapolitańskiej symfonii. 
     </p>
   </details>
 
   <details>
-    <summary><strong>📅 2-dniowy plan</strong></summary>
+    <summary><strong>📅 Dzień 2 - Wezuwiusz: wulkan, który zniszczył i zachwyca</strong></summary>
     <p>
-      Dzień 1: jak wyżej<br>
-      Dzień 2: Watykan, Muzea Watykańskie, Bazylika św. Piotra, Panteon, plac Hiszpański
+      <h3>🥐 Poranek: śniadanie i kawa na drogę</h3> <p> Zanim wyruszysz, złap <strong>sfogliatellę</strong> i porządne espresso – to lokalny rytuał. Najlepiej w Gran Caffè Gambrinus albo w małej kawiarni po drodze. Będziesz tego potrzebować. Wulkan nie wybacza bez śniadania. </p> 
+    <h3>🚆 Jak dojechać na Wezuwiusz?</h3> 
+    <ul> <li>Wsiądź w pociąg <strong>Circumvesuviana</strong> z Neapolu (stacja Napoli Garibaldi)</li> 
+      <li>Wysiądź na stacji <strong>Ercolano Scavi</strong> (ok. 30–40 minut jazdy)</li> 
+      <li>Na miejscu złap <strong>shuttle bus Navetta Vesuvio</strong> (około 25 minut jazdy serpentynami pod sam krater)</li> 
+      <li>Alternatywa: piesze wejście z dolnych stacji – dla ambitnych, ale to długa droga!</li> 
+    </ul> 
+    <h3>🥾 Spacer na szczyt</h3> 
+    <p> Gdy bus dowiezie Cię na parking blisko wejścia, zaczynasz właściwą przygodę – około <strong>20–30 minut spaceru</strong> pod górę po wulkanicznym żwirze. Trasa jest niezbyt trudna, ale dość stroma i wietrzna. Weź buty z dobrą podeszwą i coś cieplejszego na górę. </p> 
+    <h3>🌋 Na szczycie – powiedz "buongiorno" kraterowi</h3> 
+    <p> Wulkaniczna cisza, zapach siarki i... jeden z najbardziej spektakularnych widoków w Twoim życiu. Z jednej strony surowy krater, z drugiej – panorama Neapolu, Zatoki, Capri i Amalfi. Robisz zdjęcia, siadasz na kamieniu i przez chwilę czujesz się jak bohater filmu katastroficznego, tylko bez katastrofy. </p> 
+    <ul> <li><strong>Bilety:</strong> ok. 10€ (kup najlepiej online na stronie <em>vesuviopark.vivaticket.it</em>)</li>
+      <li><strong>Uwaga:</strong> W sezonie lepiej zarezerwować wcześniej – ograniczają liczbę odwiedzających</li> 
+    </ul> 
+    <h3>🍕 Powrót do Neapolu i popołudniowa pizza</h3> 
+    <p> Po zejściu i powrocie pociągiem, czas na nagrodę – obiad! Wyskocz na pizzę do <strong>Pizzeria Starita</strong> lub <strong>Sorbillo</strong>. Kalorie spaliliśmy, można doładować węgle. 
+    </p> 
+    <h3>🧘‍♀️ Wieczór: relaks nad morzem</h3> 
+    <p> Po górskim szaleństwie odpocznij na <strong>Lungomare Caracciolo</strong>. Spaceruj przy zachodzie słońca, kup loda albo... kolejnego aperolka. Widok na Castel dell’Ovo i Wezuwiusza (tym razem z dołu!) będzie idealnym zamknięciem dnia. 
     </p>
   </details>
 
   <details>
-    <summary><strong>📅 3-dniowy plan</strong></summary>
+    <summary><strong>📅 Dzień 3 - Pompeje: wizyta w starożytności</strong></summary>
     <p>
-      Dzień 1 i 2: jak wyżej<br>
-      Dzień 3: Trastevere, wzgórze Gianicolo, Zamek Świętego Anioła, chill nad Tybrem
+     <h3>☕ Poranek: energia przed podróżą w czasie</h3> <p> Zacznij dzień śniadaniem jak rasowy archeolog – czyli szybka <strong>sfogliatella</strong> i espresso w barze. Następnie ruszamy z głównego dworca <strong>Napoli Garibaldi</strong>! </p> <h3>🚆 Jak dojechać do Pompejów?</h3> <ul> <li>Pociąg <strong>Circumvesuviana</strong> w kierunku Sorrento (często kursuje)</li> <li>Wysiądź na stacji <strong>Pompei Scavi – Villa dei Misteri</strong></li> <li>Podróż trwa ok. 35–40 minut</li> </ul> <h3>🏛️ Zwiedzanie Pompejów – czyli spacer po antyku</h3> <p> Teren Pompejów jest ogromny, więc zaplanuj minimum <strong>3–4 godziny</strong> zwiedzania (a najlepiej pół dnia). Koniecznie weź wygodne buty, nakrycie głowy i wodę – to bardziej pustynia niż park miejski. </p> <p> Co zobaczyć? Największe wrażenie robią: </p> <ul> <li>🏛️ <strong>Forum</strong> – centralny plac miasta</li> <li>🎭 <strong>Amfiteatr</strong> – najstarszy zachowany w Europie</li> <li>🛁 <strong>Termy</strong> – starożytne łaźnie z freskami</li> <li>🏡 <strong>Dom Fauna</strong> – imponująca willa z mozaikami</li> <li>🖼️ <strong>Villa dei Misteri</strong> – nieco na uboczu, z niezwykłymi malowidłami</li> <li>🫣 <strong>Odlewy ciał</strong> – poruszające świadectwo tragedii</li> </ul> <p> Możesz zwiedzać samodzielnie (mapki przy wejściu) albo z przewodnikiem – na miejscu jest ich sporo, a opowieści robią różnicę. </p> <ul> <li><strong>Bilety:</strong> 18€ (są też bilety łączone np. z Herkulanum)</li> <li><strong>Wskazówka:</strong> Kup bilety online na <em>ticketone.it</em> lub <em>pompeiisites.org</em>, żeby uniknąć kolejek</li> </ul> <h3>🍝 Obiad w Pompejach</h3> <p> Po wyjściu z ruin zasłużony obiad! W pobliżu stacji znajdziesz kilka dobrych restauracji. Lokalne specjały to <strong>gnocchi alla sorrentina</strong>, <strong>spaghetti alle vongole</strong> i – oczywiście – pizza. </p> <h3>🚆 Powrót do Neapolu</h3> <p> Wracamy Circumvesuvianą, chyba że po drodze chcesz zajrzeć do <strong>Herkulanum</strong> – mniejsze, ale świetnie zachowane miasto zalane przez ten sam wybuch. To taka „Pompejańska siostrzyczka”. </p> <h3>🌇 Wieczór: spokojny spacer po Spaccanapoli</h3> <p> Po intensywnym dniu z historią warto wrócić do życia. Spacer <strong>Spaccanapoli</strong>, wino w małej enotece, ostatnie zdjęcia zachodzącego słońca nad Zatoką. Dzień idealnie zamknięty.
     </p>
   </details>
 
