@@ -375,31 +375,47 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 <details>
-  <summary><strong>🧙‍♂️ Legendy Mediolanu</strong></summary>
+  <summary><strong>🧙‍♂️ Legendy Wenecj</strong></summary>
 
-  <h3>🪞 Kolumna z Diabelskimi Dziurami (Colonna del Diavolo)</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4628° N, 9.1854° E</em></p>
-  <p>
-    Tuż przy bazylice św. Ambrożego stoi niepozorna kolumna z... dwoma dziurami. Według legendy to ślady po rogach samego diabła, który chciał porwać św. Ambrożego. Święty jednak się nie dał, a diabeł – wściekły – wbił w kolumnę rogi i zniknął. Dziś mówi się, że z otworów czuć zapach siarki, a czasem – słychać szepty. Nie polecamy przystawiać ucha zbyt blisko.
-  </p>
+  <details>
+    <summary><strong>⚔️ Duch templariusza przy Campo San Zan Degolà</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4437° N, 12.3249° E</em></p>
+    <p>
+      W okolicach Campo San Zan Degolà słychać ponoć nocami stukot zbroi. Legenda mówi o duchu templariusza, który został zdradzony i zabity podczas krucjat. Wraca tu, gdzie miał ukryty skarb – w dawnym klasztorze przy kanale. Miejsce owiane tajemnicą, idealne na spacer po zmroku… z latarką i odwagą.
+    </p>
+  </details>
 
-  <h3>👁️‍🗨️ Bazylika św. Eustorgiusza – Trzej Królowie i ukryta krypta</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4544° N, 9.1877° E</em></p>
-  <p>
-    W tej bazylice, ukrytej w dzielnicy Ticinese, znajdują się relikwie Trzech Króli. Legenda głosi, że ich szczątki sprowadzono tu z Konstantynopola w IV wieku. Dziś jednak część z nich znajduje się w Kolonii (Niemcy), bo w średniowieczu zostały zrabowane. Mediolańczycy nigdy nie pogodzili się z tą stratą. Podziemia bazyliki i tajemnicza kaplica to miejsce cichej magii i średniowiecznej atmosfery.
-  </p>
+  <details>
+    <summary><strong>💔 Most Westchnień – historia miłości i rozpaczy</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4335° N, 12.3400° E</em></p>
+    <p>
+      Choć turyści robią tu romantyczne zdjęcia, legenda mówi, że nazwa „most westchnień” nie pochodzi od zakochanych – a od więźniów. Przechodząc przez ten most, wzdychali po raz ostatni, patrząc na Wenecję przed dożywotnim uwięzieniem. Podobno duch jednego z nich – niewinnie skazanego artysty – wraca nocą i szepcze wersy do ucha tym, którzy przechodzą sami.
+    </p>
+  </details>
 
-  <h3>🕯️ Kościół San Bernardino alle Ossa – kaplica czaszek</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4632° N, 9.1941° E</em></p>
-  <p>
-    To jedno z najbardziej osobliwych miejsc w Mediolanie. W niewielkiej kaplicy znajdują się dziesiątki czaszek i kości ułożonych na ścianach – ozdobnie i makabrycznie zarazem. Powstała w XIII wieku, gdy cmentarz był przepełniony. Mówi się, że nocą słychać szepty i modlitwy zza ścian... ale równie dobrze to wyobraźnia podpowiada takie historie.
-  </p>
+  <details>
+    <summary><strong>🪞 Zaczarowane lustro z Palazzo Dario</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4308° N, 12.3315° E</em></p>
+    <p>
+      Pałac Dario przy Canal Grande jest piękny, ale podobno... przeklęty. Należał do rodu, którego niemal wszyscy członkowie zginęli tragicznie. Mówi się, że w jednym z pokoi znajdowało się lustro sprowadzone z Bliskiego Wschodu – pokazujące przyszłość. Niestety, każdy kto w nie spojrzał, tracił rozum lub majątek. Pałac przez lata zmieniał właścicieli – i żaden nie miał szczęścia.
+    </p>
+  </details>
 
-  <h3>🪄 Zegar Śmierci przy Piazza Mercanti</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4645° N, 9.1857° E</em></p>
-  <p>
-    W średniowieczu Piazza Mercanti było sercem miejskiego handlu, ale i... miejscem publicznych egzekucji. Na jednej z kolumn miał się znajdować zegar, który wybijał godzinę śmierci skazanych. Choć zegar już nie istnieje, lokalni przewodnicy pokazują miejsce, gdzie kiedyś wisiał. Według opowieści, niektórzy w nocy nadal słyszą jego bicie...
-  </p>
+  <details>
+    <summary><strong>🦴 Cmentarz duchów na wyspie San Michele</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4445° N, 12.3543° E</em></p>
+    <p>
+      San Michele to oficjalny cmentarz Wenecji. Ale według legend – także miejsce, gdzie dusze nie zaznały spokoju. Przesiadują tu duchy żałobników, mnichów i artystów (w tym Strawińskiego!), a niektórzy twierdzą, że w nocy słychać tu chór bez ciała. Wenecjanie podchodzą do wyspy z szacunkiem… i lekkim niepokojem.
+    </p>
+  </details>
+
+  <details>
+    <summary><strong>🌫️ Zjawa na Campiello del Remer</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4423° N, 12.3340° E</em></p>
+    <p>
+      Tuż przy Canal Grande, w małym zaułku, podobno nocą pojawia się zjawa kobiety w czerni. Według lokalnej opowieści, była to kochanka pewnego doży, którą zdradził i porzucił. Kobieta zniknęła bez śladu. Dziś jej cień przemyka przez plac, patrząc w okna, jakby wciąż czekała na powrót swojego oprawcy.
+    </p>
+  </details>
 
 </details>
 
