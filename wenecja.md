@@ -330,88 +330,47 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
+<details>
+  <summary><strong>🚤 Transport w Wenecji</strong></summary>
 
-  <details>
-  <summary><strong>🚌 Transport publiczny w Mediolanie</strong></summary>
   <p>
-    Mediolan to miasto, które lubi elegancję, ale też efektywność. Na szczęście tutejszy transport publiczny działa jak dobrze naoliwiona włoska maszyna do espresso – szybko, sprawnie i z klasą (czasem z drobnym opóźnieniem, ale to przecież Włochy, więc <em>tranquillo</em>).
+    Wenecja to miasto bez samochodów. Serio – zapomnij o korkach i autobusach, tu króluje woda i nogi. Transport publiczny to głównie <strong>vaporetto</strong>, czyli wodny tramwaj, który łączy wszystkie dzielnice i wyspy. A jeśli lubisz spacery – całe centrum jest idealne do zwiedzania pieszo.
   </p>
 
-  <h3>🚇 Metro – Twoja nowa najlepsza przyjaciółka</h3>
+  <h3>🛳️ Vaporetto – wodna komunikacja miejska</h3>
+  <ul>
+    <li><strong>Operator:</strong> ACTV</li>
+    <li><strong>Główne linie:</strong> Linie 1 i 2 kursują przez Canal Grande (1 jest wolniejsza – ale bardziej widokowa)</li>
+    <li><strong>Popularne przystanki:</strong> Piazzale Roma, Ferrovia (dworzec), Rialto, San Marco, Zattere, Lido</li>
+    <li><strong>Bilet jednorazowy:</strong> ok. 9,50€ – ważny przez 75 minut</li>
+    <li><strong>Karta turystyczna:</strong> Venezia Unica – np. 24h za 25€, 48h za 35€, 72h za 45€ (nielimitowane przejazdy)</li>
+  </ul>
+
+  <h3>🚶 Pieszo przez labirynt</h3>
   <p>
-    Miasto ma <strong>cztery linie metra</strong>:
+    Centrum Wenecji zwiedza się najlepiej na piechotę. Odległości nie są duże, ale warto mieć mapę (lub GPS), bo uliczki potrafią się zgubić szybciej niż Twój zasięg. Szukaj oznaczeń do „Rialto” lub „San Marco” – są na większości budynków.
+  </p>
+
+  <h3>🚖 Taxi wodne i gondole</h3>
+  <ul>
+    <li><strong>Taxi wodne:</strong> luksusowa opcja – szybka, prywatna i... droga (nawet 70–120€ za przejazd)</li>
+    <li><strong>Gondola:</strong> bardziej atrakcja niż transport – 30 minut romantyzmu kosztuje około 80€, ale wspomnienia bezcenne</li>
+    <li><strong>Traghetto:</strong> tania gondola, która przewozi ludzi przez Canal Grande (ok. 2€) – świetny trik dla turystów</li>
+  </ul>
+
+  <h3>🚌 Dojazd do Wenecji</h3>
+  <p>
+    Jeśli nocujesz poza historycznym centrum, np. w Mestre lub na Lido, możesz dojechać:
   </p>
   <ul>
-    <li><strong>M1 (czerwona)</strong> – od dzielnic mieszkalnych do centrum (łączy m.in. Duomo, Cadorna, San Babila)</li>
-    <li><strong>M2 (zielona)</strong> – idealna jeśli chcesz dojechać do Navigli lub stacji kolejowych</li>
-    <li><strong>M3 (żółta)</strong> – błyskawicznie dowozi Cię na dworzec Milano Centrale</li>
-    <li><strong>M5 (fioletowa)</strong> – nowoczesna, cicha i automatyczna – dla fanów futurystycznych wagoników</li>
-  </ul>
-  <p>
-    Metro działa od około <strong>6:00 do północy</strong>, a w weekendy trochę dłużej. Jest szybkie i czytelne – nawet jeśli Twój włoski kończy się na „ciao” i „gelato”.
-  </p>
-
-  <h3>🚋 Tramwaje – retro na kółkach</h3>
-  <p>
-    Niektóre tramwaje w Mediolanie mają po 80 lat i wyglądają jak wehikuły czasu – drewniane ławki, mosiężne uchwyty, skrzypienie przy zakrętach. Ale nie daj się zwieść – to nie muzeum, to pełnoprawny środek transportu. 
-    <br>Linia <strong>1</strong> to klasyka z widokiem na Duomo, <strong>linie 3 i 9</strong> są świetne do eksploracji miasta z fotela z widokiem.
-  </p>
-
-  <h3>🚌 Autobusy i trolejbusy – backup plan</h3>
-  <p>
-    Jeśli metro i tramwaj nie dojeżdżają tam, gdzie chcesz, autobus na pewno to zrobi. Nie są tak efektowne jak metro, ale mają swoje zalety – zwłaszcza nocą, bo <strong>nocne linie jeżdżą po północy</strong>, kiedy metro śpi.
-  </p>
-
-  <h3>🎫 Bilety – jak nie dostać mandatu za 60€</h3>
-  <ul>
-    <li><strong>Bilet jednorazowy:</strong> 2,20€ – ważny 90 minut od skasowania (na metro, tramwaj, autobus)</li>
-    <li><strong>Bilet dzienny (24h):</strong> 7,60€ – zwiedzasz cały dzień bez stresu</li>
-    <li><strong>Bilet 3-dniowy:</strong> 13€ – dobra opcja przy intensywnym zwiedzaniu</li>
-  </ul>
-  <p>
-    Kupisz je w automatach na stacjach metra, w kioskach (szukaj napisu <em>"Rivendita biglietti ATM"</em>) albo przez aplikację <strong>ATM Milano</strong>.
-    <br><strong>Kasuj</strong> przed wejściem do metra lub zaraz po wejściu do tramwaju/autobusu.
-  </p>
-
-  <h3>🚉 Pociągi i karty turystyczne</h3>
-  <ul>
-    <li><strong>Milano Centrale</strong> – główny dworzec, z którego dojedziesz do Bergamo, Como, Wenecji czy Rzymu</li>
-    <li><strong>MilanoCard</strong> i inne karty turystyczne</li>
-    <li>Dla dłuższych pobytów – rozważ <strong>karnet ATM</strong> lub bilet tygodniowy</li>
+    <li><strong>Pociągiem:</strong> stacja Venezia Santa Lucia (na wyspie!)</li>
+    <li><strong>Autobusem:</strong> do terminala Piazzale Roma</li>
+    <li><strong>Samochodem:</strong> zaparkuj na Piazzale Roma lub w Tronchetto – dalej tylko pieszo lub vaporetto</li>
   </ul>
 
-  <h3>🚴 Dodatki dla aktywnych</h3>
   <p>
-    Jeśli lubisz rowery lub hulajnogi – Mediolan ma wypożyczalnie działające przez aplikację: <strong>BikeMi</strong>, <strong>Dott</strong>, <strong>Lime</strong> i inne. Idealne na krótkie dystanse i zwiedzanie Navigli bez korków.
+    Wenecja to miasto bez klaksonów i smogu – tu podróżujesz wodą i ciszą. Idealnie, prawda?
   </p>
-
-  <p>
-    Transport w Mediolanie nie tylko działa – on Cię zabierze wszędzie tam, gdzie dzieje się coś ważnego. A jeśli się zgubisz? To świetna wymówka, by wypić kawę i zapytać przechodnia. Z uśmiechem. To przecież Mediolan!
-  </p>
-
-  
-  <h3>✈️ Dojazd z lotnisk do Mediolanu</h3>
-
-  <p>🛬 Lotnisko Malpensa (MXP) – największe</p>
-   <ul>
-    <li><strong>🚆 Pociąg Malpensa Express:</strong> ok. 50 minut do Milano Centrale lub Cadorna, koszt ok. <strong>13€</strong></li>
-    <li><strong>🚌 Autobus (Malpensa Shuttle / Terravision):</strong> ok. 50–60 minut do Milano Centrale, cena ok. <strong>10€</strong></li>
-    <li><strong>🚖 Taxi:</strong> ok. 45–60 minut, stała taryfa <strong>95€</strong></li>
-  </ul>
-
-  <p>🛬 Lotnisko Bergamo Orio al Serio (BGY)</p>
-  <ul>
-    <li><strong>🚌 Autobus (Terravision, Flixbus, Autostradale):</strong> ok. 50 minut do Milano Centrale, cena ok. <strong>10€</strong></li>
-    <li><strong>🚖 Taxi:</strong> ok. 60–75 minut, koszt ok. <strong>100–130€</strong></li>
-  </ul>
-
-  <p>🛬 Lotnisko Linate (LIN) – najbliżej centrum</p>
-  <ul>
-    <li><strong>🚌 Autobus miejski (linia 73):</strong> do Piazza San Babila (blisko Duomo), bilet <strong>2,20€</strong>, czas ok. 25 minut</li>
-    <li><strong>🚌 Linate Shuttle:</strong> do Milano Centrale, czas ok. 25 minut, koszt ok. <strong>5€</strong></li>
-    <li><strong>🚖 Taxi:</strong> ok. 15–25 minut, koszt ok. <strong>30–40€</strong></li>
-  </ul>
-
 </details>
 
 ---
