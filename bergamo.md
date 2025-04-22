@@ -156,7 +156,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Dla Włochów to ważne miejsce kultu sztuki. Dla turystów – najlepszy przykład, jak z pompy zrobić arcydzieło. Dla Ciebie – obowiązkowy punkt programu i idealne tło do żartobliwego selfie w stylu "To też bym sobie zrobił, gdybym miał armię i renesans".
   </p>
- 
+ </details>
 
   <details>
     <summary><strong>🏛️ GAMeC – nowoczesność w kontrze do renesansu</strong></summary>
@@ -218,7 +218,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 </details>
 </details>
-</details>
+
 
 
 ---
