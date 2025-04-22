@@ -97,8 +97,6 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
     </ul>
   </details>
    
-</details>
-
 <details>
     <summary><strong>🕵️ Sekretne miejsca Neapolu</strong></summary>
   
