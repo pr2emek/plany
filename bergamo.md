@@ -102,7 +102,6 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
     <summary><strong>🕵️ Sekretne miejsca Neapolu</strong></summary>
   
-
    <h3>⚽ Mural Maradony w Quartieri Spagnoli – Sanktuarium futbolu</h3>
 <p><em>Współrzędne: 40.8437° N, 14.2478° E</em></p>
 
