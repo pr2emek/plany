@@ -62,7 +62,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
     <summary><strong>⛪ Piazza Vecchia i Bazylika Santa Maria Maggiore – serce i dusza miasta</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.7038° N, 9.6628° E</em></p>
     
-      <p>
+   <p>
     Gdyby place miały osobowość, <strong>Piazza Vecchia</strong> byłby starszym dżentelmenem w garniturze z epoki – z filiżanką espresso w jednej ręce i gazetą w drugiej. To serce Città Alta i obowiązkowy przystanek dla każdego turysty, który choć raz powiedział "kocham włoską architekturę", nie odróżniając renesansu od ricotty.
   </p>
 
@@ -74,7 +74,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
     Idealne miejsce na chwilę kontemplacji, kawę za 4 euro i podsłuchiwanie przewodników tłumaczących, dlaczego ten plac „łączy ducha republikańskiego z architektoniczną czystością”. A Ty po prostu usiądź, zjedz rogalika i udawaj, że rozumiesz.
   </p>
 
-    <p>
+ <p>
     Bazylika wygląda jak skromna sąsiadka Kaplicy Colleoniego, ale tylko dopóki nie wejdziesz do środka. A żeby było śmieszniej – wejście nie jest przez główne drzwi (bo po co byłoby łatwo), tylko z boku. Takie włoskie „szukaj, a znajdziesz” w wersji sakralnej.
   </p>
 
