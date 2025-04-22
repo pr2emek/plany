@@ -407,42 +407,57 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🎈 Co robić z dziećmi w Mediolanie</strong></summary>
+  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Wenecji</strong></summary>
 
-  <h3>🦖 MUBA – Museo dei Bambini</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4476° N, 9.1993° E</em></p>
   <p>
-    To interaktywne muzeum stworzone specjalnie dla dzieci. Znajdziesz tu wystawy, warsztaty i kreatywne zajęcia dostosowane do różnych grup wiekowych – od przedszkolaków po starsze dzieci. Zabawa, nauka i design w jednym! Idealne na deszczowy dzień.
+    Wenecja może wydawać się dorosła i romantyczna, ale dzieci znajdą tu sporo magii i przygód – od rejsów po kanałach po tajemnicze maski karnawałowe. Oto miejsca i aktywności, które zachwycą młodszych turystów:
   </p>
 
-  <h3>🚂 Muzeum Nauki i Techniki – Leonardo da Vinci</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4603° N, 9.1705° E</em></p>
+  <h3>🛶 Rejs vaporetto po Canal Grande</h3>
   <p>
-    Największe muzeum techniki we Włoszech z ogromną kolekcją modeli Leonarda da Vinci, samolotami, łodziami podwodnymi i interaktywnymi eksperymentami. Dzieci mogą wejść do prawdziwego wagonu kolejowego czy statku kosmicznego. Nauka przez dotyk – i zero nudy!
+    Vaporetto to nie tylko transport – to atrakcja sama w sobie. Usiądźcie z przodu i płyńcie przez serce Wenecji jak kapitanowie. Linia nr 1 to idealna trasa – powolna, ale pełna widoków.
   </p>
 
-  <h3>🛝 Parco Sempione – plac zabaw i zamek</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4712° N, 9.1767° E</em></p>
+  <h3>🎭 Warsztaty masek weneckich</h3>
   <p>
-    Zielona oaza w centrum miasta, tuż za Zamkiem Sforzów. Duży plac zabaw, alejki do jazdy na hulajnodze, staw z kaczkami i dużo miejsca do biegania. Rodzice mogą odpocząć na ławce, a dzieci spalić energię. Idealne miejsce na piknik.
+    Dzieci mogą stworzyć własną maskę w tradycyjnej pracowni – malują, ozdabiają, a potem zabierają ją do domu. Polecam np. <em>Ca’ Macana</em> – prowadzą zajęcia specjalnie dla najmłodszych.
   </p>
 
-  <h3>🐒 Park rozrywki Leolandia (niedaleko Mediolanu)</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.5911° N, 9.5058° E</em></p>
+  <h3>🦁 Pałac Dożów – zamkowa przygoda</h3>
   <p>
-    Jeśli masz więcej czasu – rzut beretem od Mediolanu znajduje się Leolandia: park rozrywki z karuzelami, pokazy bajkowych postaci, miniatura Włoch i strefy tematyczne. Mali fani Świnki Peppy będą zachwyceni! Dojazd z Mediolanu zajmuje około 40 minut.
+    Wielki pałac z mostem Westchnień, zbrojownią i lochami – brzmi jak wyprawa rycerska. Można zobaczyć salę Wielkiej Rady i ukryte korytarze. Dostępne są też trasy z przewodnikiem dla rodzin.
   </p>
 
-  <h3>🎭 Teatro Colla – spektakle marionetkowe</h3>
-  <p><strong>📍 Współrzędne:</strong> <em>45.4678° N, 9.2051° E</em></p>
+  <h3>🐟 Muzeum Historii Naturalnej</h3>
   <p>
-    Tradycyjny teatr lalek, który od dziesięcioleci zachwyca najmłodszych widzów. Kolorowe kostiumy, zabawne postacie i uniwersalne historie – nawet bez znajomości języka dzieci świetnie się tu bawią.
+    Dla dzieci kochających dinozaury, zwierzęta i... szkielety wielorybów. Muzeum mieści się w dawnym pałacu i łączy naukę z fajnymi eksponatami. Multimedialne instalacje są tu strzałem w dziesiątkę.
   </p>
 
-  <h3>🍦 Bonus: najlepsze gelato!</h3>
+  <h3>🏞️ Park Giardini Papadopoli</h3>
   <p>
-    Po intensywnym zwiedzaniu dzieci (i dorośli!) zasługują na lody. Polecamy <strong>La Gelateria della Musica</strong> i <strong>Cioccolati Italiani</strong> – pyszności, które wywołają uśmiech na każdej buzi.
+    Niewielki, ale uroczy park blisko Piazzale Roma. Plac zabaw, cień i ławki – idealne miejsce na piknik lub chwilę odpoczynku między atrakcjami.
   </p>
+
+  <h3>⛵ Rejs na wyspy: Murano i Burano</h3>
+  <ul>
+    <li><strong>Murano:</strong> dzieci mogą zobaczyć pokaz dmuchania szkła – fascynujące i bezpieczne</li>
+    <li><strong>Burano:</strong> kolorowe domki jak z bajki – idealne do zdjęć i spacerów</li>
+  </ul>
+
+  <h3>🍦 Gelato & go</h3>
+  <p>
+    Każda wyprawa z dziećmi powinna zawierać przystanek na lody. W Wenecji to obowiązek – najlepsze znajdziesz np. w Gelatoteca Suso.
+  </p>
+
+  <h3>🚤 Bonus: Traghetto – gondola za 2€</h3>
+  <p>
+    Zamiast drogiej przejażdżki gondolą – spróbujcie traghetto: lokalnej, krótkiej wersji gondoli, która przewozi przez Canal Grande. Taniej, szybciej, ale emocje gwarantowane!
+  </p>
+
+  <p>
+    Wenecja z dziećmi to świetna przygoda – wystarczy dobrze dobrać atrakcje, robić częste przerwy i… mieć w plecaku coś na głoda!
+  </p>
+
 </details>
 
 
