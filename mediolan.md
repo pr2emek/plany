@@ -221,45 +221,88 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-<details>
-  <summary><strong>🚌 Transport publiczny w Bergamo</strong></summary>
+
+  <details>
+  <summary><strong>🚌 Transport publiczny w Mediolanie</strong></summary>
   <p>
-    Transport publiczny w Bergamo to jak szwajcarski zegarek… tylko włoski. Czyli działa dobrze, ale z nutką temperamentu. Miasto jest kompaktowe, więc większość rzeczy da się zrobić pieszo – ale jeśli chcesz zaoszczędzić siły (albo zobaczyć więcej), skorzystaj z lokalnych autobusów i kolejki górskiej.
+    Mediolan to miasto, które lubi elegancję, ale też efektywność. Na szczęście tutejszy transport publiczny działa jak dobrze naoliwiona włoska maszyna do espresso – szybko, sprawnie i z klasą (czasem z drobnym opóźnieniem, ale to przecież Włochy, więc <em>tranquillo</em>).
   </p>
 
-  <h3>🚍 Autobusy – ATB rządzi (i wozi)</h3>
+  <h3>🚇 Metro – Twoja nowa najlepsza przyjaciółka</h3>
   <p>
-    Miejski przewoźnik ATB obsługuje większość linii w Bergamo – zarówno w Città Bassa (dolnym mieście), jak i górnym. Autobusy są nowoczesne, klimatyzowane i (o dziwo) dość punktualne. Dojedziesz nimi m.in. na lotnisko, do stacji kolejowej i pod samą kolejkę do Città Alta.
-  </p>
-  <ul>
-    <li><strong>Bilet jednorazowy:</strong> 1,50€ (ważny przez 75 minut)</li>
-    <li><strong>Gdzie kupić:</strong> w automatach, kioskach, aplikacji ATB Mobile</li>
-  </ul>
-
-  <h3>🚠 Funicolare – kolejka górska z charakterem</h3>
-  <p>
-    Ikona Bergamo! Łączy dolne miasto z Città Alta. Podróż trwa dosłownie 2 minuty, ale frajda? 100%. Przejażdżka starym wagonikiem po stromym zboczu to obowiązkowy punkt każdej wycieczki. A jeśli masz szczęście – trafisz na wagon z widokiem przez całą szybę.
+    Miasto ma <strong>cztery linie metra</strong>:
   </p>
   <ul>
-    <li><strong>Cena:</strong> wliczona w zwykły bilet ATB</li>
-    <li><strong>Druga linia:</strong> Jest też osobna kolejka z Città Alta na wzgórze San Vigilio. Widok? Insta-ready.</li>
+    <li><strong>M1 (czerwona)</strong> – od dzielnic mieszkalnych do centrum (łączy m.in. Duomo, Cadorna, San Babila)</li>
+    <li><strong>M2 (zielona)</strong> – idealna jeśli chcesz dojechać do Navigli lub stacji kolejowych</li>
+    <li><strong>M3 (żółta)</strong> – błyskawicznie dowozi Cię na dworzec Milano Centrale</li>
+    <li><strong>M5 (fioletowa)</strong> – nowoczesna, cicha i automatyczna – dla fanów futurystycznych wagoników</li>
   </ul>
-
-  <h3>✈️ Dojazd z lotniska Orio al Serio</h3>
   <p>
-    Lotnisko Bergamo-Orio al Serio leży tylko 5 km od centrum miasta – można by dojść pieszo, ale po co? Złap autobus linii <strong>1</strong>, który jedzie do centrum i stacji kolejowej. Podróż trwa ok. 15–20 minut, a bilety kupisz w hali przylotów, automacie lub przez aplikację.
+    Metro działa od około <strong>6:00 do północy</strong>, a w weekendy trochę dłużej. Jest szybkie i czytelne – nawet jeśli Twój włoski kończy się na „ciao” i „gelato”.
   </p>
 
-  <h3>🧭 Wskazówki lokalne</h3>
+  <h3>🚋 Tramwaje – retro na kółkach</h3>
+  <p>
+    Niektóre tramwaje w Mediolanie mają po 80 lat i wyglądają jak wehikuły czasu – drewniane ławki, mosiężne uchwyty, skrzypienie przy zakrętach. Ale nie daj się zwieść – to nie muzeum, to pełnoprawny środek transportu. 
+    <br>Linia <strong>1</strong> to klasyka z widokiem na Duomo, <strong>linie 3 i 9</strong> są świetne do eksploracji miasta z fotela z widokiem.
+  </p>
+
+  <h3>🚌 Autobusy i trolejbusy – backup plan</h3>
+  <p>
+    Jeśli metro i tramwaj nie dojeżdżają tam, gdzie chcesz, autobus na pewno to zrobi. Nie są tak efektowne jak metro, ale mają swoje zalety – zwłaszcza nocą, bo <strong>nocne linie jeżdżą po północy</strong>, kiedy metro śpi.
+  </p>
+
+  <h3>🎫 Bilety – jak nie dostać mandatu za 60€</h3>
   <ul>
-    <li>Nie zapomnij skasować biletu (albo aktywować w aplikacji) – kontrolerzy mają dobre wyczucie czasu!</li>
-    <li>Bilet 24-godzinny kosztuje tylko 5€, a obejmuje także obie kolejki</li>
-    <li>W niedziele i wieczorami kursy są rzadsze – planuj z wyprzedzeniem</li>
+    <li><strong>Bilet jednorazowy:</strong> 2,20€ – ważny 90 minut od skasowania (na metro, tramwaj, autobus)</li>
+    <li><strong>Bilet dzienny (24h):</strong> 7,60€ – zwiedzasz cały dzień bez stresu</li>
+    <li><strong>Bilet 3-dniowy:</strong> 13€ – dobra opcja przy intensywnym zwiedzaniu</li>
+  </ul>
+  <p>
+    Kupisz je w automatach na stacjach metra, w kioskach (szukaj napisu <em>"Rivendita biglietti ATM"</em>) albo przez aplikację <strong>ATM Milano</strong>.
+    <br><strong>Kasuj</strong> przed wejściem do metra lub zaraz po wejściu do tramwaju/autobusu.
+  </p>
+
+  <h3>🚉 Pociągi i karty turystyczne</h3>
+  <ul>
+    <li><strong>Milano Centrale</strong> – główny dworzec, z którego dojedziesz do Bergamo, Como, Wenecji czy Rzymu</li>
+    <li><strong>MilanoCard</strong> i inne karty turystyczne</li>
+    <li>Dla dłuższych pobytów – rozważ <strong>karnet ATM</strong> lub bilet tygodniowy</li>
   </ul>
 
+  <h3>🚴 Dodatki dla aktywnych</h3>
   <p>
-    Transport publiczny w Bergamo jest wygodny, estetyczny i nieprzesadnie drogi. A jazda kolejką? To taka lokalna wersja rollercoastera – tylko spokojniejsza i z lepszym widokiem.
+    Jeśli lubisz rowery lub hulajnogi – Mediolan ma wypożyczalnie działające przez aplikację: <strong>BikeMi</strong>, <strong>Dott</strong>, <strong>Lime</strong> i inne. Idealne na krótkie dystanse i zwiedzanie Navigli bez korków.
   </p>
+
+  <p>
+    Transport w Mediolanie nie tylko działa – on Cię zabierze wszędzie tam, gdzie dzieje się coś ważnego. A jeśli się zgubisz? To świetna wymówka, by wypić kawę i zapytać przechodnia. Z uśmiechem. To przecież Mediolan!
+  </p>
+
+  
+  <h3>✈️ Dojazd z lotnisk do Mediolanu</h3>
+
+  <p>🛬 Lotnisko Malpensa (MXP) – największe</p>
+   <ul>
+    <li><strong>🚆 Pociąg Malpensa Express:</strong> ok. 50 minut do Milano Centrale lub Cadorna, koszt ok. <strong>13€</strong></li>
+    <li><strong>🚌 Autobus (Malpensa Shuttle / Terravision):</strong> ok. 50–60 minut do Milano Centrale, cena ok. <strong>10€</strong></li>
+    <li><strong>🚖 Taxi:</strong> ok. 45–60 minut, stała taryfa <strong>95€</strong></li>
+  </ul>
+
+  <p>🛬 Lotnisko Bergamo Orio al Serio (BGY)</p>
+  <ul>
+    <li><strong>🚌 Autobus (Terravision, Flixbus, Autostradale):</strong> ok. 50 minut do Milano Centrale, cena ok. <strong>10€</strong></li>
+    <li><strong>🚖 Taxi:</strong> ok. 60–75 minut, koszt ok. <strong>100–130€</strong></li>
+  </ul>
+
+  <p>🛬 Lotnisko Linate (LIN) – najbliżej centrum</p>
+  <ul>
+    <li><strong>🚌 Autobus miejski (linia 73):</strong> do Piazza San Babila (blisko Duomo), bilet <strong>2,20€</strong>, czas ok. 25 minut</li>
+    <li><strong>🚌 Linate Shuttle:</strong> do Milano Centrale, czas ok. 25 minut, koszt ok. <strong>5€</strong></li>
+    <li><strong>🚖 Taxi:</strong> ok. 15–25 minut, koszt ok. <strong>30–40€</strong></li>
+  </ul>
+
 </details>
 
 ---
