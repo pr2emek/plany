@@ -89,8 +89,6 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
       Wieczorem zamienia się w jedno wielkie spotkanie towarzyskie. Siadasz przy wodzie, zamawiasz Aperola i zakąski, i czujesz się jak mieszkaniec Mediolanu z katalogu – tylko bardziej autentycznie. W soboty są też targi vintage i sztuki, a nocą – muzyka, śmiech i światła odbijające się w wodzie.
     </p>
   </details>
-
-</details>
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
