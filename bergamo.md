@@ -150,97 +150,47 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🗺️ Plany zwiedzania</strong></summary>
+  <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
   <details>
-    <summary><strong>📅 Dzień 1 – Serce Neapolu: historia, pizza i ulice z charakterem </strong></summary>
-    
-    <h3>⛪ Start: Katedra św. Januarego</h3> 
-    <p> Rozpocznij dzień w miejscu, gdzie historia spotyka cud – dosłownie. Wchodzisz do majestatycznej katedry, gdzie złoto świeci mocniej niż w pierścionkach neapolitańskich mam. Wewnątrz znajdziesz relikwie patrona miasta i słynną ampułkę z krwią, która ponoć się rozpuszcza… jak lody w lipcu. </p> 
-    <h3>🛒 Spacer Spaccanapoli – witaj w żywym teatrze</h3> 
-    <p> Następny przystanek to deptak-legenda, który przecina starówkę jak nóż pizzę. Tu dzieje się wszystko: dzieci grają w piłkę, panie kłócą się o pomidory, a z balkonów lecą krzyki i... czasem pranie. Zatrzymaj się na espresso i sfogliatellę – i po prostu obserwuj życie. </p> 
-    <h3>🔮 Kaplica Sansevero – tajemnice i marmur, który oddycha</h3> 
-    <p> Dosłownie trzy kroki od Spaccanapoli – ukryta perełka Neapolu. Kaplica z rzeźbą „Veiled Christ”, która wygląda, jakby ktoś nałożył marmurową tkaninę na prawdziwe ciało. Mistycyzm, sztuka, trochę grozy w podziemiach. Wychodzisz z wrażeniem, że rzeźbiarze mieli nadprzyrodzone moce. </p> 
-    <h3>🍕 Przerwa obiadowa: Sorbillo lub Da Michele</h3> 
-    <p> Wybierz jedną z legendarnych pizzerii. W kolejce spędzisz chwilę, ale to najlepsze, co może Cię spotkać między jednym zabytkiem a drugim. Margherita, marinara i... szczęście w każdej chrupiącej krawędzi. </p> 
-    <h3>🏛️ Narodowe Muzeum Archeologiczne – sztuka z Pompejów i antyczny content NSFW</h3> 
-    <p> Po obiedzie czas na solidną dawkę historii. W tym muzeum znajdziesz wszystko, co wykopano z Pompejów i Herkulanum – od mozaik, przez rzeźby, aż po słynny „gabinet erotyczny”. Tak, Rzymianie nie byli pruderyjni. </p> 
-    <h3>🧱 Mural Maradony – pielgrzymka fanów futbolu</h3> 
-    <p> Wieczorem wybierz się do Quartieri Spagnoli. Tam, przy Via Emanuele De Deo, znajdziesz mural Maradony – dla wielu bardziej święty niż sam św. January. Palą się znicze, wiszą proporczyki, a klimat? Mistyczno-futbolowy. </p> 
-    <h3>🍹 Finał: Aperol na Piazza Bellini</h3>
-    <p> Po tylu wrażeniach należy się relaks. Usadów się przy stoliku, zamów Aperola i patrz, jak miasto żyje. Dookoła artyści, studenci, turyści, muzyka na żywo – i Ty w środku tej neapolitańskiej symfonii. 
-    </p>
-  </details>
+  <summary><strong>📅 Plan zwiedzania Bergamo – 1 dzień</strong></summary>
 
-  <details>
-    <summary><strong>📅 Dzień 2 – Wezuwiusz: wulkan, który zniszczył i zachwyca</strong></summary>
-    
-      <h3>🥐 Poranek: śniadanie i kawa na drogę</h3> 
-      <p> Zanim wyruszysz, złap <strong>sfogliatellę</strong> i porządne espresso – to lokalny rytuał. Najlepiej w Gran Caffè Gambrinus albo w małej kawiarni po drodze. Będziesz tego potrzebować. Wulkan nie wybacza bez śniadania. </p> 
-    <h3>🚆 Jak dojechać na Wezuwiusz?</h3> 
-    <ul> <li>Wsiądź w pociąg <strong>Circumvesuviana</strong> z Neapolu (stacja Napoli Garibaldi)</li> 
-      <li>Wysiądź na stacji <strong>Ercolano Scavi</strong> (ok. 30–40 minut jazdy)</li> 
-      <li>Na miejscu złap <strong>shuttle bus Navetta Vesuvio</strong> (około 25 minut jazdy serpentynami pod sam krater)</li> 
-      <li>Alternatywa: piesze wejście z dolnych stacji – dla ambitnych, ale to długa droga!</li> 
-    </ul> 
-    <h3>🥾 Spacer na szczyt</h3> 
-    <p> Gdy bus dowiezie Cię na parking blisko wejścia, zaczynasz właściwą przygodę – około <strong>20–30 minut spaceru</strong> pod górę po wulkanicznym żwirze. Trasa jest niezbyt trudna, ale dość stroma i wietrzna. Weź buty z dobrą podeszwą i coś cieplejszego na górę. </p> 
-    <h3>🌋 Na szczycie – powiedz "buongiorno" kraterowi</h3> 
-    <p> Wulkaniczna cisza, zapach siarki i... jeden z najbardziej spektakularnych widoków w Twoim życiu. Z jednej strony surowy krater, z drugiej – panorama Neapolu, Zatoki, Capri i Amalfi. Robisz zdjęcia, siadasz na kamieniu i przez chwilę czujesz się jak bohater filmu katastroficznego, tylko bez katastrofy. </p> 
-    <ul> <li><strong>Bilety:</strong> ok. 10€ (kup najlepiej online na stronie <em>vesuviopark.vivaticket.it</em>)</li>
-      <li><strong>Uwaga:</strong> W sezonie lepiej zarezerwować wcześniej – ograniczają liczbę odwiedzających</li> 
-    </ul> 
-    <h3>🍕 Powrót do Neapolu i popołudniowa pizza</h3> 
-    <p> Po zejściu i powrocie pociągiem, czas na nagrodę – obiad! Wyskocz na pizzę do <strong>Pizzeria Starita</strong> lub <strong>Sorbillo</strong>. Kalorie spaliliśmy, można doładować węgle. 
-    </p> 
-    <h3>🧘‍♀️ Wieczór: relaks nad morzem</h3> 
-    <p> Po górskim szaleństwie odpocznij na <strong>Lungomare Caracciolo</strong>. Spaceruj przy zachodzie słońca, kup loda albo... kolejnego aperolka. Widok na Castel dell’Ovo i Wezuwiusza (tym razem z dołu!) będzie idealnym zamknięciem dnia. 
-    </p>
-  </details>
+  <p><em>Masz tylko jeden dzień? Spokojnie. Bergamo da się pokochać od pierwszego kroku – szczególnie, jeśli krok prowadzi po brukowanych uliczkach Città Alta i kończy się widokiem z górskiej twierdzy.</em></p>
 
- <details> 
-   <summary><strong>📅 Dzień 3 – Pompeje i Herkulanum: dzień w cieniu Wezuwiusza</strong></summary> 
-   <h3>🌅 Poranek: Pompeje – miasto zamrożone w czasie</h3> 
-   <ul> <li><strong>Jak dojechać:</strong> Pociąg <em>Circumvesuviana</em> z Neapolu (stacja Napoli Garibaldi) do stacji <strong>Pompei Scavi – Villa dei Misteri</strong>. Czas przejazdu: ok. 35 minut.</li> <li><strong>Bilety:</strong> 18€ normalny (dostępne też pakiety z Herkulanum)</li> 
-     <li><strong>Zwiedzanie:</strong> Minimum 2–3 godziny (ale możesz też spędzić tu cały dzień)</li> 
-   </ul> 
-   <p> Przemierzysz rzymskie ulice z brukiem jak sprzed 2000 lat, zajrzysz do term, teatru, tawerny i domów z oryginalnymi freskami. I tak – zobaczysz również gipsowe odlewy ofiar, które wstrząsają i przypominają, że historia to nie bajka. Koniecznie odwiedź <strong>Dom Fauna</strong> i <strong>Villa dei Misteri</strong> – jedno z najlepiej zachowanych malowideł świata. </p> <h3>🍕 Lunch w okolicach stacji (albo panino na wynos)</h3> <p> W pobliżu wejścia do Pompejów znajdziesz kilka trattorii i barów z pizzą i pastą. Ale jeśli chcesz zaoszczędzić czas – kup panino, wodę i ruszaj dalej! </p> 
-   <h3>🏛️ Popołudnie: Herkulanum – mniej znane, bardziej kameralne</h3>
-   <ul> 
-     <li><strong>Jak dojechać:</strong> Powrót Circumvesuvianą z Pompejów do stacji <strong>Ercolano Scavi</strong> (ok. 15 min)</li> 
-     <li><strong>Bilety:</strong> 13€ normalny (tańszy niż Pompeje, a nie mniej spektakularny)</li> 
-     <li><strong>Czas zwiedzania:</strong> ok. 1,5–2 godziny</li> 
-   </ul> 
-   <p> Herkulanum zginęło tego samego dnia co Pompeje, ale w inny sposób – nie pod lawą, a pod błotno-popiołową lawiną, która dosłownie zakonserwowała budynki, meble i… drewniane drzwi! Znajdziesz tu <strong>Domy z piętrem</strong>, oryginalne <strong>mozaiki podłogowe</strong>, <strong>ławki</strong>, a nawet resztki jedzenia. To najbardziej autentyczny kontakt z rzymskim życiem codziennym. </p> <p> Wzruszającym miejscem są też <strong>arkady przy plaży</strong>, gdzie znaleziono ciała ponad 300 osób, które próbowały uciec morzem. To ciche, symboliczne miejsce pokazuje ludzką tragedię bez potrzeby dramatyzowania. </p> 
-   <h3>🌇 Powrót do Neapolu</h3> 
-   <ul> 
-     <li>Wsiądź w pociąg Circumvesuviana z Ercolano Scavi i wróć do <strong>Napoli Garibaldi</strong> (ok. 20 min)</li> 
-     <li>Opcjonalnie: kolacja na mieście – zasłużona!</li> 
-   </ul> 
-   <p> Ten dzień to podróż do przeszłości, która zostanie z Tobą na długo. Pompeje pokazują ogrom miasta, a Herkulanum – jego detale. Razem tworzą idealny duet dla każdego fana historii (i dramatycznych zwrotów akcji). 
-   </p> 
- </details>
-  
-<details> <summary><strong>📅 Dzień 4 – Wycieczka na Capri: luksus, limoncello i la dolce vita</strong></summary> 
-  <h3>⛴️ Poranek: rejs na Capri</h3> 
-  <p> Pobudka wcześniej niż zwykle – Capri czeka! Udaj się do portu <strong>Molo Beverello</strong> w Neapolu. Tam złapiesz <strong>prom (traghetto)</strong> lub szybszy <strong>hydrofoil (aliscafi)</strong>. Podróż trwa około <strong>50–80 minut</strong> w zależności od wybranego środka. </p> 
-  <ul> 
-    <li>🚢 <strong>Promy kursują od rana co ok. 30–60 minut</strong></li> 
-    <li>🎫 Bilety: ok. 20–25€ w jedną stronę, kup online (np. DirectFerries, SNAV, Caremar) lub w porcie</li> <li>📍 Dopływasz do <strong>Marina Grande</strong> na Capri</li> 
-  </ul> 
-  <h3>🚠 Funicolare – w górę do Capri Town</h3> 
-  <p> Na stacji Marina Grande wsiądź w kolejkę linową <strong>Funicolare</strong> (kilka minut jazdy) i już jesteś w sercu miasta Capri – eleganckim, kolorowym, pachnącym cytrynami i drogimi perfumami. </p> 
-  <h3>🌸 Zwiedzanie Capri – czyli piękno z każdej strony</h3> <ul> <li>🌿 <strong>Ogrody Augusta (Giardini di Augusto)</strong> – pocztówkowy widok na skały Faraglioni i krętą Via Krupp</li> 
-    <li>🛍️ Spacer po luksusowych uliczkach – butików więcej niż mieszkańców</li> <li>⛵ <strong>Rejs wokół wyspy</strong> – opcjonalnie: 1–2 godziny, widok na Błękitną Grotę, skały i zatoczki</li>
-    <li>💙 <strong>Grotta Azzurra (Błękitna Grota)</strong> – kultowa jaskinia, gdzie światło robi cuda – <em>tylko przy dobrej pogodzie</em></li> <li>⛰️ <strong>Monte Solaro</strong> – najwyższy punkt wyspy (wjeżdżasz krzesełkową kolejką z Anacapri – zapierający dech widok)</li> 
-  </ul> 
-  <h3>🍋 Lunch i limoncello w Anacapri</h3> <p> Po południu warto zajrzeć do <strong>Anacapri</strong> – spokojniejszej, bardziej lokalnej części wyspy. Przejdź się po miasteczku, zajrzyj do <strong>Villa San Michele</strong>, zjedz <em>insalatę caprese</em> i wypij kieliszek limoncello tam, gdzie powstał. </p> 
-  <h3>🏖️ Czas wolny – la dolce far niente</h3>
-  <p> Po prostu: idź na spacer, usiądź z widokiem i nie rób nic. Bo Capri to też sztuka odpoczywania. Możesz też zejść na plażę (choć większość to małe zatoczki z kamieniami) lub usiąść w kawiarni przy tarasie z widokiem na błękit bez końca. </p>
-  <h3>🚢 Powrót do Neapolu</h3> 
-  <p> Wróć na <strong>Marina Grande</strong> i złap ostatni prom do Neapolu – zazwyczaj odpływają między <strong>17:00 a 19:00</strong> (zależnie od sezonu). Pod wieczór Neapol powita Cię światłami i… zapachem pizzy. Czy można chcieć więcej? </p> 
-  </details>
+  <h3>🥐 Poranek – klasyka w Città Alta</h3>
+  <ul>
+    <li><strong>Start: Funicolare z dolnego miasta (Città Bassa)</strong> – pierwszy punkt programu to... kolejka linowa! Wjeżdżasz z gwarnego centrum na wzgórze Città Alta – czyli do serca średniowiecznego Bergamo. Widoki już teraz robią wrażenie.</li>
+    <li><strong>Piazza Vecchia</strong> – centralny plac górnego miasta. Tu znajdziesz kawę, croissanta i atmosferę jak z filmu kostiumowego. Po lewej – fontanna Contarinich, po prawej – wieża Torre Civica. W środku? Ty z aparatem i espresso.</li>
+    <li><strong>Santa Maria Maggiore & Cappella Colleoni</strong> – barokowo-romańskie arcydzieła. Rzeźby, freski i złoto. Dużo złota. A jeśli trafisz na grę organową – masz szczęście jak w lotto.</li>
+  </ul>
 
+  <h3>🏰 Przedpołudnie – widoki, mury i spacer wśród historii</h3>
+  <ul>
+    <li><strong>Torre del Gombito</strong> – średniowieczna wieża, przy której można złapać lokalną legendę i... schować się przed turystami. Uwaga: czasem otwarta do wspinaczki!</li>
+    <li><strong>Spacer wzdłuż murów (Le Mura Veneziane)</strong> – wpisane na listę UNESCO mury obronne, z których roztacza się bajkowa panorama dolnego miasta i Alp. Idealne miejsce na selfie z wiaterkiem we włosach.</li>
+    <li><strong>Castello di San Vigilio</strong> – jeśli masz jeszcze siły (i dobre buty), wejdź lub wjedź kolejką na wzgórze. Ruiny zamku, widoki aż po Mediolanie i... odrobina legendy o duchu króla Teodoryka gratis.</li>
+  </ul>
+
+  <h3>🍝 Obiad – smakuj lokalnie!</h3>
+  <p>
+    Bergamo to stolica <strong>casoncelli</strong> – lokalnych pierożków z mięsem, masłem i szałwią. Zatrzymaj się w jednej z restauracji w Città Alta (np. <em>La Tana</em> albo <em>Trattoria Tre Torri</em>) i pozwól sobie na dłuższą przerwę. A po obiedzie – <strong>polenta e osei</strong>, czyli słodki deser, który wygląda jak ptaszek na żółtym cieście.
+  </p>
+
+  <h3>🖼️ Popołudnie – sztuka, zakamarki i chill</h3>
+  <ul>
+    <li><strong>Accademia Carrara</strong> (dla fanów sztuki) – jedno z najlepszych muzeów malarstwa we Włoszech, z dziełami Botticellego, Belliniego i nie tylko.</li>
+    <li><strong>Via Colleoni</strong> – główny deptak górnego miasta. Kawiarnie, lodziarnie, małe sklepiki – i dźwięk kroków na kamieniu.</li>
+    <li><strong>Mała dygresja: Gelato!</strong> – obowiązkowo spróbuj lodów z <em>La Marianna</em> – to tu podobno powstały lody stracciatella.</li>
+  </ul>
+
+  <h3>🌇 Wieczór – Bergamo jak z bajki</h3>
+  <ul>
+    <li><strong>Kolacja z widokiem</strong> – zarezerwuj stolik w restauracji z tarasem (np. <em>Ristorante Da Mimmo</em>) i delektuj się widokiem Città Bassa przy winie i ostatnim kęsie casoncelli.</li>
+    <li><strong>Powrót funicolare</strong> – po zmroku kolejka zjeżdża z górskiego miasta jak wehikuł czasu. Światła miasta poniżej, światło księżyca nad głową. Idealne zakończenie idealnego dnia.</li>
+  </ul>
+
+  <p><em>1 dzień w Bergamo? Starczy, by się zakochać. Ale zostawi Cię z myślą: „muszę tu wrócić”.</em></p>
+</details>
 </details>
 
 ---
@@ -290,53 +240,30 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🧙 Legendy</strong></summary>
+  <summary><strong>🤔 Legendy Bergamo</strong></summary>
 
-  <h3>🪙 Moneta życzeń przy San Gregorio Armeno</h3>
-  <p><em>Lokalizacja: wejście na uliczkę San Gregorio Armeno</em></p>
+  <h3>👑 Duch króla Teodoryka – wzgórze San Vigilio</h3>
   <p>
-    Wśród rzemieślników, figurek świętych i dźwięku młotków, jest tu pewien kamień ze śladem w kształcie koła. Według legendy, jeśli wrzucisz tam błyszczącą monetę i wypowiesz życzenie w myślach – spełni się. Ale uwaga: nie możesz nikomu zdradzić, o co prosiłeś. Jeśli ktoś znajdzie Twoją monetę i ją podniesie – życzenie przechodzi na niego. Kto wie, może dlatego Neapol pełen jest ludzi, którzy wyglądają jakby właśnie wygrali los na loterii?
+    Na wzgórzu San Vigilio, gdzie dziś rozciągają się ruiny średniowiecznego zamku i jeden z najpiękniejszych widoków na miasto, miejscowi opowiadają o duchu króla Teodoryka Wielkiego. Podobno nocą pojawia się tam jeździec na czarnym koniu – w milczeniu patrolujący wzgórze. Czy to legenda, czy tylko gra światła i cienia – jedno jest pewne: to idealne miejsce na tajemniczy spacer przy zachodzie słońca.
   </p>
 
-  <h3>🔥 Moneta piekarza z Forcelli</h3>
-  <p><em>Lokalna opowieść z dzielnicy Forcella</em></p>
+  <h3>🪙 Cudowna moneta św. Grzegorza – plac przy kościele San Michele al Pozzo Bianco</h3>
   <p>
-    W jednej z niepozornych pizzerii właściciel od lat przed rozpoczęciem dnia wrzucał do pieca jednocentówkę „na szczęście”. Mówił, że dzięki niej ciasto wychodziło idealne. Pewnego dnia zapomniał – i piec odmówił współpracy. Od tamtej pory panuje zasada: żadnego ognia bez monety! Czy to magia, czy siła nawyku? W Neapolu to jedno i to samo.
+    W czasach zarazy jeden z zakonników, św. Grzegorz, wrzucił do misy z jałmużną srebrną monetę, która każdego dnia się odnawiała. Miejsce, gdzie miał rzekomo przebywać, to okolice <strong>kościoła San Michele al Pozzo Bianco</strong> – znanego z wyjątkowych fresków i mistycznej atmosfery. Mówi się, że kto znajdzie tam monetę, będzie miał szczęście przez cały rok.
   </p>
 
-  <h3>🪄 Klątwa Veiled Christ</h3>
-  <p><em>Lokalizacja: Kaplica Sansevero</em></p>
+  <h3>🦅 Orzeł z herbu miasta – Porta San Giacomo</h3>
   <p>
-    Niesamowicie realistyczna rzeźba „Veiled Christ” budzi tyle podziwu, co niepokoju. Niektórzy są przekonani, że marmurowy welon to efekt alchemii, a nie dłuta. Krąży legenda, że autor znał „naukę tajemną” i... zapłacił za to cenę. Ponoć każdy, kto zbyt długo patrzy na rzeźbę i nie odwróci wzroku, ryzykuje dziwne sny i nagłe... zwroty akcji w życiu.
+    Herb Bergamo przedstawia złotego orła – a jego legenda związana jest z bramą <strong>Porta San Giacomo</strong>. Według opowieści, właśnie nad tą bramą orzeł krążył przez trzy dni, zanim zniknął w chmurach. Znak uznano za boską ochronę nad miastem, a Porta San Giacomo do dziś zachowała wyjątkowy, niemal magiczny charakter – szczególnie po zmroku.
+  </p>
+  
+  <h3>🌕 Tajemnicze źródło pod Torre del Gombito</h3>
+  <p>
+    Tuż obok wieży <strong>Torre del Gombito</strong> w sercu Città Alta (górnego miasta) znajduje się niepozorne przejście prowadzące do starego źródła. Mówi się, że woda z niego miała kiedyś właściwości uzdrawiające – a kto pił z niego po północy, ten miał śnić prorocze sny. Dziś dostęp jest ograniczony, ale niektórzy nadal próbują dostać się tam... dla klimatu i nuty magii.
   </p>
 
-  <h3>🧛 Ulica czarownic – Vicolo delle Streghe</h3>
-  <p><em>Lokalizacja: Quartieri Spagnoli</em></p>
-  <p>
-    Ta wąska uliczka o złowieszczej nazwie ma swoją mroczną historię. Dawniej miały tu mieszkać kobiety parające się magią i zielarstwem – jedne mówiły o uzdrawianiu, inne o klątwach. Choć dziś znajdziesz tam tylko schody, pranie i ciszę, starsi mieszkańcy twierdzą, że w niektóre noce słychać szepty. Ale może to tylko wiatr... albo nie?
-  </p>
-  
-    <h3>👻 Duch księżniczki w Castel dell’Ovo</h3>
-    <p>
-      Podobno w jednej z komnat Castel dell’Ovo wciąż słychać kroki dawno zmarłej księżniczki. Legenda głosi, że była więziona przez zazdrosnego króla i zmarła z żalu. Od tej pory jej duch snuje się po zamku, szczególnie w pochmurne wieczory, kiedy morze szumi niespokojnie. Mówi się, że jeśli poczujesz nagły chłód – nie jesteś sam.
-    </p>
-  
-    <h3>🐈 Koty ze Spaccanapoli – strażnicy podziemi</h3>
-    <p>
-      Mieszkańcy Neapolu wierzą, że czarne koty, które kręcą się wzdłuż Spaccanapoli, nie są zwyczajne. To duchowi strażnicy miasta – znają każdy zakamarek, każde przejście do podziemi, każdą starą tajemnicę. Podobno kot, który spojrzy Ci w oczy, „przeskanuje” Twoje intencje. Jeśli miauknie – masz zgodę miasta. Jeśli syknie… może lepiej wróć później.
-    </p>
-  
-    <h3>🕊️ Cudowna Madonna z Piedigrotta</h3>
-    <p>
-      W kościele przy Mergellinie, na tyłach Piazza Sannazaro, znajduje się cudowny obraz Madonny, który – według legendy – kilkukrotnie uratował dzielnicę przed katastrofami naturalnymi. Najbardziej znana historia mówi o tsunami, które zatrzymało się tuż przed świątynią, jakby niewidzialna siła odgoniła fale. Od tego czasu co roku mieszkańcy organizują procesję z lampionami i muzyką, by podziękować za ochronę.
-    </p>
-    
-  <h3>🪙 Legenda o szczęśliwej monecie</h3>
-    <p>
-      W Neapolu krąży opowieść o magicznej monecie, którą jeden z żebraków znalazł w Quartieri Spagnoli. Podobno moneta przynosiła szczęście każdemu, kto ją posiadał – ale tylko pod warunkiem, że nigdy się nią nie zapłaci. Gdy jeden z właścicieli użył jej na kawę, szczęście się skończyło, a moneta znów zniknęła. Dziś mówi się, że jeśli znajdziesz monetę przy starych schodach w dzielnicy – lepiej ją zatrzymaj. Ale nie wydawaj.
-    </p>
-  
-</details>
+  <p><em>Bergamo skrywa swoje sekrety w zaułkach, bramach i starych murach. Jeśli chcesz naprawdę poznać duszę miasta – daj się poprowadzić legendom i opowieściom. A może sam odkryjesz kolejną?</em></p>
+</details
 
 ---
 
