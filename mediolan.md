@@ -128,7 +128,7 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>❤️ Tunel Miłości – zielony zakątek zakochanych</strong></summary>
     <p><strong>Współrzędne:</strong> <em>45.4506° N, 9.1663° E</em></p>
   <p>
-    Nie trzeba jechać do Ukrainy czy Japonii, żeby przejść się przez romantyczny tunel z roślin – <strong>Mediolan ma własny Tunel Miłości</strong>, i to całkiem nieźle ukryty. Znajdziesz go w pobliżu <em>Porta Genova</em>, przy trasie dawnej kolejki towarowej, zamienionej dziś w coś między parkiem, galerią i... idealnym tłem do zdjęć.
+    Nie trzeba jechać do Japonii, żeby przejść się przez romantyczny tunel z roślin – <strong>Mediolan ma własny Tunel Miłości</strong>, i to całkiem nieźle ukryty. Znajdziesz go w pobliżu <em>Porta Genova</em>, przy trasie dawnej kolejki towarowej, zamienionej dziś w coś między parkiem, galerią i... idealnym tłem do zdjęć.
   </p>
 
   <p>
@@ -176,7 +176,9 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🗺️ Plan zwiedzania Mediolanu – 1 dzień pełen stylu, sztuki i... Aperola</strong></summary>
+  <summary><strong>🗺️ Plany zwiedzania</strong></summary>
+
+  <summary><strong>📅 Dzień 1 – dzień pełen stylu, sztuki i... Aperola</strong></summary>
 
   <h3>⛪ Start przy Katedrze Duomo</h3>
   <p>
