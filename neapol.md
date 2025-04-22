@@ -312,7 +312,7 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 
   <details>
     <summary><strong>📅 Dzień 1 – Serce Neapolu: historia, pizza i ulice z charakterem </strong></summary>
-    <p>
+    
     <h3>⛪ Start: Katedra św. Januarego</h3> 
     <p> Rozpocznij dzień w miejscu, gdzie historia spotyka cud – dosłownie. Wchodzisz do majestatycznej katedry, gdzie złoto świeci mocniej niż w pierścionkach neapolitańskich mam. Wewnątrz znajdziesz relikwie patrona miasta i słynną ampułkę z krwią, która ponoć się rozpuszcza… jak lody w lipcu. </p> 
     <h3>🛒 Spacer Spaccanapoli – witaj w żywym teatrze</h3> 
@@ -332,8 +332,9 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
 
   <details>
     <summary><strong>📅 Dzień 2 – Wezuwiusz: wulkan, który zniszczył i zachwyca</strong></summary>
-    <p>
-      <h3>🥐 Poranek: śniadanie i kawa na drogę</h3> <p> Zanim wyruszysz, złap <strong>sfogliatellę</strong> i porządne espresso – to lokalny rytuał. Najlepiej w Gran Caffè Gambrinus albo w małej kawiarni po drodze. Będziesz tego potrzebować. Wulkan nie wybacza bez śniadania. </p> 
+    
+      <h3>🥐 Poranek: śniadanie i kawa na drogę</h3> 
+      <p> Zanim wyruszysz, złap <strong>sfogliatellę</strong> i porządne espresso – to lokalny rytuał. Najlepiej w Gran Caffè Gambrinus albo w małej kawiarni po drodze. Będziesz tego potrzebować. Wulkan nie wybacza bez śniadania. </p> 
     <h3>🚆 Jak dojechać na Wezuwiusz?</h3> 
     <ul> <li>Wsiądź w pociąg <strong>Circumvesuviana</strong> z Neapolu (stacja Napoli Garibaldi)</li> 
       <li>Wysiądź na stacji <strong>Ercolano Scavi</strong> (ok. 30–40 minut jazdy)</li> 
