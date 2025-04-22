@@ -176,48 +176,139 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🗺️ Plan zwiedzania</strong></summary>
+  <summary><strong>🗺️ Plan zwiedzania Mediolanu – 1 dzień pełen stylu, sztuki i... Aperola</strong></summary>
 
-  <details>
-  <summary><strong>📅 Plan zwiedzania Bergamo – 1 dzień</strong></summary>
-
-  <p><em>Masz tylko jeden dzień? Spokojnie. Bergamo da się pokochać od pierwszego kroku – szczególnie, jeśli krok prowadzi po brukowanych uliczkach Città Alta i kończy się widokiem z górskiej twierdzy.</em></p>
-
-  <h3>🥐 Poranek – klasyka w Città Alta</h3>
-  <ul>
-    <li><strong>Start: Funicolare z dolnego miasta (Città Bassa)</strong> – pierwszy punkt programu to... kolejka linowa! Wjeżdżasz z gwarnego centrum na wzgórze Città Alta – czyli do serca średniowiecznego Bergamo. Widoki już teraz robią wrażenie.</li>
-    <li><strong>Piazza Vecchia</strong> – centralny plac górnego miasta. Tu znajdziesz kawę, croissanta i atmosferę jak z filmu kostiumowego. Po lewej – fontanna Contarinich, po prawej – wieża Torre Civica. W środku? Ty z aparatem i espresso.</li>
-    <li><strong>Santa Maria Maggiore & Cappella Colleoni</strong> – barokowo-romańskie arcydzieła. Rzeźby, freski i złoto. Dużo złota. A jeśli trafisz na grę organową – masz szczęście jak w lotto.</li>
-  </ul>
-
-  <h3>🏰 Przedpołudnie – widoki, mury i spacer wśród historii</h3>
-  <ul>
-    <li><strong>Torre del Gombito</strong> – średniowieczna wieża, przy której można złapać lokalną legendę i... schować się przed turystami. Uwaga: czasem otwarta do wspinaczki!</li>
-    <li><strong>Spacer wzdłuż murów (Le Mura Veneziane)</strong> – wpisane na listę UNESCO mury obronne, z których roztacza się bajkowa panorama dolnego miasta i Alp. Idealne miejsce na selfie z wiaterkiem we włosach.</li>
-    <li><strong>Castello di San Vigilio</strong> – jeśli masz jeszcze siły (i dobre buty), wejdź lub wjedź kolejką na wzgórze. Ruiny zamku, widoki aż po Mediolanie i... odrobina legendy o duchu króla Teodoryka gratis.</li>
-  </ul>
-
-  <h3>🍝 Obiad – smakuj lokalnie!</h3>
+  <h3>⛪ Start przy Katedrze Duomo</h3>
   <p>
-    Bergamo to stolica <strong>casoncelli</strong> – lokalnych pierożków z mięsem, masłem i szałwią. Zatrzymaj się w jednej z restauracji w Città Alta (np. <em>La Tana</em> albo <em>Trattoria Tre Torri</em>) i pozwól sobie na dłuższą przerwę. A po obiedzie – <strong>polenta e osei</strong>, czyli słodki deser, który wygląda jak ptaszek na żółtym cieście.
+    Zacznij dzień z rozmachem – pod Katedrą, która wygląda, jakby ktoś postawił gotycki tort z marmuru. Zrób zdjęcie z gołębiem (jeśli się da), wejdź do środka i nie zapomnij o <strong>wejściu na dach</strong> – widok jak z filmu o aniołach!
   </p>
 
-  <h3>🖼️ Popołudnie – sztuka, zakamarki i chill</h3>
-  <ul>
-    <li><strong>Accademia Carrara</strong> (dla fanów sztuki) – jedno z najlepszych muzeów malarstwa we Włoszech, z dziełami Botticellego, Belliniego i nie tylko.</li>
-    <li><strong>Via Colleoni</strong> – główny deptak górnego miasta. Kawiarnie, lodziarnie, małe sklepiki – i dźwięk kroków na kamieniu.</li>
-    <li><strong>Mała dygresja: Gelato!</strong> – obowiązkowo spróbuj lodów z <em>La Marianna</em> – to tu podobno powstały lody stracciatella.</li>
-  </ul>
+  <h3>🛍️ Galleria Vittorio Emanuele II</h3>
+  <p>
+    Po modlitwie – modowe szaleństwo. Przejdź się po jednej z najstarszych galerii handlowych świata. Poszukaj mozaiki z bykiem – i zakręć obcasem na jego "klejnotach". Podobno przynosi szczęście... i rabaty.
+  </p>
 
-  <h3>🌇 Wieczór – Bergamo jak z bajki</h3>
-  <ul>
-    <li><strong>Kolacja z widokiem</strong> – zarezerwuj stolik w restauracji z tarasem (np. <em>Ristorante Da Mimmo</em>) i delektuj się widokiem Città Bassa przy winie i ostatnim kęsie casoncelli.</li>
-    <li><strong>Powrót funicolare</strong> – po zmroku kolejka zjeżdża z górskiego miasta jak wehikuł czasu. Światła miasta poniżej, światło księżyca nad głową. Idealne zakończenie idealnego dnia.</li>
-  </ul>
+  <h3>🏰 Zamek Sforzów i Park Sempione</h3>
+  <p>
+    Spacer do zamku, gdzie kiedyś rządzili możni, dziś królują turyści i pawie. Wpadnij do muzeów (jeśli masz czas), a potem odpocznij w Parku Sempione – najlepiej z lodem w ręku i słońcem na twarzy. A może piknik?
+  </p>
 
-  <p><em>1 dzień w Bergamo? Starczy, by się zakochać. Ale zostawi Cię z myślą: „muszę tu wrócić”.</em></p>
+  <h3>🍕 Lunch – pizza albo risotto alla milanese</h3>
+  <p>
+    Czas na paliwo! Wybierz klasykę lombardzką: <strong>risotto z szafranem</strong> albo pizzę (bo czemu nie?). Świetne miejsca to <em>Piz</em> lub <em>Trattoria Milanese</em>. Zjesz, jakbyś był u włoskiej nonny.
+  </p>
+
+  <h3>🎨Ukryty ogród przy Corso di Porta Venezia</h3>
+  <p>
+    Tylko wtajemniczeni wiedzą, że przy ulicy z butikami kryje się zielony sekret – <strong>Giardino Perego</strong>. Mały park z palmami, cichy, idealny na oddech od miejskiego hałasu. I jeszcze lepszy do zdjęcia na Instagrama.
+  </p>
+
+  <h3>🚃 Przejażdżka widokowym tramwajem</h3>
+  <p>
+    Wsiądź do starego <strong>żółtego tramwaju nr 1</strong> – drewniane ławki, stukot torów, widoki na mediolańskie kamienice. Wersja slow travel dla tych, którzy nie lubią biegać z planem zwiedzania jak po espresso.
+  </p>
+
+  <h3>📸 Sekretne miejsce: Vicolo dei Lavandai</h3>
+  <p>
+    Stary zaułek pralni nad kanałem Naviglio Grande. Niby nic, a czaruje jak scenografia z filmu. Idealne miejsce na zdjęcia z klimatem i chwilę ciszy przed wieczornym szaleństwem.
+  </p>
+
+  <h3>🍹 Aperitivo time!</h3>
+  <p>
+    Udaj się nad Navigli – najbardziej klimatyczne miejsce na wieczorny <strong>Aperol Spritz</strong>. Wybierz bar z tarasem, zamów drinka i ciesz się bufetem przekąsek, które w Mediolanie często są lepsze niż niejedna kolacja.
+  </p>
+
+  <h3>🌙 Spacer poświetlonymi kanałami</h3>
+  <p>
+    Na zakończenie dnia – spacer wzdłuż kanałów, gdzie lampki odbijają się w wodzie, ludzie grają na gitarze, a ty myślisz, że jednak się zakochałeś… w tym mieście. I bardzo dobrze!
+  </p>
+
+<details>
+  <summary><strong>📅 Dzień 2 – Wycieczka nad Jezioro Como</strong></summary>
+
+  <h3>🚆 Pociąg z Mediolanu do Como</h3>
+  <p>
+    Wstań wcześniej, złap kawę i wsiądź w pociąg <strong>Trenord</strong> z dworca <strong>Milano Cadorna</strong> do stacji <strong>Como Lago</strong>. Podróż trwa niecałą godzinę, a widoki już za oknem zaczną Cię zachwycać.
+  </p>
+
+  <h3>🌊 Spacer po Como i wizyta przy jeziorze</h3>
+  <p>
+    Po przyjeździe idź prosto nad jezioro. Nadbrzeżna promenada z widokiem na góry i łódki to idealne miejsce na początek dnia. Możesz też odwiedzić katedrę <strong>Duomo di Como</strong> – trochę jak miniaturowy kuzyn tego z Mediolanu.
+  </p>
+
+  <h3>🚠 Kolejką na Brunate</h3>
+  <p>
+    Wsiądź w <strong>Funicolare Como–Brunate</strong> – klimatyczną kolejkę, która zabierze Cię na wzgórze. W kilka minut znajdziesz się <strong>na tarasie widokowym</strong> z panoramą jeziora, miasteczka i Alp w tle. Widok wart każdego euro!
+  </p>
+
+  <h3>🛥️ Rejs po jeziorze (np. do Bellagio)</h3>
+  <p>
+    Wróć na dół i wskocz na prom! <strong>Bellagio</strong> to klasyk: miasteczko z kolorowymi kamieniczkami, eleganckimi ogrodami i nastrojem jak z filmu. Rejs trwa około 45 minut – usiądź na pokładzie i ciesz się każdą falą.
+  </p>
+
+  <h3>🍝 Lunch w Bellagio</h3>
+  <p>
+    Wybierz knajpkę z widokiem na wodę. Polecam klasyczne <strong>pasta al pesce di lago</strong> (makaron z rybą jeziorną) albo risotto. Po lunchu – obowiązkowy spacer po wąskich uliczkach, gdzie co drugi sklepik pachnie lawendą i limoncello.
+  </p>
+
+  <h3>🏞️ Ogrody Villa Melzi (opcjonalnie)</h3>
+  <p>
+    Jeśli masz jeszcze czas (i energię), zajrzyj do ogrodów <strong>Villa Melzi</strong> – zielony raj z rzeźbami, ścieżkami i miejscem na odpoczynek w cieniu palm. Idealne miejsce na „nicnierobienie” w wersji premium.
+  </p>
+
+  <h3>⛴️ Powrót promem do Como</h3>
+  <p>
+    Wsiądź na prom powrotny (z Bellagio lub innego miasteczka) i daj się ponieść spokojnej tafli jeziora. To rejs, który zrelaksuje Cię bardziej niż dzień w spa.
+  </p>
+
+  <h3>🚆Pociąg z Como do Mediolanu</h3>
+  <p>
+    Ostatnie spojrzenie na jezioro, kawa na wynos z dworca i w drogę powrotną. Wrócisz do Mediolanu z głową pełną widoków i planem, by kiedyś tu zamieszkać. Choćby na emeryturze.
+  </p>
+
+  <h3>🌇 Kolacja i aperitivo na Navigli</h3>
+  <p>
+    Po dniu spędzonym z naturą – powrót do miejskiego zgiełku. Wskocz w tramwaj, udaj się na Navigli i zakończ dzień kieliszkiem <strong>Aperola</strong> i pizzą z bufetu. Zasłużyłeś.
+  </p>
+
 </details>
+<details>
+  <summary><strong>📅 Dzień 3 – Sztuka, nauka i nowoczesność</strong></summary>
+
+  <h3>🎨 Pinakoteka Brera – sztuka, która patrzy</h3>
+  <p>
+    Zacznij od zanurzenia się w świecie sztuki w <strong>Pinacoteca di Brera</strong>, jednej z najważniejszych galerii we Włoszech. Znajdziesz tu dzieła Caravaggia, Rafaela i Mantegni, a sam budynek to architektoniczna perełka. Nawet jeśli nie jesteś koneserem – zachwycisz się.
+  </p>
+
+  <h3>🧠 Muzeum Nauki i Techniki – Leonardo czeka</h3>
+  <p>
+    Wizyta w <strong>Muzeum Leonarda da Vinci</strong> to gratka nie tylko dla fanów techniki. Zobaczysz tam modele maszyn zaprojektowanych przez mistrza Leonarda, łodzie podwodne, pociągi, samoloty i... interaktywne wystawy, które rozbudzą wewnętrzne dziecko. Nawet to śpiące.
+  </p>
+
+  <h3>🌆 Dzielnica Brera – romantyczne zaułki i butiki</h3>
+  <p>
+    Po intensywnej dawce wiedzy – coś dla duszy i oczu. Spacer po dzielnicy <strong>Brera</strong> to jak przechadzka po planie filmowym: brukowane uliczki, klimatyczne knajpki, galerie sztuki i bohema artystyczna przy espresso. Tu Mediolan pokazuje swoją wrażliwą, estetyczną stronę.
+  </p>
+
+  <h3>🏙️ Bosco Verticale i Piazza Gae Aulenti – nowoczesny Mediolan</h3>
+  <p>
+    Czas na kontrast: skok do nowoczesności. Przenieś się do rejonu <strong>Porta Nuova</strong>, gdzie rosną futurystyczne wieżowce, a <strong>Bosco Verticale</strong> – „pionowy las” – pokazuje, jak połączyć naturę z architekturą. <strong>Piazza Gae Aulenti</strong> to idealne miejsce na chwilę odpoczynku z widokiem na... przyszłość.
+  </p>
+
+  <h3>🛍️ Ostatnie zakupy – Corso Como lub Galeria Rinascente</h3>
+  <p>
+    Jeżeli w plecaku zostało miejsce (i w budżecie też), wstąp na <strong>Corso Como</strong> – modną uliczkę z butikami i showroomami. A jeśli szukasz klasyki – Galeria <strong>Rinascente</strong> przy Duomo oferuje wszystko: od dizajnu po jedzenie. Na jej dachu czeka bar z widokiem na katedrę!
+  </p>
+
+  <h3>🍷 Kolacja pożegnalna – z widokiem albo klimatem</h3>
+  <p>
+    Na ostatnią kolację wybierz coś wyjątkowego – restaurację z widokiem na dachy Mediolanu lub uroczą trattorię z domowym makaronem i winem. Pora podsumować w myślach podróż i... planować kolejną.
+  </p>
+
 </details>
+
+</details>
+
 
 ---
 
