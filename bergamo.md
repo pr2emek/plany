@@ -139,7 +139,7 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
   
  <details>
-    <summary><strong>🏛️ Cappella Colleoni – grobowiec na bogato</strong></summary>
+    <summary><strong><i class="fas fa-coffin"></i> Cappella Colleoni – grobowiec na bogato</strong></summary>
     <p><strong>Współrzędne:</strong> 45.7036, 9.6619</p>
       <p>
     Kiedy Bartolomeo Colleoni – kondotier, wojownik i mistrz autopromocji – postanowił zbudować sobie grobowiec, nie poszedł w minimalizm. Zamiast prostego nagrobka, zamówił <strong>kaplicę z marmuru, złota i dumy</strong>, wciśniętą z gracją pomiędzy bazylikę a ratusz. Efekt? Jeden z najbardziej ekstrawaganckich grobowców renesansu – bo przecież jak już umierać, to z klasą.
@@ -171,6 +171,29 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
+
+<details>
+  <h2> <i class="fas fa-bench"></i> Sekretna ławeczka z widokiem – gdzie czas zwalnia, a serce przyspiesza</h2>
+  <p><strong>Współrzędne:</strong> 45.7030, 9.6645</p>
+
+  <p>
+    Jeśli Bergamo było grą w chowanego, to <strong>sekretna ławeczka z widokiem</strong> byłaby jednym z najbardziej skrywanych skarbów. Ukryta w jednym z zakamarków Città Alta, tuż przy starych murach, wygląda jak zwykła ławka – ale po chwili odpoczynku zaczynasz się zastanawiać, dlaczego jeszcze nikt nie napisał o niej książki. I to najlepiej z serii „W poszukiwaniu perfekcyjnego widoku”.
+  </p>
+
+  <p>
+    Po pierwsze: widok. Mimo że na pierwszy rzut oka może wyglądać jak zwykły kącik z widokiem na dolinę, zaraz odkrywasz, że na horyzoncie widać całą panoramę Bergamo, z jeziorem Iseo w tle. Idealne na chwile, kiedy potrzebujesz oddechu po tym, jak przeszedłeś wszystkie turystyczne „must-see”. Możesz patrzeć na to przez godzinę, a wciąż nie być pewnym, czy jesteś w raju, czy po prostu świetnie spędzasz czas.
+  </p>
+
+  <p>
+    A teraz najważniejsze: <strong>ta ławeczka nie jest łatwa do znalezienia</strong>. To nie jest miejsce, które ktoś wskaże Ci w przewodniku turystycznym. Musisz nieco zbłądzić, pomylić drogę, a potem pozwolić swojemu instynktowi turysty (czyli... byle jak się zgubić i nie panikować) doprowadzić cię do celu. Wówczas, jeśli masz szczęście, usiądziesz na tej ławce, patrząc na świat, który spowalnia, jakby chciał powiedzieć: „Nie martw się, tu nie ma pośpiechu”.
+  </p>
+
+  <p>
+    Jeśli chcesz uciec od tłumów i poczuć się, jakbyś odkrył Bergamo na nowo, ta ławeczka jest dla Ciebie. W razie potrzeby włącz styl retro i poczuj się jak bohater w starym filmie – "Człowiek, który znalazł najpiękniejsze miejsce w Bergamo".
+  </p>
+
+</details>
+
 
   <details>
     <summary><strong>🪞 Vicolo della Neve – Ulica Ciszy i Cieni</strong></summary>
