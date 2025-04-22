@@ -24,7 +24,8 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
     <p> Bergamo to jedyne miasto, gdzie komunikacja miejska obejmuje również... kolejkę linową. <strong>Funicolare</strong> łączy dolną i górną część miasta i daje Ci bonusowy widok z góry. Albo pretekst, żeby nie wchodzić po schodach. Jedno i drugie cenne. </p> 
     <h3>🍽️ Co się je w Bergamo?</h3> 
     <p> Jeśli lubisz polentę – jesteś w raju. Jeśli nie... to się przyzwyczaisz. Bo tutaj podają ją ze wszystkim: z mięsem, z grzybami, z serem, a pewnie jakby się uprzeć, to i z lodami. Do tego lokalne wino, sery z gór i desery tak słodkie, że cukrzyca aż się uśmiecha. 
-  </p> </details>
+  </p> 
+</details>
 
 ---
 
@@ -213,8 +214,6 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
       <li><strong>Wstęp:</strong> 5€</li>
     </ul>
   </details>
-
-</details>
 
 </details>
 
