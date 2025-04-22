@@ -353,12 +353,44 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
     </p>
   </details>
 
-  <details>
-    <summary><strong>📅 Dzień 3 - Pompeje: wizyta w starożytności</strong></summary>
-    <p>
-     <h3>☕ Poranek: energia przed podróżą w czasie</h3> <p> Zacznij dzień śniadaniem jak rasowy archeolog – czyli szybka <strong>sfogliatella</strong> i espresso w barze. Następnie ruszamy z głównego dworca <strong>Napoli Garibaldi</strong>! </p> <h3>🚆 Jak dojechać do Pompejów?</h3> <ul> <li>Pociąg <strong>Circumvesuviana</strong> w kierunku Sorrento (często kursuje)</li> <li>Wysiądź na stacji <strong>Pompei Scavi – Villa dei Misteri</strong></li> <li>Podróż trwa ok. 35–40 minut</li> </ul> <h3>🏛️ Zwiedzanie Pompejów – czyli spacer po antyku</h3> <p> Teren Pompejów jest ogromny, więc zaplanuj minimum <strong>3–4 godziny</strong> zwiedzania (a najlepiej pół dnia). Koniecznie weź wygodne buty, nakrycie głowy i wodę – to bardziej pustynia niż park miejski. </p> <p> Co zobaczyć? Największe wrażenie robią: </p> <ul> <li>🏛️ <strong>Forum</strong> – centralny plac miasta</li> <li>🎭 <strong>Amfiteatr</strong> – najstarszy zachowany w Europie</li> <li>🛁 <strong>Termy</strong> – starożytne łaźnie z freskami</li> <li>🏡 <strong>Dom Fauna</strong> – imponująca willa z mozaikami</li> <li>🖼️ <strong>Villa dei Misteri</strong> – nieco na uboczu, z niezwykłymi malowidłami</li> <li>🫣 <strong>Odlewy ciał</strong> – poruszające świadectwo tragedii</li> </ul> <p> Możesz zwiedzać samodzielnie (mapki przy wejściu) albo z przewodnikiem – na miejscu jest ich sporo, a opowieści robią różnicę. </p> <ul> <li><strong>Bilety:</strong> 18€ (są też bilety łączone np. z Herkulanum)</li> <li><strong>Wskazówka:</strong> Kup bilety online na <em>ticketone.it</em> lub <em>pompeiisites.org</em>, żeby uniknąć kolejek</li> </ul> <h3>🍝 Obiad w Pompejach</h3> <p> Po wyjściu z ruin zasłużony obiad! W pobliżu stacji znajdziesz kilka dobrych restauracji. Lokalne specjały to <strong>gnocchi alla sorrentina</strong>, <strong>spaghetti alle vongole</strong> i – oczywiście – pizza. </p> <h3>🚆 Powrót do Neapolu</h3> <p> Wracamy Circumvesuvianą, chyba że po drodze chcesz zajrzeć do <strong>Herkulanum</strong> – mniejsze, ale świetnie zachowane miasto zalane przez ten sam wybuch. To taka „Pompejańska siostrzyczka”. </p> <h3>🌇 Wieczór: spokojny spacer po Spaccanapoli</h3> <p> Po intensywnym dniu z historią warto wrócić do życia. Spacer <strong>Spaccanapoli</strong>, wino w małej enotece, ostatnie zdjęcia zachodzącego słońca nad Zatoką. Dzień idealnie zamknięty.
-    </p>
-  </details>
+ <details> <summary><strong>📅 Dzień 3 – Pompeje i Herkulanum: dzień w cieniu Wezuwiusza</strong></summary> 
+   <h3>🌅 Poranek: Pompeje – miasto zamrożone w czasie</h3> 
+   <ul> <li><strong>Jak dojechać:</strong> Pociąg <em>Circumvesuviana</em> z Neapolu (stacja Napoli Garibaldi) do stacji <strong>Pompei Scavi – Villa dei Misteri</strong>. Czas przejazdu: ok. 35 minut.</li> <li><strong>Bilety:</strong> 18€ normalny (dostępne też pakiety z Herkulanum)</li> 
+     <li><strong>Zwiedzanie:</strong> Minimum 2–3 godziny (ale możesz też spędzić tu cały dzień)</li> 
+   </ul> 
+   <p> Przemierzysz rzymskie ulice z brukiem jak sprzed 2000 lat, zajrzysz do term, teatru, tawerny i domów z oryginalnymi freskami. I tak – zobaczysz również gipsowe odlewy ofiar, które wstrząsają i przypominają, że historia to nie bajka. Koniecznie odwiedź <strong>Dom Fauna</strong> i <strong>Villa dei Misteri</strong> – jedno z najlepiej zachowanych malowideł świata. </p> <h3>🍕 Lunch w okolicach stacji (albo panino na wynos)</h3> <p> W pobliżu wejścia do Pompejów znajdziesz kilka trattorii i barów z pizzą i pastą. Ale jeśli chcesz zaoszczędzić czas – kup panino, wodę i ruszaj dalej! </p> 
+   <h3>🏛️ Popołudnie: Herkulanum – mniej znane, bardziej kameralne</h3>
+   <ul> 
+     <li><strong>Jak dojechać:</strong> Powrót Circumvesuvianą z Pompejów do stacji <strong>Ercolano Scavi</strong> (ok. 15 min)</li> 
+     <li><strong>Bilety:</strong> 13€ normalny (tańszy niż Pompeje, a nie mniej spektakularny)</li> 
+     <li><strong>Czas zwiedzania:</strong> ok. 1,5–2 godziny</li> 
+   </ul> 
+   <p> Herkulanum zginęło tego samego dnia co Pompeje, ale w inny sposób – nie pod lawą, a pod błotno-popiołową lawiną, która dosłownie zakonserwowała budynki, meble i… drewniane drzwi! Znajdziesz tu <strong>Domy z piętrem</strong>, oryginalne <strong>mozaiki podłogowe</strong>, <strong>ławki</strong>, a nawet resztki jedzenia. To najbardziej autentyczny kontakt z rzymskim życiem codziennym. </p> <p> Wzruszającym miejscem są też <strong>arkady przy plaży</strong>, gdzie znaleziono ciała ponad 300 osób, które próbowały uciec morzem. To ciche, symboliczne miejsce pokazuje ludzką tragedię bez potrzeby dramatyzowania. </p> 
+   <h3>🌇 Powrót do Neapolu</h3> 
+   <ul> 
+     <li>Wsiądź w pociąg Circumvesuviana z Ercolano Scavi i wróć do <strong>Napoli Garibaldi</strong> (ok. 20 min)</li> 
+     <li>Opcjonalnie: kolacja na mieście – zasłużona!</li> 
+   </ul> 
+   <p> Ten dzień to podróż do przeszłości, która zostanie z Tobą na długo. Pompeje pokazują ogrom miasta, a Herkulanum – jego detale. Razem tworzą idealny duet dla każdego fana historii (i dramatycznych zwrotów akcji). 
+   </p> 
+ </details>
+  
+<details> <summary><strong>📅 Dzień 4 – Wycieczka na Capri: luksus, limoncello i la dolce vita</strong></summary> 
+  <h3>⛴️ Poranek: rejs na Capri</h3> 
+  <p> Pobudka wcześniej niż zwykle – Capri czeka! Udaj się do portu <strong>Molo Beverello</strong> w Neapolu. Tam złapiesz <strong>prom (traghetto)</strong> lub szybszy <strong>hydrofoil (aliscafi)</strong>. Podróż trwa około <strong>50–80 minut</strong> w zależności od wybranego środka. </p> 
+  <ul> 
+    <li>🚢 <strong>Promy kursują od rana co ok. 30–60 minut</strong></li> 
+    <li>🎫 Bilety: ok. 20–25€ w jedną stronę, kup online (np. DirectFerries, SNAV, Caremar) lub w porcie</li> <li>📍 Dopływasz do <strong>Marina Grande</strong> na Capri</li> 
+  </ul> 
+  <h3>🚠 Funicolare – w górę do Capri Town</h3> 
+  <p> Na stacji Marina Grande wsiądź w kolejkę linową <strong>Funicolare</strong> (kilka minut jazdy) i już jesteś w sercu miasta Capri – eleganckim, kolorowym, pachnącym cytrynami i drogimi perfumami. </p> 
+  <h3>🌸 Zwiedzanie Capri – czyli piękno z każdej strony</h3> <ul> <li>🌿 <strong>Ogrody Augusta (Giardini di Augusto)</strong> – pocztówkowy widok na skały Faraglioni i krętą Via Krupp</li> 
+    <li>🛍️ Spacer po luksusowych uliczkach – butików więcej niż mieszkańców</li> <li>⛵ <strong>Rejs wokół wyspy</strong> – opcjonalnie: 1–2 godziny, widok na Błękitną Grotę, skały i zatoczki</li>
+    <li>💙 <strong>Grotta Azzurra (Błękitna Grota)</strong> – kultowa jaskinia, gdzie światło robi cuda – <em>tylko przy dobrej pogodzie</em></li> <li>⛰️ <strong>Monte Solaro</strong> – najwyższy punkt wyspy (wjeżdżasz krzesełkową kolejką z Anacapri – zapierający dech widok)</li> </ul> <h3>🍋 Lunch i limoncello w Anacapri</h3> <p> Po południu warto zajrzeć do <strong>Anacapri</strong> – spokojniejszej, bardziej lokalnej części wyspy. Przejdź się po miasteczku, zajrzyj do <strong>Villa San Michele</strong>, zjedz <em>insalatę caprese</em> i wypij kieliszek limoncello tam, gdzie powstał. </p> 
+  <h3>🏖️ Czas wolny – la dolce far niente</h3>
+  <p> Po prostu: idź na spacer, usiądź z widokiem i nie rób nic. Bo Capri to też sztuka odpoczywania. Możesz też zejść na plażę (choć większość to małe zatoczki z kamieniami) lub usiąść w kawiarni przy tarasie z widokiem na błękit bez końca. </p>
+  <h3>🚢 Powrót do Neapolu</h3> <p> Wróć na <strong>Marina Grande</strong> i złap ostatni prom do Neapolu – zazwyczaj odpływają między <strong>17:00 a 19:00</strong> (zależnie od sezonu). Pod wieczór Neapol powita Cię światłami i… zapachem pizzy. Czy można chcieć więcej? </p> 
+</details>
 
 </details>
 
