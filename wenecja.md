@@ -51,82 +51,78 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
 
   <details>
-    <summary><strong>⛪ Katedra Duomo – koronka z marmuru</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4642° N, 9.1900° E</em></p>
-   
-     <p> Jeśli Mediolan ma serce, to bije ono właśnie tutaj – z marmuru, z iglicami i z 3500 rzeźbami, które patrzą na Ciebie z każdej strony. <strong>Duomo di Milano</strong> to nie tylko największa katedra we Włoszech (po Watykanie), ale i jeden z najbardziej imponujących budynków gotyckich na świecie. Budowano ją przez... 600 lat. Włoska precyzja + tempo espresso? Niekoniecznie. Ale efekt? Absolutnie wart każdej dekady. 
-     </p>
-     <p> Z zewnątrz wygląda jak marmurowy tort weselny z koroną z iglic – a na szczycie czuwa <strong>Madonnina</strong>, złota figurka Maryi, która strzeże miasta z wysokości 108 metrów. Podobno nikt nie może budować wyżej niż ona, dlatego wiele nowoczesnych wieżowców... ma kopie Madonniny na dachu. Sprytne. 
-     </p> 
-     <p> Wnętrze? Ciemne, majestatyczne i monumentalne. Filary grube jak sekwoje, witraże jak obrazy z Photoshopa sprzed 500 lat, a organy tak potężne, że można by nimi zagrać hymn dla całego Lombardii. W środku znajdziesz też relikwie, posągi, a nawet – uwaga – gwoździe z krzyża Chrystusa (według legendy). Jeden z nich jest wystawiany raz do roku podczas uroczystej procesji z udziałem arcybiskupa... i specjalnego koszyczka na sznurku. Włosi potrafią. 
-     </p> 
-     <p> Największy hit to jednak <strong>tarasy na dachu</strong>. Windą (albo schodami, jeśli jesteś w formie) można się wspiąć na dach katedry i przejść się pośród iglic, rzeźb i chimerycznych potworów. Panorama Mediolanu, a przy dobrej pogodzie – widok aż po Alpy. Idealne miejsce na zdjęcia, kontemplację... albo Aperola po zejściu. 
-     </p> 
-     <ul>
-     <li><strong>Wstęp do katedry:</strong> ok. 5–8€</li>
-     <li><strong>Tarasy (schody lub winda):</strong> 10–15€ (w zależności od opcji)</li> 
-     <li><strong>Godziny otwarcia:</strong> ok. 9:00–19:00</li> 
-     <li><strong>Wskazówka:</strong> Weź okulary przeciwsłoneczne – marmur naprawdę odbija światło!</li>
-     </ul>
-  </details>
-
-  <details>
-    <summary><strong>🎨 Galeria Vittorio Emanuele II – świątynia zakupów</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4663° N, 9.1895° E</em></p>
-
-<p> Witamy w najbardziej stylowej galerii handlowej, jaką widziała Europa – <strong>Galleria Vittorio Emanuele II</strong>, zwana też „salonem Mediolanu”. To tutaj marmur spotyka żelazo, luksus ociera się o historię, a cappuccino kosztuje tyle, co pół pizzy... ale za to z widokiem na kopułę jak z pałacu. 
-</p>
-<p> Zbudowana w XIX wieku ku czci pierwszego króla zjednoczonych Włoch – Vittorio Emanuele II – galeria miała być wizytówką postępu, klasy i dobrego smaku. I udało się – to nie tylko miejsce na zakupy, ale też architektoniczne cudo. Cztery skrzydła, wielka szklana kopuła, mozaiki na podłodze, freski na ścianach, a nad wszystkim unoszą się marki takie jak Prada, Gucci i Louis Vuitton... czyli trochę jak spacer po Instagramie w wersji premium. 
-</p>
-<p> Ale nawet jeśli nie planujesz wydawać fortuny na skórzaną torebkę, warto tu przyjść dla <strong>tradycji</strong>. W samym środku galerii znajdziesz mozaikę z bykiem – a dokładniej z jego... częściami, które przynoszą szczęście. Trzeba stanąć piętą na jego genitaliach i obrócić się trzy razy dookoła. Tak, serio. Tak robią wszyscy – od turystów po garniturowców z dzielnicy biznesowej. 
-</p> 
-<p> Galeria łączy dwa najważniejsze punkty w Mediolanie – Katedrę Duomo i Teatr La Scala. Więc nawet jeśli nie planujesz zakupów, przejście przez nią to jak spacer przez historię z dodatkiem złotej karty kredytowej. A jeśli chcesz chłonąć klimat jak prawdziwy mediolańczyk – usiądź w jednej z historycznych kawiarni, zamów espresso, załóż okulary przeciwsłoneczne (nawet w środku) i po prostu... wyglądaj świetnie. 
-</p> 
-    
-  </details>
-
-  <details>
-    <summary><strong>🖼️ Ostatnia Wieczerza – więcej niż mural</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4658° N, 9.1704° E</em></p>
+    <summary><strong>⛪ Bazylika św. Marka – złoto, mozaiki i gołębie VIP</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4340° N, 12.3397° E</em></p>
     <p>
-      Dzieło Leonarda da Vinci, które zna cały świat – i które ma więcej teorii spiskowych niż odcinki "Z Archiwum X". Znajduje się w refektarzu klasztoru Santa Maria delle Grazie i przetrwało wojny, wilgoć i nadgorliwych konserwatorów. 
+      W sercu Wenecji, na Placu św. Marka, stoi ona – olśniewająca, dostojna, pełna blasku – Bazylika św. Marka. To jak połączenie muzeum bizantyjskiego z katalogiem złotnictwa. Kopuły jak z bajki, mozaiki jak z innej galaktyki, a wszystko to w oprawie złota, którego starczyłoby na kilka królewskich ślubów.
     </p>
     <p>
-      Oglądanie „Ostatniej Wieczerzy” to niemal rytuał: mała grupa, krótki czas, zero fleszy. Ale warto – scena, emocje, symbolika, wszystko to sprawia, że patrzysz i myślisz: „Wow, to naprawdę to!” (albo: „Czemu Jezus nie ma jedzenia?”).
+      Wejście do środka to jak podróż w czasie – i to do bardzo bogatej epoki. Każdy centymetr to sztuka, każdy szczegół to historia. A jeśli chcesz poczuć się jak Wenecjanin z wyższej półki – wejdź na taras i spójrz na Plac św. Marka z perspektywy lądowego boga.
     </p>
-  </details>
-
-  <details>
-    <summary><strong>🏰 Zamek Sforzów – średniowieczny kolos z atrium</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4700° N, 9.1795° E</em></p> 
-    <p> <strong>Castello Sforzesco</strong> to prawdziwa perła Mediolanu – monumentalna forteca, która widziała więcej wojen, buntów i renesansowego dramatu niż niejeden sezon „Rodu Smoka”. Zbudowany w XV wieku przez potężny ród Sforzów, był nie tylko bastionem obronnym, ale i elegancką rezydencją. A dziś? To zamek, który łączy w sobie historię, sztukę i odrobinę mediolańskiego ego. 
-    </p> 
-    <p> Na pierwszy rzut oka wygląda jak klasyczna warownia – potężne mury, fosa, masywna brama. Ale wewnątrz kryje się cały świat – od muzeów, przez freski Leonarda da Vinci, po spokojne dziedzińce, gdzie można odpocząć w cieniu wieży. Tak, <strong>Leonardo</strong> też tu działał – ozdabiał komnaty, zanim został bohaterem książek Dana Browna. 
-    </p> 
-    <p> Zamek jest ogromny – i można go zwiedzać godzinami. Znajdziesz tu m.in. <strong>Muzeum Sztuki Antycznej</strong>, <strong>Pinakotekę</strong> z dziełami mistrzów włoskich, kolekcję instrumentów muzycznych i… rzeźbę nie byle jaką, bo <strong>ostatnie, niedokończone dzieło Michała Anioła – „Rondanini Pietà”</strong>. Tyle renesansu w jednym miejscu, że człowiek czuje się mądrzejszy już po wejściu. 
-    </p> 
-    <p> Ale nawet jeśli nie jesteś fanem muzeów, warto tu przyjść – posiedzieć na dziedzińcu, zrobić zdjęcie z fontanną (słynna „Fontana di Piazza Castello”) albo przejść przez zamek prosto do <strong>Parco Sempione</strong> – zielonych płuc Mediolanu. Świetne miejsce na piknik, chill i obserwację lokalnych, jak grają w piłkę lub wyprowadzają psy, które wyglądają lepiej niż większość ludzi na lotniskach. 
-    </p> 
     <ul>
-    <li><strong>Wstęp na dziedziniec:</strong> darmowy</li> 
-       <li><strong>Wstęp do muzeów:</strong> 5€ (darmowy w pierwszą niedzielę miesiąca)</li> 
-       <li><strong>Czas zwiedzania:</strong> od 1 godziny do pół dnia – zależnie od apetytu na sztukę i historię</li>
+      <li><strong>Bilety:</strong> Wstęp do bazyliki darmowy, ale skarbiec i taras – kilka euro (warto!).</li>
     </ul>
   </details>
 
   <details>
-    <summary><strong>🌉 Navigli – kanały z duszą i drinkiem</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4474° N, 9.1607° E</em></p>
+    <summary><strong>🏰 Pałac Dożów – tam, gdzie rządzili Wenecjanie z fantazją</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4335° N, 12.3391° E</em></p>
     <p>
-      Dawniej system transportowy i przemysłowy, dziś mekka wieczornych spacerów i aperitivo. Navigli to dzielnica kanałów, które przypominają Wenecję… tylko z większą ilością barów i mniej turystycznym klimatem. 
+      Były tu sądy, więzienia, tajne przejścia i sala wielkości małego boiska – wszystko pod jednym dachem. Pałac Dożów to jak serial historyczny, tylko że na żywo i z bardziej złoconymi sufitami. Każda sala to inny klimat: od przepychu po dramat (czytaj: więzienie Giacomo Casanovy).
     </p>
     <p>
-      Wieczorem zamienia się w jedno wielkie spotkanie towarzyskie. Siadasz przy wodzie, zamawiasz Aperola i zakąski, i czujesz się jak mieszkaniec Mediolanu z katalogu – tylko bardziej autentycznie. W soboty są też targi vintage i sztuki, a nocą – muzyka, śmiech i światła odbijające się w wodzie.
+      Obowiązkowo przejdź przez Most Westchnień – łączy salę sądową z więzieniem. Podobno skazani wzdychali na widok ostatniego ujęcia laguny. Ty też możesz westchnąć – z zachwytu albo po wejściu po schodach.
     </p>
+    <ul>
+      <li><strong>Bilety:</strong> 25€ normalny, zawiera też inne muzea.</li>
+    </ul>
   </details>
+
+  <details>
+    <summary><strong>🌉 Most Rialto – klasyk z widokiem na handel i selfie</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4380° N, 12.3358° E</em></p>
+    <p>
+      To najstarszy i najbardziej fotogeniczny most w Wenecji. Łączy dwa brzegi Canale Grande i dwa światy – lokalny targ z ekskluzywnymi butikami. Stoisz pośrodku, patrzysz w wodę i czujesz się jak w pocztówce. Obowiązkowe selfie, najlepiej o złotej godzinie.
+    </p>
+    <p>
+      A jeśli chcesz poczuć klimat prawdziwej Wenecji – przejdź się rano po targu rybnym przy moście. Zapach intensywny, kolory zachwycające, krzyki sprzedawców – autentyk 100%.
+    </p>
+    <ul>
+      <li><strong>Bilety:</strong> Brak – most gratis, emocje bezcenne.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><strong>🌊 Rejs vaporetto po Canale Grande – wodna oś Wenecji</strong></summary>
+    <p><strong>Start:</strong> <em>Venezia Santa Lucia (45.4450° N, 12.3196° E)</em></p>
+    <p>
+      Canale Grande to główna „ulica” Wenecji – ale w wersji deluxe: falująca, z pałacami i gondolami zamiast samochodów. Wsiądź w vaporetto (linia 1 lub 2), usiądź na zewnątrz i podziwiaj – to jak przejazd autobusem przez galerię sztuki.
+    </p>
+    <p>
+      Mijasz marmurowe pałace, mosty, restauracje z tarasami nad wodą i gondolierów śpiewających bardziej do siebie niż do turystów. Cała Wenecja w jednej trasie. Polecamy na start lub na zakończenie dnia – efekt wow gwarantowany.
+    </p>
+    <ul>
+      <li><strong>Bilety:</strong> 9,50€ za przejazd – możesz jeździć 75 minut. Polecam kartę 24/48h, wychodzi taniej.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><strong>🎭 Teatro La Fenice – opera, która zmartwychwstaje</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>45.4332° N, 12.3325° E</em></p>
+    <p>
+      Nazwa „La Fenice” oznacza feniksa – i nie bez powodu. Teatr spłonął, odbudowano go, spłonął ponownie... i znów wstał z popiołów. Dziś to jedna z najpiękniejszych scen operowych na świecie. Nawet jeśli nie jesteś fanem muzyki klasycznej – wnętrze Cię zamurowało.
+    </p>
+    <p>
+      Złoto, aksamit, żyrandole większe niż łazienka w apartamencie – a wszystko to z historią, która brzmi jak gotowy film. Możesz kupić bilet na spektakl albo zwiedzać w ciągu dnia. W obu przypadkach: szykuj się na efekt "wow".
+    </p>
+    <ul>
+      <li><strong>Bilety:</strong> Zwiedzanie ok. 12€, spektakle od 30€ w górę.</li>
+    </ul>
+  </details>
+</details>
    
 <details>
-  <summary><strong>🕵️ Sekretne miejsca Mediolanu</strong></summary>
+  <summary><strong>🕵️ Sekretne miejsca Wenecji</strong></summary>
 
   <details>
     <summary><strong>🚋 Tramwaj widokowy nr 1 – retro jazda przez historię</strong></summary>
