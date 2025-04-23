@@ -50,47 +50,146 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
 
-  <details>
-    <summary><strong>⛪ Bazylika św. Marka – złoto, mozaiki i gołębie VIP</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4340° N, 12.3397° E</em></p>
-    <p>
-      W sercu Wenecji, na Placu św. Marka, stoi ona – olśniewająca, dostojna, pełna blasku – Bazylika św. Marka. To jak połączenie muzeum bizantyjskiego z katalogiem złotnictwa. Kopuły jak z bajki, mozaiki jak z innej galaktyki, a wszystko to w oprawie złota, którego starczyłoby na kilka królewskich ślubów.
-    </p>
-    <p>
-      Wejście do środka to jak podróż w czasie – i to do bardzo bogatej epoki. Każdy centymetr to sztuka, każdy szczegół to historia. A jeśli chcesz poczuć się jak Wenecjanin z wyższej półki – wejdź na taras i spójrz na Plac św. Marka z perspektywy lądowego boga.
-    </p>
-    <ul>
-      <li><strong>Bilety:</strong> Wstęp do bazyliki darmowy, ale skarbiec i taras – kilka euro (warto!).</li>
-    </ul>
-  </details>
+ <details>
+  <summary><strong>⛪ Bazylika św. Marka – złoty klejnot Wenecji</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4340° N, 12.3398° E</em></p>
+
+  <p>
+    Gdy myślisz o Wenecji, to pewnie właśnie ją widzisz: majestatyczną, lśniącą w słońcu i pełną tajemnic – <strong>Bazylikę św. Marka</strong>. To nie tylko kościół, to symbol potęgi dawnej Republiki Weneckiej i istny skarbiec sztuki, który błyszczy złotem bizantyjskich mozaik.
+  </p>
+
+  <p>
+    Z zewnątrz zachwyca <strong>fasada pełna łuków, kopuł i rzeźb</strong>, a ponad wejściem pyszni się słynna <strong>kwadryga koni</strong> – oryginały są w środku, a na zewnątrz podziwiasz kopie. Do tego mozaiki na fasadzie przedstawiające sceny biblijne, tak bogate, że możesz tam spędzić pół dnia, analizując każdy detal.
+  </p>
+
+  <p>
+    Wnętrze to prawdziwa <strong>mozaikowa symfonia</strong> – ponad 8 tysięcy metrów kwadratowych złotych mozaik na sklepieniach i ścianach. Z każdej strony bije blask i duchowość, ale też artyzm, który przyprawia o gęsią skórkę. Największe wrażenie robi <strong>Pala d’Oro</strong> – pozłacany ołtarz wysadzany klejnotami, jeden z najcenniejszych w Europie.
+  </p>
+
+  <p>
+    Bazylika to również miejsce przechowywania <strong>relikwii św. Marka Ewangelisty</strong>, patrona Wenecji, którego szczątki – według legendy – weneccy kupcy przemycili z Aleksandrii ukrywając je… pod warstwą wieprzowiny (sprytnie, bo muzułmanie unikali świń).
+  </p>
+
+  <p>
+    Warto wejść też na taras widokowy nad wejściem – z niego zobaczysz <strong>Plac św. Marka</strong> w pełnej okazałości, a także spojrzysz z bliska na konie z kwadrygi. Widok? Spektakularny. Wrażenia? Bezcenne.
+  </p>
+
+  <ul>
+    <li><strong>Bilety:</strong> Wejście do bazyliki bezpłatne, ale dostęp do tarasu, Pala d’Oro i muzeum: od 5–10€.</li>
+    <li><strong>Wskazówka:</strong> Najlepiej zarezerwować online, zwłaszcza w sezonie.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🏛️ Plac św. Marka – salon Europy</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4340° N, 12.3388° E</em></p>
+
+  <p>
+    <strong>Piazza San Marco</strong> – nazywany kiedyś „salonem Europy” – to bez wątpienia serce Wenecji. Miejsce, które tętni historią, sztuką i turystami z każdej szerokości geograficznej. Gdziekolwiek spojrzysz, widzisz dzieła sztuki, zabytki i gołębie (mnóstwo gołębi).
+  </p>
+
+  <p>
+    Ten rozległy plac, jedyny oficjalny „plac” w Wenecji (pozostałe to „campo”), otoczony jest majestatycznymi budowlami: <strong>Bazyliką św. Marka</strong> z jej złotymi mozaikami, <strong>Dzwonnicą św. Marka</strong>, z której roztacza się bajeczny widok na lagunę, oraz eleganckimi <strong>Prokuracjami</strong> – dawnymi siedzibami urzędników Republiki Weneckiej.
+  </p>
+
+  <p>
+    Spacerując po placu, natkniesz się na <strong>Caffè Florian</strong> – najstarszą kawiarnię we Włoszech (założoną w 1720 roku!), gdzie kiedyś przesiadywali Casanova, Goethe i Byron. Obok niej – <strong>Caffè Quadri</strong> i orkiestry grające klasykę na żywo. Drogo? Tak. Warto? Też tak.
+  </p>
+
+  <p>
+    Plac bywa czasem zalewany przez wodę – to zjawisko zwane <strong>acqua alta</strong>. Wtedy mieszkańcy i turyści chodzą po specjalnych podestach, a Wenecja staje się jeszcze bardziej magiczna (i nieprzewidywalna).
+  </p>
+
+  <p>
+    To tutaj odbywają się największe wydarzenia weneckie – <strong>Karnawał</strong>, koncerty, uroczystości państwowe. Ale nawet poza sezonem, spacer po placu przy zachodzącym słońcu to doświadczenie, które trudno opisać słowami – trzeba je przeżyć.
+  </p>
+
+  <ul>
+    <li><strong>Wskazówka:</strong> Najlepiej przyjść wcześnie rano lub wieczorem, kiedy tłumy maleją, a światło dodaje magii każdemu detalowi.</li>
+    <li><strong>Pro tip:</strong> Nie karm gołębi – choć to kuszące, jest to zakazane i może skończyć się mandatem.</li>
+  </ul>
+</details>
+
 
   <details>
-    <summary><strong>🏰 Pałac Dożów – tam, gdzie rządzili Wenecjanie z fantazją</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4335° N, 12.3391° E</em></p>
-    <p>
-      Były tu sądy, więzienia, tajne przejścia i sala wielkości małego boiska – wszystko pod jednym dachem. Pałac Dożów to jak serial historyczny, tylko że na żywo i z bardziej złoconymi sufitami. Każda sala to inny klimat: od przepychu po dramat (czytaj: więzienie Giacomo Casanovy).
-    </p>
-    <p>
-      Obowiązkowo przejdź przez Most Westchnień – łączy salę sądową z więzieniem. Podobno skazani wzdychali na widok ostatniego ujęcia laguny. Ty też możesz westchnąć – z zachwytu albo po wejściu po schodach.
-    </p>
-    <ul>
-      <li><strong>Bilety:</strong> 25€ normalny, zawiera też inne muzea.</li>
-    </ul>
-  </details>
+  <summary><strong>🏰 Pałac Dożów – siedziba władzy i więzienia w jednym</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4336° N, 12.3403° E</em></p>
+
+  <p>
+    <strong>Palazzo Ducale</strong>, czyli Pałac Dożów, to nie tylko jeden z najbardziej rozpoznawalnych budynków w Wenecji, ale też symbol potęgi i splendoru dawnej Republiki Weneckiej. Położony tuż obok Bazyliki św. Marka, ten gotycki pałac przez stulecia był siedzibą doży (głównego przywódcy Wenecji), sądem, a nawet więzieniem.
+  </p>
+
+  <p>
+    Fasada z różowego marmuru i białych kolumn wygląda lekko i bajkowo, ale wnętrze pałacu opowiada inną historię – o władzy, polityce i czasami brutalnej sprawiedliwości. W środku znajdziesz <strong>sala Wielkiej Rady</strong> z ogromnym obrazem Tintoretta „Raj” (uważanym za największe malowidło olejne świata), a także komnaty dożów i sądów.
+  </p>
+
+  <p>
+    Jedną z najbardziej fascynujących części zwiedzania jest przejście przez słynny <strong>Most Westchnień</strong> – zadaszoną kładkę, która łączyła pałac z więzieniem. Nazwa nie jest przypadkowa – to przez ten most prowadzono skazańców, którzy zerkając przez ostatnie okienko, wzdychali po raz ostatni do widoku laguny.
+  </p>
+
+  <p>
+    Jeśli lubisz tajemnice, koniecznie wybierz trasę z przewodnikiem „<strong>Itinerari Segreti</strong>” – zobaczysz wtedy ukryte korytarze, komnaty śledcze i cele, w tym słynną celę Giacomo Casanovy, któremu udało się stąd uciec. Tak – to nie fikcja.
+  </p>
+
+  <ul>
+    <li><strong>Bilety:</strong> Od około 25€, dostępne online – polecam zarezerwować wcześniej, szczególnie w sezonie.</li>
+    <li><strong>Wskazówka:</strong> Jeśli chcesz uniknąć tłumów, idź rano lub skorzystaj z opcji nocnego zwiedzania – klimat wtedy jest zupełnie inny.</li>
+  </ul>
+</details>
+
 
   <details>
-    <summary><strong>🌉 Most Rialto – klasyk z widokiem na handel i selfie</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4380° N, 12.3358° E</em></p>
-    <p>
-      To najstarszy i najbardziej fotogeniczny most w Wenecji. Łączy dwa brzegi Canale Grande i dwa światy – lokalny targ z ekskluzywnymi butikami. Stoisz pośrodku, patrzysz w wodę i czujesz się jak w pocztówce. Obowiązkowe selfie, najlepiej o złotej godzinie.
-    </p>
-    <p>
-      A jeśli chcesz poczuć klimat prawdziwej Wenecji – przejdź się rano po targu rybnym przy moście. Zapach intensywny, kolory zachwycające, krzyki sprzedawców – autentyk 100%.
-    </p>
-    <ul>
-      <li><strong>Bilety:</strong> Brak – most gratis, emocje bezcenne.</li>
-    </ul>
-  </details>
+  <summary><strong>🌉 Most Rialto – kamienny klasyk z widokiem na Canale Grande</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4380° N, 12.3358° E</em></p>
+
+  <p>
+    Most Rialto (<em>Ponte di Rialto</em>) to najbardziej rozpoznawalna przeprawa przez Canal Grande i jeden z symboli Wenecji. Choć dziś robi głównie za tło do selfie i miejsce handlu pamiątkami, jego historia sięga końca XVI wieku i pełna jest dramatów, inżynieryjnych wyzwań i… zakupów.
+  </p>
+
+  <p>
+    Pierwszy most w tym miejscu był drewniany i kilkukrotnie spłonął lub się zawalił. Dlatego w 1591 roku władze miasta zdecydowały się na coś solidniejszego – kamienną konstrukcję zaprojektowaną przez Antonio da Ponte. Nazwał się skromnie („od mostu”), ale jego dzieło przetrwało wieki i codziennie nosi setki turystów i mieszkańców.
+  </p>
+
+  <p>
+    Rialto to nie tylko most – to także miejsce handlu. Na jego środku znajdziesz rzędy sklepików z biżuterią, szkłem weneckim i... wszystkim, co można wsadzić do walizki. Po bokach są dwa chodniki z widokiem na Canal Grande – idealne miejsce na romantyczne zdjęcie, pod warunkiem, że nie ma miliona ludzi dookoła.
+  </p>
+
+  <p>
+    Most był też świadkiem wielu wydarzeń historycznych i inspiracją dla poetów, malarzy i zakochanych z całego świata. I choć w Wenecji są inne mosty, to Rialto zawsze będzie tym „najbardziej weneckim”.
+  </p>
+
+  <ul>
+    <li><strong>Wstęp:</strong> Darmowy – most jest ogólnodostępny 24/7.</li>
+    <li><strong>Wskazówka:</strong> Wybierz się tu wcześnie rano lub późnym wieczorem – unikniesz tłumów i złapiesz piękne światło na Canal Grande.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🌫️ Most Westchnień – ostatni widok na wolność</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4336° N, 12.3413° E</em></p>
+
+  <p>
+    <strong>Most Westchnień</strong> (wł. <em>Ponte dei Sospiri</em>) to jeden z najbardziej romantycznych – i zarazem najmroczniejszych – symboli Wenecji. Łączy Pałac Dożów z dawnym więzieniem. I choć dziś wygląda bajkowo, kiedyś był ostatnim miejscem, które widzieli skazańcy przed odsiadką. Stąd właśnie jego nazwa – westchnienia miały należeć do więźniów żegnających się z wolnością.
+  </p>
+
+  <p>
+    Most został zbudowany w 1600 roku z białego wapienia i zaprojektowany przez Antonio Continiego – wnuka twórcy Mostu Rialto. Ma zamkniętą formę z dwoma wąskimi korytarzami i małymi, zakratowanymi okienkami, przez które widać kanał i niebo. Tyle wystarczyło, by zatrzymać się na chwilę... i westchnąć.
+  </p>
+
+  <p>
+    Dziś turyści podziwiają most z zewnątrz – najlepiej widać go z <strong>Ponte della Paglia</strong>, tuż obok Placu św. Marka. Ale jeśli odwiedzisz Pałac Dożów, możesz przejść przez jego wnętrze i poczuć ten słynny moment przejścia – od pięknych pałacowych sal do surowych, wilgotnych cel.
+  </p>
+
+  <p>
+    Choć historia mostu jest dość ponura, legenda miłosna dodaje mu romantyzmu: podobno para, która pocałuje się pod Mostem Westchnień podczas rejsu gondolą o zachodzie słońca, będzie razem na zawsze. Sprawdzasz?
+  </p>
+
+  <ul>
+    <li><strong>Wstęp:</strong> Widok z zewnątrz – darmowy. Przejście przez most tylko w ramach zwiedzania Pałacu Dożów (ok. 25€).</li>
+    <li><strong>Wskazówka:</strong> Najlepsze zdjęcia zrobisz z mostku Ponte della Paglia – przy zachodzie słońca wygląda bajkowo.</li>
+  </ul>
+</details>
+
 
   <details>
     <summary><strong>🌊 Rejs vaporetto po Canale Grande – wodna oś Wenecji</strong></summary>
@@ -119,6 +218,67 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
       <li><strong>Bilety:</strong> Zwiedzanie ok. 12€, spektakle od 30€ w górę.</li>
     </ul>
   </details>
+
+<details>
+  <summary><strong>🔥 Murano – wyspa szkła i ognia</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4581° N, 12.3590° E</em></p>
+
+  <p>
+    <strong>Murano</strong> to wyspa, która od ponad 700 lat żyje ogniem, piaskiem i mistrzostwem rąk – bo właśnie tutaj narodziła się słynna <strong>tradycja weneckiego szkła</strong>. To coś więcej niż rzemiosło – to sztuka. Spacerując po Murano, możesz poczuć zapach gorących pieców, usłyszeć brzęk narzędzi i zobaczyć jak przezroczysty żar zamienia się w misterną wazę, kieliszek czy konika morskiego.
+  </p>
+
+  <p>
+    Murano to idealna wycieczka z Wenecji – promem dopłyniesz tu w około 20 minut. Na miejscu czekają urokliwe kanały, ciche place, mnóstwo szklarni, galerii i warsztatów, gdzie można podpatrzeć mistrzów przy pracy. I tak, niemal wszędzie znajdziesz sklepiki z ręcznie dmuchanym szkłem – od ozdobnych lamp po kolczyki z kolorowego szkła millefiori.
+  </p>
+
+  <h3>🖼️ Co zobaczyć na Murano?</h3>
+  <ul>
+    <li><strong>Muzeum Szkła (Museo del Vetro)</strong> – w dawnej rezydencji biskupiej. Zobaczysz tu nie tylko dzieła sztuki, ale też historię technik szklarskich i eksponaty sprzed wieków.</li>
+    <li><strong>Bazylika Santa Maria e San Donato</strong> – z przepiękną mozaikową podłogą i legendarnymi kośćmi smoka (tak, smoka!), które rzekomo pokonał św. Donat.</li>
+    <li><strong>Fabryki szkła</strong> – wiele z nich organizuje pokazy dla turystów – wejście zazwyczaj darmowe, choć wyjście bez pamiątki... prawie niemożliwe.</li>
+  </ul>
+
+  <p>
+    Murano to mniej zatłoczona, bardziej lokalna wersja Wenecji. Spacerując wzdłuż kanałów i przez mostki, poczujesz spokojniejszy rytm laguny – a wieczorem, gdy większość turystów odpływa, wyspa nabiera intymnego uroku. Idealne miejsce na ucieczkę od tłumów.
+  </p>
+
+  <ul>
+    <li><strong>Jak się dostać:</strong> Vaporetto z przystani Fondamente Nove – linie 4.1, 4.2 lub 3 (ok. 15–20 minut).</li>
+    <li><strong>Bilety:</strong> Wejście na wyspę darmowe, Muzeum Szkła – ok. 10€.</li>
+    <li><strong>Tip:</strong> Zabierz gotówkę – nie wszędzie zapłacisz kartą w mniejszych galeriach szkła.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🎨 Burano – wyspa kolorów i koronek</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4855° N, 12.4176° E</em></p>
+
+  <p>
+    Jeśli Murano to ogień i szkło, to <strong>Burano</strong> to tęcza w wersji lagunowej. Ta niewielka wyspa, położona około 40 minut rejsu od Wenecji, słynie z bajecznie kolorowych domków, wąskich kanałów i mistrzowskiej sztuki <strong>koronkarstwa</strong>, która przechodzi z pokolenia na pokolenie. To miejsce wygląda jak wycięte z ilustracji do książki dla dzieci – i rzeczywiście, trudno nie sięgnąć po aparat co trzy kroki.
+  </p>
+
+  <p>
+    Dawniej rybacka osada, dziś Burano przyciąga artystów, fotografów i romantyków z całego świata. Legenda głosi, że domy malowano na jaskrawe kolory, by wracający z połowów marynarze mogli łatwo odnaleźć swój dom w mgle laguny. Dziś to nie tylko tradycja, ale także obowiązek – kolory są zatwierdzane przez specjalny urząd!
+  </p>
+
+  <h3>🧵 Co zobaczyć na Burano?</h3>
+  <ul>
+    <li><strong>Muzeum Koronki (Museo del Merletto)</strong> – dowiesz się, dlaczego koronki z Burano były kiedyś droższe niż złoto i zobaczysz prace lokalnych mistrzyń.</li>
+    <li><strong>Kościół San Martino</strong> – z pochyloną dzwonnicą, która z daleka wygląda jakby miała zaraz runąć (ale spokojnie, jeszcze się trzyma!).</li>
+    <li><strong>Via Baldassarre Galuppi</strong> – główny deptak wyspy pełen sklepików, restauracji i małych galerii.</li>
+    <li><strong>Fotogeniczne zaułki i mostki</strong> – w zasadzie cała wyspa to jedno wielkie instagramowe tło.</li>
+  </ul>
+
+  <p>
+    Spacer po Burano to jak spacer po obrazie – kolory zmieniają się wraz z kątem padania światła, a zapach suszącego się prania i świeżej ryby przypomina, że to wciąż żyjąca, prawdziwa wyspa. Burano najlepiej odwiedzić rano lub po południu, gdy turyści odpłyną – wtedy magia barw i ciszy jest najpełniejsza.
+  </p>
+
+  <ul>
+    <li><strong>Jak się dostać:</strong> Vaporetto linii 12 z Fondamente Nove (ok. 40–45 minut, kursuje co 30–60 minut).</li>
+    <li><strong>Bilety:</strong> Wejście na wyspę darmowe. Muzeum Koronki – ok. 5€.</li>
+    <li><strong>Tip:</strong> Zjedz lunch w lokalnej trattorii – polecam dania z owoców morza (np. risotto z sepią).</li>
+  </ul>
+</details>
 
    
 <details>
