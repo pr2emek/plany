@@ -190,7 +190,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>📅 Plan zwiedzania</strong></summary>
+  <summary><strong>📅 Plan zwiedzania Florencji w 1 dzień</strong></summary>
 
   <h3>⛪ Start: Katedra Santa Maria del Fiore (Duomo)</h3>
   <p>
