@@ -211,6 +211,72 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
+  <summary><strong>🚌 Transport publiczny we Florencji</strong></summary>
+
+  <p>
+    Florencja to miasto kompaktowe – większość atrakcji ogarniesz na piechotę. Ale kiedy nogi powiedzą „basta”, z pomocą przychodzi transport publiczny. Obsługuje go firma <strong>ATAF</strong>, a także linie tramwajowe, w tym bezpośrednia na lotnisko.
+  </p>
+
+  <h3>🚋 Tramwaj</h3>
+  <ul>
+    <li><strong>Linia T1:</strong> Careggi ↔ Villa Costanza – przez centrum</li>
+    <li><strong>Linia T2:</strong> Lotnisko ↔ Piazza dell’Unità – szybki dojazd do centrum</li>
+    <li><strong>Częstotliwość:</strong> co 4–10 minut, od rana do północy (w weekendy dłużej)</li>
+  </ul>
+
+  <h3>🚌 Autobusy</h3>
+  <ul>
+    <li>Operatorem jest ATAF – autobusy docierają niemal wszędzie</li>
+    <li>W centrum kursują małe busy, np. <strong>C1 i C2</strong></li>
+    <li><strong>Linia 7:</strong> łączy centrum z Fiesole – idealnie na wycieczkę z widokiem</li>
+  </ul>
+
+  <h3>🎫 Bilety</h3>
+  <ul>
+    <li><strong>1,50€</strong> – ważny 90 minut (na autobus i tramwaj)</li>
+    <li>Dostępne też bilety 24h, 3-dniowe i tygodniowe</li>
+    <li><strong>Gdzie kupić?</strong> kioski, automaty, aplikacja Tabnet lub SMS (włoską kartą SIM)</li>
+  </ul>
+
+  <h3>🛬 Jak dojechać z lotniska Firenze-Peretola do centrum?</h3>
+
+  <h4>🚈 Tramwaj T2 (najlepsza opcja)</h4>
+  <ul>
+    <li><strong>Start:</strong> Przystanek Peretola Aeroporto (tuż przy terminalu)</li>
+    <li><strong>Koniec:</strong> Piazza dell’Unità – 5 minut spacerem od katedry</li>
+    <li><strong>Czas:</strong> ok. 20–25 minut</li>
+    <li><strong>Cena:</strong> 1,50€ (standardowy bilet ATAF)</li>
+  </ul>
+
+  <h4>🚕 Taksówka</h4>
+  <ul>
+    <li>Postój znajduje się tuż przed wyjściem z lotniska</li>
+    <li><strong>Oficjalna ryczałtowa cena:</strong> ok. 22–25€ do centrum (dodatki za bagaż/noc)</li>
+    <li>Szybko i wygodnie – ale drożej niż tramwaj</li>
+  </ul>
+
+  <h4>🚘 Uber/Bolt</h4>
+  <ul>
+    <li>Dostępny w Florencji, ale często droższy niż taksówka (szczególnie w godzinach szczytu)</li>
+    <li>Może wymagać podejścia poza terminal (dla odbioru)</li>
+  </ul>
+
+  <h4>🚌 Shuttle bus</h4>
+  <ul>
+    <li>Niektóre hotele oferują własny transfer – warto zapytać</li>
+    <li>Istnieją też prywatne firmy (np. Terravision), ale tramwaj i tak jest wygodniejszy</li>
+  </ul>
+
+  <h3>💡 Pro tip:</h3>
+  <p>
+    Tramwaj T2 to złoto – tanio, wygodnie, bez korków. Ale jeśli przyjeżdżasz w nocy lub z dużym bagażem – taxi może być Twoim wybawieniem.
+  </p>
+
+</details>
+
+---
+
+<details>
   <summary><strong>📖 Legendy</strong></summary>
 
   <h3>🧟‍♂️ „Kamienna głowa sprawiedliwości” – Piazza della Signoria</h3>
