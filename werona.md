@@ -45,12 +45,32 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć w Weronie</strong></summary>
 
   <details>
-    <summary><strong>🏟️ Arena di Verona – rzymski kolos opery</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4381° N, 10.9940° E</em></p>
-    <p>
-      Jeden z najlepiej zachowanych amfiteatrów rzymskich na świecie. Zbudowany w I wieku n.e., może pomieścić nawet 30 tysięcy widzów! Do dziś odbywają się tu spektakularne spektakle operowe, koncerty i wydarzenia. Jej akustyka zachwyca bez mikrofonów. Przejdź się po kamiennych stopniach i poczuj ducha starożytności – nie zdziw się, jeśli zobaczysz kogoś ćwiczącego arię.
-    </p>
-  </details>
+  <summary><strong>🏛️ Arena di Verona – rzymski kolos z operową duszą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4380° N, 10.9941° E</em></p>
+
+  <p>
+    Arena di Verona to serce miasta – dosłownie i metaforycznie. Ten imponujący rzymski amfiteatr zbudowano w I wieku naszej ery, a mimo upływu niemal dwóch tysięcy lat, wciąż działa! Kiedyś odbywały się tu walki gladiatorów i inne „rozrywki” antycznego Rzymu. Dziś? Zamiast lwów i mieczy – aria i aplauz.
+  </p>
+
+  <p>
+    To jeden z najlepiej zachowanych amfiteatrów rzymskich na świecie – i drugi co do wielkości we Włoszech (zaraz po Koloseum). Pomieści nawet 22 tysiące osób, co czyni go największą otwartą sceną operową na świecie. A akustyka? Taka, że Pavarotti mógłby śpiewać bez mikrofonu.
+  </p>
+
+  <p>
+    Od 1913 roku Arena słynie z letniego <strong>Festiwalu Operowego</strong>. To tutaj wystawiano „Aidę” z prawdziwymi końmi na scenie, a śpiewacy walczyli z upałem, publicznością i... gołębiami. Magia tego miejsca sprawia, że nawet ci, którzy operę znają tylko z kreskówek, wychodzą z wypiekami na twarzy.
+  </p>
+
+  <p>
+    Poza operą odbywają się tu również koncerty światowych gwiazd, wydarzenia sportowe i spektakle. W ciągu dnia można zwiedzać arenę – wejść na trybuny, przejść się po starożytnym kamieniu i poczuć ducha przeszłości... i może trochę gliny z sandałów legionisty.
+  </p>
+
+  <ul>
+    <li><strong>Bilety (zwiedzanie dzienne):</strong> ok. 10€</li>
+    <li><strong>Bilety na wydarzenia:</strong> od ok. 25€ wzwyż (warto rezerwować wcześniej)</li>
+    <li><strong>Rada:</strong> Jeśli możesz – wybierz się na koncert lub operę wieczorem. Nocna Arena, przy świetle pochodni i dźwiękach orkiestry, to przeżycie z kategorii „życie udane”.</li>
+  </ul>
+</details>
+
 
   <details>
     <summary><strong>🏠 Dom Julii – balkon, który zna cały świat</strong></summary>
@@ -59,22 +79,112 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
       Legendarne miejsce inspirowane opowieścią Szekspira o Romeu i Julii. Choć historia to literacka fikcja, dom z XIV wieku przy Via Cappello przyciąga tłumy zakochanych. Pod słynnym balkonem można napisać list do Julii, dotknąć posągu jej figury dla szczęścia w miłości, albo po prostu rozmarzyć się o wielkiej miłości… z happy endem.
     </p>
   </details>
+<details>
+  <summary><strong>🏠 Dom Julii – balkon, listy i miłość na ścianach</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4385° N, 10.9991° E</em></p>
+
+  <p>
+    Jeśli Werona to miasto miłości, to <strong>Dom Julii</strong> jest jej najpopularniejszym adresem. Niby nikt nie wie, czy istniała naprawdę, ale i tak miliony par przyjeżdżają tu co roku, by spojrzeć na balkon, gdzie – według legendy – Julia szeptała „Romeo, Romeo, czemuż ty jesteś Romeo?”.
+  </p>
+
+  <p>
+    Budynek pochodzi z XIII wieku i należał do rodziny Capello – a to już brzmi podejrzanie podobnie do „Capuletti”. W środku znajduje się małe muzeum z meblami z epoki, kostiumami z filmów i niesławnym łóżkiem Julii z ekranizacji Zeffirellego. Ale prawdziwe tłumy zbiera się... na dziedzińcu.
+  </p>
+
+  <p>
+    Tam czeka słynna <strong>brązowa rzeźba Julii</strong> – a według lokalnej tradycji, dotknięcie jej piersi przynosi szczęście w miłości (serio). Z kolei ściany pod balkonem pokryte są listami, gumami do żucia (tak, też dziwne), podpisami i serduszkami. To miejsce ma więcej wiadomości miłosnych niż niejedna aplikacja randkowa.
+  </p>
+
+  <p>
+    Możesz tu także napisać własny list do Julii – osobiście lub mailowo. Jest nawet <strong>Klub Julii</strong>, który na poważnie odpisuje na listy z całego świata. To najbardziej romantyczna skrzynka odbiorcza we Włoszech.
+  </p>
+
+  <ul>
+    <li><strong>Bilety (do wnętrza i na balkon):</strong> ok. 6€</li>
+    <li><strong>Dziedziniec i rzeźba:</strong> dostępne bezpłatnie</li>
+    <li><strong>Pro tip:</strong> Idź rano lub tuż przed zamknięciem – tłumy Romeo i Julii bywają intensywne w południe!</li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🏰 Dom Romea – tajemnicza forteca miłości (i zazdrości)</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4411° N, 11.0005° E</em></p>
+
+  <p>
+    Każda Julia potrzebuje swojego Romea – a każdy Romeo, jak się okazuje, potrzebuje solidnej, ceglanej twierdzy. <strong>Casa di Romeo</strong>, czyli Dom Romea, to średniowieczny budynek w stylu gotyckim, który – według lokalnej tradycji – należał do rodziny Montecchich, czyli pierwowzoru szekspirowskich Montague.
+  </p>
+
+  <p>
+    Budowla wygląda jak miniforteca – wysokie mury, małe okna, zamknięta loggia. Czyli wszystko, czego potrzebujesz, jeśli boisz się teścia z rodu Capulettich. W przeciwieństwie do Domu Julii, ten nie jest udostępniony do zwiedzania w środku, ale warto podejść pod adres <strong>Via delle Arche Scaligeri</strong>, by zobaczyć ten kawałek weroneńskiej legendy.
+  </p>
+
+  <p>
+    Na ścianie znajduje się tablica z napisem (po włosku, oczywiście), która przypomina, że „tu mieszkał Romeo” – no i że nie wolno parkować. Romantyzm ma swoje granice.
+  </p>
+
+  <p>
+    Choć dom nie jest tak oblegany jak balkon Julii, ma w sobie więcej tajemniczości i… prawdopodobnie więcej historii. A jeśli jesteś romantykiem, to stawiając się pod tym domem, możesz wyobrazić sobie Romea w oknie – piszącego listy, knującego ucieczki albo... 
+  </p>
+
+  <ul>
+    <li><strong>Wstęp:</strong> Z zewnątrz – bezpłatnie (wnętrza są prywatne i niedostępne)</li>
+    <li><strong>Adres:</strong> Via Arche Scaligere 2, tuż obok grobowców rodu Scaligeri</li>
+    <li><strong>Pro tip:</strong> Wpadnij tu po wizycie w Domu Julii – dla pełni dramatyczno-miłosnej narracji</li>
+  </ul>
+</details>
+
 
   <details>
-    <summary><strong>🧱 Castelvecchio – średniowieczny zamek z duszą</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4410° N, 10.9884° E</em></p>
-    <p>
-      Imponująca twierdza z czerwonej cegły, zbudowana przez ród della Scala w XIV wieku. Dziś mieści się tu muzeum z dziełami Tycjana i Belliniego, ale największą atrakcją są mury i dziedzińce – idealne do odkrywania z aparatem. Most Scaligero, który prowadzi z zamku, to wisienka na torcie i najładniejsza droga ucieczki, jaką kiedykolwiek zbudowano.
-    </p>
-  </details>
+  <summary><strong>🏰 Castelvecchio – zamek, który przetrwał wszystko</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4392° N, 10.9885° E</em></p>
+
+  <p>
+    Nazwa <strong>Castelvecchio</strong> oznacza „stary zamek” – ale niech Cię to nie zwiedzie. Ten potężny kompleks obronny to nie tylko zabytek, ale i żywa opowieść o sile, strategii i renesansowej ambicji. Zbudowany w XIV wieku przez ród Scaligerich, zamek miał chronić Weronę przed wrogami... oraz ewentualnymi buntami wewnętrznymi. Wieża, mury i fosa jasno mówiły: „tu rządzą twardzi gracze”.
+  </p>
+
+  <p>
+    Castelvecchio to dziś nie tylko imponująca forteca, ale też siedziba jednego z najważniejszych muzeów miasta – <strong>Muzeum Castelvecchio</strong>, z kolekcją rzeźb, obrazów i sztuki sakralnej od XII do XVIII wieku. Sam budynek zrewitalizowano z ogromnym szacunkiem do historii – zachowując surowy, gotycki klimat, ale dodając nowoczesne elementy dzięki wizji architekta Carlo Scarpy.
+  </p>
+
+  <p>
+    Spacerując po zamkowych dziedzińcach i murach obronnych, możesz niemal usłyszeć odgłosy dawnych bitew... albo przynajmniej rozmowy rycerzy o tym, kto ma najlepszy miecz. A widok z murów na rzekę Adygę i most zamkowy (<strong>Ponte Scaligero</strong>)? Bezcenny.
+  </p>
+
+  <ul>
+    <li><strong>Bilety:</strong> 6€ normalny (często są zniżki i darmowe wejścia w niedziele)</li>
+    <li><strong>Adres:</strong> Corso Castelvecchio 2</li>
+    <li><strong>Bonus:</strong> Koniecznie przejdź się po Ponte Scaligero – most jak z bajki o rycerzach i księżniczkach</li>
+  </ul>
+</details>
+
 
   <details>
-    <summary><strong>⛪ Piazza delle Erbe – rynek pełen życia</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4420° N, 10.9963° E</em></p>
-    <p>
-      Najstarszy plac w Weronie i centrum miejskiego życia od czasów rzymskich. Otoczony kolorowymi kamienicami, wieżami i kawiarniami. W jego centrum znajdziesz fontannę z rzymską statuą Madonna Verona, a wokół – stragany z pamiątkami, owocami i serami. To idealne miejsce na poranne cappuccino albo wieczorne prosecco.
-    </p>
-  </details>
+  <summary><strong>🏛️ Piazza delle Erbe – plac, który widział wszystko</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4432° N, 10.9978° E</em></p>
+
+  <p>
+    <strong>Piazza delle Erbe</strong> to serce historycznego centrum Werony – miejsce, gdzie życie toczy się od czasów starożytnego Rzymu. Dawniej był to rzymski forum, czyli rynek i centrum życia publicznego. Dziś to jeden z najbardziej fotogenicznych placów we Włoszech, który zachwyca na każdym kroku – nie tylko architekturą, ale też atmosferą.
+  </p>
+
+  <p>
+    Otaczają go kolorowe kamienice z freskami, renesansowe pałace i zabytki, które mogłyby spokojnie zagrać główne role w historycznym serialu. Jest tu <strong>Wieża Lamberti</strong>, z której można spojrzeć na miasto z góry (i złapać zadyszkę po wejściu schodami), <strong>Fontanna Madonna Verona</strong> – średniowieczna dama z rzymską duszą – oraz <strong>Dom Mazzantiego</strong> z malowidłami, które zdobią fasadę niczym starożytny komiks.
+  </p>
+
+  <p>
+    Na placu codziennie odbywa się targ – sprzedawcy oferują wszystko: od świeżych owoców po pamiątki, magnesy i kapelusze na włoską przygodę. Wokół znajdziesz też knajpki i kawiarnie – idealne miejsce, by wypić espresso lub zjeść gelato, patrząc, jak Werona pulsuje życiem.
+  </p>
+
+  <p>
+    Wieczorem plac zmienia się w scenę – światła, dźwięki rozmów, muzyka ulicznych grajków. Piazza delle Erbe to Werona w pigułce: piękna, głośna, klimatyczna i absolutnie niezapomniana.
+  </p>
+
+  <ul>
+    <li><strong>Co zobaczyć:</strong> Torre dei Lamberti, Madonna Verona, Dom Mazzantiego</li>
+    <li><strong>Wskazówka:</strong> Najlepszy czas na zdjęcia – poranek lub zachód słońca</li>
+    <li><strong>Pro tip:</strong> Wypij spritza na tarasie i poczuj się jak bohater włoskiego filmu</li>
+  </ul>
+</details>
+
 
   <details>
     <summary><strong>🔔 Torre dei Lamberti – wieża z widokiem</strong></summary>
@@ -85,13 +195,30 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
   <details>
-    <summary><strong>🌉 Most Scaligero – spacer przez średniowiecze</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4411° N, 10.9889° E</em></p>
-    <p>
-      Kamienno-ceglany most z XIV wieku z charakterystycznymi wieżyczkami i łukami to nie tylko zabytek, ale i jedno z najromantyczniejszych miejsc w Weronie. Spacerując nim o zachodzie słońca, masz widok na rzekę Adygę i miasto jak z renesansowego obrazu. Nocą bywa tajemniczy – jak jego historia.
-    </p>
+  <summary><strong>🌉 Most Scaligero – średniowieczny cud inżynierii i ucieczek</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.4414° N, 10.9867° E</em></p>
+
+  <p>
+    <strong>Ponte Scaligero</strong>, czyli Most Scaligero, to nie tylko jeden z najpiękniejszych mostów w Weronie, ale też kawał porządnej, średniowiecznej inżynierii z twistem dramatycznym. Zbudowany w XIV wieku jako część systemu obronnego <strong>Castelvecchio</strong>, miał służyć... do szybkiej ucieczki z zamku. Sprytne, co?
+  </p>
+
+  <p>
+    Most wyróżnia się czerwonymi cegłami, wysokimi blankami i charakterystycznymi, ostro zakończonymi łukami. Swego czasu był jednym z najdłuższych kamiennych mostów na świecie. W II wojnie światowej został wysadzony przez Niemców, ale Włosi odbudowali go z miłością i dbałością o każdy detal – jakby układali puzzle z XIV wieku.
+  </p>
+
+  <p>
+    Przejście przez Most Scaligero to podróż w czasie. Z jednej strony widok na Adygę i zabytkowe mury zamku, z drugiej – panoramę Werony, która wygląda jak z ilustracji do średniowiecznej baśni. Idealne miejsce na spacer, zdjęcia, zachwyty i... może nawet jedno westchnienie rodem z Romea i Julii.
+  </p>
+
+  <ul>
+    <li><strong>Dojście:</strong> Zaledwie kilka kroków od Castelvecchio – wejście możliwe od strony dziedzińca lub z nadbrzeża</li>
+    <li><strong>Wstęp:</strong> Bezpłatny – mostem można przejść o każdej porze dnia (i nocy!)</li>
+    <li><strong>Wskazówka:</strong> Idealne miejsce na zdjęcia o złotej godzinie lub przy pełni księżyca</li>
+  </ul>
+</details>
   </details>
 
+---
 
 <details>
   <summary><strong>🕵️ Legendy</strong></summary>
@@ -312,8 +439,8 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
-
 ---
+
 <details>
   <summary><strong>🍽️ Gdzie zjeść w Weronie</strong></summary>
 
