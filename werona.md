@@ -70,15 +70,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     <li><strong>Rada:</strong> Jeśli możesz – wybierz się na koncert lub operę wieczorem. Nocna Arena, przy świetle pochodni i dźwiękach orkiestry, to przeżycie z kategorii „życie udane”.</li>
   </ul>
 </details>
-
-
-  <details>
-    <summary><strong>🏠 Dom Julii – balkon, który zna cały świat</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.4386° N, 10.9944° E</em></p>
-    <p>
-      Legendarne miejsce inspirowane opowieścią Szekspira o Romeu i Julii. Choć historia to literacka fikcja, dom z XIV wieku przy Via Cappello przyciąga tłumy zakochanych. Pod słynnym balkonem można napisać list do Julii, dotknąć posągu jej figury dla szczęścia w miłości, albo po prostu rozmarzyć się o wielkiej miłości… z happy endem.
-    </p>
-  </details>
+  
 <details>
   <summary><strong>🏠 Dom Julii – balkon, listy i miłość na ścianach</strong></summary>
   <p><strong>Współrzędne:</strong> <em>45.4385° N, 10.9991° E</em></p>
@@ -215,13 +207,16 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     <li><strong>Wstęp:</strong> Bezpłatny – mostem można przejść o każdej porze dnia (i nocy!)</li>
     <li><strong>Wskazówka:</strong> Idealne miejsce na zdjęcia o złotej godzinie lub przy pełni księżyca</li>
   </ul>
-</details>
+  
+   </details>
+   
   </details>
+  
 
 ---
 
 <details>
-  <summary><strong>🕵️ Legendy</strong></summary>
+   <summary><strong>🕵️ Legendy</strong></summary>
 
  
     <h3>🏠 Dom Julii – miłość i marmurowy cud</h3>
@@ -256,8 +251,6 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
       Ten malowniczy most łączący Castelvecchio z zachodnim brzegiem Adygi skrywa opowieść o niespełnionej miłości między córką rodu della Scala a synem wrogiej rodziny. Dziewczyna rzuciła się z mostu, a od tej pory – według legendy – przy pełni księżyca słychać płacz i widuje się kobietę w białej sukni spacerującą po moście. Miejscowi twierdzą, że to znak, by nie igrać z uczuciami.
     </p>
   </details>
-
-</details>
 
 ---
 
