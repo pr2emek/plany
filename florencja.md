@@ -83,8 +83,11 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Santa Maria del Fiore to nie tylko kościół – to historia, duma, geniusz ludzki zaklęty w marmurze i cegle. Nie odwiedzić jej, będąc we Florencji, to jak nie zjeść tam lodów – po prostu nie wypada!
   </p>
-</details>
 
+  <p>🪙 Ciekawostka: Kula, która spadła z nieba-W 1601 roku z kopuły Katedry Santa Maria del Fiore spadła ogromna kula – tzw. <strong>palla</strong> – wykonana z miedzi, mierząca ponad 2 metry średnicy i ważąca ok. 1800 kg! Kula runęła z wysokości, uderzyła w bruk Piazza del Duomo i… nikogo nie zabiła – co mieszkańcy uznali za cud. Dziś na placu możesz znaleźć <strong>metalową płytkę</strong> zaznaczającą dokładne miejsce, gdzie spadła.
+  </p>
+  
+</details>
 
   <details>
   <summary><strong>🌉 Ponte Vecchio – most z duszą (i biżuterią)</strong></summary>
