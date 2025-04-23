@@ -315,6 +315,14 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
       Zamiast wdrapywać się na wieżę Bazyliki św. Marka z tłumem selfie-sticków – wskocz w vaporetto i popłyń na wyspę San Giorgio. Tamtejsza dzwonnica oferuje ten sam widok – tylko bez kolejek, przepychania i hałasu. Panorama laguny, Wenecji i dachów jak z obrazu Canaletta.
     </p>
   </details>
+  
+<details>
+<summary><strong>🩸 Kamień, który krwawił – legenda o Campo dei Mori</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.2644° N, 12.1956° E</em></p>
+    <p>
+      Na Campo dei Mori znajduje się rzeźba mężczyzny w turbanie – podobno to wizerunek kupca, który oszukał świętego. Według legendy, został przeklęty i zamieniony w kamień. Przez wieki mieszkańcy twierdzili, że z jego nosa czasem wypływa krew. Dziś można to „miejsce krwawienia” zobaczyć na jego twarzy.
+    </p>
+</details>
 
   <details>
     <summary><strong>🪞 Zwierciadło w Pałacu Dożów – sekretne drzwi w lustrze</strong></summary>
