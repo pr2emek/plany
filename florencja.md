@@ -153,43 +153,6 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>📖 Legendy</strong></summary>
-
-  <h3>🧟‍♂️ „Kamienna głowa sprawiedliwości” – Piazza della Signoria</h3>
-  <p><em>Współrzędne: 43.7689° N, 11.2567° E</em></p>
-  <p>
-    Spójrz uważnie na ścianę Palazzo Vecchio, a zobaczysz... głowę. Wmurowaną na wysokości wzroku. Legenda mówi, że artysta (niektórzy twierdzą, że sam Michał Anioł) wyrzeźbił ją jednym ruchem dłuta, znudzony rozmową z przechodniem. Inna wersja – to portret skazańca, który tam czekał na egzekucję. Nie patrz zbyt długo – ponoć przyciąga nieszczęścia.
-  </p>
-
-  <h3>🌙 Duch zakonnicy z Mostu Złotników</h3>
-  <p><em>Współrzędne: 43.7679° N, 11.2531° E (Ponte Vecchio)</em></p>
-  <p>
-    Most Złotników pełen jest życia, ale nocą... podobno nie jesteś tam sam. W renesansie zakonnica z pobliskiego klasztoru została skazana za miłość do żołnierza. Dziś jej cień wędruje nocami w stronę rzeki. Jeśli poczujesz nagły chłód – to może właśnie ona. Lokalsi twierdzą, że lepiej nie zostawać tam po zmroku.
-  </p>
-
-  <h3>🔮 Zegar w Palazzo Vecchio, który nie działa... ale ostrzega</h3>
-  <p><em>Współrzędne: 43.7693° N, 11.2560° E</em></p>
-  <p>
-    Na wieży Palazzo Vecchio znajduje się zegar – niby zwykły, ale... chodzi tylko wtedy, gdy miastu grozi niebezpieczeństwo. Kiedyś ponoć ruszył sam z siebie na dzień przed powodzią w 1966 roku. Od tamtej pory mieszkańcy zerkają na niego z niepokojem – bo kiedy tyka, coś może się wydarzyć.
-  </p>
-
-  <h3>⛓️ Uwięziony dzwon – Santa Maria del Fiore</h3>
-  <p><em>Współrzędne: 43.7731° N, 11.2560° E</em></p>
-  <p>
-    W słynnej katedrze znajduje się dzwon, który podobno nigdy nie bije przypadkiem. Legenda mówi, że kiedyś bił sam z siebie, ostrzegając miasto przed najazdem. Później kapłani go "spętali" – i dziś rozlega się tylko w ważnych chwilach. Niektórzy wierzą, że usłyszenie go oznacza ważną zmianę w życiu.
-  </p>
-
-  <h3>🐍 Bazyliszek z Via Tosinghi</h3>
-  <p><em>Współrzędne: 43.7734° N, 11.2551° E</em></p>
-  <p>
-    W średniowieczu mówiono, że pod domem przy Via Tosinghi grasował bazyliszek – stworzenie o spojrzeniu śmiertelnym jak rachunek za nocleg w centrum Florencji. Dopiero modlitwy zakonników i relikwie św. Zenobiusza wygnały potwora. Dziś kamienica stoi spokojnie, ale niektórzy mówią, że nocą słychać syk zza ściany...
-  </p>
-
-</details>
-
----
-
-<details>
   <summary><strong>📅 Plan zwiedzania Florencji w 1 dzień</strong></summary>
 
   <h3>⛪ Start: Katedra Santa Maria del Fiore (Duomo)</h3>
@@ -244,6 +207,44 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
+
+---
+
+<details>
+  <summary><strong>📖 Legendy</strong></summary>
+
+  <h3>🧟‍♂️ „Kamienna głowa sprawiedliwości” – Piazza della Signoria</h3>
+  <p><em>Współrzędne: 43.7689° N, 11.2567° E</em></p>
+  <p>
+    Spójrz uważnie na ścianę Palazzo Vecchio, a zobaczysz... głowę. Wmurowaną na wysokości wzroku. Legenda mówi, że artysta (niektórzy twierdzą, że sam Michał Anioł) wyrzeźbił ją jednym ruchem dłuta, znudzony rozmową z przechodniem. Inna wersja – to portret skazańca, który tam czekał na egzekucję. Nie patrz zbyt długo – ponoć przyciąga nieszczęścia.
+  </p>
+
+  <h3>🌙 Duch zakonnicy z Mostu Złotników</h3>
+  <p><em>Współrzędne: 43.7679° N, 11.2531° E (Ponte Vecchio)</em></p>
+  <p>
+    Most Złotników pełen jest życia, ale nocą... podobno nie jesteś tam sam. W renesansie zakonnica z pobliskiego klasztoru została skazana za miłość do żołnierza. Dziś jej cień wędruje nocami w stronę rzeki. Jeśli poczujesz nagły chłód – to może właśnie ona. Lokalsi twierdzą, że lepiej nie zostawać tam po zmroku.
+  </p>
+
+  <h3>🔮 Zegar w Palazzo Vecchio, który nie działa... ale ostrzega</h3>
+  <p><em>Współrzędne: 43.7693° N, 11.2560° E</em></p>
+  <p>
+    Na wieży Palazzo Vecchio znajduje się zegar – niby zwykły, ale... chodzi tylko wtedy, gdy miastu grozi niebezpieczeństwo. Kiedyś ponoć ruszył sam z siebie na dzień przed powodzią w 1966 roku. Od tamtej pory mieszkańcy zerkają na niego z niepokojem – bo kiedy tyka, coś może się wydarzyć.
+  </p>
+
+  <h3>⛓️ Uwięziony dzwon – Santa Maria del Fiore</h3>
+  <p><em>Współrzędne: 43.7731° N, 11.2560° E</em></p>
+  <p>
+    W słynnej katedrze znajduje się dzwon, który podobno nigdy nie bije przypadkiem. Legenda mówi, że kiedyś bił sam z siebie, ostrzegając miasto przed najazdem. Później kapłani go "spętali" – i dziś rozlega się tylko w ważnych chwilach. Niektórzy wierzą, że usłyszenie go oznacza ważną zmianę w życiu.
+  </p>
+
+  <h3>🐍 Bazyliszek z Via Tosinghi</h3>
+  <p><em>Współrzędne: 43.7734° N, 11.2551° E</em></p>
+  <p>
+    W średniowieczu mówiono, że pod domem przy Via Tosinghi grasował bazyliszek – stworzenie o spojrzeniu śmiertelnym jak rachunek za nocleg w centrum Florencji. Dopiero modlitwy zakonników i relikwie św. Zenobiusza wygnały potwora. Dziś kamienica stoi spokojnie, ale niektórzy mówią, że nocą słychać syk zza ściany...
+  </p>
+
+</details>
+
 ---
 
 
