@@ -335,136 +335,107 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Plany zwiedzania</strong></summary>
 
- <details> <summary><strong>📅 Dzień 1 – dzień pełen stylu, sztuki i... Aperola</strong></summary>
+ <details>
+  <summary><strong>📅 Dzień 1 – Klasyczna Wenecja: serce miasta i ikony na początek</strong></summary>
 
-  <h3>⛪ Start przy Katedrze Duomo</h3>
+  <h3>⛪ Bazylika św. Marka – złoto, mozaiki i trochę świętości</h3>
   <p>
-    Zacznij dzień z rozmachem – pod Katedrą, która wygląda, jakby ktoś postawił gotycki tort z marmuru. Zrób zdjęcie z gołębiem (jeśli się da), wejdź do środka i nie zapomnij o <strong>wejściu na dach</strong> – widok jak z filmu o aniołach!
+    Start dnia w najświętszym (i najbardziej błyszczącym) miejscu Wenecji. Bazylika św. Marka to jak bizantyjska bajka – tylko prawdziwa. Wejdź do środka, podziwiaj złote mozaiki i nie zapomnij wejść na taras – widok na Plac św. Marka wart każdego schodka. Wstęp do bazyliki jest darmowy, ale za wejście na taras i skarbiec – parę euro. Warto!
   </p>
 
-  <h3>🛍️ Galleria Vittorio Emanuele II</h3>
+  <h3>🏛️ Pałac Dożów – gdzie rządził Wenecjanin w pelerynie</h3>
   <p>
-    Po modlitwie – modowe szaleństwo. Przejdź się po jednej z najstarszych galerii handlowych świata. Poszukaj mozaiki z bykiem – i zakręć obcasem na jego "klejnotach". Podobno przynosi szczęście... i rabaty.
+    Tuż obok bazyliki – siedziba weneckiej władzy z marmuru, fresków i intryg. Zobaczysz bogato zdobione sale, słynne schody złocone, komnaty sądowe i most Westchnień – przez który przechodzili skazańcy do więzienia. Czasem i turyści, bo przejście jest w pakiecie. Polecam kupić bilety online, bo kolejka dłuższa niż w urzędzie paszportowym w lipcu.
   </p>
 
-  <h3>🏰 Zamek Sforzów i Park Sempione</h3>
+  <h3>📸 Plac św. Marka – selfie z gołębiem i dzwonnicą</h3>
   <p>
-    Spacer do zamku, gdzie kiedyś rządzili możni, dziś królują turyści i pawie. Wpadnij do muzeów (jeśli masz czas), a potem odpocznij w Parku Sempione – najlepiej z lodem w ręku i słońcem na twarzy. A może piknik?
+    Skoro jesteś już przy Bazylice i Pałacu – zrób rundkę po samym placu. Gołębie będą cię chciały polubić (lub twoje przekąski), a Ty rozglądaj się dookoła: wieża zegarowa, dzwonnica św. Marka, arkady i eleganckie kawiarnie. Uwaga – cappuccino tu kosztuje tyle, co nocleg w hostelu. Ale widok? Bezcenny.
   </p>
 
-  <h3>🍕 Lunch – pizza albo risotto alla milanese</h3>
+  <h3>🛍️ Spacer pod arkadami – witryny, muzyka i klimat</h3>
   <p>
-    Czas na paliwo! Wybierz klasykę lombardzką: <strong>risotto z szafranem</strong> albo pizzę (bo czemu nie?). Świetne miejsca to <em>Piz</em> lub <em>Trattoria Milanese</em>. Zjesz, jakbyś był u włoskiej nonny.
+    Przejdź się pod arkadami wokół placu – butików tu więcej niż gołębi, a co kilka kroków słychać muzykę na żywo. Idealne miejsce na zakup pamiątek (maski, szkło Murano, magnesy) albo kawę „dla ludzi z planem dnia” – czyli przy barze, nie przy stoliku.
   </p>
 
-  <h3>🎨Ukryty ogród przy Corso di Porta Venezia</h3>
+  <h3>🌉 Most Rialto – król mostów i sklepów</h3>
   <p>
-    Tylko wtajemniczeni wiedzą, że przy ulicy z butikami kryje się zielony sekret – <strong>Giardino Perego</strong>. Mały park z palmami, cichy, idealny na oddech od miejskiego hałasu. I jeszcze lepszy do zdjęcia na Instagrama.
+    Króciutki spacer i jesteś przy Mostku Rialto. Najstarszy most na Canale Grande, który wygląda jak pocztówka. Po drodze czeka cię widok, zakupy i – oczywiście – tłum. Ale to Wenecja. Stań na środku, zrób zdjęcie, wciągnij świeże powietrze (z nutką wody) i idź dalej.
   </p>
 
-  <h3>🚃 Przejażdżka widokowym tramwajem</h3>
+  <h3>🥪 Lunch: spróbuj cicchetti i tramezzini!</h3>
   <p>
-    Wsiądź do starego <strong>żółtego tramwaju nr 1</strong> – drewniane ławki, stukot torów, widoki na mediolańskie kamienice. Wersja slow travel dla tych, którzy nie lubią biegać z planem zwiedzania jak po espresso.
+    Wybierz się do lokalnego bàcari – to weneckie tapas bary. Na ladzie znajdziesz <strong>cicchetti</strong> – małe kanapeczki, oliwki, smażone kuleczki, sardynki, karczochy… Pyszne i tanie. Tramezzini (kanapki z białego chleba z toną nadzienia) też warto złapać na szybko. Popij małym winem – zwanym „ombra”.
   </p>
 
-  <h3>📸 Sekretne miejsce: Vicolo dei Lavandai</h3>
+  <h3>🚤 Popołudnie: rejs vaporetto po Canale Grande</h3>
   <p>
-    Stary zaułek pralni nad kanałem Naviglio Grande. Niby nic, a czaruje jak scenografia z filmu. Idealne miejsce na zdjęcia z klimatem i chwilę ciszy przed wieczornym szaleństwem.
+    Wsiądź w tramwaj wodny <strong>vaporetto nr 1</strong> i zrób rejs z widokiem. Najlepiej usiąść z przodu lub z tyłu – jak w kinie, tylko zamiast Avengersów masz pałace. Trasa od Piazzale Roma do San Marco trwa ok. 45 minut i daje pełne spektrum weneckiego stylu.
   </p>
 
-  <h3>🍹 Aperitivo time!</h3>
+  <h3>🍦 Przerwa na gelato – lodowe obowiązki</h3>
   <p>
-    Udaj się nad Navigli – najbardziej klimatyczne miejsce na wieczorny <strong>Aperol Spritz</strong>. Wybierz bar z tarasem, zamów drinka i ciesz się bufetem przekąsek, które w Mediolanie często są lepsze niż niejedna kolacja.
+    Gelateria Nico, Suso albo Gelatoteca S. Croce – wybór należy do Ciebie. Lody pistacjowe lub cytrynowe z widokiem na kanał? Wenecja na 100%.
   </p>
 
-  <h3>🌙 Spacer poświetlonymi kanałami</h3>
+  <h3>🌇 Wieczór: zachód słońca z Zattere lub Giudecca</h3>
   <p>
-    Na zakończenie dnia – spacer wzdłuż kanałów, gdzie lampki odbijają się w wodzie, ludzie grają na gitarze, a ty myślisz, że jednak się zakochałeś… w tym mieście. I bardzo dobrze!
-  </p>
-</details>
-
-<details>
-  <summary><strong>📅 Dzień 2 – Wycieczka nad Jezioro Como</strong></summary>
-
-  <h3>🚆 Pociąg z Mediolanu do Como</h3>
-  <p>
-    Wstań wcześniej, złap kawę i wsiądź w pociąg <strong>Trenord</strong> z dworca <strong>Milano Cadorna</strong> do stacji <strong>Como Lago</strong>. Podróż trwa niecałą godzinę, a widoki już za oknem zaczną Cię zachwycać.
-  </p>
-
-  <h3>🌊 Spacer po Como i wizyta przy jeziorze</h3>
-  <p>
-    Po przyjeździe idź prosto nad jezioro. Nadbrzeżna promenada z widokiem na góry i łódki to idealne miejsce na początek dnia. Możesz też odwiedzić katedrę <strong>Duomo di Como</strong> – trochę jak miniaturowy kuzyn tego z Mediolanu.
-  </p>
-
-  <h3>🚠 Kolejką na Brunate</h3>
-  <p>
-    Wsiądź w <strong>Funicolare Como–Brunate</strong> – klimatyczną kolejkę, która zabierze Cię na wzgórze. W kilka minut znajdziesz się <strong>na tarasie widokowym</strong> z panoramą jeziora, miasteczka i Alp w tle. Widok wart każdego euro!
-  </p>
-
-  <h3>🛥️ Rejs po jeziorze (np. do Bellagio)</h3>
-  <p>
-    Wróć na dół i wskocz na prom! <strong>Bellagio</strong> to klasyk: miasteczko z kolorowymi kamieniczkami, eleganckimi ogrodami i nastrojem jak z filmu. Rejs trwa około 45 minut – usiądź na pokładzie i ciesz się każdą falą.
-  </p>
-
-  <h3>🍝 Lunch w Bellagio</h3>
-  <p>
-    Wybierz knajpkę z widokiem na wodę. Polecam klasyczne <strong>pasta al pesce di lago</strong> (makaron z rybą jeziorną) albo risotto. Po lunchu – obowiązkowy spacer po wąskich uliczkach, gdzie co drugi sklepik pachnie lawendą i limoncello.
-  </p>
-
-  <h3>🏞️ Ogrody Villa Melzi (opcjonalnie)</h3>
-  <p>
-    Jeśli masz jeszcze czas (i energię), zajrzyj do ogrodów <strong>Villa Melzi</strong> – zielony raj z rzeźbami, ścieżkami i miejscem na odpoczynek w cieniu palm. Idealne miejsce na „nicnierobienie” w wersji premium.
-  </p>
-
-  <h3>⛴️ Powrót promem do Como</h3>
-  <p>
-    Wsiądź na prom powrotny (z Bellagio lub innego miasteczka) i daj się ponieść spokojnej tafli jeziora. To rejs, który zrelaksuje Cię bardziej niż dzień w spa.
-  </p>
-
-  <h3>🚆Pociąg z Como do Mediolanu</h3>
-  <p>
-    Ostatnie spojrzenie na jezioro, kawa na wynos z dworca i w drogę powrotną. Wrócisz do Mediolanu z głową pełną widoków i planem, by kiedyś tu zamieszkać. Choćby na emeryturze.
-  </p>
-
-  <h3>🌇 Kolacja i aperitivo na Navigli</h3>
-  <p>
-    Po dniu spędzonym z naturą – powrót do miejskiego zgiełku. Wskocz w tramwaj, udaj się na Navigli i zakończ dzień kieliszkiem <strong>Aperola</strong> i pizzą z bufetu. Zasłużyłeś.
+    Na wieczór uciekamy z tłumu. Przejdź na <strong>Zattere</strong> – promenadę z widokiem na kanał Giudecca. Albo przepłyń tam vaporetto i usiądź z widokiem na starą Wenecję. Zachód słońca + kieliszek prosecco = zakończenie idealne.
   </p>
 
 </details>
+
+
 <details>
-  <summary><strong>📅 Dzień 3 – Sztuka, nauka i nowoczesność</strong></summary>
+  <summary><strong>📅 Dzień 2 – Murano i Burano: szkło, kolory i totalne slow travel</strong></summary>
 
-  <h3>🎨 Pinakoteka Brera – sztuka, która patrzy</h3>
+  <h3>⛴️ Poranek: Rejs z Wenecji do Murano</h3>
   <p>
-    Zacznij od zanurzenia się w świecie sztuki w <strong>Pinacoteca di Brera</strong>, jednej z najważniejszych galerii we Włoszech. Znajdziesz tu dzieła Caravaggia, Rafaela i Mantegni, a sam budynek to architektoniczna perełka. Nawet jeśli nie jesteś koneserem – zachwycisz się.
+    Wskocz na vaporetto z przystanku <strong>Fondamente Nove</strong> (linia 4.1 lub 4.2) i popłyń na wyspę szkła. Podróż trwa około 10 minut – krótka, ale malownicza. Usiądź po stronie laguny, będzie więcej „ooo” i „aaa”.
   </p>
 
-  <h3>🧠 Muzeum Nauki i Techniki – Leonardo czeka</h3>
+  <h3>🔥 Murano – szkło, które żyje</h3>
   <p>
-    Wizyta w <strong>Muzeum Leonarda da Vinci</strong> to gratka nie tylko dla fanów techniki. Zobaczysz tam modele maszyn zaprojektowanych przez mistrza Leonarda, łodzie podwodne, pociągi, samoloty i... interaktywne wystawy, które rozbudzą wewnętrzne dziecko. Nawet to śpiące.
+    Murano to świat szkła: kolorowego, przezroczystego, dziwacznego i pięknego. Zacznij od <strong>Muzeum Szkła</strong>, gdzie dowiesz się, jak przez wieki Włosi dmuchali, formowali i… dmuchali jeszcze raz. Ale najfajniejsze jest obejrzenie pokazu w prawdziwej <strong>hucie szkła</strong>. Pan z brodą i żarem w oczach wyciąga z ognia końskiego szachowego albo kolorową wazę – magia!
   </p>
 
-  <h3>🌆 Dzielnica Brera – romantyczne zaułki i butiki</h3>
   <p>
-    Po intensywnej dawce wiedzy – coś dla duszy i oczu. Spacer po dzielnicy <strong>Brera</strong> to jak przechadzka po planie filmowym: brukowane uliczki, klimatyczne knajpki, galerie sztuki i bohema artystyczna przy espresso. Tu Mediolan pokazuje swoją wrażliwą, estetyczną stronę.
+    Potem spacer po wyspie – tu wolniej, ciszej, a kanały bardziej kameralne. Możesz też zajrzeć do lokalnych sklepików – ale uwaga: nie każde „Murano Glass” to prawdziwe Murano. Patrz na certyfikat!
   </p>
 
-  <h3>🏙️ Bosco Verticale i Piazza Gae Aulenti – nowoczesny Mediolan</h3>
+  <h3>⛴️ Popołudnie: Kurs na Burano – kolorowa bajka</h3>
   <p>
-    Czas na kontrast: skok do nowoczesności. Przenieś się do rejonu <strong>Porta Nuova</strong>, gdzie rosną futurystyczne wieżowce, a <strong>Bosco Verticale</strong> – „pionowy las” – pokazuje, jak połączyć naturę z architekturą. <strong>Piazza Gae Aulenti</strong> to idealne miejsce na chwilę odpoczynku z widokiem na... przyszłość.
+    Z Murano płyniesz dalej vaporetto (linia 12), rejs trwa ok. 30–40 minut. Idealny czas na zdjęcia, chill i zrobienie miejsca na kolejne gelato.
   </p>
 
-  <h3>🛍️ Ostatnie zakupy – Corso Como lub Galeria Rinascente</h3>
+  <h3>🌈 Burano – najbarwniejsza wyspa w lagunie</h3>
   <p>
-    Jeżeli w plecaku zostało miejsce (i w budżecie też), wstąp na <strong>Corso Como</strong> – modną uliczkę z butikami i showroomami. A jeśli szukasz klasyki – Galeria <strong>Rinascente</strong> przy Duomo oferuje wszystko: od dizajnu po jedzenie. Na jej dachu czeka bar z widokiem na katedrę!
+    Pierwsza reakcja po zejściu z pokładu? „WOW”. Domki pomalowane jak pudełko kredek – czerwone, żółte, niebieskie, różowe. Burano wygląda jak wyspa stworzona przez ilustratora książek dziecięcych.
   </p>
 
-  <h3>🍷 Kolacja pożegnalna – z widokiem albo klimatem</h3>
   <p>
-    Na ostatnią kolację wybierz coś wyjątkowego – restaurację z widokiem na dachy Mediolanu lub uroczą trattorię z domowym makaronem i winem. Pora podsumować w myślach podróż i... planować kolejną.
+    Pospaceruj wśród domków, zrób milion zdjęć i zajrzyj do <strong>muzeum koronkarstwa</strong> – Burano słynie z ręcznie robionych koronek, które przez wieki były synonimem luksusu. Nawet królowe miały tu swoje ulubione hafciarki.
   </p>
 
+  <h3>🍝 Obiad na Burano</h3>
+  <p>
+    Jeśli lubisz ryby i owoce morza – jesteś w raju. Spróbuj <strong>risotto di go</strong> – specjalność z lokalnych ryb. Restauracje z widokiem na kanał, stolik na zewnątrz, kieliszek białego wina – i masz gotowy obrazek z folderu "życie idealne".
+  </p>
+
+  <h3>🧁 Na deser – kolorowy dom Bepi</h3>
+  <p>
+    Znajdź najbardziej odjechany domek na wyspie – <strong>Casa di Bepi</strong>. Malowany w trójkąty, koła, kwadraty – zupełnie jakby Picasso zrobił remont. Must see i must Insta!
+  </p>
+
+  <h3>🚤 Powrót do Wenecji</h3>
+  <p>
+    Złap vaporetto (linia 12) z powrotem do Wenecji – najlepiej na Fondamente Nove. Wczesnym wieczorem znów jesteś w mieście kanałów i masek, gotowy na kolację i jeszcze jeden spacer.
+  </p>
+
+  <h3>🌙 Wieczór: kolacja przy kanale</h3>
+  <p>
+    Wróć do Wenecji i zakończ dzień w jednej z restauracji przy Canale Grande. Albo usiądź z kieliszkiem prosecco na <strong>Campo Santa Margherita</strong> – studencki klimat, luz, i muzyka z ulicy. Wenecja w wersji wieczornej = 10/10.
+  </p>
 </details>
 
 </details>
