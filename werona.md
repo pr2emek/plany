@@ -92,8 +92,6 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     </p>
   </details>
 
-</details>
-
 
 <details>
   <summary><strong>🕵️ Legendy</strong></summary>
@@ -131,8 +129,6 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
       Ten malowniczy most łączący Castelvecchio z zachodnim brzegiem Adygi skrywa opowieść o niespełnionej miłości między córką rodu della Scala a synem wrogiej rodziny. Dziewczyna rzuciła się z mostu, a od tej pory – według legendy – przy pełni księżyca słychać płacz i widuje się kobietę w białej sukni spacerującą po moście. Miejscowi twierdzą, że to znak, by nie igrać z uczuciami.
     </p>
   </details>
-
-</details>
 
 </details>
 
