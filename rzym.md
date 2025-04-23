@@ -773,8 +773,35 @@ Ten dzień pozwoli Ci zobaczyć Wieczne Miasto z innej perspektywy – z tarasu,
   </p>
 
   <h3>✈️ Lotniska</h3>
-  <p><strong>Fiumicino:</strong> Leonardo Express (14€), autobus (5–7€), taksówka (50€), Uber/Bolt (drożej).<br>
-     <strong>Ciampino:</strong> autobus + metro (~2€), bezpośredni autobus (4–6€), taksówka (31€).</p>
+  <summary><strong>🛬 Dojazd z lotniska do Rzymu</strong></summary>
+
+  <h3>✈️ Lotnisko Fiumicino (Leonardo da Vinci – FCO)</h3>
+  <p>
+    Główne lotnisko Rzymu, położone ok. 30 km od centrum. Duże, nowoczesne i... pełne turystów. Ale spokojnie – dojazd do miasta nie jest skomplikowany.
+  </p>
+  <ul>
+    <li><strong>🚆 Leonardo Express:</strong> bezpośredni pociąg do <em>Roma Termini</em>. Kursuje co 15–30 minut, czas przejazdu: ok. 32 min. Cena: 14€.</li>
+    <li><strong>🚉 Regionalny FL1:</strong> tańszy (8€), ale nie dojeżdża do Termini – zatrzymuje się m.in. na <em>Trastevere</em>, <em>Tiburtina</em>, <em>Ostiense</em>.</li>
+    <li><strong>🚌 Shuttle Busy:</strong> prywatne firmy (Terravision, SitBus, TAM). Czas przejazdu: 45–60 min, cena: 6–8€.</li>
+    <li><strong>🚖 Taksówka:</strong> oficjalna taryfa: 50€ do centrum (z góry ustalona cena, obejmuje 4 osoby i bagaż).</li>
+  </ul>
+
+  <h3>✈️ Lotnisko Ciampino (CIA)</h3>
+  <p>
+    Mniejsze lotnisko, głównie dla tanich linii (Ryanair, Wizz Air), ok. 15 km od centrum. Szybko się przez nie przechodzi – szybki też jest dojazd do miasta.
+  </p>
+  <ul>
+    <li><strong>🚌 Shuttle Bus:</strong> np. <em>Terravision</em>, <em>SitBus</em> – bezpośredni do <em>Roma Termini</em>. Czas: 40 min, cena: 6€.</li>
+    <li><strong>🚌 + 🚆:</strong> lokalny autobus 520 lub 720 do stacji metra A (Cinecittà/Subaugusta) lub do stacji kolejowej <em>Ciaccia</em>, stamtąd pociąg do Termini. Cena biletu zintegrowanego: 1,50€.</li>
+    <li><strong>🚖 Taksówka:</strong> oficjalna taryfa: 31€ do centrum.</li>
+  </ul>
+
+  <h3>💡 Porady praktyczne</h3>
+  <ul>
+    <li>Kup bilety online wcześniej – zwłaszcza na busy i pociąg Leonardo Express.</li>
+    <li>Unikaj „taksówkarzy z ręki” – korzystaj tylko z oficjalnych białych taksówek z logo miasta Rzymu.</li>
+    <li>Na pociągi regionalne i Leonardo Express – pamiętaj o <strong>skasowaniu biletu</strong> przed wejściem na peron (zielone maszyny).</li>
+  </ul>
  
 </details>
 
