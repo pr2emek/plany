@@ -278,6 +278,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
     <h3>🦶 Odcisk stopy na Piazza della Signoria</h3>
+    <p><em>Współrzędne: 43.7696° N, 11.2558° E</em></p>
     <p>
       Na placu przed Palazzo Vecchio znajdziesz <strong>ślady stopy</strong> wyryte w kamieniu. Jedna wersja mówi, że zostawił je strażnik znudzony czekaniem. Druga – że to ślad po diable próbującym złapać grzesznika. Znajdź go i dotknij – ponoć przynosi szczęście.
     </p>
