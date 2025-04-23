@@ -277,6 +277,16 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     Korytarz Vasariego to ukryte przejście, które łączy Palazzo Vecchio z Palazzo Pitti. Został zbudowany w 1565 roku dla rodziny Medyceuszy, by mogli przemieszczać się między pałacami bez wchodzenia na ulice. Biegnie m.in. nad Ponte Vecchio, przez sklepiki jubilerów! Zwykle niedostępny, czasem otwierany podczas specjalnych wydarzeń – jeśli masz okazję, skorzystaj!
   </p>
 
+    <h3>🦶 Odcisk stopy na Piazza della Signoria</h3>
+    <p>
+      Na placu przed Palazzo Vecchio znajdziesz <strong>ślady stopy</strong> wyryte w kamieniu. Jedna wersja mówi, że zostawił je strażnik znudzony czekaniem. Druga – że to ślad po diable próbującym złapać grzesznika. Znajdź go i dotknij – ponoć przynosi szczęście.
+    </p>
+  
+  <h3>🧑‍🎨 Autoportret na fasadzie katedry</h3>
+    <p>
+      Po lewej stronie wejścia do Katedry Santa Maria del Fiore znajdziesz <strong>miniaturową rzeźbę głowy</strong> z uśmiechem. To prawdopodobnie autoportret jednego z kamieniarzy, który chciał po cichu zostawić po sobie ślad. Niewielki gest – wieczna obecność.
+    </p>
+    
   <h3>🖼️ Tabernacoli – uliczne kapliczki z duszą</h3>
   <p><em>Rozsiane po całym mieście</em></p>
   <p>
