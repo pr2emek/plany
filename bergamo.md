@@ -117,15 +117,32 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
   <details>
-    <summary><strong>🏞️ Parco della Rocca – twierdza z zieloną duszą</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7052° N, 9.6648° E</em></p>
-    <p>
-      Jeśli chcesz połączyć zieleń, historię i widok, który wywołuje efekt "wow" – to jesteś w dobrym miejscu. Rocca to dawna forteca z XIV wieku, dziś otoczona parkiem. Można wejść na wieżę i spojrzeć na miasto z lotu ptaka (albo drona). Idealne miejsce na piknik lub ucieczkę od tłumu turystów.
-    </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Park za darmo, wejście na wieżę – ok. 3€</li>
-    </ul>
-  </details>
+  <summary><strong>🌳 Parco della Rocca – zieleń z widokiem na wieki</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>45.7064° N, 9.6606° E</em></p>
+
+  <p>
+    Jeśli spacerujesz po górnym Bergamo i nagle czujesz, że potrzebujesz oddechu od kamiennych uliczek i barokowych fasad – skieruj kroki do <strong>Parco della Rocca</strong>. To zielona enklawa w samym sercu Città Alta, idealna na piknik, zachwyt, chwilę ciszy albo... romantyczne wyznanie.
+  </p>
+
+  <p>
+    Park znajduje się wokół XIII-wiecznej <strong>Rocca di Bergamo</strong> – dawnej fortecy, która patrzy z góry na miasto z miną „widziałam już wszystko”. Dziś z jej murów rozciąga się jeden z najpiękniejszych widoków na okolicę: dolinę, niższe dzielnice Bergamo, a przy dobrej pogodzie – nawet aż po Alpy!
+  </p>
+
+  <p>
+    Ale Parco della Rocca to nie tylko widoki. To również alejki ocienione drzewami, stare mury, ławeczki (tu warto się zatrzymać), a także małe muzeum wojskowe (Museo Storico). Spacerując tutaj, czujesz się trochę jak w połączeniu ogrodu botanicznego z podręcznikiem historii – w najlepszym tego słowa znaczeniu.
+  </p>
+
+  <ul>
+    <li><strong>Idealne na:</strong> spacer z kawą, zdjęcia panoramiczne, randkę z widokiem lub ucieczkę od tłumu.</li>
+    <li><strong>Wejście:</strong> darmowe (Twój portfel też poczuje ulgę).</li>
+    <li><strong>Jak dojść:</strong> z Piazza Vecchia w górę ulicą Salita della Rocca – kilka minut wspinaczki, ale warto!</li>
+  </ul>
+
+  <p>
+    Parco della Rocca to jedno z tych miejsc, które nie krzyczą "turystyczna atrakcja", a jednak zostają w pamięci. I na zdjęciach. A jeśli usiądziesz tu z focaccią i popatrzysz na zachodzące słońce – istnieje spore ryzyko, że zakochasz się w Bergamo na dobre.
+  </p>
+</details>
+
 
   <details>
     <summary><strong>🖼️ Accademia Carrara – dla fanów sztuki i ram złoconych</strong></summary>
