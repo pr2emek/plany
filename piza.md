@@ -6,44 +6,42 @@ permalink: /piza.html
 
 # Piza 🇮🇹
 
-Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
 <details>
   <summary><strong>📌 Podstawowe informacje</strong></summary>
 
-  <h3>🏛️ Florencja – kolebka renesansu i miasto, które uczy patrzeć w górę</h3>
+  <h3>🗼 Piza – nie tylko wieża, która się nie słucha grawitacji</h3>
   <p>
-    Florencja to nie tylko muzeum pod gołym niebem – to miasto, które wygląda, jakby ktoś rozrzucił arcydzieła po całej mapie. Tutaj każdy zakątek tchnie historią, a każdy kościół kryje więcej dzieł sztuki niż niejedno muzeum w Europie. To właśnie tu narodził się renesans, tworzył Leonardo, rzeźbił Michał Anioł i rządził (czasem dosłownie) ród Medyceuszy.
+    Piza to miasto, które zna cały świat... choćby z memów i fotek, na których ludzie próbują "podtrzymać" słynną wieżę. Ale spokojnie – to nie wszystko, co ma do zaoferowania! Choć <strong>Krzywa Wieża</strong> kradnie show, Piza to też eleganckie place, tajemnicze zaułki i rzeka Arno, która przecina ją z gracją modelki na wybiegach.
   </p>
 
   <p>
-    Spacer po Florencji to jak podróż w czasie – brukowane ulice, renesansowe pałace, kopuła katedry, która wydaje się większa niż niebo i oczywiście... słynna rzeźba Dawida. To miasto, które potrafi poruszyć każdego – nawet jeśli nie pamiętasz, kto to był Brunelleschi.
+    To właśnie tutaj średniowiecze flirtuje z renesansem, a klimat włoskiego dolce vita wylewa się z każdej kawiarni. Mimo turystycznej sławy, Piza zachowała swój lokalny charakter – więc obok tłumu z aparatami znajdziesz też studentów, grających w szachy na skwerze, i starsze panie plotkujące przy espresso.
   </p>
 
-  <h3>🛬 Jak dostać się do Florencji?</h3>
+  <p>
+    Miasto jest kompaktowe – idealne na jednodniowy wypad lub leniwe zwiedzanie na piechotę. Do tego świetnie skomunikowane – tylko 15 minut pociągiem od lotniska i już możesz sprawdzać, czy wieża naprawdę się przechyla (spoiler: tak!).
+  </p>
+
+  <h3>✈️ Jak się dostać do Pizy?</h3>
   <ul>
-    <li><strong>Samolot:</strong> Lotnisko <em>Aeroporto di Firenze-Peretola (FLR)</em> znajduje się ok. 5 km od centrum. Dogodny dojazd tramwajem linii T2 (ok. 20 minut do stacji Santa Maria Novella).</li>
-    <li><strong>Pociąg:</strong> Z Rzymu, Mediolanu czy Wenecji dotrzesz do Florencji superszybkim pociągiem Frecciarossa lub Italo. Stacja docelowa to <strong>Firenze S.M. Novella</strong>.</li>
-    <li><strong>Samochód:</strong> Lepiej nie. Serio. Wąskie uliczki, zakazy wjazdu (ZTL) i brak miejsc parkingowych to florentyński sport ekstremalny.</li>
+    <li><strong>Samolotem:</strong> Lotnisko Pisa Galileo Galilei (PSA) – jedno z najbliższych centrum lotnisk w Europie! Do centrum dojedziesz w 5 minut pociągiem <em>PisaMover</em>.</li>
+    <li><strong>Pociągiem:</strong> Bezpośrednie połączenia z Florencją (ok. 1h), Luką, Livorno i nawet Rzymem. Wysiądź na stacji <strong>Pisa Centrale</strong>.</li>
   </ul>
 
-  <h3>📍 Główne atuty Florencji:</h3>
-  <ul>
-    <li>🌆 Kompaktowe centrum – wszystko jest w zasięgu spaceru</li>
-    <li>🎨 Dzieła Botticellego, Michała Anioła, Leonarda da Vinci</li>
-    <li>⛪ Katedra z kopułą Brunelleschiego – symbol miasta</li>
-    <li>🍝 Kuchnia toskańska – prosta, sycąca i pyszna</li>
-    <li>🛍️ Sklepy z rękodziełem, skórzanymi wyrobami i toskańskim winem</li>
-  </ul>
-
-  <h3>💡 Ciekawostka:</h3>
+  <h3>🚶‍♂️ Poruszanie się po mieście</h3>
   <p>
-    Florencja była przez pewien czas... stolicą Włoch! Dokładnie od 1865 do 1871 roku, zanim zaszczyt ten przejął Rzym.
+    Zapomnij o taksówkach i komunikacji miejskiej – w Pizie królują nogi. Centrum jest zwarte, wszystko masz w zasięgu spaceru. A jeśli chcesz poczuć się jak lokal, wypożycz rower – śmiganie po nadbrzeżach Arno to czysta przyjemność.
   </p>
 
+  <p>
+    Piza to idealne połączenie fotogenicznego absurdu (patrz: wieża) i prawdziwego włoskiego luzu. Możesz ją "odhaczyć" w kilka godzin… albo zakochać się i zostać do zachodu słońca. W obu przypadkach: warto!
+  </p>
 </details>
+
 
 ---
 
