@@ -50,7 +50,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
 
-  <<details>
+  <details>
   <summary><strong>⛪ Katedra Santa Maria del Fiore – serce Florencji i kamień milowy architektury</strong></summary>
   <p><strong>Współrzędne:</strong> <em>43.7731° N, 11.2556° E</em></p>
 
