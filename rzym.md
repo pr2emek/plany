@@ -772,10 +772,9 @@ Ten dzień pozwoli Ci zobaczyć Wieczne Miasto z innej perspektywy – z tarasu,
     Rzym bywa nieprzewidywalny – zwłaszcza autobusy. Jeśli możesz, wybierz metro albo spaceruj – wiele atrakcji jest blisko siebie, a droga między nimi to czasem najlepsza część dnia.
   </p>
 
-  <h3>✈️ Lotniska</h3>
-  <summary><strong>🛬 Dojazd z lotniska do Rzymu</strong></summary>
-
-  <h3>✈️ Lotnisko Fiumicino (Leonardo da Vinci – FCO)</h3>
+  <h3>🛬 Dojazd z lotniska do Rzymu</h3>
+  
+  <summary><strong>✈️ Lotnisko Fiumicino (Leonardo da Vinci – FCO)</strong></summary>
   <p>
     Główne lotnisko Rzymu, położone ok. 30 km od centrum. Duże, nowoczesne i... pełne turystów. Ale spokojnie – dojazd do miasta nie jest skomplikowany.
   </p>
@@ -786,7 +785,7 @@ Ten dzień pozwoli Ci zobaczyć Wieczne Miasto z innej perspektywy – z tarasu,
     <li><strong>🚖 Taksówka:</strong> oficjalna taryfa: 50€ do centrum (z góry ustalona cena, obejmuje 4 osoby i bagaż).</li>
   </ul>
 
-  <h3>✈️ Lotnisko Ciampino (CIA)</h3>
+  <summary><strong>✈️ Lotnisko Ciampino (CIA)</strong></summary>
   <p>
     Mniejsze lotnisko, głównie dla tanich linii (Ryanair, Wizz Air), ok. 15 km od centrum. Szybko się przez nie przechodzi – szybki też jest dojazd do miasta.
   </p>
