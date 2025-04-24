@@ -632,3 +632,53 @@ Jedna z najbardziej charakterystycznych ulic Neapolu – wąska, tłoczna, gło�
   </p>
 
 </details>
+
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady w Neapolu</strong></summary>
+
+  <h3>💶 Coperto i napiwki – czyli „za co ja płacę?”</h3>
+  <p>
+    W Neapolu <strong>coperto</strong> (opłata za nakrycie) pojawia się rzadziej niż w północnych Włoszech, ale czasem doliczane jest <strong>servizio</strong> – szczególnie w turystycznych restauracjach. Napiwek? Nie obowiązkowy, ale mile widziany – zostaw 1–2€, jeśli kelner był bardziej uprzejmy niż Twój budzik.
+  </p>
+
+  <h3>🍕 Co warto kupić?</h3>
+  <ul>
+    <li><strong>Kawa Kimbo lub Passalacqua</strong> – lokalna legenda, aromat Neapolu zamknięty w ziarnie</li>
+    <li><strong>Likier Limoncello</strong> – najlepiej z pobliskiego Sorrento</li>
+    <li><strong>Ręcznie robione figurki z Via San Gregorio Armeno</strong> – idealne do szopki, ale i na półkę z dziwactwami</li>
+    <li><strong>Magnes z Maradoną</strong> – wiadomo, Neapol to religia, a Maradona to prorok</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Noszenia biżuterii na pokaz – kieszonkowcy są szybsi niż twoje reakcje</li>
+    <li>Wchodzenia w boczne uliczki Quartieri Spagnoli po zmroku – chyba że idziesz na mural Maradony</li>
+    <li>Kupowania "oryginalnych" torebek od sprzedawców ulicznych – Gucci nie robi wersji „z kartonu”</li>
+    <li>Podróżowania samochodem po centrum – szaleństwo level: Mario Kart</li>
+  </ul>
+ 
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Buongiorno</strong> – dzień dobry</li>
+    <li><strong>Un caffè, per favore</strong> – poproszę kawę</li>
+    <li><strong>Dov’è la stazione?</strong> – gdzie jest dworzec?</li>
+    <li><strong>Quanto costa?</strong> – ile to kosztuje?</li>
+    <li><strong>Grazie mille!</strong> – wielkie dzięki!</li>
+  </ul>
+
+  <h3>💳 Gotówka czy karta?</h3>
+  <p>
+    W Neapolu karty działają prawie wszędzie – ale u ulicznych sprzedawców, w barach espresso i przy biletach autobusowych – <strong>gotówka rządzi</strong>. Bankomaty są wszędzie, tylko uważaj na dodatkowe prowizje i... podejrzanych obserwatorów.
+  </p>
+
+  <h3>🧥 Ubiór – styl południowy</h3>
+  <p>
+    W Neapolu nikt nie nosi dresów (chyba że jest z serialu). Styl? Swobodny, ale z charakterem. Latem: lekkie rzeczy, bo gorąco jak w piecu do pizzy. Zimą: płaszcz i szalik – wyglądasz lokalnie, nawet jeśli masz aparat na szyi.
+  </p>
+
+</details>
+
+
+
