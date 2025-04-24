@@ -270,93 +270,64 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi we Florencji</strong></summary>
+  <summary><strong>🧒 Co robić z dziećmi w Pizie?</strong></summary>
 
-  <h3>🧪 Museo Galileo – nauka w stylu retro</h3>
-  <p><em>Współrzędne: 43.7675° N, 11.2563° E</em></p>
+  <h3>🏰 Krzywa Wieża – wrażenia krzywe jak rysunki w przedszkolu</h3>
   <p>
-    To muzeum nauki to raj dla młodych odkrywców. Modele wynalazków, interaktywne ekspozycje, astrolabia, lunety i... palec Galileusza (tak, naprawdę!). Dzieci mogą dotykać, przekręcać, eksperymentować – czyli wszystko to, co uwielbiają. Nauka w wersji „wow!”.
+    Dzieci pokochają robienie zdjęć z „podtrzymywaniem” wieży – klasyk z Instagrama. Można też wejść na górę (dzieci od 8. roku życia) – to jak wspinaczka do nieba, tylko pod kątem! Widoki i wspomnienia gwarantowane.
   </p>
 
-  <h3>🦁 Ogród Boboli – bieganie po królewsku</h3>
-  <p><em>Współrzędne: 43.7626° N, 11.2509° E</em></p>
+  <h3>🌳 Giardino Scotto – zamek, trawa i dużo miejsca do biegania</h3>
   <p>
-    Gigantyczny park pełen alejek, fontann, grot i ukrytych zakątków – idealny na rodzinny spacer. Dzieci mogą się tam wybiegać do woli, a rodzice nacieszyć się widokami na miasto. A może piknik w cieniu cyprysów? Czemu nie!
+    Zielony park z placem zabaw i pozostałościami zamku – idealne miejsce na piknik i oddech od tłumów. Dzieci mogą pobiegać, a Ty spokojnie wypić kawę na ławce i udawać, że nie słyszysz kłótni o lizaka.
   </p>
 
-  <h3>🖼️ Palazzo Vecchio – pałac z zagadkami</h3>
-  <p><em>Współrzędne: 43.7693° N, 11.2560° E</em></p>
+  <h3>🚂 Muzeum Kolejnictwa (Museo Piaggio) – pociągi i skutery!</h3>
   <p>
-    Historyczny pałac z opcją „dziecięcej misji”! W specjalnych trasach dla rodzin dzieci mogą wcielić się w małych odkrywców i szukać symboli ukrytych w salach, sufitach i obrazach. Czasem dostępne są też warsztaty plastyczne – sztuka przez zabawę.
+    Dla młodszych (i starszych) miłośników maszyn – muzeum poświęcone legendarnym skuterom Vespa i historii włoskiej kolei. Trochę hałasu, dużo emocji i zero nudy. Muzeum znajduje się niedaleko, w Pontederze – można podjechać pociągiem.
   </p>
 
-  <h3>🚂 Mini-pociąg turystyczny po Florencji</h3>
-  <p><em>Start: Piazza della Repubblica</em></p>
+  <h3>🐾 Rejs łodzią po rzece Arno</h3>
   <p>
-    Jeśli dzieciom brakuje sił, a Ty chcesz jeszcze coś zobaczyć – wskoczcie do mini-pociągu, który objeżdża najważniejsze atrakcje Florencji z audioprzewodnikiem. Świetna opcja na krótki relaks, a dzieciaki będą miały frajdę z jazdy!
+    Wskoczcie razem na łódkę i popłyńcie Arno – dzieciaki uwielbiają to doświadczenie, bo... woda! Rejs to spokojny sposób na zobaczenie miasta z innej perspektywy (i szansa na chwilę ciszy, jeśli dzieci zasną z bujania).
   </p>
 
   <h3>🍦 Polowanie na najlepsze lody</h3>
   <p>
-    Florencja to także stolica gelato! Zróbcie rodzinne wyzwanie – kto znajdzie najlepszą lodziarnię w mieście? Polecamy: <strong>Gelateria dei Neri</strong>, <strong>Vivoli</strong> lub <strong>La Carraia</strong>. Uwaga: mogą się powtarzać prośby o „jeszcze jedną kulkę”!
+    Przepis na rodzinne szczęście? Zrób z tego grę: „Znajdźmy najlepsze gelato w Pizie!” Codziennie inna lodziarnia, codziennie inny smak. Zwycięzca wybiera kolację (spoiler: i tak będzie pizza).
   </p>
-
-  <h3>🎨 Laboratoria i warsztaty w muzeach</h3>
-  <p>
-    W niektórych florentyńskich muzeach (jak Palazzo Strozzi czy Museo degli Innocenti) odbywają się specjalne zajęcia dla dzieci: malowanie, rzeźbienie, tworzenie masek. Warto sprawdzić kalendarz wydarzeń przed wyjazdem – dzieciaki będą zachwycone!
-  </p>
-
 </details>
+
 
 ---
 
 <details>
-  <summary><strong>🍝 Gdzie zjeść we Florencji</strong></summary>
+  <summary><strong>🍽️ Gdzie zjeść w Pizie?</strong></summary>
 
-  <h3>🥩 Trattoria ZaZa – klasyka w sercu miasta</h3>
-  <p><em>Adres: Piazza del Mercato Centrale 26</em></p>
+  <h3>🍕 <strong>Pizzeria da Nando</strong> – klasyka bez zadęcia</h3>
   <p>
-    Kultowa trattoria z ogromnym wyborem dań toskańskich – od <strong>bistecca alla fiorentina</strong> po pappardelle z dziczyzną. Klimatyczne wnętrza i rozsądne ceny jak na tak popularne miejsce. Rezerwacja wskazana!
+    Mała pizzeria blisko centrum, gdzie pizza jest cienka, chrupiąca i zawsze trafiona. Bez rezerwacji, bez udziwnień – po prostu dobra pizza za uczciwe pieniądze. Lokalsi przychodzą tu po swoje ulubione margherity, a dzieci z miejsca zakochują się w pizzette.
   </p>
 
-  <h3>🍷 Trattoria Sostanza – prawdziwy domowy smak</h3>
-  <p><em>Adres: Via della Porcellana 25</em></p>
+  <h3>🍝 <strong>Osteria di Culegna</strong> – domowe smaki Toskanii</h3>
   <p>
-    Mała, autentyczna knajpka bez wielkiego szyldu. Znana z kultowego kurczaka w maśle i rustykalnego klimatu. Tu wszystko jest jak kiedyś – menu proste, ale smaki zapadają w pamięć.
+    Mała rodzinna osteria w bocznej uliczce. W menu królują makarony (tagliatelle, pici!) i mięsa w sosach, które pachną jak niedzielny obiad u włoskiej babci. Bez turystycznego tłoku, za to z mnóstwem serca na talerzu.
   </p>
 
-  <h3>🍕 Gusta Pizza – street food na wypasie</h3>
-  <p><em>Adres: Via Maggio 46</em></p>
+  <h3>🥪 <strong>Sandwichic</strong> – panini, które wciągają</h3>
   <p>
-    Jedna z najlepszych pizz na wynos we Florencji. Cienkie, chrupiące, serwowane w kartonie – idealne, by zjeść je siedząc na schodach kościoła Santo Spirito z widokiem na lokalne życie.
+    Jeśli chcesz coś „na szybko” i „na wynos” – ten lokal to strzał w dziesiątkę. Panini z lokalnymi składnikami, warzywami z targu, włoskimi serami i szynką, która topi się w ustach. Idealne na piknik w cieniu Krzywej Wieży.
   </p>
 
-  <h3>💰 Trattoria Da Rocco – tanio, lokalnie, smacznie</h3>
-  <p><em>Adres: Mercato di Sant’Ambrogio</em></p>
+  <h3>🍝 <strong>Trattoria da Bruno</strong> – tanio i po włosku</h3>
   <p>
-    Ulubiona przez studentów i lokalsów. Codziennie inne menu, przystępne ceny i porządne porcje. Świetna okazja, żeby zjeść jak Florentyńczyk, a nie turysta.
+    Starszy lokal z duszą i kelnerami, którzy znają menu na pamięć. Ceny przyjazne, porcje duże, a wino domowe leje się litrami. Turyści trafiają tu z polecenia, lokalsi przychodzą regularnie. Dobrze o tym świadczy!
   </p>
 
-  <h3>🍔 I’ Girone De’ Ghiotti – panini z duszą</h3>
-  <p><em>Adres: Via dei Cimatori 23r</em></p>
+  <h3>🍨 <strong>Gelateria De’ Coltelli</strong> – lody, które warto zapamiętać</h3>
   <p>
-    Jeśli masz ochotę na szybki lunch, koniecznie zajrzyj tutaj. Ogromny wybór świeżych panini z lokalnymi składnikami (szynka, pecorino, grillowane warzywa). Szybko, tanio i bardzo pysznie!
+    Uznawane za jedne z najlepszych lodów w Pizie – i nie bez powodu. Smaki sezonowe, naturalne składniki i konsystencja, która rozpływa się jak wakacje. Spróbuj ricotty z gruszką albo sorbetu z cytryn z Amalfi.
   </p>
-
-  <h3>🧀 Mercato Centrale – kulinarne centrum miasta</h3>
-  <p><em>Adres: Piazza del Mercato Centrale</em></p>
-  <p>
-    Górna część hali targowej zamieniła się w stylową strefę gastro z lokalnymi stoiskami: makarony, sery, owoce morza, lody i wino. Idealne miejsce, by spróbować wszystkiego po trochu.
-  </p>
-
-  <h3>🍦 Najlepsze gelato we Florencji</h3>
-  <ul>
-    <li><strong>Gelateria dei Neri</strong> – Via dei Neri 20</li>
-    <li><strong>La Carraia</strong> – Piazza Nazario Sauro 25</li>
-    <li><strong>Vivoli</strong> – Via dell’Isola delle Stinche 7r</li>
-  </ul>
-  <p>Spróbuj smaków jak pistacja z Bronte, ricotta z figami czy sorbet z wina Chianti – lody z klasą i charakterem!</p>
-
 </details>
 
 ---
