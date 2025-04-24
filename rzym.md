@@ -975,4 +975,55 @@ Ten dzień pozwoli Ci zobaczyć Wieczne Miasto z innej perspektywy – z tarasu,
     <p><strong>Alkohol:</strong> duży wybór włoskich win, limoncello, amaro, niszowe alkohole</p>
   </article>
 </details>
-  
+
+---
+
+  <details>
+  <summary><strong>🧳 Praktyczne porady w Rzymie</strong></summary>
+
+  <h3>💶 Coperto i serwis – czyli ile kosztuje widelec</h3>
+  <p>
+    W wielu restauracjach w Rzymie doliczają <strong>coperto</strong> (opłatę za obsługę i chleb) – zazwyczaj 1–3€. Zdarza się też <strong>servizio</strong> – 10% dodane automatycznie przy większych grupach. Zanim się zdenerwujesz – przeczytaj rachunek.
+  </p>
+
+  <h3>💰 Napiwki – dziękujesz? To zostaw drobne</h3>
+  <p>
+    Rzymianie nie oczekują napiwków jak Amerykanie, ale dobre maniery nie bolą. Zaokrąglij rachunek, zostaw 1–2€ kelnerowi – zwłaszcza gdy nie zginąłeś w menu po łacinie.
+  </p>
+
+  <h3>🛍️ Co warto kupić?</h3>
+  <ul>
+    <li><strong>Rzymskie sandały</strong> – stylowo, klasycznie, włosko (i przewiewnie!)</li>
+    <li><strong>Pamiątki z Koloseum</strong> – figurki, magnesy, nawet hełm legionisty (tak, serio)</li>
+    <li><strong>Likier limoncello lub amaro</strong> – bo Rzym też lubi procenty</li>
+    <li><strong>Święte pamiątki</strong> – z Watykanu: różańce, medaliki, obrazki z papieżem</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Siedzenia na Schodach Hiszpańskich – <strong>zakaz, mandat, wstyd</strong></li>
+    <li>Kupowania selfie sticków od „niewidzialnych” sprzedawców</li>
+    <li>Jedzenia przy samym Koloseum – dużo widoku, mało smaku</li>
+  </ul>
+
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Ciao / Buongiorno</strong> – cześć / dzień dobry</li>
+    <li><strong>Dove è il Colosseo?</strong> – gdzie jest Koloseum?</li>
+    <li><strong>Una carbonara, per favore</strong> – poproszę carbonarę</li>
+    <li><strong>Il conto, per favore</strong> – poproszę rachunek</li>
+    <li><strong>Arrivederci!</strong> – do widzenia!</li>
+  </ul>
+
+  <h3>💳 Gotówka czy karta?</h3>
+  <p>
+    Płacenie kartą jest normą, ale miej przy sobie kilka euro – na espresso, lody i fontannę Trevi (bo marzenia kosztują 1€). Bankomaty są wszędzie, ale nie każdy jest przyjazny dla portfela.
+  </p>
+
+  <h3>🕶️ Styl w Rzymie</h3>
+  <p>
+    To nie plaża – nawet latem Rzymianie wyglądają jak z katalogu. Szanuj miejsca sakralne – odkryte ramiona i krótkie szorty? <strong>No-no</strong> w bazylice św. Piotra.
+  </p>
+
+</details>
+
