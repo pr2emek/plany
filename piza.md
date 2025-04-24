@@ -116,9 +116,6 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
     </p>
   </details>
 
-</details>
-
-
 <details>
   <summary><strong>🕵️ Sekretne miejsca we Florencji</strong></summary>
 
