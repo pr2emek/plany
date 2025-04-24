@@ -210,67 +210,36 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚌 Transport publiczny we Florencji</strong></summary>
+  <summary><strong>🚌 Transport publiczny w Pizie</strong></summary>
 
+  <h3>🚍 Autobusy – podstawowy sposób poruszania się</h3>
   <p>
-    Florencja to miasto kompaktowe – większość atrakcji ogarniesz na piechotę. Ale kiedy nogi powiedzą „basta”, z pomocą przychodzi transport publiczny. Obsługuje go firma <strong>ATAF</strong>, a także linie tramwajowe, w tym bezpośrednia na lotnisko.
+    Piza to miasto kompaktowe, ale jeśli nie chcesz spalić kalorii po focacci z poranka, wskakuj w autobus. Sieć obsługiwana jest przez firmę <strong>CPT (Compagnia Pisana Trasporti)</strong>. Autobusy jeżdżą często i docierają do każdej dzielnicy – nawet tej, gdzie sam Galileusz nie zaglądał.
+  </p>
+  <ul>
+    <li><strong>Bilety:</strong> 1,50 € za bilet 70-minutowy. Kupisz w kioskach, automatach lub przez aplikację <em>Tabnet</em>.</li>
+    <li><strong>Popularne linie:</strong> Linia <strong>LAM Rossa</strong> zabierze Cię z dworca kolejowego do Krzywej Wieży (Piazza dei Miracoli).</li>
+  </ul>
+
+  <h3>🚕 Taksówki – dla tych, którzy wolą klimę i prywatność</h3>
+  <p>
+    Oficjalne białe taksówki z napisem „TAXI” są dostępne na postojach w centrum, przy dworcu i lotnisku. Można też zamówić telefonicznie (Radio Taxi: <strong>+39 050 541600</strong>), ale licznik leci nawet w oczekiwaniu. A to już nie żart.
   </p>
 
-  <h3>🚋 Tramwaj</h3>
-  <ul>
-    <li><strong>Linia T1:</strong> Careggi ↔ Villa Costanza – przez centrum</li>
-    <li><strong>Linia T2:</strong> Lotnisko ↔ Piazza dell’Unità – szybki dojazd do centrum</li>
-    <li><strong>Częstotliwość:</strong> co 4–10 minut, od rana do północy (w weekendy dłużej)</li>
-  </ul>
-
-  <h3>🚌 Autobusy</h3>
-  <ul>
-    <li>Operatorem jest ATAF – autobusy docierają niemal wszędzie</li>
-    <li>W centrum kursują małe busy, np. <strong>C1 i C2</strong></li>
-    <li><strong>Linia 7:</strong> łączy centrum z Fiesole – idealnie na wycieczkę z widokiem</li>
-  </ul>
-
-  <h3>🎫 Bilety</h3>
-  <ul>
-    <li><strong>1,50€</strong> – ważny 90 minut (na autobus i tramwaj)</li>
-    <li>Dostępne też bilety 24h, 3-dniowe i tygodniowe</li>
-    <li><strong>Gdzie kupić?</strong> kioski, automaty, aplikacja Tabnet lub SMS (włoską kartą SIM)</li>
-  </ul>
-
-  <h3>🛬 Jak dojechać z lotniska Firenze-Peretola do centrum?</h3>
-
-  <h4>🚈 Tramwaj T2 (najlepsza opcja)</h4>
-  <ul>
-    <li><strong>Start:</strong> Przystanek Peretola Aeroporto (tuż przy terminalu)</li>
-    <li><strong>Koniec:</strong> Piazza dell’Unità – 5 minut spacerem od katedry</li>
-    <li><strong>Czas:</strong> ok. 20–25 minut</li>
-    <li><strong>Cena:</strong> 1,50€ (standardowy bilet ATAF)</li>
-  </ul>
-
-  <h4>🚕 Taksówka</h4>
-  <ul>
-    <li>Postój znajduje się tuż przed wyjściem z lotniska</li>
-    <li><strong>Oficjalna ryczałtowa cena:</strong> ok. 22–25€ do centrum (dodatki za bagaż/noc)</li>
-    <li>Szybko i wygodnie – ale drożej niż tramwaj</li>
-  </ul>
-
-  <h4>🚘 Uber/Bolt</h4>
-  <ul>
-    <li>Dostępny w Florencji, ale często droższy niż taksówka (szczególnie w godzinach szczytu)</li>
-    <li>Może wymagać podejścia poza terminal (dla odbioru)</li>
-  </ul>
-
-  <h4>🚌 Shuttle bus</h4>
-  <ul>
-    <li>Niektóre hotele oferują własny transfer – warto zapytać</li>
-    <li>Istnieją też prywatne firmy (np. Terravision), ale tramwaj i tak jest wygodniejszy</li>
-  </ul>
-
-  <h3>💡 Pro tip:</h3>
+  <h3>🚆 Dojazd z lotniska do centrum</h3>
   <p>
-    Tramwaj T2 to złoto – tanio, wygodnie, bez korków. Ale jeśli przyjeżdżasz w nocy lub z dużym bagażem – taxi może być Twoim wybawieniem.
+    Z lotniska <strong>Pisa Galileo Galilei</strong> dostaniesz się do centrum w mniej niż 10 minut. Wybierz:
   </p>
+  <ul>
+    <li><strong>PisaMover:</strong> automatyczny pociąg do stacji <strong>Pisa Centrale</strong>. Odjeżdża co kilka minut. Koszt: 5 €.</li>
+    <li><strong>Taksówkę:</strong> koszt ok. 10–15 € w zależności od ruchu i pory dnia.</li>
+    <li><strong>Pieszo:</strong> jeśli nie masz ciężkiego bagażu – do centrum dojdziesz w 20–25 minut.</li>
+  </ul>
 
+  <h3>🚲 Rowerem przez miasto</h3>
+  <p>
+    Piza to idealne miasto do zwiedzania na rowerze – płaska, malownicza i z mnóstwem ścieżek. Skorzystaj z wypożyczalni rowerów miejskich <strong>Bike Sharing Pisa</strong> lub z usług prywatnych firm. A pedałowanie z widokiem na Krzywą Wieżę – bezcenne.
+  </p>
 </details>
 
 ---
