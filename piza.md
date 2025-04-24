@@ -276,39 +276,26 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>📖 Legendy</strong></summary>
+  <summary><strong>🧙 Legendy</strong></summary>
 
-  <h3>🧟‍♂️ „Kamienna głowa sprawiedliwości” – Piazza della Signoria</h3>
-  <p><em>Współrzędne: 43.7689° N, 11.2567° E</em></p>
-  <p>
-    Spójrz uważnie na ścianę Palazzo Vecchio, a zobaczysz... głowę. Wmurowaną na wysokości wzroku. Legenda mówi, że artysta (niektórzy twierdzą, że sam Michał Anioł) wyrzeźbił ją jednym ruchem dłuta, znudzony rozmową z przechodniem. Inna wersja – to portret skazańca, który tam czekał na egzekucję. Nie patrz zbyt długo – ponoć przyciąga nieszczęścia.
-  </p>
+  <h3>🌀 Cień Diabła w katedrze – odcisk rogatego gościa?</h3>
+  <p><em>Współrzędne: 43.7230° N, 10.3966° E</em></p>
+  <p>Na ścianie Katedry w Pizie (tuż przy wejściu) znajduje się seria wgłębień, które – według legendy – zostawił sam diabeł. Podobno próbował przeszkodzić w budowie, ale został przegoniony przez modlitwy i niebiański laser z nieba (wersja niepotwierdzona). Co ciekawe – mówi się, że nie da się ich zliczyć. Spróbuj. I nie dziw się, jeśli za każdym razem wyjdzie Ci inna liczba.</p>
 
-  <h3>🌙 Duch zakonnicy z Mostu Złotników</h3>
-  <p><em>Współrzędne: 43.7679° N, 11.2531° E (Ponte Vecchio)</em></p>
-  <p>
-    Most Złotników pełen jest życia, ale nocą... podobno nie jesteś tam sam. W renesansie zakonnica z pobliskiego klasztoru została skazana za miłość do żołnierza. Dziś jej cień wędruje nocami w stronę rzeki. Jeśli poczujesz nagły chłód – to może właśnie ona. Lokalsi twierdzą, że lepiej nie zostawać tam po zmroku.
-  </p>
+  <h3>⚖️ Zegar śmierci – echo dawnej egzekucji</h3>
+  <p><em>Współrzędne: 43.7227° N, 10.3954° E</em></p>
+  <p>W Torre della Muda (obecnie część kompleksu Pałacu Opactwa) rozgrywa się jedna z najmroczniejszych legend. To tutaj w 1289 roku uwięziono hrabiego Ugolino della Gherardesca razem z jego dziećmi i wnukami. Zostali skazani na śmierć głodową. Podobno nocą słychać z wieży szepty, krzyki… i odgłos bijącego zegara, który nigdy nie był tam zainstalowany.</p>
 
-  <h3>🔮 Zegar w Palazzo Vecchio, który nie działa... ale ostrzega</h3>
-  <p><em>Współrzędne: 43.7693° N, 11.2560° E</em></p>
-  <p>
-    Na wieży Palazzo Vecchio znajduje się zegar – niby zwykły, ale... chodzi tylko wtedy, gdy miastu grozi niebezpieczeństwo. Kiedyś ponoć ruszył sam z siebie na dzień przed powodzią w 1966 roku. Od tamtej pory mieszkańcy zerkają na niego z niepokojem – bo kiedy tyka, coś może się wydarzyć.
-  </p>
+  <h3>💀 Krypta kości – cmentarz Campo Santo</h3>
+  <p><em>Współrzędne: 43.7237° N, 10.3955° E</em></p>
+  <p>Campo Santo to święte pole – dosłownie. Ziemię do jego budowy przywieziono z Góry Kalwarii. Ale wokół miejsca narosło więcej opowieści niż krzywych zdjęć z wieżą. Podobno to właśnie tutaj chowano alchemików, naukowców i… ludzi, którzy znali przyszłość. Ich groby są nieoznaczone, a kaplice podobno kryją tajemnicze inskrypcje i zaklęcia. Klimat jak z "Kodu Leonarda da Vinci".</p>
 
-  <h3>⛓️ Uwięziony dzwon – Santa Maria del Fiore</h3>
-  <p><em>Współrzędne: 43.7731° N, 11.2560° E</em></p>
-  <p>
-    W słynnej katedrze znajduje się dzwon, który podobno nigdy nie bije przypadkiem. Legenda mówi, że kiedyś bił sam z siebie, ostrzegając miasto przed najazdem. Później kapłani go "spętali" – i dziś rozlega się tylko w ważnych chwilach. Niektórzy wierzą, że usłyszenie go oznacza ważną zmianę w życiu.
-  </p>
-
-  <h3>🐍 Bazyliszek z Via Tosinghi</h3>
-  <p><em>Współrzędne: 43.7734° N, 11.2551° E</em></p>
-  <p>
-    W średniowieczu mówiono, że pod domem przy Via Tosinghi grasował bazyliszek – stworzenie o spojrzeniu śmiertelnym jak rachunek za nocleg w centrum Florencji. Dopiero modlitwy zakonników i relikwie św. Zenobiusza wygnały potwora. Dziś kamienica stoi spokojnie, ale niektórzy mówią, że nocą słychać syk zza ściany...
-  </p>
+  <h3>🦉 Kruk Galileusza – znak geniuszu czy klątwa?</h3>
+  <p><em>Współrzędne: 43.7229° N, 10.3966° E</em></p>
+  <p>Galileusz, urodzony w Pizie, podobno obserwował ruch lampy w katedrze i tak... wymyślił teorię wahadła. Ale miejscowi twierdzą, że podczas jednej z wizyt w mieście towarzyszył mu kruk – czarny jak smoła, który przysiadał tylko tam, gdzie Galileusz siadał do notatek. Mistycy mówią, że to duch starożytnego mędrca, który "przeniósł się" do ptaka, by inspirować uczonego. Naukowcy milczą. Turystyka legendowa ma się świetnie.</p>
 
 </details>
+
 
 ---
 
