@@ -567,3 +567,37 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Spróbuj smaków jak pistacja z Bronte, ricotta z figami czy sorbet z wina Chianti – lody z klasą i charakterem!</p>
 
 </details>
+
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady w Pizie</strong></summary>
+
+  <h3>💶 Coperto i napiwki – małe litery na rachunku</h3>
+  <p>
+    W Pizie <strong>coperto</strong> (opłata za nakrycie) to klasyk – zwykle 1–3€. Nie denerwuj się, to nie pomyłka, tylko włoski styl. Napiwek? Nie jest obowiązkowy, ale jeśli kelner był bardziej serdeczny niż ciocia na święta, zostaw euro lub dwa.
+  </p>
+
+  <h3>🛍️ Co warto kupić?</h3>
+  <ul>
+    <li><strong>Miniatura Krzywej Wieży</strong> – obowiązkowa pamiątka, najlepiej taka, której nie da się postawić prosto</li>
+    <li><strong>Produkty z oliwek i trufli</strong> – Toskania tym stoi</li>
+    <li><strong>Wina z regionu</strong> – np. Chianti, najlepiej kupione lokalnie, nie na stacji benzynowej</li>
+    <li><strong>Kawa Vergnano lub Lavazza</strong> – by zabrać włoski poranek do domu</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Restauracji tuż przy Krzywej Wieży – ceny wysokie jak jej nachylenie, jakość… no różna</li>
+    <li>Kupowania selfie-sticków od ulicznych sprzedawców – serio, masz rękę</li>
+    <li>Ignorowania biletów na transport – kontrola potrafi pojawić się znienacka jak korek na autostradzie</li>
+    <li>Myślenia, że Piza to tylko jedna wieża – miasto ma więcej do pokazania!</li>
+  </ul>
+
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Salve!</strong> – uniwersalne powitanie</li>
+    <li><strong>Una pizza margherita, per favore</strong> – nie trzeba więcej dodawać</li>
+    <li><strong>Mi scusi</strong> – przepraszam</li>
+    <li><strong>Quanto costa?</strong> –
+
