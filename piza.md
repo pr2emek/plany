@@ -117,48 +117,27 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
 <details>
-  <summary><strong>🕵️ Sekretne miejsca we Florencji</strong></summary>
+  <summary><strong>🕵️ Sekretne miejsca w Pizie</strong></summary>
 
-  <h3>🧵 Corridoio Vasariano – tajemniczy korytarz nad miastem</h3>
-  <p><em>Współrzędne: 43.7687° N, 11.2549° E</em></p>
-  <p>
-    Korytarz Vasariego to ukryte przejście, które łączy Palazzo Vecchio z Palazzo Pitti. Został zbudowany w 1565 roku dla rodziny Medyceuszy, by mogli przemieszczać się między pałacami bez wchodzenia na ulice. Biegnie m.in. nad Ponte Vecchio, przez sklepiki jubilerów! Zwykle niedostępny, czasem otwierany podczas specjalnych wydarzeń – jeśli masz okazję, skorzystaj!
-  </p>
+  <h3>🌿 Giardino Scotto – park, o którym wiedzą tylko wtajemniczeni</h3>
+  <p><em>Współrzędne: 43.7114° N, 10.3997° E</em></p>
+  <p>Na południowym brzegu Arno, za ceglanym murem, kryje się zielony azyl. <strong>Giardino Scotto</strong> to coś pomiędzy parkiem miejskim a starą fortecą. Są tu palmy, fontanny, sceny koncertowe i ławeczki z widokiem. Idealne miejsce na piknik, książkę lub szybki reset od tłumów przy wieży.</p>
 
-    <h3>🦶 Odcisk stopy na Piazza della Signoria</h3>
-    <p><em>Współrzędne: 43.7696° N, 11.2558° E</em></p>
-    <p>
-      Na placu przed Palazzo Vecchio znajdziesz <strong>ślady stopy</strong> wyryte w kamieniu. Jedna wersja mówi, że zostawił je strażnik znudzony czekaniem. Druga – że to ślad po diable próbującym złapać grzesznika. Znajdź go i dotknij – ponoć przynosi szczęście.
-    </p>
-  
-  <h3>🧑‍🎨 Autoportret na fasadzie katedry</h3>
-    <p>
-      Po lewej stronie wejścia do Katedry Santa Maria del Fiore znajdziesz <strong>miniaturową rzeźbę głowy</strong> z uśmiechem. To prawdopodobnie autoportret jednego z kamieniarzy, który chciał po cichu zostawić po sobie ślad. Niewielki gest – wieczna obecność.
-    </p>
-    
-  <h3>🖼️ Tabernacoli – uliczne kapliczki z duszą</h3>
-  <p><em>Rozsiane po całym mieście</em></p>
-  <p>
-    Spacerując po Florencji, zwróć uwagę na małe kapliczki – często wbudowane w rogi kamienic. W środku znajdziesz obrazy, płaskorzeźby lub figurki świętych. To duchowa mapa miasta – każda z nich to ślad dawnej Florencji i opowieść o wierze, ochronie przed zarazą lub wdzięczności za cud.
-  </p>
+  <h3>🧱 Murale Tuttomondo – street art z duszą</h3>
+  <p><em>Współrzędne: 43.7082° N, 10.4007° E</em></p>
+  <p>Zamiast kolejnej kolumny – mural. Ogromny, kolorowy, od Keitha Haringa, światowej gwiazdy street artu. Znajduje się na ścianie kościoła Sant’Antonio. Przesłanie? Pokój i jedność. Sztuka, która wciąga i daje do myślenia – szczególnie jeśli wcześniej widziałeś tylko marmur i cegły.</p>
 
-  <h3>🔮 La Pietra dello Scandalo – kamień wstydu</h3>
-  <p><em>Współrzędne: 43.7688° N, 11.2566° E (Piazza della Signoria)</em></p>
-  <p>
-    Na Piazza della Signoria, przy wejściu do Palazzo Vecchio, leży niewielki kamień – niemal niewidoczny. To tu skazańcy musieli uklęknąć i wysłuchać swojego wyroku. Dziś wielu przechodzi obok, nie wiedząc, że stąpa po miejscu grozy i pokuty. Lokalsi mówią, że przynosi pecha, jeśli się na nim stanie.
-  </p>
+  <h3>🪨 Sanktuarium Santa Maria della Spina – mikroskarb gotyku</h3>
+  <p><em>Współrzędne: 43.7089° N, 10.3965° E</em></p>
+  <p>Ten miniaturowy kościółek przy rzece wygląda jak koronka wyciosana z marmuru. Z daleka można go przegapić, z bliska – zachwyca detalami. Kiedyś przechowywał... kolec z korony cierniowej Jezusa. Dziś raczej zdjęcia turystów. Ale klimat pozostał – zwłaszcza o zachodzie słońca.</p>
 
-  <h3>🌉 Most ukryty pod mostem – Ponte alle Grazie</h3>
-  <p><em>Współrzędne: 43.7666° N, 11.2627° E</em></p>
-  <p>
-    Choć dziś to nowoczesna konstrukcja, Ponte alle Grazie kryje pod sobą relikty dawnych mostów. Archeolodzy odkryli tu pozostałości XIII-wiecznych struktur, które zostały zniszczone podczas wojny. Czasem, przy niskim stanie wody, możesz zobaczyć fundamenty starego mostu – jakby miasto mówiło: „jestem starsze, niż myślisz”.
-  </p>
+  <h3>🐉 Ulica Via San Martino – duch Pizy bez selfie-sticków</h3>
+  <p><em>Współrzędne: 43.7079° N, 10.3986° E</em></p>
+  <p>Jeśli chcesz zobaczyć prawdziwą Pizę – wejdź w tę ulicę. Mało turystów, za to dużo autentyczności: małe sklepy, stare fasady, zapach piekarni. Wieczorem pojawiają się mieszkańcy, dzieci jeżdżą na rowerach, a z okien słychać włoskie rozmowy. Brzmi banalnie? Ale to właśnie jest magia.</p>
 
-  <h3>🦴 Krypta pod kościołem Santa Reparata</h3>
-  <p><em>Współrzędne: 43.7731° N, 11.2560° E (pod Katedrą Duomo)</em></p>
-  <p>
-    Mało kto wie, że pod słynną katedrą kryje się jeszcze starszy kościół – Santa Reparata. Wchodząc do krypty (w ramach biletu do Duomo), zobaczysz starożytne fundamenty, sarkofagi i fragmenty mozaik. To jak cofnięcie się w czasie o 1500 lat – dosłownie pod nogami tysięcy turystów.
-  </p>
+  <h3>📜 Ogród Botaniczny – zielone zaskoczenie</h3>
+  <p><em>Współrzędne: 43.7190° N, 10.3985° E</em></p>
+  <p>Nie każdy wie, że Piza ma <strong>najstarszy ogród botaniczny w Europie</strong> – założony w 1544 roku! Znajdziesz tu palmy, lilie wodne, kaktusy, rośliny lecznicze i oranżerie. Cisza, spokój i trochę jak powrót do szkoły... ale w wersji z relaksem i zielenią. Wstęp tani, a wrażenia bezcenne.</p>
 
 </details>
 
