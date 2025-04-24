@@ -6,7 +6,7 @@ permalink: /werona.html
 
 # Werona 🇮🇹
 
-Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Weronie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
