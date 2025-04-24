@@ -521,3 +521,55 @@ Witaj w przewodniku po Mediolanie! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
+
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady w Mediolanie</strong></summary>
+
+  <h3>💶 Coperto – zapłać za siedzenie</h3>
+  <p>
+    W restauracjach często doliczają <em>coperto</em>, czyli opłatę za chleb, wodę, serwetki, powietrze i styl. Zwykle to 2–3€, nawet jeśli tylko wypijesz wodę gazowaną i spojrzysz na kogoś, kto je steka. Nie jest to napiwek – to po prostu "mediolańska kultura".
+  </p>
+
+  <h3>💰 Napiwki – nie obowiązkowe, ale miłe</h3>
+  <p>
+    Mediolańczycy nie oczekują napiwków jak kelnerzy w Nowym Jorku, ale zaokrąglenie rachunku w górę lub zostawienie paru euro to miły gest. W barach wystarczy drobna moneta – uśmiech gratis.
+  </p>
+
+  <h3>🛍️ Co warto kupić?</h3>
+  <ul>
+    <li><strong>Modowe dodatki</strong> – Mediolan to stolica mody. Szale, okulary, torebki? O tak.</li>
+    <li><strong>Panettone</strong> – nawet poza świętami. Kup w tradycyjnej cukierni (polecam <em>Pasticceria Marchesi</em>).</li>
+    <li><strong>Designerskie gadżety</strong> – sklepy z włoskim wzornictwem znajdziesz na każdym rogu (prawie).</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Restauracji z natarczywym kelnerem łapiącym cię w oczy z menu.</li>
+    <li>Przepłacania za kawę przy stoliku w turystycznych miejscach – np. przy Duomo.</li>
+    <li>Wchodzenia do metra bez biletu – system działa z bramkami. Żadnych „na gapę”.</li>
+  </ul>
+
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Buongiorno</strong> – dzień dobry</li>
+    <li><strong>Buonasera</strong> – dobry wieczór</li>
+    <li><strong>Quanto costa?</strong> – ile to kosztuje?</li>
+    <li><strong>Un cappuccino, per favore</strong> – poproszę cappuccino</li>
+    <li><strong>Posso pagare con la carta?</strong> – mogę zapłacić kartą?</li>
+  </ul>
+
+  <h3>💳 Karta czy gotówka?</h3>
+  <p>
+    Mediolan kocha karty – w większości miejsc zapłacisz nawet za espresso. Ale miej przy sobie parę euro – czasem automaty biletowe lub kioski lubią mówić: „oggi solo contanti”.
+  </p>
+
+  <h3>🕶️ Styl się liczy</h3>
+  <p>
+    To Mediolan. Ludzie tu noszą marynarki na spacer z psem. Nikt nie oczekuje od ciebie Versace, ale warto wrzucić coś bardziej „elegancko-casual” niż sandały i skarpety.
+  </p>
+
+</details>
+
+
