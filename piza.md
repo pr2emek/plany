@@ -167,60 +167,45 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>📅 Plan zwiedzania Florencji w 1 dzień</strong></summary>
+  <summary><strong>📅 Jednodniowy plan zwiedzania Pizy</strong></summary>
 
-  <h3>⛪ Start: Katedra Santa Maria del Fiore (Duomo)</h3>
-  <p>
-    Dzień zacznij od ikony Florencji – monumentalnej katedry Duomo z charakterystyczną kopułą Brunelleschiego. Warto wejść do środka, by zobaczyć malowidła kopuły, a jeśli masz kondycję – wspinaczka na sam szczyt nagrodzi Cię widokiem zapierającym dech w piersiach.
-  </p>
-  <p><strong>Współrzędne:</strong> 43.7731° N, 11.2560° E</p>
+  <p><strong>Start: Plac Cudów (Piazza dei Miracoli)</strong></p>
+  <ul>
+    <li>🗼 <strong>Krzywa Wieża</strong> – obowiązkowe zdjęcie, najlepiej z dziwną pozą. Wejście na górę to cardio i panorama w bonusie.</li>
+    <li>⛪ <strong>Katedra Santa Maria Assunta</strong> – rzymski marmur, złoto, mozaiki – uczta dla oka i duszy.</li>
+    <li>🔔 <strong>Baptysterium</strong> – spróbuj posłuchać echa i się nie wzruszyć. Akustyczna magia z XIII wieku.</li>
+    <li>⚰️ <strong>Camposanto Monumentale</strong> – elegancki cmentarz z freskami. Cisza z klasą.</li>
+  </ul>
 
-  <h3>🔔 Dzwonnica Giotta i Baptysterium</h3>
-  <p>
-    Obok katedry znajdują się dwa równie imponujące zabytki: <strong>Dzwonnica Giotta</strong> (414 stopni, ale warto!) oraz <strong>Baptysterium św. Jana</strong> z legendarnymi Drzwiami Raju autorstwa Ghibertiego. Detale złotych płaskorzeźb dosłownie wciągają w biblijną opowieść.
-  </p>
-  <p><strong>Współrzędne:</strong> 43.7732° N, 11.2559° E</p>
+  <p><strong>Spacer w stronę centrum</strong></p>
+  <ul>
+    <li>🛍️ Po drodze zajrzyj do lokalnych sklepików z pamiątkami – magnesy z wieżą, ale też rękodzieło i dobre wino.</li>
+    <li>☕ Kawa lub lody w jednym z barów przy Borgo Stretto – czasem trzeba przysiąść i poczuć klimat.</li>
+  </ul>
 
-  <h3>🛍️ Via dei Calzaiuoli – florentyńska arteria życia</h3>
-  <p>
-    Przejdź deptakiem Via dei Calzaiuoli – po drodze czekają eleganckie sklepy, kawiarnie i historyczne budynki. Po prawej stronie zobaczysz <strong>Orsanmichele</strong> – dawny kościół i spichlerz z niszami pełnymi rzeźb znanych mistrzów.
-  </p>
+  <p><strong>🌉 Ponte di Mezzo</strong></p>
+  <ul>
+    <li>Spacer przez most z widokiem na rzekę Arno – zwłaszcza jeśli złapiesz złotą godzinę.</li>
+  </ul>
 
-  <h3>⛲ Piazza della Signoria i Palazzo Vecchio</h3>
-  <p>
-    Przed Tobą serce polityczne dawnej Florencji – plac z fontanną Neptuna, kopiami rzeźb Michała Anioła i Donatella oraz majestatycznym ratuszem <strong>Palazzo Vecchio</strong>. Można go zwiedzać, wejść na wieżę, a nawet odkryć tajne przejścia!
-  </p>
-  <p><strong>Współrzędne:</strong> 43.7696° N, 11.2558° E</p>
+  <p><strong>🧭 Czas na coś mniej oczywistego</strong></p>
+  <ul>
+    <li>🎨 <strong>Murale Tuttomondo</strong> – wielka ściana sztuki od Keitha Haringa, zaskakująca i pełna kolorów. Kto powiedział, że Piza to tylko wieża?</li>
+    <li>🪑 Przerwa w cieniu w <strong>Giardino Scotto</strong> – park z widokiem na mury, idealny na reset i panino na trawie.</li>
+  </ul>
 
-  <h3>🍝 Lunch: Mercato Centrale lub Trattoria w okolicach San Lorenzo</h3>
-  <p>
-    Idealna pora na lunch! <strong>Mercato Centrale</strong> to uczta z widelcem w ręku – od świeżych past, przez lampredotto (kanapkę z flakami), po domowe tiramisu. Alternatywa: lokalna trattoria z tagliatelle al ragù lub pizzą prosto z pieca.
-  </p>
+  <p><strong>🍝 Kolacja</strong></p>
+  <ul>
+    <li>Wskocz do trattorii z lokalnym menu: spróbuj <em>cecina</em> (placek z mąki z ciecierzycy) i <em>pappardelle al cinghiale</em> (makaron z dzikiem – serio, pyszne).</li>
+  </ul>
 
-  <h3>🧱 Bazylika San Lorenzo i grobowce Medyceuszy</h3>
-  <p>
-    Po obiedzie odwiedź bazylikę związaną z rodziną Medyceuszy. Znajdziesz tu grobowce zaprojektowane przez Michała Anioła i imponujące wnętrza. Można też zajrzeć do biblioteki Laurenziana – dzieła architektonicznej wyobraźni renesansu.
-  </p>
-  <p><strong>Współrzędne:</strong> 43.7751° N, 11.2539° E</p>
-
-  <h3>🌉 Ponte Vecchio – most pełen złota</h3>
-  <p>
-    Czas na romantykę! <strong>Ponte Vecchio</strong> to najstarszy most w mieście, pełen sklepików jubilerskich. Poza błyskotkami, znajdziesz tu panoramę rzeki Arno, idealną do zdjęć i krótkiego odpoczynku na murku z lodem w ręku.
-  </p>
-  <p><strong>Współrzędne:</strong> 43.7679° N, 11.2531° E</p>
-
-  <h3>🌳 Ogród Różany lub Plac Michała Anioła</h3>
-  <p>
-    Z mostu przejdź na drugą stronę Arno i wejdź (lub podjedź autobusem) na <strong>Piazzale Michelangelo</strong>. Po drodze odwiedź <strong>Giardino delle Rose</strong> – ukryty ogród pełen zapachu róż i rzeźb, idealny na krótki chillout. A z tarasu na Piazzale zobaczysz całą Florencję jak na dłoni.
-  </p>
-  <p><strong>Współrzędne (Piazzale Michelangelo):</strong> 43.7629° N, 11.2650° E</p>
-
-  <h3>🍷 Wieczór: Aperitivo na Via de’ Benci</h3>
-  <p>
-    Zakończ dzień na Via de’ Benci lub w okolicach Piazza Santa Croce – bary z lampką wina i deską serów oraz widokiem na pięknie podświetloną bazylikę. Po takim dniu – tylko uśmiech i toast za Florencję!
-  </p>
+  <p><strong>🌙 Zakończenie dnia</strong></p>
+  <ul>
+    <li>Wróć na Plac Cudów, kiedy zapalą się światła – wieża wygląda wtedy magicznie. Mniej ludzi, więcej klimatu.</li>
+  </ul>
 
 </details>
+
 
 ---
 
