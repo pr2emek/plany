@@ -435,3 +435,57 @@ Witaj w przewodniku po Weronie! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
+
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady w Weronie</strong></summary>
+
+  <h3>💶 Coperto i serwis – chleb, oliwa i opłata</h3>
+  <p>
+    W wielu restauracjach w Weronie doliczany jest <strong>coperto</strong> – opłata za nakrycie, chleb i wodę (2–3€). Czasem pojawi się też <strong>servizio</strong> – szczególnie w turystycznych lokalach, blisko amfiteatru. Rada? Sprawdź rachunek przed płaceniem – unikniesz zdziwienia większego niż przy oglądaniu „Romea i Julii” w wersji operowej.
+  </p>
+
+  <h3>💰 Napiwki – nie musisz, ale miło</h3>
+  <p>
+    We Włoszech napiwek nie jest obowiązkowy, ale jeśli obsługa była miła – zostaw 1–2€. Kelnerzy docenią, a Ty poczujesz się jak prawdziwy dżentelmen lub dama.
+  </p>
+
+  <h3>🛍️ Co warto kupić w Weronie?</h3>
+  <ul>
+    <li><strong>Wina z regionu Valpolicella</strong> – szczególnie Amarone i Ripasso</li>
+    <li><strong>Oliwa z oliwek z gór Lessini</strong> – złoto północy</li>
+    <li><strong>Mydła i kosmetyki z naturalnych składników</strong> – lokalna produkcja</li>
+    <li><strong>Pamiątki związane z Julią</strong> – breloczki, listy, czekoladki (serio!)</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Kupowania pamiątek pod Areną – często tandeta za podwójną cenę</li>
+    <li>Wchodzenia na balkon Julii bez biletu – strażnicy mają sokoli wzrok</li>
+    <li>Picia alkoholu „na ulicy” – w centrum bywa zakazane wieczorami</li>
+    <li>Dotykania posągu Julii „dla szczęścia” – to już trochę przereklamowane</li>
+  </ul>
+
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Buongiorno</strong> – dzień dobry</li>
+    <li><strong>Un tavolo per due, per favore</strong> – stolik dla dwóch, proszę</li>
+    <li><strong>Dov’è l’Arena?</strong> – gdzie jest Arena?</li>
+    <li><strong>Vorrei un gelato</strong> – poproszę lody</li>
+    <li><strong>Arrivederci!</strong> – do widzenia!</li>
+  </ul>
+
+  <h3>💳 Karta czy gotówka?</h3>
+  <p>
+    Karty działają prawie wszędzie, ale w małych barach, kioskach czy u lokalnych winiarzy – gotówka wciąż króluje. Bankomaty są dostępne, ale mogą naliczać prowizję, więc warto mieć trochę euro w kieszeni.
+  </p>
+
+  <h3>👠 Styl – bo Werona to nie tylko dramaty</h3>
+  <p>
+    W Weronie nawet pies wygląda stylowo, więc nie bądź gorszy. Ubrania wygodne, ale ładne. Na kolację: coś elegantszego. Na arenę? Weź coś ciepłego, nawet latem – kamień trzyma chłód jak wspomnienie po dawnym kochanku.
+  </p>
+
+</details>
+
+
