@@ -227,7 +227,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
       To najbardziej romantyczne miejsce w Weronie, związane z legendą o Romeu i Julii. Choć historia Szekspira to fikcja, Werona upodobała ją sobie na dobre. W dziedzińcu przy Via Cappello 23 znajduje się słynny balkon i posąg Julii. Według legendy, kto dotknie jej prawej piersi, ten znajdzie szczęście w miłości. Codziennie przybywają tu zakochani z całego świata, by zostawić list z prośbą o radę lub… pierścionek zaręczynowy.
     </p>
   
-    <h3g>⚔️ Grób Romea – miejsce smutku i zagadki</h3>
+    <h3>⚔️ Grób Romea – miejsce smutku i zagadki</h3>
     <p>
       <em>Współrzędne: 45.4368° N, 10.9903° E</em>
     </p>
