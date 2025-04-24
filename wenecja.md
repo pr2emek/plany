@@ -638,3 +638,56 @@ Witaj w przewodniku po Wenecji! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
+
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady w Wenecji</strong></summary>
+
+  <h3>💶 Coperto i serwis – płacisz za chleb i widok</h3>
+  <p>
+    W Wenecji wiele restauracji dolicza <strong>coperto</strong> – opłatę serwisową (często 2–3€, ale bywa więcej, jeśli siedzisz nad kanałem). Zdarza się też <strong>servizio</strong> – czasem już wliczone, czasem dodatkowe 10–15%. Sprawdź rachunek, zanim krzykniesz „mamma mia!”.
+  </p>
+
+  <h3>💰 Napiwki – drobne gesty są mile widziane</h3>
+  <p>
+    Włosi nie oczekują napiwków jak Amerykanie, ale zaokrąglenie rachunku lub zostawienie 1–2€ po miłym obiedzie to zawsze elegancki ruch.
+  </p>
+
+  <h3>🛍️ Co kupić w Wenecji?</h3>
+  <ul>
+    <li><strong>Maski karnawałowe</strong> – od ręcznie malowanych po „made in China” (uważaj na podróbki)</li>
+    <li><strong>Szkło z Murano</strong> – od miniaturowych figurek po biżuterię i wazony</li>
+    <li><strong>Koronki z Burano</strong> – idealne jako pamiątka albo babcina zasłonka</li>
+    <li><strong>Likier ziołowy „Select”</strong> – lokalna alternatywa dla Aperola</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Siedzenia na schodach przy kanałach lub mostach – możesz dostać mandat</li>
+    <li>Picia alkoholu „na ulicy” – zakazane w wielu miejscach w centrum</li>
+    <li>Karmienia gołębi na Placu św. Marka – kary jak za lot gondolą</li>
+    <li>Jedzenia na schodach – Wenecja nie lubi pikników w centrum</li>
+  </ul>
+
+   <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Ciao / Buongiorno</strong> – cześć / dzień dobry</li>
+    <li><strong>Dove si trova il vaporetto?</strong> – gdzie jest przystanek vaporetto?</li>
+    <li><strong>Un Aperol, per favore</strong> – poproszę Aperola</li>
+    <li><strong>Quanto costa?</strong> – ile to kosztuje?</li>
+    <li><strong>Grazie mille!</strong> – wielkie dzięki!</li>
+  </ul>
+
+  <h3>💳 Karta czy gotówka?</h3>
+  <p>
+    Większość lokali akceptuje karty, ale <strong>gotówka przyda się</strong> w małych kawiarniach, na wyspach i w przypadku vaporetto, jeśli automat odmówi posłuszeństwa (co się zdarza). Bankomaty są, ale z prowizją.
+  </p>
+
+  <h3>👗 Styl i ubiór</h3>
+  <p>
+    Wenecja to nie plaża. Do kościołów (np. Bazylika św. Marka) obowiązuje strój zakrywający ramiona i kolana. A na miasto? Stylowo, ale wygodnie – bo kostka brukowa i mosty robią swoje.
+  </p>
+</details>
+
+
