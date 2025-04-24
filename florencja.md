@@ -570,4 +570,53 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady we Florencji</strong></summary>
+
+  <h3>💶 Coperto – czyli opłata za… siedzenie z widokiem</h3>
+  <p>
+    W większości restauracji doliczą <em>coperto</em> – 1,50–3€ za sam fakt, że usiadłeś i dostałeś chleb. Nie próbuj się kłócić – to nie błąd, to tradycja. Florencja ma klasę – i drobną opłatę za jej poczucie.
+  </p>
+
+  <h3>💰 Napiwki – nie są obowiązkowe, ale... bądź cool</h3>
+  <p>
+    Włosi nie mają kultury napiwków jak Amerykanie, ale zaokrąglenie rachunku to dobry ton. W kawiarni zostaw 0,50€, w restauracji 1–2€, a przy świetnej obsłudze – do 10%. Kelner uśmiechnie się szerzej.
+  </p>
+
+  <h3>🛍️ Co warto kupić?</h3>
+  <ul>
+    <li><strong>Wyroby skórzane</strong> – torby, paski, buty – Florencja to raj dla fanów jakości i zapachu skóry.</li>
+    <li><strong>Pamiątki z Davidem</strong> – breloki, magnesy, figurki… tak, będzie dużo nagich pomników.</li>
+    <li><strong>Tradycyjne mydełka i perfumy</strong> – np. z <em>Officina Profumo-Farmaceutica di Santa Maria Novella</em>.</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Kupowania torebek „Gucci” od gościa z ręcznikiem na trawniku.</li>
+    <li>Wchodzenia do restauracji przy samym Duomo – widok piękny, rachunek mniej.</li>
+    <li>Picia kawy przy stoliku w barze – stań przy ladzie, zapłacisz mniej i poczujesz się lokalnie.</li>
+  </ul>
+ 
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Ciao / Buongiorno</strong> – cześć / dzień dobry</li>
+    <li><strong>Dove si trova...?</strong> – gdzie jest…?</li>
+    <li><strong>Un gelato, per favore</strong> – poproszę loda</li>
+    <li><strong>Il conto, per favore</strong> – poproszę rachunek</li>
+    <li><strong>Grazie mille!</strong> – bardzo dziękuję!</li>
+  </ul>
+
+  <h3>💳 Gotówka czy karta?</h3>
+  <p>
+    Płatności kartą są powszechne, ale miej przy sobie trochę gotówki – zwłaszcza na targach (np. San Lorenzo) albo w malutkich lodziarniach. Bankomaty (bancomat) są wszędzie – ale nie wszystkie bez prowizji.
+  </p>
+
+  <h3>🕶️ Styl we Florencji</h3>
+  <p>
+    Mimo upału nie chodź po mieście jakbyś wrócił z plaży. To stolica renesansu, a nie beach party. Szorty OK, ale zostaw klapki w hotelu. Nawet na lody wypada być choć trochę <em>elegante</em>.
+  </p>
+
+</details>
 
