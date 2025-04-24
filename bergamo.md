@@ -441,3 +441,55 @@ Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
   <p><em>Bergamo wie, jak nakarmić dobrze i tanio. I za to je kochamy!</em></p>
 </details>
 
+---
+
+<details>
+  <summary><strong>🧳 Praktyczne porady w Bergamo</strong></summary>
+
+  <h3>💶 Coperto – czyli „za co ja właściwie płacę?”</h3>
+  <p>
+    W większości restauracji doliczana jest opłata za tzw. <em>coperto</em> – to nie napiwek, tylko opłata za chleb, wodę, sztućce i... siedzenie. Wynosi zwykle 1–3€, niezależnie od tego, czy zjesz pizzę, czy tylko popijesz wodę. Nie dyskutuj – to norma.
+  </p>
+
+  <h3>💰 Napiwki – czy zostawiać?</h3>
+  <p>
+    Włosi nie są maniakami napiwków jak Amerykanie. Jeśli jesteś zadowolony z obsługi, zostaw drobne (np. 5–10% rachunku albo zaokrąglij w górę). W barze za espresso można zostawić kilkadziesiąt centów – ale nikt nie patrzy krzywo, jeśli tego nie zrobisz.
+  </p>
+
+  <h3>🧀 Co warto kupić?</h3>
+  <ul>
+    <li><strong>Ser Taleggio</strong> – pachnie jak walka, smakuje jak zwycięstwo.</li>
+    <li><strong>Polenta e osei</strong> – słodka wersja klasycznego dania z ptakiem (bez ptaka).</li>
+    <li><strong>Tip:</strong> kupuj w lokalnych sklepach, a nie w turystycznych pułapkach – portfel ci podziękuje.</li>
+  </ul>
+
+  <h3>🚫 Czego unikać?</h3>
+  <ul>
+    <li>Restauracji z menu w 10 językach i zdjęciami dań – czerwony alarm.</li>
+    <li>Picia kawy przy stoliku, jeśli nie chcesz dopłacać „za widok”.</li>
+    <li>Bliskich kontaktów z gołębiami – są odważniejsze niż wyglądają.</li>
+  </ul>
+
+  <h3>🗣️ Podstawowe zwroty po włosku</h3>
+  <ul>
+    <li><strong>Buongiorno</strong> – dzień dobry</li>
+    <li><strong>Buonasera</strong> – dobry wieczór</li>
+    <li><strong>Grazie</strong> – dziękuję</li>
+    <li><strong>Vorrei...</strong> – poproszę...</li>
+    <li><strong>Scusi</strong> – przepraszam</li>
+    <li><strong>Il conto, per favore</strong> – rachunek proszę</li>
+    <li><strong>Era delizioso!</strong> – było pyszne!</li>
+    <li><strong>Dov’è la pizzeria più vicina?</strong> – gdzie jest najbliższa pizzeria?</li>
+  </ul>
+
+  <h3>💳 Gotówka vs. karta</h3>
+  <p>
+    W większości miejsc zapłacisz kartą, ale miej przy sobie trochę gotówki – szczególnie w barach, lokalnych targach i autobusach. Niektóre miejsca nie lubią kart przy małych kwotach (poniżej 5€).
+  </p>
+
+  <h3>😴 Siesta istnieje</h3>
+  <p>
+    Między 13:00 a 15:30 niektóre sklepy i lokale zamykają się „na życie”. Nie panikuj – wrócą. Ty w tym czasie zjedz <em>gelato</em> i udawaj, że też jesteś Włochem.
+  </p>
+
+</details>
