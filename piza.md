@@ -47,15 +47,6 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🏛️ Co zobaczyć w Pizie</strong></summary>
-<iframe 
-  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1136.0366938743445!2d10.3962!3d43.7231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spl!2sit!4v1713960000000" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy" 
-  referrerpolicy="no-referrer-when-downgrade">
-</iframe>
 
   <details>
     <summary><strong>🗼 Krzywa Wieża – najsłynniejsze pochylenie świata</strong></summary>
