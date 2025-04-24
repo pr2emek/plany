@@ -48,6 +48,16 @@ Witaj w przewodniku po Pizie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Co zobaczyć w Pizie</strong></summary>
 
+  <div class="map-container">
+  <iframe
+    src="https://www.google.com/maps/d/u/0/embed?mid=1a2b3c4d5e6f7g8h9i0j"
+    style="border:0;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
+
   <details>
     <summary><strong>🗼 Krzywa Wieża – najsłynniejsze pochylenie świata</strong></summary>
     <p><strong>Współrzędne:</strong> <em>43.7230° N, 10.3966° E</em></p>
