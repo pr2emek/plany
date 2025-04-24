@@ -253,6 +253,8 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     
     </details>
 
+    </details>
+
 ---
 
 <details>
