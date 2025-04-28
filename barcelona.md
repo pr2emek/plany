@@ -139,7 +139,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>A jeśli uda Ci się złapać mecz w czasie swojej wizyty, to przygotuj się na prawdziwe emocje! Stadion tętni życiem, a kibice Barçy to prawdziwi mistrzowie w kibicowaniu – z szalikiem w ręku i gardłami gotowymi na głośny doping. A po meczu? Będziesz musiał jeszcze długo opowiadać wszystkim, jak to było – bo Camp Nou to przeżycie, które zostaje z Tobą na długo.</p>
 <p>Podsumowując: Camp Nou to nie tylko stadion – to prawdziwe przeżycie dla każdego, kto kocha piłkę nożną, Barcelonę, a nawet dla tych, którzy po prostu chcą poczuć tę niesamowitą atmosferę. Kiedy już tam będziesz, na pewno poczujesz się jak część jednej z najwspanialszych drużyn piłkarskich na świecie.</p>
  
-    </details>
+</details>
 
 <details>
   <summary><strong>🏛️ Łuk Triumfalny w Barcelonie – Tu nikt z nikim nie walczył. Po prostu postawili łuk na chwałę piękna!</strong></summary>
