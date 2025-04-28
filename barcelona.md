@@ -47,7 +47,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
      <summary><strong>🏰 Co zobaczyć</strong></summary>
 
     <details>
-      <summary>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</summary>
+      <summary><strong>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</strong></summary>
        <br>📍 Współrzędne: 41.4036, 2.1744</p>
       <p>Wyobraź sobie, że Gaudí wpadł na pomysł zbudowania kościoła, który wygląda jak z innej planety. I tak powstała Sagrada Família, której budowa zaczęła się w 1882 roku, a skończyć się ma… nie wiadomo kiedy. Tak, to nie żart – ta budowla to prawdziwa długoterminowa inwestycja! W każdym razie, nawet bez zakończenia prac, jest absolutnym must-see w Barcelonie. </p>
 <p>Wieże, które wyglądają jak olbrzymie, kaktusowe wzniesienia, fasady, które wcale nie przypominają tradycyjnych ścian kościelnych, a wnętrze, które przypomina katedrę, którą zaprojektowałby Picasso, gdyby miał ochotę zostać architektem. Sagrada Família to prawdziwy majstersztyk, który łączy elementy gotyku z fantastyką. Po prostu nie możesz tego pominąć – jeśli chcesz poczuć się jakbyś trafił do innej rzeczywistości!</p>
@@ -57,7 +57,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🎨 Park Güell – Ogród, który wygląda jakby Gaudí zamienił go w kolorowy sen pełen mozaik i zakrętów!</summary>
+      <summary><strong>🎨 Park Güell – Kolorowy Ogród!</strong></summary>
             <br>📍 Współrzędne: 41.4145, 2.1527</p>
 
      <p>Jeśli Gaudí miałby zaplanować idealny park do odpoczynku po ciężkim dniu w Barcelonie, to zdecydowanie wybrałby to miejsce. Park Güell to jak ogrodowa wersja Disneylandu, tylko zamiast miki i minnie, masz kolorowe mozaiki, a zamiast zamku – ławki, które wyglądają, jakby ktoś chciał je wyrzeźbić z klocków LEGO. I serio, to nie jest zwykły park – to kawałek sztuki, który postanowił zarazem być ogrodem. </p>
@@ -70,7 +70,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</summary>
+      <summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
             <br>📍 Współrzędne: 41.3839, 2.1763</p>
 <p>Barri Gòtic to jak podróż w czasie – tylko zamiast wehikułu czasu, masz do dyspozycji zabłąkane wąskie uliczki, które mogą z łatwością zmylić turystów (i miejscowych!). To miejsce, gdzie możesz poczuć się jak średniowieczny bohater, który przypadkowo trafił do XXI wieku. Ulice są pełne tajemnic, a każda kamienna ściana ma swoją historię do opowiedzenia – jeśli potrafisz ją wyczytać z jej zmarszczek i pęknięć. </p>
 <p>Nie daj się jednak zmylić średniowiecznemu klimacikowi – mimo że Barri Gòtic jest jak zamek z bajki, to nie oczekuj tu księżniczek ani smoków (chyba że zapytasz kogoś o drogę, to może poczujesz się jak smoczy łowca w labiryncie). Warto zgubić się w tych uliczkach, bo każda z nich kryje jakieś niespodzianki: od katedry św. Eulalii po ukryte kawiarnie, które serwują najlepsze churros w Barcelonie. </p>
@@ -81,7 +81,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🌊 Plaża Barceloneta – Miejsce, gdzie piasek spotyka się z słońcem, a Ty zapominasz, że wcale nie jesteś na tropikalnej wyspie!</summary>
+      <summary><strong>🌊 Plaża Barceloneta – piasek</strong></summary>
             <br>📍 Współrzędne: 41.3764, 2.1920</p>
 
       <p>Plaża Barceloneta to prawdziwa barcelońska ikona, która łączy miejską energię z nadmorskim relaksem. Piękny złocisty piasek, ciepła woda Morza Śródziemnego i widok na port – wszystko to sprawia, że jest to miejsce, które warto odwiedzić, nawet jeśli Twoje plany obejmują tylko godzinny odpoczynek. To tu spotkasz turystów, biegaczy, rowerzystów, a także lokalnych mieszkańców, którzy spędzają czas na plaży jakby to był ich drugi dom.</p>
@@ -92,7 +92,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🏰 Zamek Montjuïc (Castell de Montjuïc)</summary>
+      <summary><strong>🏰 Zamek Montjuïc</strong></summary>
         <br>📍 Współrzędne: 41.3636, 2.1656</p>
 <p>Zamek Montjuïc to nie tylko historyczna twierdza, ale również miejsce, z którego roztacza się jeden z najlepszych widoków na Barcelonę – a w dodatku bez potrzeby wspinania się na najwyższe szczyty! Zamek, który stoi dumnie na wzgórzu Montjuïc, oferuje nie tylko ciekawą lekcję historii, ale także okazję, by poczuć się jak wojownik w średniowieczu... tylko że zamiast tarczy trzymasz aparat fotograficzny, bo widoki są naprawdę godne uwiecznienia.</p>
 <p>Jest to miejsce pełne tajemnic, z małymi fortami, murami i basztami, które wytrzymały niejedną burzę (nie wspominając o licznych oblężeniach). Zamek pełnił różne funkcje na przestrzeni wieków – od twierdzy wojskowej po więzienie, ale dziś, na szczęście, pełni rolę atrakcji turystycznej, w której można spacerować i robić zdjęcia w iście "królewskim" stylu.</p>
@@ -103,7 +103,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🛍️ La Rambla – Ulica....!</summary>
+      <summary><strong>🛍️ La Rambla – Ulica....!</strong></summary>
             <br>📍 Współrzędne: 41.3809, 2.1730</p>
 <p>La Rambla to serce Barcelony – szeroka, pełna ludzi, straganów i kawiarni ulica, która zdaje się nie mieć końca. To tutaj znajdziesz turystów, lokalnych mieszkańców, ulicznych artystów i sprzedawców, którzy nie wiedzą, co to „przerwa na kawę”. Można by powiedzieć, że to najlepsze miejsce na to, by poczuć puls miasta – dosłownie! Od rana do wieczora, La Rambla żyje pełnią życia, a Ty, jako turysta, masz okazję zanurzyć się w tej kolorowej, nieco chaotycznej atmosferze.</p>
 <p>Jest to także świetne miejsce, by poczuć się jak prawdziwy barcelończyk – przechadzając się wśród straganów z kwiatami, pamiątkami, a także szukając prawdziwego skarbu – przepysznych tapas. No i oczywiście, nie zapomnij zatrzymać się na chwilę przy ulicznych artystach. Tutaj znajdziesz malarzy, tancerzy flamenco, a także tych, którzy potrafią zaskoczyć Cię swoją kreatywnością. To miejsce, w którym z pewnością nie będziesz się nudzić – za każdym rogiem czeka coś nowego.</p>
@@ -114,7 +114,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🍓 Mercat de Sant Josep de la Boqueria – Raj dla smakoszy</summary>
+      <summary><strong>🍓 Mercat de Sant Josep de la Boqueria – Raj dla smakoszy</strong></summary>
             <br>📍 Współrzędne: 41.3826, 2.1722</p>
 
    <p>Jeśli chcesz poczuć prawdziwy smak Barcelony (i nie chodzi tu tylko o sangrię!), to Mercat de la Boqueria jest absolutnie obowiązkowym punktem na Twojej liście. Ten kolorowy, pełen zapachów i smaków rynek spożywczy to prawdziwy raj dla każdego, kto kocha jedzenie – i to nie tylko na talerzu, ale i w powietrzu! Znajdziesz tu wszystko: od świeżych owoców morza, przez warzywa, po najdziwniejsze przyprawy, które prawdopodobnie nie miałyby prawa istnieć, gdyby nie fantazja katalońskich kucharzy.</p>
@@ -126,7 +126,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary>🏟️ Camp Nou  – po prostu STADION</summary>
+      <summary><strong>🏟️ Camp Nou  – po prostu STADION</strong></summary>
             <br>📍 Współrzędne: 41.3809, 2.1228</p>
     <p>Camp Nou to nie tylko stadion – to świątynia piłki nożnej, mecca dla każdego fana FC Barcelony. I nie ważne, czy jesteś zagorzałym kibicem, czy po prostu turystą, który nie zna się na piłce nożnej – wchodząc na ten stadion, poczujesz się, jakbyś stąpał po świętej ziemi. To tutaj padają najpiękniejsze bramki, to tu rozbrzmiewa "Visca el Barça" (choć prawdopodobnie nie zaśpiewasz tego jak Lionel Messi, ale próbuj!), a emocje sięgają zenitu podczas każdego meczu.</p>
 <p>Jeśli wiesz, co to znaczy „dobry mecz” (a jeśli nie, to znaczy, że po wizycie w Camp Nou na pewno się dowiesz), to koniecznie wybierz się na wycieczkę po stadionie. Bo stadion to nie tylko boisko – to także muzeum, które przeniesie Cię przez historię Barçy. Zobaczysz trofea, które wygrywała drużyna, koszulki legend takich jak Messi, Xavi czy Iniesta i poczujesz się, jakbyś był częścią tej historii. To doświadczenie dla każdego fana, który choć raz marzył o tym, by poczuć się jak gwiazda.</p>
@@ -184,7 +184,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
    
 <details>
-    <summary><h2>🕵️‍♂️ Sekretne miejsca Barcelony</h2></summary>
+    <summary><strong>🕵️‍♂️ Sekretne miejsca Barcelony</strong></summary>
 
         <details>
       <summary>⛲ Plac Sant Felip Neri</summary>
