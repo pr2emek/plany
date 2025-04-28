@@ -18,6 +18,8 @@
       display: flex;
       min-height: 100vh;
       flex-direction: column;
+      padding-left: 20px; /* Padding z lewej strony */
+      padding-right: 20px; /* Padding z prawej strony */
     }
 
     /* Nagłówek */
@@ -138,6 +140,11 @@
       footer {
         font-size: 14px;
       }
+
+      .container {
+        padding-left: 10px; /* Zmniejszenie paddingu w responsywnym widoku */
+        padding-right: 10px;
+      }
     }
 
     @media (max-width: 480px) {
@@ -147,6 +154,11 @@
 
       nav ul.top-menu li a {
         font-size: 12px;
+      }
+
+      .container {
+        padding-left: 5px; /* Zmniejszenie paddingu na najmniejszych urządzeniach */
+        padding-right: 5px;
       }
     }
   </style>
