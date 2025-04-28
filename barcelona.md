@@ -180,10 +180,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>Podsumowując: Port w Barcelonie to idealne miejsce, żeby na chwilę zgubić mapę, dać się ponieść chwili... i może nawet zaplanować kolejną podróż. Bo w takim miejscu trudno się nie zakochać!</p>
 
 </details>
-
-  </details>
-
-
    
 <details>
     <summary><strong>🕵️‍♂️ Sekretne miejsca Barcelony</strong></summary>
