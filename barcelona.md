@@ -184,7 +184,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     <summary><strong>🕵️‍♂️ Sekretne miejsca Barcelony</strong></summary>
 
         <details>
-      <summary>⛲ Plac Sant Felip Neri</summary>
+      <summary><strong>⛲ Plac Sant Felip Neri</strong></summary>
             <br>📍 Współrzędne: 41.3832, 2.1755</p>
       <p>Maleńki, cichy plac z dramatyczną historią i śladami po kulach. Łap melancholię między kawą a paellą.  
       <br><strong>Dojazd:</strong> Metro Jaume I (L4) lub Liceu (L3)  
@@ -215,21 +215,21 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
    
     <details>
-      <summary>🚇 Stacja metra „fantom” Gaudí</summary>
+      <summary><strong>🚇 Stacja metra „fantom” Gaudí</strong></summary>
       <p>Stacja metra, której nie otwarto! Tajemnicze perony ukryte pod linią L5. Idealne dla miłośników miejskich legend.  
       <br><strong>Dojazd:</strong> Metro Sagrada Família (L2, L5) — stacja ukryta obok!  
       <br>📍 Współrzędne: 41.4036, 2.1744</p>
     </details>
 
     <details>
-      <summary>🪞 Magiczny sklep El Rei de la Màgia</summary>
+      <summary><strong>🪞 Magiczny sklep El Rei de la Màgia</strong></summary>
       <p>Najstarszy sklep z magią w Barcelonie. Od kapeluszy po królicze sztuczki — kupisz tam wszystko oprócz własnego zniknięcia.  
       <br><strong>Dojazd:</strong> Metro Urquinaona (L1, L4)  
       <br>📍 Współrzędne: 41.3891, 2.1726</p>
     </details>
 
     <details>
-      <summary>🧙‍♂️ Ulica Carrer de les Mosques</summary>
+      <summary><strong>🧙‍♂️ Ulica Carrer de les Mosques</strong></summary>
       <p>Wąziutka uliczka z tajemniczą nazwą („ulica much”) i średniowiecznym klimatem. Idealne miejsce na mikro przygodę!  
       <br><strong>Dojazd:</strong> Metro Jaume I (L4)  
       <br>📍 Współrzędne: 41.3843, 2.1790</p>
