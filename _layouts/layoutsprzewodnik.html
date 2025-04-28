@@ -167,12 +167,6 @@
       </ul>
     </nav>
 
-    <!-- Przycisk przełączania trybu -->
-    <button class="dark-mode-toggle" onclick="toggleDarkMode()">
-      <i class="fas fa-moon" id="mode-icon"></i>
-    </button>
-
-    <!-- Sekcja rozwijana w nagłówku -->
     <div class="menu-dropdown">
       <select onchange="window.location.href=this.value;">
         <option value="#">Wybierz przewodnik</option>
@@ -200,6 +194,9 @@
 
   <footer>
     <p>© {{ site.time | date: "%Y" }} – Strona „walizka planow”</p>
+    <button class="dark-mode-toggle" onclick="toggleDarkMode()">
+      <i class="fas fa-moon" id="mode-icon"></i>
+    </button>
   </footer>
 
   <script>
