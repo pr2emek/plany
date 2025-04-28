@@ -18,8 +18,8 @@
       display: flex;
       min-height: 100vh;
       flex-direction: column;
-      padding-left: 20px; /* Padding z lewej strony */
-      padding-right: 20px; /* Padding z prawej strony */
+      padding-left: 20px;
+      padding-right: 20px;
     }
 
     /* Nagłówek */
@@ -41,6 +41,7 @@
       margin-top: 20px;
     }
 
+    /* Menu główne */
     nav ul.top-menu {
       list-style: none;
       padding: 0;
@@ -142,7 +143,7 @@
       }
 
       .container {
-        padding-left: 10px; /* Zmniejszenie paddingu w responsywnym widoku */
+        padding-left: 10px;
         padding-right: 10px;
       }
     }
@@ -157,13 +158,34 @@
       }
 
       .container {
-        padding-left: 5px; /* Zmniejszenie paddingu na najmniejszych urządzeniach */
+        padding-left: 5px;
         padding-right: 5px;
       }
     }
+
+    /* Menu rozwijane dla krajów */
+    .country-dropdown {
+      display: none;
+      flex-direction: column;
+      padding-left: 20px;
+    }
+
+    .country-dropdown a {
+      text-decoration: none;
+      color: #444;
+    }
+
+    .country-dropdown a:hover {
+      text-decoration: underline;
+    }
+
+    /* Pokaż menu krajowe na większych ekranach */
+    @media (min-width: 769px) {
+      .country-dropdown {
+        display: flex;
+      }
+    }
   </style>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
   <header>
@@ -179,6 +201,7 @@
       </ul>
     </nav>
 
+    <!-- Menu rozwijane na telefon -->
     <div class="menu-dropdown">
       <select onchange="window.location.href=this.value;">
         <option value="#">Wybierz przewodnik</option>
@@ -195,6 +218,20 @@
         <option value="/plany/wenecja.html">Wenecja</option>
         <option value="/plany/werona.html">Werona</option>
       </select>
+    </div>
+
+    <!-- Menu rozwijane dla krajów na komputerze -->
+    <div class="country-dropdown">
+      <a href="/plany/barcelona.html">🇪🇸 Hiszpania - Barcelona</a>
+      <a href="/plany/madryt.html">🇪🇸 Hiszpania - Madryt</a>
+      <a href="/plany/bergamo.html">🇮🇹 Włochy - Bergamo</a>
+      <a href="/plany/florencja.html">🇮🇹 Włochy - Florencja</a>
+      <a href="/plany/mediolan.html">🇮🇹 Włochy - Mediolan</a>
+      <a href="/plany/neapol.html">🇮🇹 Włochy - Neapol</a>
+      <a href="/plany/piza.html">🇮🇹 Włochy - Piza</a>
+      <a href="/plany/rzym.html">🇮🇹 Włochy - Rzym</a>
+      <a href="/plany/wenecja.html">🇮🇹 Włochy - Wenecja</a>
+      <a href="/plany/werona.html">🇮🇹 Włochy - Werona</a>
     </div>
   </header>
 
