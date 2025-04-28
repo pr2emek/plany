@@ -6,29 +6,26 @@
   <title>{{ page.title }}</title>
   <style>
     body { margin: 0; font-family: Arial, sans-serif; }
-    .container { display: flex; min-height: 100vh; }
-    aside {
-      width: 250px;
+    .container { display: flex; min-height: 100vh; flex-direction: column; }
+    
+    /* Nagłówek */
+    header {
       background-color: #f2f2f2;
       padding: 20px;
-      box-shadow: 2px 0 5px rgba(0,0,0,0.1);
-    }
-    aside h2 { font-size: 1.2rem; margin-bottom: 1rem; }
-    aside ul { list-style: none; padding-left: 0; }
-    aside ul li { margin-bottom: 10px; }
-    aside ul li a { text-decoration: none; color: #333; }
-    .has-submenu .submenu { display: none; padding-left: 15px; margin-top: 5px; list-style: none; }
-    .has-submenu.active .submenu { display: block; }
-
-    main { flex: 1; padding: 40px; }
-
-    header, footer {
-      padding: 20px;
-      background-color: #fff;
-      border-bottom: 1px solid #ccc;
       text-align: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
-    footer { border-top: 1px solid #ccc; }
+
+    header img {
+      width: 100%;
+      height: 250px;
+      display: block;
+    }
+
+    nav {
+      margin-top: 20px;
+    }
+
     nav ul.top-menu {
       list-style: none;
       padding: 0;
@@ -36,63 +33,72 @@
       justify-content: center;
       gap: 1rem;
     }
+
     nav ul.top-menu li a {
       text-decoration: none;
       font-weight: bold;
       color: #444;
     }
+
     nav ul.top-menu li a:hover {
       text-decoration: underline;
+    }
+
+    /* Menu rozwijane w nagłówku */
+    .menu-dropdown {
+      margin-top: 20px;
+      text-align: left;
+      display: flex;
+      justify-content: center;
+    }
+
+    .menu-dropdown select {
+      padding: 10px;
+      font-size: 16px;
+    }
+
+    footer {
+      padding: 20px;
+      background-color: #fff;
+      border-top: 1px solid #ccc;
+      text-align: center;
     }
   </style>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
- <header style="background-color: #f2f2f2; padding: 20px; text-align: center;">
-  <a href="/plany/index.html">
-    <img src="{{ '/assets/images/9670B697-925C-40E7-8955-EE60E8BD11BB.png' | relative_url }}" alt="Plan podróży" style="width: 100%; height: 250px; display: block;">
-  </a>
-  <nav>
-    <ul class="top-menu">
-      <li><a href="/plany/index.html">Start</a></li>
-      <li><a href="/plany/przewodniki.html">Przewodniki</a></li>
-      <li><a href="/plany/kontakt.html">Kontakt</a></li>
-      <li><a href="/plany/omnie.html">O mnie</a></li>
-    </ul>
-  </nav>
-</header>
+  <header>
+    <a href="/plany/index.html">
+      <img src="{{ '/assets/images/9670B697-925C-40E7-8955-EE60E8BD11BB.png' | relative_url }}" alt="Plan podróży">
+    </a>
+    <nav>
+      <ul class="top-menu">
+        <li><a href="/plany/index.html">Start</a></li>
+        <li><a href="/plany/przewodniki.html">Przewodniki</a></li>
+        <li><a href="/plany/kontakt.html">Kontakt</a></li>
+        <li><a href="/plany/omnie.html">O mnie</a></li>
+      </ul>
+    </nav>
+    <!-- Sekcja rozwijana w nagłówku -->
+    <div class="menu-dropdown">
+      <select onchange="window.location.href=this.value;">
+        <option value="#">Wybierz przewodnik</option>
+        <option value="/plany/barcelona.html">Hiszpania - Barcelona</option>
+        <option value="/plany/madryt.html">Hiszpania - Madryt</option>
+        <option value="/plany/bergamo.html">Włochy - Bergamo</option>
+        <option value="/plany/florencja.html">Włochy - Florencja</option>
+        <option value="/plany/mediolan.html">Włochy - Mediolan</option>
+        <option value="/plany/neapol.html">Włochy - Neapol</option>
+        <option value="/plany/piza.html">Włochy - Piza</option>
+        <option value="/plany/rzym.html">Włochy - Rzym</option>
+        <option value="/plany/wenecja.html">Włochy - Wenecja</option>
+        <option value="/plany/werona.html">Włochy - Werona</option>
+      </select>
+    </div>
+  </header>
 
   <div class="container">
-    <aside>
-      <h2>Przewodniki</h2>
-      <ul>
-        
-        <li class="has-submenu">
-          <a href="#" onclick="toggleSubmenu(event)">🇪🇸 Hiszpania ▼</a>
-          <ul class="submenu">
-            <li><a href="/plany/barcelona.html">Barcelona</a></li>
-            <li><a href="/plany/madryt.html">Madryt</a></li>
-           
-          </ul>
-        </li>
-        <li class="has-submenu">
-          <a href="#" onclick="toggleSubmenu(event)">🇮🇹 Włochy ▼</a>
-          <ul class="submenu">
-            <li><a href="/plany/bergamo.html">Bergamo</a></li>
-            <li><a href="/plany/florencja.html">Florencja</a></li>
-            <li><a href="/plany/mediolan.html">Mediolan</a></li>
-            <li><a href="/plany/neapol.html">Neapol</a></li>
-            <li><a href="/plany/piza.html">Piza</a></li>
-            <li><a href="/plany/rzym.html">Rzym</a></li>
-            <li><a href="/plany/wenecja.html">Wenecja</a></li>
-            <li><a href="/plany/werona.html">Werona</a></li>
-            
-          </ul>
-        </li>
-      </ul>
-    </aside>
-
     <main>
       {{ content }}
     </main>
