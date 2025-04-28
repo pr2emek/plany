@@ -106,7 +106,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
     <details>
     <summary><strong>🛍️ La Rambla – Ulica...!</strong></summary>
-<p><strong>Współrzędne:</strong> <em>41.3809° N, 2.1730° E</em></p>
+    <p><strong>Współrzędne:</strong> <em>41.3809° N, 2.1730° E</em></p>
         
 <p>La Rambla to serce Barcelony – szeroka, pełna ludzi, straganów i kawiarni ulica, która zdaje się nie mieć końca. To tutaj znajdziesz turystów, lokalnych mieszkańców, ulicznych artystów i sprzedawców, którzy nie wiedzą, co to „przerwa na kawę”. Można by powiedzieć, że to najlepsze miejsce na to, by poczuć puls miasta – dosłownie! Od rana do wieczora, La Rambla żyje pełnią życia, a Ty, jako turysta, masz okazję zanurzyć się w tej kolorowej, nieco chaotycznej atmosferze.</p>
 <p>Jest to także świetne miejsce, by poczuć się jak prawdziwy barcelończyk – przechadzając się wśród straganów z kwiatami, pamiątkami, a także szukając prawdziwego skarbu – przepysznych tapas. No i oczywiście, nie zapomnij zatrzymać się na chwilę przy ulicznych artystach. Tutaj znajdziesz malarzy, tancerzy flamenco, a także tych, którzy potrafią zaskoczyć Cię swoją kreatywnością. To miejsce, w którym z pewnością nie będziesz się nudzić – za każdym rogiem czeka coś nowego.</p>
@@ -117,8 +117,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🍓 Mercat de Sant Josep de la Boqueria – Raj dla smakoszy</strong></summary>
-            <br>📍 Współrzędne: 41.3826, 2.1722</p>
+    <summary><strong>🍓 Mercat de Sant Josep de la Boqueria – Raj dla smakoszy</strong></summary>
+<p><strong>Współrzędne:</strong> <em>41.3826° N, 2.1722° E</em></p>
 
    <p>Jeśli chcesz poczuć prawdziwy smak Barcelony (i nie chodzi tu tylko o sangrię!), to Mercat de la Boqueria jest absolutnie obowiązkowym punktem na Twojej liście. Ten kolorowy, pełen zapachów i smaków rynek spożywczy to prawdziwy raj dla każdego, kto kocha jedzenie – i to nie tylko na talerzu, ale i w powietrzu! Znajdziesz tu wszystko: od świeżych owoców morza, przez warzywa, po najdziwniejsze przyprawy, które prawdopodobnie nie miałyby prawa istnieć, gdyby nie fantazja katalońskich kucharzy.</p>
 <p>Przechadzając się po stoiskach, poczujesz się jak dziecko w sklepie z cukierkami – w końcu, kto by się nie ucieszył z miski świeżych jagód, pachnących truskawek, a do tego pysznych owoców tropikalnych, których nawet nie możesz wymówić po katalońsku? Ale nie martw się, tu wszyscy są przyjaźni, a język jedzenia jest uniwersalny. Zatrzymaj się przy stoisku z lokalnymi wędlinami, spróbuj jamónu ibérico (jeśli nie spróbujesz, to chyba nie byłeś w Hiszpanii!) lub zanurz się w oceanie oliwek – najlepszych, jakich nie znajdziesz w żadnym supermarkecie.</p>
@@ -129,8 +129,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🏟️ Camp Nou  – po prostu STADION</strong></summary>
-            <br>📍 Współrzędne: 41.3809, 2.1228</p>
+    <summary><strong>🏟️ Camp Nou – po prostu STADION</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>41.3809° N, 2.1228° E</em></p>
+
     <p>Camp Nou to nie tylko stadion – to świątynia piłki nożnej, mecca dla każdego fana FC Barcelony. I nie ważne, czy jesteś zagorzałym kibicem, czy po prostu turystą, który nie zna się na piłce nożnej – wchodząc na ten stadion, poczujesz się, jakbyś stąpał po świętej ziemi. To tutaj padają najpiękniejsze bramki, to tu rozbrzmiewa "Visca el Barça" (choć prawdopodobnie nie zaśpiewasz tego jak Lionel Messi, ale próbuj!), a emocje sięgają zenitu podczas każdego meczu.</p>
 <p>Jeśli wiesz, co to znaczy „dobry mecz” (a jeśli nie, to znaczy, że po wizycie w Camp Nou na pewno się dowiesz), to koniecznie wybierz się na wycieczkę po stadionie. Bo stadion to nie tylko boisko – to także muzeum, które przeniesie Cię przez historię Barçy. Zobaczysz trofea, które wygrywała drużyna, koszulki legend takich jak Messi, Xavi czy Iniesta i poczujesz się, jakbyś był częścią tej historii. To doświadczenie dla każdego fana, który choć raz marzył o tym, by poczuć się jak gwiazda.</p>
 <p>Warto wiedzieć, że Camp Nou nie jest tylko dla tych, którzy rozumieją zasady futbolu. To także dla tych, którzy po prostu chcą poczuć tę atmosferę – wyobraź sobie, że siedzisz na trybunach, a tłum wiwatuje, bo właśnie padła bramka (i może nawet sam Messi strzelił – ale kto wie, bo Barcelona ma wielu wspaniałych graczy!). Nawet jeśli nie masz pojęcia, co to jest „offside”, to po wizycie w Camp Nou zrozumiesz, co to znaczy pasja do piłki nożnej.</p>
