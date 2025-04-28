@@ -8,7 +8,7 @@ permalink: /przewodniki.html
   
   <main>
     <h1>Przewodniki</h1>
-    <p>Wybierz kraj po lewej stronie, aby zobaczyć dostępne miasta i przewodniki turystyczne.</p>
+    <p>Wybierz przewodnik z menu rozwijanego na górze.</p>
     
 <p>Witam w zakładce dla wszystkich, którzy potrafią zgubić się nawet na prostej ulicy z jedną sygnalizacją świetlną. Jeśli Twój wewnętrzny GPS ciągle mówi „przeliczam trasę”, a pytanie „gdzie jesteśmy?” pada częściej niż „co dziś jemy?”, to jesteś w dobrym miejscu!
 </p>
