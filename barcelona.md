@@ -47,8 +47,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
      <summary><strong>🏰 Co zobaczyć</strong></summary>
 
     <details>
-      <summary><strong>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</strong></summary>
-          <p><strong>Współrzędne:</strong> <em>41.4036° N, 2.1744° E</em></p>
+    <summary><strong>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>41.4036° N, 2.1744° E</em></p>
        
       <p>Wyobraź sobie, że Gaudí wpadł na pomysł zbudowania kościoła, który wygląda jak z innej planety. I tak powstała Sagrada Família, której budowa zaczęła się w 1882 roku, a skończyć się ma… nie wiadomo kiedy. Tak, to nie żart – ta budowla to prawdziwa długoterminowa inwestycja! W każdym razie, nawet bez zakończenia prac, jest absolutnym must-see w Barcelonie. </p>
 <p>Wieże, które wyglądają jak olbrzymie, kaktusowe wzniesienia, fasady, które wcale nie przypominają tradycyjnych ścian kościelnych, a wnętrze, które przypomina katedrę, którą zaprojektowałby Picasso, gdyby miał ochotę zostać architektem. Sagrada Família to prawdziwy majstersztyk, który łączy elementy gotyku z fantastyką. Po prostu nie możesz tego pominąć – jeśli chcesz poczuć się jakbyś trafił do innej rzeczywistości!</p>
@@ -58,8 +58,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🎨 Park Güell – Kolorowy Ogród!</strong></summary>
-       <p><strong>Współrzędne:</strong> <em>41.4145° N, 2.1527° E</em></p>
+    <summary><strong>🎨 Park Güell – Kolorowy Ogród!</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>41.4145° N, 2.1527° E</em></p>
 
      <p>Jeśli Gaudí miałby zaplanować idealny park do odpoczynku po ciężkim dniu w Barcelonie, to zdecydowanie wybrałby to miejsce. Park Güell to jak ogrodowa wersja Disneylandu, tylko zamiast miki i minnie, masz kolorowe mozaiki, a zamiast zamku – ławki, które wyglądają, jakby ktoś chciał je wyrzeźbić z klocków LEGO. I serio, to nie jest zwykły park – to kawałek sztuki, który postanowił zarazem być ogrodem. </p>
 <p>Po wejściu na teren parku od razu wita Cię olbrzymia mozaikowa jaszczurka. Tak, dobrze przeczytałeś: jaszczurka! I nie byle jaka – wygląda jak coś, co Gaudí stwierdził, że połączy z kosmiczną biżuterią. Na pewno nie spotkałeś jeszcze takiej jaszczurki na żadnym spacerze, no chyba że jesteś na safari, ale to już inna bajka.</p>
@@ -67,24 +67,23 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>A co z widokiem? Ach, to już jest jak wisienka na torcie! Położony na wzgórzu park daje Ci widok na całe miasto – no bo czemu nie połączyć przyjemnego z pożytecznym? Oczywiście, nie obyło się bez kilku schodów i wzniesień, więc jeśli chcesz to zrobić w stylu Gaudíego, przygotuj się na lekki zadyszki – ale nie martw się, widok wynagrodzi każdy krok!</p>
 <p>Okej, kilka praktycznych wskazówek: wstęp do parku jest płatny, ale wiesz co? To Gaudí, musisz zapłacić, żeby poczuć tę bajkową magię. Poza tym, jeśli chcesz zobaczyć najfajniejsze zakamarki, najlepiej kupić bilety z wyprzedzeniem, bo inaczej będziesz musiał walczyć z turystycznymi tłumami (a nikt tego nie lubi). I pamiętaj – najlepsze zdjęcia zrobisz nie w standardowym selfie, ale przy mozaikowych jaszczurkach i zakręconych ławkach – na pewno zaszalejesz na Instagramie! </p>
 <p>Podsumowując: Park Güell to miejsce, w którym przyroda i sztuka spotykają się, żeby stworzyć coś zupełnie nieoczywistego. A jeśli kiedykolwiek pomyślałeś, że parki są nudne – to zapewniam cię, że tu na pewno tak nie będzie. W końcu kto by pomyślał, że park może wyglądać jak coś, co wyszło z wyobraźni artysty z przyszłości? Czas na wędrówkę po kolorowym świecie Gaudíego!</p>  
-      <br>📍 Współrzędne: 41.4145, 2.1527</p>
     </details>
 
     <details>
-<summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
-               <p><strong>Współrzędne:</strong> <em>41.3839° N, 2.1763° E</em></p>
+    <summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>41.3839° N, 2.1763° E</em></p>
         
 <p>Barri Gòtic to jak podróż w czasie – tylko zamiast wehikułu czasu, masz do dyspozycji zabłąkane wąskie uliczki, które mogą z łatwością zmylić turystów (i miejscowych!). To miejsce, gdzie możesz poczuć się jak średniowieczny bohater, który przypadkowo trafił do XXI wieku. Ulice są pełne tajemnic, a każda kamienna ściana ma swoją historię do opowiedzenia – jeśli potrafisz ją wyczytać z jej zmarszczek i pęknięć. </p>
 <p>Nie daj się jednak zmylić średniowiecznemu klimacikowi – mimo że Barri Gòtic jest jak zamek z bajki, to nie oczekuj tu księżniczek ani smoków (chyba że zapytasz kogoś o drogę, to może poczujesz się jak smoczy łowca w labiryncie). Warto zgubić się w tych uliczkach, bo każda z nich kryje jakieś niespodzianki: od katedry św. Eulalii po ukryte kawiarnie, które serwują najlepsze churros w Barcelonie. </p>
 <p>Jeśli chodzi o zabytki, Barri Gòtic nie zawodzi. Przejdź się wzdłuż Placu Królewskiego, zerknij na gotyckie łuki, a potem wzbierz się na mały spacer do Katedry Św. Eulalii – jej witraże i gotycki styl sprawiają, że czujesz się jak na planie historycznego filmu (a przynajmniej chcesz pozować do zdjęć, jakbyś właśnie z niego wyszedł). </p>
 <p>A jeśli myślisz, że jest tu tylko historia, to się grubo mylisz! W okolicach Barri Gòtic znajdziesz mnóstwo modnych barów, sklepików z pamiątkami i miejsc, które sprawiają, że turystyka ma też swoje nowoczesne oblicze. Więc tak, może i poczujesz się jak w średniowieczu, ale nie zapominaj, że wciąż jesteś w Barcelonie – a to miasto ma naprawdę dobry smak w połączeniu z historią.</p>
-<p>W skrócie: Barri Gòtic to miejsce, które czaruje swoją atmosferą – stare kamienice, wąskie zaułki i niepowtarzalny klimat. Idealne do zgubienia się na kilka godzin i poczucia się jak bohater w średniowiecznej opowieści, tylko że bez smoka (no, chyba że chodzi o tłum turystów!).</p>
+<p> W skrócie: Barri Gòtic to miejsce, które czaruje swoją atmosferą – stare kamienice, wąskie zaułki i niepowtarzalny klimat. Idealne do zgubienia się na kilka godzin i poczucia się jak bohater w średniowiecznej opowieści, tylko że bez smoka (no, chyba że chodzi o tłum turystów!).</p>
     
     </details>
 
     <details>
-      <summary><strong>🌊 Plaża Barceloneta – piasek</strong></summary>
- <p><strong>Współrzędne:</strong> <em>41.3764° N, 2.1920° E</em></p>
+    <summary><strong>🌊 Plaża Barceloneta – piasek</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>41.3764° N, 2.1920° E</em></p>
             
       <p>Plaża Barceloneta to prawdziwa barcelońska ikona, która łączy miejską energię z nadmorskim relaksem. Piękny złocisty piasek, ciepła woda Morza Śródziemnego i widok na port – wszystko to sprawia, że jest to miejsce, które warto odwiedzić, nawet jeśli Twoje plany obejmują tylko godzinny odpoczynek. To tu spotkasz turystów, biegaczy, rowerzystów, a także lokalnych mieszkańców, którzy spędzają czas na plaży jakby to był ich drugi dom.</p>
 <p>Możesz odpoczywać na leżaku, cieszyć się kąpielą w morzu lub po prostu przejść się wzdłuż promenady, podziwiając widoki i tętniące życiem okolice. Jeśli masz ochotę na prawdziwie barceloński klimat, zatrzymaj się w jednej z plażowych knajpek, spróbuj świeżej paelli lub innych owoców morza, a na zakończenie dnia zamów kieliszek orzeźwiającej sangrii – najlepiej w towarzystwie zachodzącego słońca, które sprawi, że ten moment będzie miał w sobie coś magicznego. </p>
@@ -94,8 +93,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🏰 Zamek Montjuïc</strong></summary>
-        <br>📍 Współrzędne: 41.3636, 2.1656</p>
+    <summary><strong>🏰 Zamek Montjuïc</strong></summary>
+    <p><strong>Współrzędne:</strong> <em>41.3636° N, 2.1656° E</em></p>
+
 <p>Zamek Montjuïc to nie tylko historyczna twierdza, ale również miejsce, z którego roztacza się jeden z najlepszych widoków na Barcelonę – a w dodatku bez potrzeby wspinania się na najwyższe szczyty! Zamek, który stoi dumnie na wzgórzu Montjuïc, oferuje nie tylko ciekawą lekcję historii, ale także okazję, by poczuć się jak wojownik w średniowieczu... tylko że zamiast tarczy trzymasz aparat fotograficzny, bo widoki są naprawdę godne uwiecznienia.</p>
 <p>Jest to miejsce pełne tajemnic, z małymi fortami, murami i basztami, które wytrzymały niejedną burzę (nie wspominając o licznych oblężeniach). Zamek pełnił różne funkcje na przestrzeni wieków – od twierdzy wojskowej po więzienie, ale dziś, na szczęście, pełni rolę atrakcji turystycznej, w której można spacerować i robić zdjęcia w iście "królewskim" stylu.</p>
 <p>A jak już wspomniałem, wjazd na górę to prawdziwa przygoda – albo zdecydować się na spacer (jeśli masz dużo energii), albo wybrać wygodną opcję – kabelkę! Nie, nie ta z kiosku z pamiątkami – chodzi o kolejkę linową, która wznosi Cię na samą górę, zapewniając widok, który sprawi, że poczujesz się jak część jakiegoś średniowiecznego filmu. A po dotarciu na szczyt? Panoramiczny widok na Barcelonę, port i Morze Śródziemne – absolutnie zapierający dech!</p>
@@ -105,8 +105,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🛍️ La Rambla – Ulica...!</strong></summary>
-            <br>📍 Współrzędne: 41.3809, 2.1730</p>
+    <summary><strong>🛍️ La Rambla – Ulica...!</strong></summary>
+<p><strong>Współrzędne:</strong> <em>41.3809° N, 2.1730° E</em></p>
+        
 <p>La Rambla to serce Barcelony – szeroka, pełna ludzi, straganów i kawiarni ulica, która zdaje się nie mieć końca. To tutaj znajdziesz turystów, lokalnych mieszkańców, ulicznych artystów i sprzedawców, którzy nie wiedzą, co to „przerwa na kawę”. Można by powiedzieć, że to najlepsze miejsce na to, by poczuć puls miasta – dosłownie! Od rana do wieczora, La Rambla żyje pełnią życia, a Ty, jako turysta, masz okazję zanurzyć się w tej kolorowej, nieco chaotycznej atmosferze.</p>
 <p>Jest to także świetne miejsce, by poczuć się jak prawdziwy barcelończyk – przechadzając się wśród straganów z kwiatami, pamiątkami, a także szukając prawdziwego skarbu – przepysznych tapas. No i oczywiście, nie zapomnij zatrzymać się na chwilę przy ulicznych artystach. Tutaj znajdziesz malarzy, tancerzy flamenco, a także tych, którzy potrafią zaskoczyć Cię swoją kreatywnością. To miejsce, w którym z pewnością nie będziesz się nudzić – za każdym rogiem czeka coś nowego.</p>
 <p>Chociaż La Rambla to idealne miejsce do spacerów, pamiętaj, że to też mekka dla turystów. Zatem, gdy już poczujesz się zmęczony wędrówką, zawsze możesz usiąść w jednej z uroczych kawiarni i spróbować lokalnych przysmaków. Warto też zajrzeć do Mercado de la Boqueria – kolorowego, pełnego smaków i zapachów rynku, który wprost woła o to, by spróbować wszystkiego, co ma do zaoferowania. I tak, możemy to powiedzieć – jeśli nie próbujesz hamulca w Boquerii, to nie byłeś na La Rambli!</p>
