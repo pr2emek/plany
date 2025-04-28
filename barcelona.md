@@ -48,7 +48,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
     <details>
       <summary><strong>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</strong></summary>
-       <br>📍 Współrzędne: 41.4036, 2.1744</p>
+          <p><strong>Współrzędne:</strong> <em>41.4036° N, 2.1744° E</em></p>
+       
       <p>Wyobraź sobie, że Gaudí wpadł na pomysł zbudowania kościoła, który wygląda jak z innej planety. I tak powstała Sagrada Família, której budowa zaczęła się w 1882 roku, a skończyć się ma… nie wiadomo kiedy. Tak, to nie żart – ta budowla to prawdziwa długoterminowa inwestycja! W każdym razie, nawet bez zakończenia prac, jest absolutnym must-see w Barcelonie. </p>
 <p>Wieże, które wyglądają jak olbrzymie, kaktusowe wzniesienia, fasady, które wcale nie przypominają tradycyjnych ścian kościelnych, a wnętrze, które przypomina katedrę, którą zaprojektowałby Picasso, gdyby miał ochotę zostać architektem. Sagrada Família to prawdziwy majstersztyk, który łączy elementy gotyku z fantastyką. Po prostu nie możesz tego pominąć – jeśli chcesz poczuć się jakbyś trafił do innej rzeczywistości!</p>
 <p>A jeśli myślisz, że to tylko turystyczny punkt, to wiedz, że miejscowi traktują ją jak swoją dumę narodową. Więc jeśli chcesz uniknąć typowej turystycznej pułapki, spróbuj zatrzymać się na chwilę i patrzeć na szczegóły. Znajdziesz tu mnóstwo symboliki religijnej, ale także dziwacznych elementów, które nie do końca pasują do tradycyjnego kościoła. Warto zarezerwować bilety online, bo kolejki mogą przyprawić o zawrót głowy, a podczas zwiedzania wnętrza polecam nie tylko podziwiać witraże, ale i rozglądać się na boki – każdy szczegół ma swoją historię!</p>
@@ -58,7 +59,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
     <details>
       <summary><strong>🎨 Park Güell – Kolorowy Ogród!</strong></summary>
-            <br>📍 Współrzędne: 41.4145, 2.1527</p>
+       <p><strong>Współrzędne:</strong> <em>41.4145° N, 2.1527° E</em></p>
 
      <p>Jeśli Gaudí miałby zaplanować idealny park do odpoczynku po ciężkim dniu w Barcelonie, to zdecydowanie wybrałby to miejsce. Park Güell to jak ogrodowa wersja Disneylandu, tylko zamiast miki i minnie, masz kolorowe mozaiki, a zamiast zamku – ławki, które wyglądają, jakby ktoś chciał je wyrzeźbić z klocków LEGO. I serio, to nie jest zwykły park – to kawałek sztuki, który postanowił zarazem być ogrodem. </p>
 <p>Po wejściu na teren parku od razu wita Cię olbrzymia mozaikowa jaszczurka. Tak, dobrze przeczytałeś: jaszczurka! I nie byle jaka – wygląda jak coś, co Gaudí stwierdził, że połączy z kosmiczną biżuterią. Na pewno nie spotkałeś jeszcze takiej jaszczurki na żadnym spacerze, no chyba że jesteś na safari, ale to już inna bajka.</p>
@@ -71,7 +72,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
     <details>
       <summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
-            <br>📍 Współrzędne: 41.3839, 2.1763</p>
+               <p><strong>Współrzędne:</strong> <em>41.3839° N, 2.1763° E</em></p>
+        
 <p>Barri Gòtic to jak podróż w czasie – tylko zamiast wehikułu czasu, masz do dyspozycji zabłąkane wąskie uliczki, które mogą z łatwością zmylić turystów (i miejscowych!). To miejsce, gdzie możesz poczuć się jak średniowieczny bohater, który przypadkowo trafił do XXI wieku. Ulice są pełne tajemnic, a każda kamienna ściana ma swoją historię do opowiedzenia – jeśli potrafisz ją wyczytać z jej zmarszczek i pęknięć. </p>
 <p>Nie daj się jednak zmylić średniowiecznemu klimacikowi – mimo że Barri Gòtic jest jak zamek z bajki, to nie oczekuj tu księżniczek ani smoków (chyba że zapytasz kogoś o drogę, to może poczujesz się jak smoczy łowca w labiryncie). Warto zgubić się w tych uliczkach, bo każda z nich kryje jakieś niespodzianki: od katedry św. Eulalii po ukryte kawiarnie, które serwują najlepsze churros w Barcelonie. </p>
 <p>Jeśli chodzi o zabytki, Barri Gòtic nie zawodzi. Przejdź się wzdłuż Placu Królewskiego, zerknij na gotyckie łuki, a potem wzbierz się na mały spacer do Katedry Św. Eulalii – jej witraże i gotycki styl sprawiają, że czujesz się jak na planie historycznego filmu (a przynajmniej chcesz pozować do zdjęć, jakbyś właśnie z niego wyszedł). </p>
