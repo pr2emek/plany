@@ -8,6 +8,9 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
+      background-color: #fff;
+      color: #000;
+      transition: background-color 0.3s, color 0.3s;
     }
 
     main {
@@ -19,6 +22,7 @@
       background-color: #fff;
       border-bottom: 1px solid #ccc;
       text-align: center;
+      transition: background-color 0.3s, color 0.3s;
     }
 
     footer {
@@ -44,11 +48,40 @@
     nav ul.top-menu li a:hover {
       text-decoration: underline;
     }
+
+    /* Dark mode styles */
+    body.dark-mode {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+
+    body.dark-mode header,
+    body.dark-mode footer {
+      background-color: #1e1e1e;
+      border-color: #333;
+    }
+
+    body.dark-mode nav ul.top-menu li a {
+      color: #ccc;
+    }
+
+    .dark-mode-toggle {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: #444;
+      margin-top: 10px;
+    }
+
+    body.dark-mode .dark-mode-toggle {
+      color: #f0f0f0;
+    }
   </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
-<header style="background-color: #f2f2f2; padding: 20px; text-align: center;">
+<header>
   <a href="/plany/index.html">
     <img src="{{ '/assets/images/9670B697-925C-40E7-8955-EE60E8BD11BB.png' | relative_url }}" alt="Plan podróży" style="width: 100%; height: 250px; display: block;">
   </a>
@@ -60,6 +93,9 @@
       <li><a href="/plany/omnie.html">O mnie</a></li>
     </ul>
   </nav>
+  <button class="dark-mode-toggle" onclick="toggleDarkMode()">
+    <i class="fas fa-moon" id="mode-icon"></i>
+  </button>
 </header>
 
 <main>
@@ -69,5 +105,33 @@
 <footer>
   <p>© {{ site.time | date: "%Y" }} – Strona „walizka planow”</p>
 </footer>
+
+<script>
+  // Przełącznik trybu ciemnego
+  function toggleDarkMode() {
+    const isDark = document.body.classList.toggle('dark-mode');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    updateIcon(isDark);
+  }
+
+  function updateIcon(isDark) {
+    const icon = document.getElementById('mode-icon');
+    icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+  }
+
+  // Sprawdź preferencje użytkownika
+  document.addEventListener('DOMContentLoaded', () => {
+    const savedTheme = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    const shouldUseDark = savedTheme === 'dark' || (savedTheme === null && prefersDark);
+
+    if (shouldUseDark) {
+      document.body.classList.add('dark-mode');
+    }
+
+    updateIcon(document.body.classList.contains('dark-mode'));
+  });
+</script>
 </body>
 </html>
