@@ -71,7 +71,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
+<summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
                <p><strong>Współrzędne:</strong> <em>41.3839° N, 2.1763° E</em></p>
         
 <p>Barri Gòtic to jak podróż w czasie – tylko zamiast wehikułu czasu, masz do dyspozycji zabłąkane wąskie uliczki, które mogą z łatwością zmylić turystów (i miejscowych!). To miejsce, gdzie możesz poczuć się jak średniowieczny bohater, który przypadkowo trafił do XXI wieku. Ulice są pełne tajemnic, a każda kamienna ściana ma swoją historię do opowiedzenia – jeśli potrafisz ją wyczytać z jej zmarszczek i pęknięć. </p>
@@ -84,8 +84,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
     <details>
       <summary><strong>🌊 Plaża Barceloneta – piasek</strong></summary>
-            <br>📍 Współrzędne: 41.3764, 2.1920</p>
-
+ <p><strong>Współrzędne:</strong> <em>41.3764° N, 2.1920° E</em></p>
+            
       <p>Plaża Barceloneta to prawdziwa barcelońska ikona, która łączy miejską energię z nadmorskim relaksem. Piękny złocisty piasek, ciepła woda Morza Śródziemnego i widok na port – wszystko to sprawia, że jest to miejsce, które warto odwiedzić, nawet jeśli Twoje plany obejmują tylko godzinny odpoczynek. To tu spotkasz turystów, biegaczy, rowerzystów, a także lokalnych mieszkańców, którzy spędzają czas na plaży jakby to był ich drugi dom.</p>
 <p>Możesz odpoczywać na leżaku, cieszyć się kąpielą w morzu lub po prostu przejść się wzdłuż promenady, podziwiając widoki i tętniące życiem okolice. Jeśli masz ochotę na prawdziwie barceloński klimat, zatrzymaj się w jednej z plażowych knajpek, spróbuj świeżej paelli lub innych owoców morza, a na zakończenie dnia zamów kieliszek orzeźwiającej sangrii – najlepiej w towarzystwie zachodzącego słońca, które sprawi, że ten moment będzie miał w sobie coś magicznego. </p>
 <p>Oczywiście, Barceloneta to nie tylko relaks – to także miejsce pełne życia. O poranku wielu Barcelonczyków przychodzi tu na poranny jogging, a później plaża zamienia się w przestrzeń dla tych, którzy pragną skorzystać z uroków słońca i morza. Na plaży znajdziesz także liczne miejsca do gry w siatkówkę plażową, czy po prostu spędzania czasu z rodziną i przyjaciółmi. A jeśli marzysz o chwili dla siebie, wystarczy, że znajdziesz kawałek piasku i zanurkujesz w relaksie.</p>
@@ -105,7 +105,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <details>
-      <summary><strong>🛍️ La Rambla – Ulica....!</strong></summary>
+      <summary><strong>🛍️ La Rambla – Ulica...!</strong></summary>
             <br>📍 Współrzędne: 41.3809, 2.1730</p>
 <p>La Rambla to serce Barcelony – szeroka, pełna ludzi, straganów i kawiarni ulica, która zdaje się nie mieć końca. To tutaj znajdziesz turystów, lokalnych mieszkańców, ulicznych artystów i sprzedawców, którzy nie wiedzą, co to „przerwa na kawę”. Można by powiedzieć, że to najlepsze miejsce na to, by poczuć puls miasta – dosłownie! Od rana do wieczora, La Rambla żyje pełnią życia, a Ty, jako turysta, masz okazję zanurzyć się w tej kolorowej, nieco chaotycznej atmosferze.</p>
 <p>Jest to także świetne miejsce, by poczuć się jak prawdziwy barcelończyk – przechadzając się wśród straganów z kwiatami, pamiątkami, a także szukając prawdziwego skarbu – przepysznych tapas. No i oczywiście, nie zapomnij zatrzymać się na chwilę przy ulicznych artystach. Tutaj znajdziesz malarzy, tancerzy flamenco, a także tych, którzy potrafią zaskoczyć Cię swoją kreatywnością. To miejsce, w którym z pewnością nie będziesz się nudzić – za każdym rogiem czeka coś nowego.</p>
@@ -170,7 +170,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⚓ Port w Barcelonie – szum fal</strong></summary>
   <p><strong>📍 Współrzędne:</strong> 41.3727° N, 2.1840° E</p>
-  <p><strong>⚓ Port w Barcelonie</strong> – Jeśli Barcelona ma jakieś serce bijące w rytmie szumu fal, to właśnie tutaj, w porcie!</p>
   <p>Spacer po porcie to taki obowiązkowy punkt programu — trochę jak tapas do wina albo siesta po obiedzie. Z jednej strony eleganckie jachty, które wyglądają, jakby każdy z nich miał własnego szefa kuchni i masażystę. Z drugiej strony wędrowcy z plecakami, rowerzyści i sprzedawcy kokosów, bo przecież w Barcelonie wszyscy mieszczą się w jednym kadrze życia.
   Tutaj nikt się nie spieszy — czas płynie wolniej, a fale leniwie rozbijają się o nabrzeże, jakby chciały ci powiedzieć: „Zwolnij, jesteś na wakacjach!”.</p>
   <p>Masz ochotę na coś więcej? Wskocz na drewniany mostek Rambla de Mar, który lekko kołysze się pod nogami, i poczuj się jak prawdziwy odkrywca zmierzający do skarbów Starego Portu. A jeśli złapie Cię głód przygody (albo zwykły głód), w pobliżu czeka Oceanarium i mnóstwo restauracji serwujących owoce morza tak świeże, że chyba jeszcze pamiętają pływanie.</p>
@@ -236,7 +235,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
       <br>📍 Współrzędne: 41.3843, 2.1790</p>
     </details>
 
-  </details>
+        </details>
+        </details>
 
 
 ---
