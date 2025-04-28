@@ -287,7 +287,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚇 Transport publiczny w Barcelonie – jak nie zgubić się w metrze i nie przepłacić za bilet</strong></summary>
+  <summary><strong>🚇 Transport publiczny w Barcelonie</strong></summary>
   <p>Barcelona to miasto, gdzie transport publiczny działa jak dobrze naoliwiona maszyna. Metro, autobusy, tramwaje, kolejki linowe – wszystko po to, byś mógł dotrzeć tam, gdzie chcesz, bez konieczności wynajmowania rydwanu.</p>
 
   <details>
