@@ -43,10 +43,10 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-    <details>
+<details>
      <summary><strong>🏰 Co zobaczyć</strong></summary>
 
-    <details>
+<details>
     <summary><strong>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.4036° N, 2.1744° E</em></p>
        
@@ -54,10 +54,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>Wieże, które wyglądają jak olbrzymie, kaktusowe wzniesienia, fasady, które wcale nie przypominają tradycyjnych ścian kościelnych, a wnętrze, które przypomina katedrę, którą zaprojektowałby Picasso, gdyby miał ochotę zostać architektem. Sagrada Família to prawdziwy majstersztyk, który łączy elementy gotyku z fantastyką. Po prostu nie możesz tego pominąć – jeśli chcesz poczuć się jakbyś trafił do innej rzeczywistości!</p>
 <p>A jeśli myślisz, że to tylko turystyczny punkt, to wiedz, że miejscowi traktują ją jak swoją dumę narodową. Więc jeśli chcesz uniknąć typowej turystycznej pułapki, spróbuj zatrzymać się na chwilę i patrzeć na szczegóły. Znajdziesz tu mnóstwo symboliki religijnej, ale także dziwacznych elementów, które nie do końca pasują do tradycyjnego kościoła. Warto zarezerwować bilety online, bo kolejki mogą przyprawić o zawrót głowy, a podczas zwiedzania wnętrza polecam nie tylko podziwiać witraże, ale i rozglądać się na boki – każdy szczegół ma swoją historię!</p>
 <p>W skrócie: Sagrada Família to miejsce, które wciągnie cię na długo – nawet jeśli nie jesteś fanem architektury, Gaudí zadba o to, żebyś poczuł się jak w bajce. Ale pamiętaj – tu nie ma czegoś takiego jak „ostatni szlif”, bo ta budowla żyje i zmienia się na naszych oczach. Może i nie jest skończona, ale już teraz można powiedzieć, że jest absolutnym klejnotem Barcelony. W końcu, jak coś jest w budowie przez ponad 140 lat, to chyba mówi samo za siebie!</p>
-     
-    </details>
+</details>
 
-    <details>
+<details>
     <summary><strong>🎨 Park Güell – Kolorowy Ogród!</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.4145° N, 2.1527° E</em></p>
 
@@ -70,7 +69,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-    <details>
+<details>
     <summary><strong>🏛️ Dzielnica Gotycka (Barri Gòtic) – Gdzie historia i magia spotykają się na wąskich uliczkach!</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.3839° N, 2.1763° E</em></p>
         
@@ -80,9 +79,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>A jeśli myślisz, że jest tu tylko historia, to się grubo mylisz! W okolicach Barri Gòtic znajdziesz mnóstwo modnych barów, sklepików z pamiątkami i miejsc, które sprawiają, że turystyka ma też swoje nowoczesne oblicze. Więc tak, może i poczujesz się jak w średniowieczu, ale nie zapominaj, że wciąż jesteś w Barcelonie – a to miasto ma naprawdę dobry smak w połączeniu z historią.</p>
 <p> W skrócie: Barri Gòtic to miejsce, które czaruje swoją atmosferą – stare kamienice, wąskie zaułki i niepowtarzalny klimat. Idealne do zgubienia się na kilka godzin i poczucia się jak bohater w średniowiecznej opowieści, tylko że bez smoka (no, chyba że chodzi o tłum turystów!).</p>
     
-    </details>
+</details>
 
-    <details>
+<details>
     <summary><strong>🌊 Plaża Barceloneta – piasek</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.3764° N, 2.1920° E</em></p>
             
@@ -91,9 +90,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>Oczywiście, Barceloneta to nie tylko relaks – to także miejsce pełne życia. O poranku wielu Barcelonczyków przychodzi tu na poranny jogging, a później plaża zamienia się w przestrzeń dla tych, którzy pragną skorzystać z uroków słońca i morza. Na plaży znajdziesz także liczne miejsca do gry w siatkówkę plażową, czy po prostu spędzania czasu z rodziną i przyjaciółmi. A jeśli marzysz o chwili dla siebie, wystarczy, że znajdziesz kawałek piasku i zanurkujesz w relaksie.</p>
 <p>Wieczorem plaża zmienia się w magiczne miejsce – z każdą minutą słońce opada coraz niżej, malując niebo w odcieniach różu i pomarańczu. To idealny czas na spacer wzdłuż brzegu, a potem na chłodne piwo lub właśnie wspomnianą sangrię, którą pijesz, patrząc, jak niebo wchodzi w noc. Wokół zapada spokój, ale atmosfera tętni życiem, gdy ludzie zaczynają zbierać się na relaksujące wieczory nad morzem.</p>
 <p>Plaża Barceloneta to także doskonała baza wypadowa do dalszego zwiedzania Barcelony, ale pamiętaj – nie spiesz się! Czas spędzony na tej plaży to nie tylko opalanie się, ale również zatrzymanie się na chwilę, by poczuć rytm tego miasta. A jeśli nie chcesz wracać do hotelu, to nie martw się – Barcelona ma dla Ciebie jeszcze wiele niespodzianek po zmroku!</p>  
-    </details>
+</details>
 
-    <details>
+<details>
     <summary><strong>🏰 Zamek Montjuïc</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.3636° N, 2.1656° E</em></p>
 
@@ -102,10 +101,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>A jak już wspomniałem, wjazd na górę to prawdziwa przygoda – albo zdecydować się na spacer (jeśli masz dużo energii), albo wybrać wygodną opcję – kabelkę! Nie, nie ta z kiosku z pamiątkami – chodzi o kolejkę linową, która wznosi Cię na samą górę, zapewniając widok, który sprawi, że poczujesz się jak część jakiegoś średniowiecznego filmu. A po dotarciu na szczyt? Panoramiczny widok na Barcelonę, port i Morze Śródziemne – absolutnie zapierający dech!</p>
 <p>Jeśli masz ochotę na chwilę odpoczynku po spacerze po zamku, nie zapomnij o ogrodach wokół. Montjuïc to także miejsce pełne zieleni, idealne na relaks przy widoku na miasto. I chociaż zamek może nie ma smoka, to ma za to coś, czego nie spotkasz w żadnej bajce – historyczną atmosferę, która w połączeniu z widokiem na Barcelonę sprawia, że poczujesz się jak odkrywca w pełnej krasie. </p>
 <p>W skrócie: Zamek Montjuïc to jedno z tych miejsc, które łączą historię, piękno i widoki. To idealna okazja, by połączyć naukę z przyjemnością (i to bez wspinania się po stromych wzgórzach, jeśli nie masz ochoty na wyzwania!).</p>
-       
-    </details>
+</details>
 
-    <details>
+<details>
     <summary><strong>🛍️ La Rambla – Ulica...!</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.3809° N, 2.1730° E</em></p>
         
@@ -115,9 +113,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>Wieczorem La Rambla zmienia się w trochę inny świat – świat, który żyje barwami świateł, muzyki i zapachów. Wciąż tętniąca życiem, ale nieco bardziej leniwa, bardziej romantyczna. To wtedy, gdy spacerując wzdłuż tej najsłynniejszej ulicy, czujesz, że Barcelona rozświetla się nie tylko lampami, ale i atmosferą. Wieczorny spacer po La Rambli to prawdziwie magiczny moment – wtedy naprawdę poczujesz, że jesteś w stolicy Katalonii.</p>
 <p>Podsumowując: La Rambla to ulica, która nie pozwoli Ci przejść obojętnie. To miejsce, gdzie wszystko się dzieje, gdzie czujesz się częścią tego barcelońskiego spektaklu. Jeśli nie byłeś na La Rambli, to jakbyś nie odwiedził Barcelony!</p>
  
-    </details>
+</details>
 
-    <details>
+<details>
     <summary><strong>🍓 Mercat de Sant Josep de la Boqueria – Raj dla smakoszy</strong></summary>
 <p><strong>Współrzędne:</strong> <em>41.3826° N, 2.1722° E</em></p>
 
@@ -127,9 +125,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <p>Jest tu także mnóstwo stoisk z sokami, smoothie i świeżymi owocami, które świetnie orzeźwiają w upalne dni. Idealne na chwilę odpoczynku, kiedy po godzinach zwiedzania zaczynasz czuć, że odrobina energii z owoców tropikalnych jest dokładnie tym, czego potrzebujesz, by przejść na kolejny poziom odkrywania Barcelony.</p>
 <p>Boqueria to nie tylko targ, to także kawałek kultury, w którym Barcelona oddaje hołd swojej pasji do jedzenia i lokalnym tradycjom. Jeśli kochasz dobre jedzenie, będziesz tu jak w niebie – a jeśli nie, to przygotuj się na totalną zmianę zdania!</p>
 
-    </details>
+</details>
 
-    <details>
+<details>
     <summary><strong>🏟️ Camp Nou – po prostu STADION</strong></summary>
     <p><strong>Współrzędne:</strong> <em>41.3809° N, 2.1228° E</em></p>
 
