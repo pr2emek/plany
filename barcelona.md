@@ -43,9 +43,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-<section id="co-zobaczyc">
-  <details open>
-    <summary><h2>🏰 Co zobaczyć w Barcelonie</h2></summary>
+    <details>
+     <summary><strong>🏰 Co zobaczyć</strong></summary>
 
     <details>
       <summary>⛪ Sagrada Família-czyli "wciąż w budowie, ale już legendarna"</summary>
