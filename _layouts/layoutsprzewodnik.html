@@ -204,34 +204,28 @@
     <!-- Menu rozwijane na telefon -->
     <div class="menu-dropdown">
       <select onchange="window.location.href=this.value;">
-        <option value="#">Wybierz przewodnik</option>
+        <option value="#">Wybierz kraj</option>
         <option value="#">🇪🇸 Hiszpania ▼</option>
-        <option value="/plany/barcelona.html">Barcelona</option>
-        <option value="/plany/madryt.html">Madryt</option>
         <option value="#">🇮🇹 Włochy ▼</option>
-        <option value="/plany/bergamo.html">Bergamo</option>
-        <option value="/plany/florencja.html">Florencja</option>
-        <option value="/plany/mediolan.html">Mediolan</option>
-        <option value="/plany/neapol.html">Neapol</option>
-        <option value="/plany/piza.html">Piza</option>
-        <option value="/plany/rzym.html">Rzym</option>
-        <option value="/plany/wenecja.html">Wenecja</option>
-        <option value="/plany/werona.html">Werona</option>
       </select>
     </div>
 
-    <!-- Menu rozwijane dla krajów na komputerze -->
-    <div class="country-dropdown">
-      <a href="/plany/barcelona.html">🇪🇸 Hiszpania - Barcelona</a>
-      <a href="/plany/madryt.html">🇪🇸 Hiszpania - Madryt</a>
-      <a href="/plany/bergamo.html">🇮🇹 Włochy - Bergamo</a>
-      <a href="/plany/florencja.html">🇮🇹 Włochy - Florencja</a>
-      <a href="/plany/mediolan.html">🇮🇹 Włochy - Mediolan</a>
-      <a href="/plany/neapol.html">🇮🇹 Włochy - Neapol</a>
-      <a href="/plany/piza.html">🇮🇹 Włochy - Piza</a>
-      <a href="/plany/rzym.html">🇮🇹 Włochy - Rzym</a>
-      <a href="/plany/wenecja.html">🇮🇹 Włochy - Wenecja</a>
-      <a href="/plany/werona.html">🇮🇹 Włochy - Werona</a>
+    <!-- Menu rozwijane dla Hiszpanii -->
+    <div class="country-dropdown" id="spain-dropdown">
+      <a href="/plany/barcelona.html">🇪🇸 Barcelona</a>
+      <a href="/plany/madryt.html">🇪🇸 Madryt</a>
+    </div>
+
+    <!-- Menu rozwijane dla Włoch -->
+    <div class="country-dropdown" id="italy-dropdown">
+      <a href="/plany/bergamo.html">🇮🇹 Bergamo</a>
+      <a href="/plany/florencja.html">🇮🇹 Florencja</a>
+      <a href="/plany/mediolan.html">🇮🇹 Mediolan</a>
+      <a href="/plany/neapol.html">🇮🇹 Neapol</a>
+      <a href="/plany/piza.html">🇮🇹 Piza</a>
+      <a href="/plany/rzym.html">🇮🇹 Rzym</a>
+      <a href="/plany/wenecja.html">🇮🇹 Wenecja</a>
+      <a href="/plany/werona.html">🇮🇹 Werona</a>
     </div>
   </header>
 
@@ -259,6 +253,22 @@
       const icon = document.getElementById('mode-icon');
       icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
     }
+
+    // Obsługuje wybór kraju w rozwijanym menu na telefonie
+    document.querySelector('.menu-dropdown select').addEventListener('change', function() {
+      const selectedCountry = this.value;
+
+      // Ukryj wszystkie menu krajowe
+      document.getElementById('spain-dropdown').style.display = 'none';
+      document.getElementById('italy-dropdown').style.display = 'none';
+
+      // Pokaż odpowiednie menu dla wybranego kraju
+      if (selectedCountry === '🇪🇸 Hiszpania') {
+        document.getElementById('spain-dropdown').style.display = 'flex';
+      } else if (selectedCountry === '🇮🇹 Włochy') {
+        document.getElementById('italy-dropdown').style.display = 'flex';
+      }
+    });
 
     document.addEventListener('DOMContentLoaded', () => {
       const savedTheme = localStorage.getItem('theme');
