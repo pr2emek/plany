@@ -287,44 +287,54 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚌 Transport publiczny w Bergamo</strong></summary>
-  <p>
-    Transport publiczny w Bergamo to jak szwajcarski zegarek… tylko włoski. Czyli działa dobrze, ale z nutką temperamentu. Miasto jest kompaktowe, więc większość rzeczy da się zrobić pieszo – ale jeśli chcesz zaoszczędzić siły (albo zobaczyć więcej), skorzystaj z lokalnych autobusów i kolejki górskiej.
-  </p>
+  <summary><strong>🚇 Transport publiczny w Barcelonie – jak nie zgubić się w metrze i nie przepłacić za bilet</strong></summary>
+  <p>Barcelona to miasto, gdzie transport publiczny działa jak dobrze naoliwiona maszyna. Metro, autobusy, tramwaje, kolejki linowe – wszystko po to, byś mógł dotrzeć tam, gdzie chcesz, bez konieczności wynajmowania rydwanu.</p>
 
-  <h3>🚍 Autobusy – ATB rządzi (i wozi)</h3>
-  <p>
-    Miejski przewoźnik ATB obsługuje większość linii w Bergamo – zarówno w Città Bassa (dolnym mieście), jak i górnym. Autobusy są nowoczesne, klimatyzowane i (o dziwo) dość punktualne. Dojedziesz nimi m.in. na lotnisko, do stacji kolejowej i pod samą kolejkę do Città Alta.
-  </p>
-  <ul>
-    <li><strong>Bilet jednorazowy:</strong> 1,50€ (ważny przez 75 minut)</li>
-    <li><strong>Gdzie kupić:</strong> w automatach, kioskach, aplikacji ATB Mobile</li>
-  </ul>
+  <details>
+    <summary><strong>🚆 Metro – szybciej niż corrida</strong></summary>
+    <p>Metro w Barcelonie to 12 linii, które zawiozą Cię niemal wszędzie. Pociągi kursują często, więc nie musisz się spieszyć – kolejny przyjedzie za chwilę. Pamiętaj tylko, że linia L9 Sud prowadzi na lotnisko, ale wymaga specjalnego biletu.</p>
+  </details>
 
-  <h3>🚠 Funicolare – kolejka górska z charakterem</h3>
-  <p>
-    Ikona Bergamo! Łączy dolne miasto z Città Alta. Podróż trwa dosłownie 2 minuty, ale frajda? 100%. Przejażdżka starym wagonikiem po stromym zboczu to obowiązkowy punkt każdej wycieczki. A jeśli masz szczęście – trafisz na wagon z widokiem przez całą szybę.
-  </p>
-  <ul>
-    <li><strong>Cena:</strong> wliczona w zwykły bilet ATB</li>
-    <li><strong>Druga linia:</strong> Jest też osobna kolejka z Città Alta na wzgórze San Vigilio. Widok? Insta-ready.</li>
-  </ul>
+  <details>
+    <summary><strong>🚌 Autobusy – dla tych, którzy lubią widoki</strong></summary>
+    <p>Autobusy w Barcelonie to ponad 100 linii dziennych i 30 nocnych. Idealne, jeśli chcesz podziwiać miasto zza szyby lub wracasz z imprezy o 3 nad ranem. Uważaj tylko na linie nocne – niektóre kursują rzadziej, więc sprawdź rozkład.</p>
+  </details>
 
-  <h3>✈️ Dojazd z lotniska Orio al Serio</h3>
-  <p>
-    Lotnisko Bergamo-Orio al Serio leży tylko 5 km od centrum miasta – można by dojść pieszo, ale po co? Złap autobus linii <strong>1</strong>, który jedzie do centrum i stacji kolejowej. Podróż trwa ok. 15–20 minut, a bilety kupisz w hali przylotów, automacie lub przez aplikację.
-  </p>
+  <details>
+    <summary><strong>🚋 Tramwaje – powrót do przyszłości</strong></summary>
+    <p>Tramwaje Trambaix i Trambesòs to nowoczesne pojazdy, które łączą różne części miasta. Jeśli chcesz poczuć się jak w filmie science fiction, wybierz się na przejażdżkę.</p>
+  </details>
 
-  <h3>🧭 Wskazówki lokalne</h3>
-  <ul>
-    <li>Nie zapomnij skasować biletu (albo aktywować w aplikacji) – kontrolerzy mają dobre wyczucie czasu!</li>
-    <li>Bilet 24-godzinny kosztuje tylko 5€, a obejmuje także obie kolejki</li>
-    <li>W niedziele i wieczorami kursy są rzadsze – planuj z wyprzedzeniem</li>
-  </ul>
+  <details>
+    <summary><strong>🚠 Kolejki linowe – dla fanów wysokości</strong></summary>
+    <p>Chcesz zobaczyć Barcelonę z góry? Skorzystaj z kolejki linowej na Montjuïc lub Port Vell Aerial Tramway. Widoki zapierają dech w piersiach, a emocje są gwarantowane.</p>
+  </details>
 
-  <p>
-    Transport publiczny w Bergamo jest wygodny, estetyczny i nieprzesadnie drogi. A jazda kolejką? To taka lokalna wersja rollercoastera – tylko spokojniejsza i z lepszym widokiem.
-  </p>
+  <details>
+    <summary><strong>🎟️ Bilety – nie daj się zaskoczyć</strong></summary>
+    <ul>
+      <li><strong>Hola BCN!</strong> – nielimitowane przejazdy przez 48, 72, 96 lub 120 godzin. Idealne dla turystów.</li>
+      <li><strong>T-casual</strong> – 10 przejazdów, ważne dla jednej osoby. Dobre, jeśli planujesz kilka podróży.</li>
+      <li><strong>Bilet lotniskowy</strong> – specjalny bilet na przejazd metrem z lotniska. Pamiętaj, że nie jest wliczony w T-casual.</li>
+    </ul>
+    <p>Bilety możesz kupić w automatach na stacjach metra lub przez aplikację TMB.</p>
+  </details>
+
+  <details>
+    <summary><strong>📱 Aplikacje – technologia w służbie podróżnika</strong></summary>
+    <p>Pobierz aplikację TMB App, aby planować trasy, sprawdzać rozkłady jazdy i kupować bilety. Dostępna na iOS i Androida.</p>
+  </details>
+
+  <details>
+    <summary><strong>⚠️ Porady – unikaj niespodzianek</strong></summary>
+    <ul>
+      <li>Nie wyrzucaj biletu przed końcem podróży – kontrolerzy mogą pojawić się w najmniej oczekiwanym momencie.</li>
+      <li>Unikaj jazdy bez biletu – mandaty mogą być wysokie.</li>
+      <li>Sprawdzaj rozkłady jazdy, zwłaszcza nocą – niektóre linie kursują rzadziej.</li>
+    </ul>
+  </details>
+
+  <p>Podsumowując, transport publiczny w Barcelonie jest szybki, wygodny i pozwala zaoszczędzić czas oraz pieniądze. Wystarczy odrobina planowania, a miasto stoi przed Tobą otworem!</p>
 </details>
 
 ---
@@ -358,30 +368,27 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Bergamo</strong></summary>
+  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Barcelonie?</strong></summary>
 
-  <p><em>Bergamo z dziećmi? Tak! To nie tylko kościoły i renesansowe malowidła – miasto (i okolica) oferuje też sporo atrakcji dla młodszych turystów. A Ty w końcu odpoczniesz – przynajmniej przez 15 minut.</em></p>
+  <p>Barcelona to nie tylko Gaudí i tapas – to także prawdziwy plac zabaw dla najmłodszych! Oto kilka miejsc, które sprawią, że dzieci (i dorośli) będą zachwyceni:</p>
 
-  <h3>🚠 Funicolare – kolejka linowa = radość gwarantowana</h3>
-  <p>Dla dzieci to atrakcja sama w sobie. Wjeżdżając z dolnego miasta do Città Alta, maluchy czują się jak w parku rozrywki – a Ty zyskujesz parę chwil ciszy i piękne widoki. Działa też druga linia – z Città Alta na San Vigilio!</p>
+  <ul>
+    <li><strong>🎢 Parc d'Atraccions Tibidabo</strong> – Najstarszy park rozrywki w Hiszpanii, gdzie karuzele kręcą się z widokiem na całe miasto. Dorośli poczują nostalgię, a dzieci radość! <a href="https://przystanekrodzinka.pl/barcelona-z-dziecmi-odkrywajcie-najlepsze-atrakcje-dla-dzieci-w-barcelonie/">Źródło</a></li>
 
-  <h3>🏰 Castello di San Vigilio – zamek z widokiem (i tunelem!)</h3>
-  <p>Ruiny zamku, ścieżki wśród drzew, tajemnicze korytarze i miejsce na piknik. Dzieci mogą bawić się w rycerzy, a dorośli podziwiać panoramę Bergamo i okolic. I tak – wózek lepiej zostawić na dole.</p>
+    <li><strong>🦈 L’Aquàrium de Barcelona</strong> – Spacer 80-metrowym podwodnym tunelem wśród rekinów i kolorowych rybek. Idealne miejsce na "mokre" przygody bez zamoczenia stóp! <a href="https://www.tiqets.com/pl/barcelona-atrakcje-c66342/3-ciekawe-rzeczy-do-zrobienia-w-barcelonie-z-dziecmi-cg68/">Źródło</a></li>
 
-  <h3>🐄 Parco Faunistico Le Cornelle (ok. 20 min autem)</h3>
-  <p>Zoo pod Bergamo, które wygląda jak mini safari. Znajdziesz tu żyrafy, zebry, flamingi, tygrysy, a nawet panda czerwoną. Przestrzeń, plac zabaw i miejsce na piknik. Idealne na pół dnia. Dojazd autobusem z przesiadką albo autem.</p>
+    <li><strong>🔬 CosmoCaixa</strong> – Muzeum nauki, gdzie dzieci mogą dotknąć, zobaczyć i zrozumieć świat. Od dinozaurów po eksperymenty – nauka nigdy nie była tak zabawna! <a href="https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona">Źródło</a></li>
 
-  <h3>🌳 Parco della Trucca – zielona przestrzeń w mieście</h3>
-  <p>Jeśli dzieci mają dosyć kamieni i katedr – tu znajdziesz duży park z alejkami, placem zabaw i jeziorkiem. Można biegać, jeździć na hulajnodze, puszczać kaczki i... zjeść lody. Czyli: odpoczynek na 5+.</p>
+    <li><strong>🍫 Museu de la Xocolata</strong> – Muzeum czekolady, gdzie eksponaty są tak apetyczne, że trudno się powstrzymać przed ich zjedzeniem. Uwaga: ślinotok gwarantowany! <a href="https://tymrazem.pl/barcelona-z-dziecmi-atrakcje-ktore-musisz-odwiedzic/">Źródło</a></li>
 
-  <h3>🧺 Piknik na murach (Le Mura Veneziane)</h3>
-  <p>Zabierz przekąski, kocyk i znajdź spokojny zakątek przy murach otaczających Città Alta. Widoki cudne, trawa miękka, dzieci zajęte. Ty możesz na chwilę przymknąć oko – tylko nie oddychaj za głośno, bo usłyszą i przybiegną!</p>
+    <li><strong>🦓 Zoo de Barcelona</strong> – Spotkanie z egzotycznymi zwierzętami w sercu miasta. Od flamingów po małpy – każdy znajdzie swojego ulubieńca. <a href="https://przystanekrodzinka.pl/barcelona-z-dziecmi-odkrywajcie-najlepsze-atrakcje-dla-dzieci-w-barcelonie/">Źródło</a></li>
 
-  <h3>🍦 Gelato w La Marianna – lody z historią</h3>
-  <p>To tu powstała legendarna stracciatella. Czy dzieci docenią historię? Nie. Ale zjedzą wszystko – i poproszą o dokładkę. A Ty też się skusisz, bo nie wypada nie spróbować lodów z rodowodem.</p>
+    <li><strong>🌊 Plaża Barceloneta</strong> – Budowanie zamków z piasku, pluskanie w wodzie i lody na deser. Czego chcieć więcej? <a href="https://espania.pl/barcelona-z-dziecmi-darmowe-atrakcje-co-warto-zwiedzic/">Źródło</a></li>
 
-  <p><em>Bergamo z dziećmi to przygoda pełna kolejek, lodów, zamków i... świętego spokoju (czasami). A jeśli będzie deszcz – zawsze zostaje pizzeria i rysowanie pizzą po talerzu!</em></p>
+    <li><strong>🎭 Magiczne Fontanny Montjuïc</strong> – Wieczorne pokazy światła, muzyki i wody, które oczarują każdego. Idealne zakończenie dnia pełnego wrażeń. <a href="https://czasdzieci.pl/ro_artykuly/id%2C771896b.html">Źródło</a></li>
+  </ul>
 
+  <p>Barcelona z dziećmi? To gwarancja uśmiechu od ucha do ucha – zarówno dla maluchów, jak i dorosłych!</p>
 </details>
 
 
