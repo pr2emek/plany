@@ -39,8 +39,10 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
 
   <div class="mapa-rzymu">
-    <iframe src="{{ '/assets/mapy/rzym_co_zobaczyc_mapa.html' | relative_url }}" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1J3t2K6YPzD9cGQLAb_nNhQ3nCCrWo_E&ehbc=2E312F" width="100%" height="500" style="border:0;" loading="lazy"></iframe>
   </div>
+
+
 
   <details>
     <summary><strong>🏟️ Koloseum – jak zwiedzać i kupić bilety</strong></summary>
