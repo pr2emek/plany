@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
   <style>
+    /* Podstawowe style */
     body { margin: 0; font-family: Arial, sans-serif; }
     .container { display: flex; min-height: 100vh; flex-direction: column; }
-    
+
     /* Nagłówek */
     header {
       background-color: #f2f2f2;
@@ -62,6 +63,43 @@
       background-color: #fff;
       border-top: 1px solid #ccc;
       text-align: center;
+    }
+
+    /* RESPONSYWNOŚĆ: */
+    @media (max-width: 768px) {
+      header img {
+        height: auto; /* Zmiana wysokości obrazu w nagłówku, aby pasował do ekranów mobilnych */
+        max-width: 100%; /* Upewniamy się, że obraz nie wychodzi poza ekran */
+      }
+
+      /* Zmniejszenie rozmiaru tekstu w menu na małych ekranach */
+      nav ul.top-menu {
+        flex-direction: column; /* Menu będzie układać się w kolumnie na węższych ekranach */
+        gap: 0.5rem;
+      }
+
+      nav ul.top-menu li a {
+        font-size: 14px; /* Mniejszy rozmiar czcionki na małych ekranach */
+      }
+
+      .menu-dropdown select {
+        width: 100%; /* Menu rozwijane zajmuje całą szerokość ekranu na małych urządzeniach */
+        font-size: 14px;
+      }
+
+      footer {
+        font-size: 14px; /* Zmniejszenie rozmiaru czcionki stopki na urządzeniach mobilnych */
+      }
+    }
+
+    @media (max-width: 480px) {
+      header {
+        padding: 10px; /* Mniejsze odstępy w nagłówku na małych urządzeniach */
+      }
+
+      nav ul.top-menu li a {
+        font-size: 12px; /* Jeszcze mniejszy rozmiar tekstu na bardzo małych ekranach */
+      }
     }
   </style>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
