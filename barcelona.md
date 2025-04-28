@@ -184,64 +184,60 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
     <summary><strong>🕵️‍♂️ Sekretne miejsca Barcelony</strong></summary>
 
-    <details>
+<details>
         <summary><strong>⛲ Plac Sant Felip Neri</strong></summary>
         <p>📍 Współrzędne: 41.3832, 2.1755</p>
         <p>Maleńki, cichy plac z dramatyczną historią i śladami po kulach. Łap melancholię między kawą a paellą.</p>
         <p><strong>Dojazd:</strong> Metro Jaume I (L4) lub Liceu (L3)</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🌿 Ogrody Mossèn Costa i Llobera</strong></summary>
         <p><strong>📍 Współrzędne:</strong> 41.3680° N, 2.1655° E</p>
         <p>Jeśli kiedykolwiek marzyłeś o spacerze po pustyni... w środku Barcelony, to witaj w Ogrodach Mossèn Costa i Llobera! Kaktusy wszędzie, klimat jak z westernu i niemal zerowe tłumy. Idealne miejsce, by złapać oddech... i zrobić selfie z kaktusem większym od siebie.</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🏰 Bunkers del Carmel</strong></summary>
         <p><strong>📍 Współrzędne:</strong> 41.4180° N, 2.1650° E</p>
         <p>Chcesz zobaczyć najlepszą panoramę Barcelony? Zapomnij o drogich tarasach widokowych! Wspinaj się na Bunkers del Carmel — dawne fortyfikacje z czasów wojny domowej, dziś mekka pikników, gitarowych koncertów i zachodów słońca, które wyglądają jakby ktoś wylał złotą farbę na całe miasto.</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🌊 Plaża Platja de la Mar Bella</strong></summary>
         <p><strong>📍 Współrzędne:</strong> 41.4040° N, 2.2080° E</p>
         <p>Marzysz o plażowaniu z dala od selfie-sticków i wielkich parawanów? Platja de la Mar Bella to idealne miejsce! Czasem trochę alternatywne, czasem szalone, ale zawsze z luzem i uśmiechem. Poza tym — sangria smakuje tu lepiej. Naukowo udowodnione (przez lokalnych plażowiczów).</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🕍 Plac Sant Felip Neri</strong></summary>
         <p><strong>📍 Współrzędne:</strong> 41.3836° N, 2.1757° E</p>
         <p>Ukryty klejnot w samym sercu Dzielnicy Gotyckiej. Cisza, historia i delikatne echo dawnych czasów. Idealne miejsce, by na chwilę usiąść, zamknąć oczy i poczuć Barcelonę bez gwaru i pośpiechu.</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🚇 Stacja metra „fantom” Gaudí</strong></summary>
         <p>Stacja metra, której nie otwarto! Tajemnicze perony ukryte pod linią L5. Idealne dla miłośników miejskich legend.</p>
         <p><strong>Dojazd:</strong> Metro Sagrada Família (L2, L5) — stacja ukryta obok!</p>
         <p>📍 Współrzędne: 41.4036, 2.1744</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🪞 Magiczny sklep El Rei de la Màgia</strong></summary>
         <p>Najstarszy sklep z magią w Barcelonie. Od kapeluszy po królicze sztuczki — kupisz tam wszystko oprócz własnego zniknięcia.</p>
         <p><strong>Dojazd:</strong> Metro Urquinaona (L1, L4)</p>
         <p>📍 Współrzędne: 41.3891, 2.1726</p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🧙‍♂️ Ulica Carrer de les Mosques</strong></summary>
         <p>Wąziutka uliczka z tajemniczą nazwą („ulica much”) i średniowiecznym klimatem. Idealne miejsce na mikro przygodę!</p>
         <p><strong>Dojazd:</strong> Metro Jaume I (L4)</p>
         <p>📍 Współrzędne: 41.3843, 2.1790</p>
-    </details>
 </details>
-
-
-        </details>
+</details>
+</details>
       
-
-
 ---
 
 <details>
