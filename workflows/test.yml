@@ -1,0 +1,10 @@
+name: Test GitHub Actions
+
+on: [push]
+
+jobs:
+  check-actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sprawdź działanie
+        run: echo "GitHub Actions działa poprawnie 🚀"
