@@ -8,6 +8,7 @@ permalink: /bergamo.html
 
 Witaj w przewodniku po Bergamo! Kliknij sekcję, aby ją rozwinąć 👇
 
+
 ---
 
 <details>
