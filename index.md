@@ -3,7 +3,7 @@ layout: default
 title: Strona główna
 ---
 
-# Witaj na stronie **walizka planow**!
+# Witaj na stronie **walizka planów**!
 
 WalizkaPlanow to strona dla tych, którzy lubią mieć wszystko ogarnięte… zanim dadzą się porwać urokowi błądzenia po nieznanym mieście. Jeśli należysz do osób, które jeszcze przed wyjazdem wertują mapy, zapisują ciekawostki i układają trasę spaceru z dokładnością do najbliższego przystanku tramwajowego – jesteś u siebie!
 
