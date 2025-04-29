@@ -4,7 +4,7 @@ title: Barcelona
 permalink: /barcelona.html
 ---
 
-# Barcelona 
+# Barcelona 🇪🇸 
 
 Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
@@ -244,44 +244,109 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
   <details>
-  <summary><strong>📅 Plan zwiedzania Bergamo – 1 dzień</strong></summary>
+  <summary><strong>📅 Plan zwiedzania Barcelony – 1 dzień</strong></summary>
 
-  <p><em>Masz tylko jeden dzień? Spokojnie. Bergamo da się pokochać od pierwszego kroku – szczególnie, jeśli krok prowadzi po brukowanych uliczkach Città Alta i kończy się widokiem z górskiej twierdzy.</em></p>
+  <<p><strong>Styl:</strong> Spacerowy z opcją „ochów” przy każdej mozaice. Idealny na pierwszy kontakt z miastem i poczucie jego klimatu.</p>
 
-  <h3>🥐 Poranek – klasyka w Città Alta</h3>
-  <ul>
-    <li><strong>Start: Funicolare z dolnego miasta (Città Bassa)</strong> – pierwszy punkt programu to... kolejka linowa! Wjeżdżasz z gwarnego centrum na wzgórze Città Alta – czyli do serca średniowiecznego Bergamo. Widoki już teraz robią wrażenie.</li>
-    <li><strong>Piazza Vecchia</strong> – centralny plac górnego miasta. Tu znajdziesz kawę, croissanta i atmosferę jak z filmu kostiumowego. Po lewej – fontanna Contarinich, po prawej – wieża Torre Civica. W środku? Ty z aparatem i espresso.</li>
-    <li><strong>Santa Maria Maggiore & Cappella Colleoni</strong> – barokowo-romańskie arcydzieła. Rzeźby, freski i złoto. Dużo złota. A jeśli trafisz na grę organową – masz szczęście jak w lotto.</li>
-  </ul>
+  <h3>Sagrada Família</h3>
+  <p>Zaczynamy mocno – arcydzieło Gaudíego. Kup bilet wcześniej, bo kolejki są epickie. W środku wygląda jak kosmiczna katedra, a witraże robią robotę lepszą niż filtry na Instagramie.</p>
 
-  <h3>🏰 Przedpołudnie – widoki, mury i spacer wśród historii</h3>
-  <ul>
-    <li><strong>Torre del Gombito</strong> – średniowieczna wieża, przy której można złapać lokalną legendę i... schować się przed turystami. Uwaga: czasem otwarta do wspinaczki!</li>
-    <li><strong>Spacer wzdłuż murów (Le Mura Veneziane)</strong> – wpisane na listę UNESCO mury obronne, z których roztacza się bajkowa panorama dolnego miasta i Alp. Idealne miejsce na selfie z wiaterkiem we włosach.</li>
-    <li><strong>Castello di San Vigilio</strong> – jeśli masz jeszcze siły (i dobre buty), wejdź lub wjedź kolejką na wzgórze. Ruiny zamku, widoki aż po Mediolanie i... odrobina legendy o duchu króla Teodoryka gratis.</li>
-  </ul>
+  <h3>Spacer po Avinguda Gaudí</h3>
+  <p>Miły deptak z widokiem na bazylikę, prowadzący w stronę modernistycznego <strong>Szpitala Sant Pau</strong>. Tak, nawet szpital tu wygląda jak muzeum.</p>
 
-  <h3>🍝 Obiad – smakuj lokalnie!</h3>
-  <p>
-    Bergamo to stolica <strong>casoncelli</strong> – lokalnych pierożków z mięsem, masłem i szałwią. Zatrzymaj się w jednej z restauracji w Città Alta (np. <em>La Tana</em> albo <em>Trattoria Tre Torri</em>) i pozwól sobie na dłuższą przerwę. A po obiedzie – <strong>polenta e osei</strong>, czyli słodki deser, który wygląda jak ptaszek na żółtym cieście.
-  </p>
+  <h3>Passeig de Gràcia: Casa Batlló i Casa Milà (La Pedrera)</h3>
+  <p>Przenieś się do świata falujących balkonów i kolorowych mozaik. Warto zajrzeć chociaż do jednej z tych kamienic (Batlló bardziej bajkowa, Milà bardziej surowa).</p>
 
-  <h3>🖼️ Popołudnie – sztuka, zakamarki i chill</h3>
-  <ul>
-    <li><strong>Accademia Carrara</strong> (dla fanów sztuki) – jedno z najlepszych muzeów malarstwa we Włoszech, z dziełami Botticellego, Belliniego i nie tylko.</li>
-    <li><strong>Via Colleoni</strong> – główny deptak górnego miasta. Kawiarnie, lodziarnie, małe sklepiki – i dźwięk kroków na kamieniu.</li>
-    <li><strong>Mała dygresja: Gelato!</strong> – obowiązkowo spróbuj lodów z <em>La Marianna</em> – to tu podobno powstały lody stracciatella.</li>
-  </ul>
+  <h3>Obiad w okolicach Plaça de Catalunya</h3>
+  <p>Tapasy? Paella? A może bocadillo z jamón ibérico? Wybierz coś lokalnego – siesta Ci się należy.</p>
 
-  <h3>🌇 Wieczór – Bergamo jak z bajki</h3>
-  <ul>
-    <li><strong>Kolacja z widokiem</strong> – zarezerwuj stolik w restauracji z tarasem (np. <em>Ristorante Da Mimmo</em>) i delektuj się widokiem Città Bassa przy winie i ostatnim kęsie casoncelli.</li>
-    <li><strong>Powrót funicolare</strong> – po zmroku kolejka zjeżdża z górskiego miasta jak wehikuł czasu. Światła miasta poniżej, światło księżyca nad głową. Idealne zakończenie idealnego dnia.</li>
-  </ul>
+  <h3>La Rambla i Mercat de la Boqueria</h3>
+  <p>Spacer wśród tłumów, kwiatów, mimów i okazjonalnych kieszonkowców (pilnuj torebki!). Wpadnij do kolorowego targu Boqueria na sok z mango lub coś bardziej „zapachowego”.</p>
 
-  <p><em>1 dzień w Bergamo? Starczy, by się zakochać. Ale zostawi Cię z myślą: „muszę tu wrócić”.</em></p>
+  <h3>Dzielnica Gotycka (Barri Gòtic)</h3>
+  <p>Zgub się celowo w labiryncie średniowiecznych uliczek. Odwiedź <strong>Katedrę św. Eulalii</strong>, zajrzyj na <strong>Placa del Rei</strong> i poszukaj magicznego kamienia.</p>
+
+  <h3> Chill przy Plaça Reial</h3>
+  <p>Palmy, arkady, muzyka uliczna – idealne miejsce na kawę lub sangrię. Usiądź, patrz na ludzi i udawaj, że tu mieszkasz.</p>
+
+  <h3>Kolacja / zachód słońca przy plaży Barceloneta</h3>
+  <p>Zakończ dzień spacerem nad morzem. Usiądź przy jednej z nadmorskich knajpek, zamów tapas, a potem idź na plażę zobaczyć zachód słońca. Idealne zakończenie pierwszego dnia!</p>
+
+  <p><strong>Bonus:</strong> Jeśli masz jeszcze siłę – zajrzyj do jednego z barów z muzyką flamenco albo przejdź się jeszcze raz nocą pod Sagradę – robi magiczne wrażenie.</p>
 </details>
+
+<details>
+<summary><strong>📅 Plan zwiedzania Barcelony – 2 dzień</strong></summary>
+
+  <p><strong>Styl:</strong> Relaks, kolory, kawiarnie i spacer wśród palm. Bez gonitwy – tylko dobre widoki i dobry nastrój.</p>
+
+  <h3>🌳 Park Güell</h3>
+  <p>Rozpocznij dzień od magicznego świata Gaudíego. Kolorowa salamandra, zakręcona ławka i bajkowe kolumny – to jak z wizji sennej architekta z fantazją. Kup bilet online, żeby uniknąć kolejek. Po zwiedzaniu – czas na kawę lub sok z pomarańczy przy wejściu.</p>
+
+  <h3>🌿 Spacer po dzielnicy Gràcia</h3>
+  <p>Po wyjściu z parku powędruj w dół do dzielnicy Gràcia. To małe miasteczko w mieście – pełne placyków, lokalnych barów i uliczek z muralami. Przysiądź na <strong>Plaça del Sol</strong> albo <strong>Plaça de la Vila de Gràcia</strong> i poobserwuj lokalne życie – tu dzieci bawią się na skwerach, a starsi panowie grają w domino.</p>
+
+  <h3>🍴 Lunch w Gràcia</h3>
+  <p>Wybierz jedną z tutejszych knajpek – są mniej turystyczne, bardziej domowe. Tapasy z patatas bravas, croquetas i tortilla española smakują tu jakoś lepiej. Możesz też spróbować kuchni wegańskiej, która ma tu silną reprezentację.</p>
+
+  <h3>🏛️ Casa Vicens</h3>
+  <p>Jeśli masz jeszcze ochotę na Gaudíego, zajrzyj do <strong>Casa Vicens</strong> – mniej znany, ale niesamowity dom w stylu orientalnym i modernistycznym. To jeden z jego pierwszych projektów i prawdziwy rarytas dla fanów architektury.</p>
+
+  <h3>☕ Kawa i chill przy Passeig de Sant Joan</h3>
+  <p>Na zakończenie dnia polecam spacer w stronę <strong>Passeig de Sant Joan</strong> – mniej zatłoczony niż Passeig de Gràcia, z przytulnymi kawiarniami i lodziarniami. Idealne miejsce na popołudniowy relaks i obserwację miejskiego życia z perspektywy stolika.</p>
+
+  <p><strong>Opcjonalnie:</strong> Jeśli wieczorem masz jeszcze energię – rzut beretem stąd jest <strong>La Sagrada Família</strong>. Nawet jeśli już ją widziałeś – nocą podświetlona wygląda magicznie i można ją podziwiać z zewnątrz bez tłumów.</p>
+</details>
+
+<details>
+<summary><strong>📅 Plan zwiedzania Barcelony – 3 dzień</strong></summary>
+      
+  <p><strong>Styl:</strong> Widoki, przyroda, trochę historii i leniwe spacery nad morzem. Idealne na trzeciego dnia, kiedy nogi już trochę protestują.</p>
+
+  <h3>🚠 Wjazd na wzgórze Montjuïc</h3>
+  <p>Rano wjedź na Montjuïc kolejką linową (teleferic) albo skorzystaj z funicularu. Widoki podczas przejazdu są już same w sobie atrakcją! Montjuïc to zielone wzgórze pełne ogrodów, muzeów i zamków.</p>
+
+  <h3>🏰 Zamek Montjuïc</h3>
+  <p>Na szczycie znajdziesz dawną fortecę z widokiem na cały port i miasto. Spaceruj po murach, zrób milion zdjęć i poczuj powiew historii (i wiatru).</p>
+
+  <h3>🌺 Ogrody Montjuïc</h3>
+  <p>Nie śpiesz się! Zajrzyj do Ogrodu Cactusów (Jardins de Mossèn Costa i Llobera) – setki kaktusów z całego świata, z widokiem na morze. Albo wybierz magiczne Jardins de Laribal, pełne fontann, schodków i cienia.</p>
+
+  <h3>🎨 Fundacja Miró lub Narodowe Muzeum Sztuki Katalonii (MNAC)</h3>
+  <p>Jeśli masz ochotę na odrobinę sztuki, zajrzyj do Fundacji Miró (sztuka nowoczesna) albo do ogromnego MNAC – samo wejście do muzeum wygląda jak pałac. Nawet jeśli nie chcesz zwiedzać wystaw, z placu przed MNAC rozciąga się fenomenalny widok na Barcelonę.</p>
+
+  <h3>⛲ Magiczna Fontanna (Font Màgica)</h3>
+  <p>Jeśli zostaniesz do wieczora, czeka Cię spektakl świateł, muzyki i wody przy Magicznej Fontannie. (Uwaga: pokazy odbywają się tylko w określone dni – warto sprawdzić wcześniej).</p>
+
+  <h3>🌴 Spacer nadmorski przy Barcelonecie</h3>
+  <p>Po południu lub wieczorem przejedź w stronę plaży Barceloneta. Spokojny spacer promenadą, lody albo drink w jednym z nadmorskich barów to idealne zakończenie dnia. Plaża, surfersi i zachód słońca – klasyka Barcelony.</p>
+
+  <p><strong>Tip:</strong> Jeśli lubisz mniej turystyczne miejsca, idź dalej promenadą w stronę plaż <strong>Nova Icaria</strong> lub <strong>Bogatell</strong> – jest tam mniej tłoczno niż przy Barcelonecie.</p>
+</details>
+
+<details>
+<summary><strong>📅 Plan zwiedzania Barcelony – 4 dzień</strong></summary>
+  <p><strong>Styl:</strong> Odkrywanie mniej turystycznych miejsc, klimatyczne uliczki, lokalne bary, nietypowe widoki – Barcelona z innej perspektywy.</p>
+
+  <h3>🏙️ El Born – artystyczna dzielnica</h3>
+  <p>Rozpocznij dzień spacerem po El Born – wąskie uliczki, kawiarnie, sklepy z rękodziełem i sztuka na każdym rogu. Zatrzymaj się przy <strong>Santa Maria del Mar</strong> – gotyckiej perle z pięknymi witrażami i spokojnym wnętrzem. A potem wybierz się do <strong>Picasso Museum</strong> – po drodze zobaczysz także popularny <strong>Mercat del Born</strong> (stary rynek przekształcony w centrum kultury).</p>
+
+  <h3>🧩 Bunkers del Carmel – widoki jak z pocztówki</h3>
+  <p>Jeśli chcesz poczuć się jak lokalny, to Bunkers del Carmel to idealne miejsce. Niegdyś punkt obronny z czasów wojny domowej, dziś to świetne miejsce na piknik, spacer i absolutnie fenomenalne widoki na całe miasto. Z tego miejsca Barcelonę widać jak na dłoni – idealne na zdjęcia!</p>
+
+  <h3>🍷 Lunch w Poblenou – hipsterska dzielnica</h3>
+  <p>Przenieś się do Poblenou, gdzie sztuka i nowe technologie spotykają się z przemysłowym stylem. To doskonałe miejsce na lunch – znajdziesz tu mnóstwo klimatycznych restauracji i kawiarni. Polecam spróbować tapas w jednym z barów przy <strong>Rambla de Poblenou</strong>, a później zerknij na <strong>Parc del Centre del Poblenou</strong> – piękny park z rzeźbami i nowoczesną architekturą.</p>
+
+  <h3>🏛️ Muzeum Designu w Poblenou</h3>
+  <p>Jeśli masz ochotę na muzeum, to <strong>Muzeum Designu</strong> w Poblenou jest fantastyczną opcją. To połączenie sztuki użytkowej, grafiki i designu. Ekspozycje zmieniają się, więc warto zajrzeć. Jeśli nie masz ochoty na muzeum, przejdź się po okolicy i zobacz futurystyczne budynki, które kontrastują z tradycyjną Barceloną.</p>
+
+  <h3>🌅 Zachód słońca na plaży Mar Bella</h3>
+  <p>Kończ dzień na plaży Mar Bella, znanej z luźnej atmosfery i widoków na zachodzące słońce. To świetne miejsce na odpoczynek, zwłaszcza jeśli chcesz poczuć bardziej lokalny klimat. Wieczorem zrelaksuj się przy drinku lub po prostu posiedź na piasku, słuchając fal.</p>
+
+  <p><strong>Tip:</strong> Mar Bella jest popularna wśród lokalnych, a mniej turystyczna niż Barceloneta – idealna na chwilę spokoju nad morzem.</p>
+</details>
+
+
 </details>
 
 ---
@@ -339,31 +404,36 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-<details>
-  <summary><strong>🤔 Legendy Bergamo</strong></summary>
+<section>
+  <h3>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</h3>
+  <p>Barcelona to nie tylko Gaudí i tapas – to także miasto pełne tajemniczych opowieści, średniowiecznych duchów i kamiennych smoków, które... czasem ziewają. Oto najciekawsze legendy, które możesz odkryć między jednym churro a drugim.</p>
 
-  <h3>👑 Duch króla Teodoryka – wzgórze San Vigilio</h3>
-  <p>
-    Na wzgórzu San Vigilio, gdzie dziś rozciągają się ruiny średniowiecznego zamku i jeden z najpiękniejszych widoków na miasto, miejscowi opowiadają o duchu króla Teodoryka Wielkiego. Podobno nocą pojawia się tam jeździec na czarnym koniu – w milczeniu patrolujący wzgórze. Czy to legenda, czy tylko gra światła i cienia – jedno jest pewne: to idealne miejsce na tajemniczy spacer przy zachodzie słońca.
-  </p>
+  <h3>🐉 Smoki z Casa Batlló</h3>
+  <p>Według miejskiej legendy, fasada <strong>Casa Batlló</strong> to nic innego jak opowieść o św. Jerzym (patronie Katalonii), który pokonuje smoka. Balkon to czaszka ofiary, kolumny to kości, a dach to grzbiet smoka. Podobno jeśli spojrzysz mu w „oko” o północy 23 kwietnia (Dzień św. Jerzego), usłyszysz ciche <em>"grrr..."</em>.</p>
 
-  <h3>🪙 Cudowna moneta św. Grzegorza – plac przy kościele San Michele al Pozzo Bianco</h3>
-  <p>
-    W czasach zarazy jeden z zakonników, św. Grzegorz, wrzucił do misy z jałmużną srebrną monetę, która każdego dnia się odnawiała. Miejsce, gdzie miał rzekomo przebywać, to okolice <strong>kościoła San Michele al Pozzo Bianco</strong> – znanego z wyjątkowych fresków i mistycznej atmosfery. Mówi się, że kto znajdzie tam monetę, będzie miał szczęście przez cały rok.
-  </p>
+  <h3>👻 Duch Mnicha z Dzielnicy Gotyckiej</h3>
+  <p>W wąskich uliczkach Barri Gòtic ponoć błąka się duch mnicha, który zginął, broniąc klasztoru przed rabusiami. Podobno szuka nadal swojej zagubionej księgi modlitw. Jeśli usłyszysz szept <em>„Ave Maria”</em>, to nie duch twojego telefonu – to on!</p>
 
-  <h3>🦅 Orzeł z herbu miasta – Porta San Giacomo</h3>
-  <p>
-    Herb Bergamo przedstawia złotego orła – a jego legenda związana jest z bramą <strong>Porta San Giacomo</strong>. Według opowieści, właśnie nad tą bramą orzeł krążył przez trzy dni, zanim zniknął w chmurach. Znak uznano za boską ochronę nad miastem, a Porta San Giacomo do dziś zachowała wyjątkowy, niemal magiczny charakter – szczególnie po zmroku.
-  </p>
-  
-  <h3>🌕 Tajemnicze źródło pod Torre del Gombito</h3>
-  <p>
-    Tuż obok wieży <strong>Torre del Gombito</strong> w sercu Città Alta (górnego miasta) znajduje się niepozorne przejście prowadzące do starego źródła. Mówi się, że woda z niego miała kiedyś właściwości uzdrawiające – a kto pił z niego po północy, ten miał śnić prorocze sny. Dziś dostęp jest ograniczony, ale niektórzy nadal próbują dostać się tam... dla klimatu i nuty magii.
-  </p>
+  <h3>🔔 Dzwonnik z Kościoła Santa Maria del Mar</h3>
+  <p>W czasie budowy tej przepięknej świątyni młody chłopak pomagał robotnikom, dźwigając kamienie z portu. Zginął przy zawaleniu się rusztowania. Dziś jego duch co noc uderza raz w dzwon, żeby przypomnieć o ofiarach, które powstały przy budowie kościoła. Takie gotyckie „dziękujemy za wysiłek”.</p>
 
-  <p><em>Bergamo skrywa swoje sekrety w zaułkach, bramach i starych murach. Jeśli chcesz naprawdę poznać duszę miasta – daj się poprowadzić legendom i opowieściom. A może sam odkryjesz kolejną?</em></p>
-</details>
+  <h3>💔 Ulica Złamanych Serc (Carrer dels Petons)</h3>
+  <p>Nazwa tej uliczki oznacza dosłownie „ulicę pocałunków”. Legenda głosi, że to tu skazani na śmierć żegnali się ze swoimi ukochanymi. Do dziś zakochani przychodzą tam po błogosławieństwo… i dramatyczne selfie.</p>
+
+  <h3>🌙 Magiczny kamień z Plaça del Rei</h3>
+  <p>W centrum tej placówki (czytaj: placu), wtopiony w bruk, znajduje się kamień, który ponoć przynosi szczęście tym, którzy na nim staną... trzymając lewą nogę w górze, myśląc o paelli i nucąc piosenkę Shakiry. Tak mówią.</p>
+
+  <h3>🧛‍♂️ Wampirzyca z Raval – Enriqueta Martí</h3>
+  <p>To już nie legenda, a makabryczna miejska historia. Enriqueta Martí, znana jako „Wampirzyca z Raval”, porywała dzieci i ponoć przygotowywała z nich tajemnicze eliksiry dla barcelońskiej elity. Jej dom znajdował się przy <strong>Carrer Ponent</strong> (dziś Carrer de Joaquín Costa). Jeśli poczujesz dziwny chłód w powietrzu… uciekaj.</p>
+
+  <h3>🦉 Sowa z Passeig de Sant Joan</h3>
+  <p>Na dachu jednego z budynków przy <strong>Passeig de Sant Joan</strong> stoi ogromna neonowa sowa. Niby reklama... ale według lokalnych, to „Strażniczka Barcelony”, która obserwuje miasto i mruga tylko do tych, którzy nie zostawiają okruszków po bocadillo.</p>
+
+  <h3>🕊️ Duchy więźniów z Zamku Montjuïc</h3>
+  <p>Zamek Montjuïc to dziś punkt widokowy i atrakcja turystyczna, ale niegdyś był miejscem egzekucji. Legenda mówi, że nocą można usłyszeć stąpające kroki i krzyki dawnych więźniów. Jeśli poczujesz zimny podmuch – to nie tylko wiatr znad morza.</p>
+
+  <p><strong>Uwaga:</strong> Nie wszystkie legendy nadają się do weryfikacji naukowej, ale wszystkie świetnie się opowiada przy kieliszku cava.</p>
+</section>
 
 ---
 
@@ -394,88 +464,85 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-
 <details>
-  <summary><strong>🍽️ Gdzie zjeść w Bergamo</strong></summary>
+<summary><strong>🍴 Gdzie zjeść w Barcelonie</strong></summary>
 
-  <p><em>Bergamo to nie tylko eleganckie trattorie, ale też tanie perełki, które karmią lepiej niż babcia w święta. Chcesz zjeść dobrze, lokalnie i nie wydać fortuny? Da się zrobić!</em></p>
+<h3>🥘 Lokalna klasyka – dla smakoszy tradycji</h3>
+<ul>
+  <li><strong>Can Culleretes</strong> – najstarsza restauracja Barcelony (z 1786 roku!). Tutaj zjesz tradycyjne katalońskie dania jak <em>escudella</em> czy <em>crema catalana</em>. Klimat: jak u babci na święta.</li>
+  <li><strong>La Paradeta</strong> – świeże owoce morza, które wybierasz jak na targu, a kucharze przygotowują je na Twoich oczach. Poczuj się jak pirat na rybnej uczcie!</li>
+</ul>
 
-  <h3>🍕 <strong>Da Mimmo</strong> – pizza z widokiem</h3>
-  <p>W Città Alta. Pizza pieczona na cienkim cieście, klasyka wśród mieszkańców i turystów. Taras z widokiem gratis.</p>
+<h3>🍤 Street food i luźna atmosfera</h3>
+<ul>
+  <li><strong>La Boqueria</strong> – kultowy targ przy La Rambla. Świeże owoce, tapas na szybko, empanady, kanapki z jamón ibérico – raj dla łakomczuchów. Kolory, zapachy, gwar – i Ty w samym środku.</li>
+  <li><strong>Chök</strong> – raj dla miłośników słodyczy. Donuty, czekoladowe wynalazki i ciasteczka, które wyglądają jak małe dzieła sztuki. Uwaga: uzależnia.</li>
+</ul>
 
-  <h3>🍷 <strong>Il Circolino</strong> – lokalna dusza Bergamo</h3>
-  <p>Lokal prowadzony przez społeczność – taniej, smaczniej i z sercem. Ogródek, klimat, dobre jedzenie.</p>
+<h3>🍕 Na szybko, ale dobrze</h3>
+<ul>
+  <li><strong>Bacoa</strong> – najlepsze burgery w Barcelonie. Opcje klasyczne i wegetariańskie, domowe sosy, bułki jak z bajki – idealne na szybki, porządny posiłek przed kolejnym zwiedzaniem.</li>
+  <li><strong>Buenas Migas</strong> – focaccie, lemoniady, pyszne kawy – szybka regeneracja w modnym stylu. Idealne na przerwę między muzeum a spacerem po plaży.</li>
+</ul>
 
-  <h3>🍋 <strong>La Marianna</strong> – lody prosto z legendy</h3>
-  <p>Tu wymyślono lody stracciatella. Świetne miejsce na słodką przerwę, ale mają też dobre risotto i makarony.</p>
+<h3>🍹 Gdzie napić się aperola lub wieczornego drinka</h3>
+<ul>
+  <li><strong>El Bosc de Les Fades</strong> – zaczarowany bar ukryty za muzeum figur woskowych. Wchodzisz jak do magicznego lasu: światełka, szum wody, drzewa – idealne miejsce na Aperola w magicznej atmosferze.</li>
+  <li><strong>Terraza 360º (Barcelo Raval Hotel)</strong> – drink z widokiem na całe miasto? Tylko tutaj! Wieczorem panorama Barcelony zapiera dech w piersiach, a koktajl smakuje jak nagroda za cały dzień zwiedzania.</li>
+</ul>
 
-  <h3>🥪 <strong>PolentOne</strong> – street food po góralsku</h3>
-  <p>Polenta na wynos w każdej formie – z gorgonzolą, z ragù, z grzybami. Tanio, sycąco, lokalnie. I zaskakująco dobre!</p>
+<p><em>Pro tip:</em> w Barcelonie zwyczajowo nie zostawia się napiwku, ale jeśli obsługa była super, 5–10% zawsze mile widziane!</p>
 
-  <h3>🍞 <strong>Panificio Tresoldi</strong> – pieczywo i focaccia za grosze</h3>
-  <p>Mini piekarnia z gorącymi pizzettami, focaccią i słodkościami. Idealne na budżetowy piknik z widokiem.</p>
-
-  <h3>🍔 <strong>Rustico</strong> – panini i burgery z włoskim twistem</h3>
-  <p>Mała knajpka, w której dostaniesz świeże buły z lokalnymi dodatkami – pancetta, ser, rukola. Tanie i dobre!</p>
-
-  <h3>🥗 <strong>Bar Il Circolino – lunch bar w Città Alta</strong></h3>
-  <p>Menu dnia z pierwszym i drugim daniem za niewielkie pieniądze. Często jedzą tu lokalsi i pracownicy okolicy.</p>
-
-  <h3>🍕 <strong>Pizzeria Capri</strong> – pizza dla każdego</h3>
-  <p>Niepozorna pizzeria z klasykami włoskiego street foodu. Margherita smakuje tu jak we włoskim filmie, tylko taniej.</p>
-
-  <p><em>Bergamo wie, jak nakarmić dobrze i tanio. I za to je kochamy!</em></p>
 </details>
 
 ---
 
 <details>
-  <summary><strong>🧳 Praktyczne porady w Bergamo</strong></summary>
+<summary><strong>🧠 Praktyczne porady w Barcelonie</strong></summary>
 
-  <h3>💶 Coperto – czyli „za co ja właściwie płacę?”</h3>
-  <p>
-    W większości restauracji doliczana jest opłata za tzw. <em>coperto</em> – to nie napiwek, tylko opłata za chleb, wodę, sztućce i... siedzenie. Wynosi zwykle 1–3€, niezależnie od tego, czy zjesz pizzę, czy tylko popijesz wodę. Nie dyskutuj – to norma.
-  </p>
+<h3>💶 Gotówka czy karta?</h3>
+<p>
+W Barcelonie kartą zapłacisz praktycznie wszędzie – nawet za kawę za 1€. Ale drobne euro przydadzą się na targach, w małych piekarniach i przy kupnie pamiątek od ulicznych artystów. Warto mieć kilka monet pod ręką.
+</p>
 
-  <h3>💰 Napiwki – czy zostawiać?</h3>
-  <p>
-    Włosi nie są maniakami napiwków jak Amerykanie. Jeśli jesteś zadowolony z obsługi, zostaw drobne (np. 5–10% rachunku albo zaokrąglij w górę). W barze za espresso można zostawić kilkadziesiąt centów – ale nikt nie patrzy krzywo, jeśli tego nie zrobisz.
-  </p>
+<h3>💸 Napiwki</h3>
+<p>
+Napiwki są mile widziane, ale nieobowiązkowe – zwykle zostawia się 5–10% za dobrą obsługę. W barze za szybkie espresso możesz zostawić drobniaki, ale nikt się nie obrazi, jeśli nie zostawisz nic.
+</p>
 
-  <h3>🧀 Co warto kupić?</h3>
-  <ul>
-    <li><strong>Ser Taleggio</strong> – pachnie jak walka, smakuje jak zwycięstwo.</li>
-    <li><strong>Polenta e osei</strong> – słodka wersja klasycznego dania z ptakiem (bez ptaka).</li>
-    <li><strong>Tip:</strong> kupuj w lokalnych sklepach, a nie w turystycznych pułapkach – portfel ci podziękuje.</li>
-  </ul>
+<h3>🛍️ Co warto kupić?</h3>
+<ul>
+  <li><strong>Szynka jamón ibérico</strong> – w próżniowym opakowaniu, do transportu.</li>
+  <li><strong>Cava</strong> – katalońskie wino musujące, świetna pamiątka i prezent.</li>
+  <li><strong>Maneki (mozaikowe figurki Gaudiego)</strong> – kolorowe, radosne i lekkie!</li>
+  <li><strong>Oliwa z oliwek</strong> – najlepiej z targu, w małej butelce na prezent.</li>
+</ul>
 
-  <h3>🚫 Czego unikać?</h3>
-  <ul>
-    <li>Restauracji z menu w 10 językach i zdjęciami dań – czerwony alarm.</li>
-    <li>Picia kawy przy stoliku, jeśli nie chcesz dopłacać „za widok”.</li>
-    <li>Bliskich kontaktów z gołębiami – są odważniejsze niż wyglądają.</li>
-  </ul>
+<h3>⚠️ Na co uważać?</h3>
+<ul>
+  <li><strong>Kieszonkowcy</strong> – zwłaszcza na La Rambla, w metrze i przy Sagradzie Familii. Portfel trzymaj z przodu, torby miej zawsze zamknięte!</li>
+  <li><strong>Fałszywi przewodnicy</strong> – zwłaszcza wokół popularnych atrakcji. Kupuj bilety online lub bezpośrednio w kasach oficjalnych.</li>
+  <li><strong>Wysokie ceny w "turystycznych" barach</strong> – zwłaszcza przy La Rambla. Jeśli menu nie ma cen albo ktoś "nagania" Cię do środka – lepiej odejdź 10 kroków dalej.</li>
+</ul>
 
-  <h3>🗣️ Podstawowe zwroty po włosku</h3>
-  <ul>
-    <li><strong>Buongiorno</strong> – dzień dobry</li>
-    <li><strong>Buonasera</strong> – dobry wieczór</li>
-    <li><strong>Grazie</strong> – dziękuję</li>
-    <li><strong>Vorrei...</strong> – poproszę...</li>
-    <li><strong>Scusi</strong> – przepraszam</li>
-    <li><strong>Il conto, per favore</strong> – rachunek proszę</li>
-    <li><strong>Era delizioso!</strong> – było pyszne!</li>
-    <li><strong>Dov’è la pizzeria più vicina?</strong> – gdzie jest najbliższa pizzeria?</li>
-  </ul>
+<h3>🗣️ Podstawowe zwroty po hiszpańsku i katalońsku</h3>
+<ul>
+  <li><strong>Buenos días</strong> (hiszpański) / <strong>Bon dia</strong> (kataloński) – Dzień dobry</li>
+  <li><strong>Por favor</strong> / <strong>Si us plau</strong> – Proszę</li>
+  <li><strong>Gracias</strong> / <strong>Gràcies</strong> – Dziękuję</li>
+  <li><strong>¿Cuánto cuesta?</strong> / <strong>Quant costa?</strong> – Ile to kosztuje?</li>
+  <li><strong>La cuenta, por favor</strong> / <strong>El compte, si us plau</strong> – Poproszę rachunek</li>
+</ul>
 
-  <h3>💳 Gotówka vs. karta</h3>
-  <p>
-    W większości miejsc zapłacisz kartą, ale miej przy sobie trochę gotówki – szczególnie w barach, lokalnych targach i autobusach. Niektóre miejsca nie lubią kart przy małych kwotach (poniżej 5€).
-  </p>
+<h3>🚆 Transport</h3>
+<p>
+Kup <strong>T-Casual</strong> (bilet na 10 przejazdów) – opłaca się bardziej niż pojedyncze bilety, a metro działa szybko i sprawnie. Jeśli planujesz intensywne zwiedzanie, rozważ <strong>Hola BCN!</strong> – nielimitowane przejazdy na 2–5 dni.
+</p>
 
-  <h3>😴 Siesta istnieje</h3>
-  <p>
-    Między 13:00 a 15:30 niektóre sklepy i lokale zamykają się „na życie”. Nie panikuj – wrócą. Ty w tym czasie zjedz <em>gelato</em> i udawaj, że też jesteś Włochem.
-  </p>
+<p><em>Pro tip:</em> Poza centrum wiele miejsc mówi głównie po katalońsku – ale z uśmiechem i paroma hiszpańskimi słowami otworzysz każde drzwi. 🌞
+</p>
+
+</details>
+
 
 </details>
