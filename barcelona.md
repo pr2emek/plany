@@ -4,7 +4,7 @@ title: Barcelona
 permalink: /barcelona.html
 ---
 
-# Barcelona 🇪🇸 
+# Barcelona  🇪🇸 
 
 Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
