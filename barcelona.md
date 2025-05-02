@@ -404,8 +404,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-<section>
-  <h3>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</h3>
+<details>
+  <summary><strong>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</strong><summary>
   <p>Barcelona to nie tylko Gaudí i tapas – to także miasto pełne tajemniczych opowieści, średniowiecznych duchów i kamiennych smoków, które... czasem ziewają. Oto najciekawsze legendy, które możesz odkryć między jednym churro a drugim.</p>
 
   <h3>🐉 Smoki z Casa Batlló</h3>
@@ -433,7 +433,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Zamek Montjuïc to dziś punkt widokowy i atrakcja turystyczna, ale niegdyś był miejscem egzekucji. Legenda mówi, że nocą można usłyszeć stąpające kroki i krzyki dawnych więźniów. Jeśli poczujesz zimny podmuch – to nie tylko wiatr znad morza.</p>
 
   <p><strong>Uwaga:</strong> Nie wszystkie legendy nadają się do weryfikacji naukowej, ale wszystkie świetnie się opowiada przy kieliszku cava.</p>
-</section>
+</details>
 
 ---
 
