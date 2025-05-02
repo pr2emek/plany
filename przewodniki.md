@@ -1,5 +1,5 @@
 ---
-layout: layoutsprzewodnik
+layout: layouts
 title: Przewodniki
 permalink: /przewodniki.html
 ---
