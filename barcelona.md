@@ -405,7 +405,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</strong><summary>
+  <summary><strong>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</strong></summary>
   <p>Barcelona to nie tylko Gaudí i tapas – to także miasto pełne tajemniczych opowieści, średniowiecznych duchów i kamiennych smoków, które... czasem ziewają. Oto najciekawsze legendy, które możesz odkryć między jednym churro a drugim.</p>
 
   <h3>🐉 Smoki z Casa Batlló</h3>
