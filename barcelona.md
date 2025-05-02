@@ -433,7 +433,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Zamek Montjuïc to dziś punkt widokowy i atrakcja turystyczna, ale niegdyś był miejscem egzekucji. Legenda mówi, że nocą można usłyszeć stąpające kroki i krzyki dawnych więźniów. Jeśli poczujesz zimny podmuch – to nie tylko wiatr znad morza.</p>
 
   <p><strong>Uwaga:</strong> Nie wszystkie legendy nadają się do weryfikacji naukowej, ale wszystkie świetnie się opowiada przy kieliszku cava.</p>
+  
 </details>
+
 
 ---
 
@@ -541,8 +543,6 @@ Kup <strong>T-Casual</strong> (bilet na 10 przejazdów) – opłaca się bardzie
 
 <p><em>Pro tip:</em> Poza centrum wiele miejsc mówi głównie po katalońsku – ale z uśmiechem i paroma hiszpańskimi słowami otworzysz każde drzwi. 🌞
 </p>
-
-</details>
 
 
 </details>
