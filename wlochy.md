@@ -47,12 +47,18 @@ permalink: /wlochy.html
     <li><strong>Wyspy:</strong> Sardynia – gdzie piasek wygląda jak cukier puder, a morze ma więcej odcieni niż karta Pantone.</li>
   </ul>
 
-  <h3>Porady od serca (i żołądka):</h3>
-  <ul>
-    <li><strong>Nie zamawiaj cappuccino po 11:00</strong> – chyba że chcesz, żeby kelner spojrzał na ciebie jak na obcokrajowca (co zresztą jesteś).</li>
-    <li><strong>Pasta to nie dodatek.</strong> To sens życia. Każdy region ma swój sos i każdy myśli, że jego mama robi najlepszy.</li>
-    <li><strong>Nie ufaj pizzy z ananasem.</strong> Włosi ci tego nie wybaczą. Nawet po śmierci.</li>
-  </ul>
+<h3>Porady od serca (i żołądka):</h3>
+<ul>
+  <li><strong>Nie zamawiaj cappuccino po 11:00</strong> – chyba że chcesz, żeby kelner spojrzał na ciebie jak na obcokrajowca (co zresztą jesteś).</li>
+  <li><strong>Pasta to nie dodatek.</strong> To sens życia. Każdy region ma swój sos i każdy myśli, że jego mama robi najlepszy.</li>
+  <li><strong>Nie ufaj pizzy z ananasem.</strong> Włosi ci tego nie wybaczą. Nawet po śmierci.</li>
+  <li><strong>Chcesz wodę? Precyzuj.</strong> „Naturale” to niegazowana, „frizzante” to gazowana. A jeśli powiesz po prostu „woda”, dostaniesz wykład filozoficzny o wyborach życiowych.</li>
+  <li><strong>Nie próbuj przechodzić przez ulicę na logikę.</strong> Przechodź na wiarę. Kierowcy cię widzą. Prawdopodobnie.</li>
+  <li><strong>Nie pytaj o ketchup do makaronu.</strong> Po prostu nie.</li>
+  <li><strong>Nie dziw się, że obiad zaczyna się o 20:00.</strong> Włosi jedzą wtedy, gdy reszta Europy już leży w łóżku i trawi.</li>
+  <li><strong>Kolejki nie istnieją.</strong> Są sugestiami. Obserwuj, wpychaj się z wdziękiem, udawaj, że tak miało być.</li>
+  <li><strong>Nie próbuj jechać samochodem po centrum Rzymu.</strong> Chyba że masz duszę gladiatora i ubezpieczenie od wszystkiego.</li>
+</ul>
 
   <p>
     Włochy to kraj, który nie musi się starać, żebyś go pokochał. Wystarczy jeden zachód słońca nad Rzymem, jeden kieliszek Chianti w winnicy i jeden talerz carbonary, żebyś już nigdy nie był taki sam.
