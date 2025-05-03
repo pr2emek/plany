@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layoutwlochy
 title: Włochy
 permalink: /wlochy.html
 ---
