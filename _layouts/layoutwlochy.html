@@ -50,7 +50,14 @@
     nav ul.top-menu li a:hover {
       text-decoration: underline;
     }
-
+.menu-dropdown select {
+  font-size: 1.2rem;         /* większy tekst */
+  padding: 12px 20px;        /* większy przycisk */
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
     /* Dark mode styles */
     body.dark-mode {
       background-color: #121212;
@@ -108,6 +115,10 @@ body.dark-mode .country-buttons a {
 
 body.dark-mode .country-buttons a:hover {
   background-color: #444;
+}body.dark-mode .menu-dropdown select {
+  background-color: #2e2e2e;
+  color: #f0f0f0;
+  border: 1px solid #555;
 }
   </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
