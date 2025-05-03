@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #fff;
+      color: #000;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    main {
+      padding: 40px;
+      padding-left: 20px; 
+      padding-right: 20px; 
+    }
+
+    header, footer {
+      padding: 20px;
+      background-color: #fff;
+      border-bottom: 1px solid #ccc;
+      text-align: center;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    footer {
+      border-top: 1px solid #ccc;
+      margin-top: 40px;
+    }
+
+    nav ul.top-menu {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    nav ul.top-menu li a {
+      text-decoration: none;
+      font-weight: bold;
+      color: #444;
+    }
+
+    nav ul.top-menu li a:hover {
+      text-decoration: underline;
+    }
+
+    /* Dark mode styles */
+    body.dark-mode {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+
+    body.dark-mode header,
+    body.dark-mode footer {
+      background-color: #1e1e1e;
+      border-color: #333;
+    }
+
+    body.dark-mode nav ul.top-menu li a {
+      color: #ccc;
+    }
+
+    .dark-mode-toggle {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: #444;
+      margin-top: 10px;
+    }
+
+    body.dark-mode .dark-mode-toggle {
+      color: #f0f0f0;
+    }
+    .country-buttons {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.country-buttons a {
+  background-color: #f2f2f2;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.country-buttons a:hover {
+  background-color: #ddd;
+}
+
+body.dark-mode .country-buttons a {
+  background-color: #2e2e2e;
+  color: #f0f0f0;
+}
+
+body.dark-mode .country-buttons a:hover {
+  background-color: #444;
+}
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <header>
+    <a href="/plany/index.html">
+      <img src="{{ '/assets/images/9670B697-925C-40E7-8955-EE60E8BD11BB.png' | relative_url }}" alt="Plan podróży" style="width: 100%; height: 250px; display: block;">
+    </a>
+        <nav>
+      <ul class="top-menu">
+        <li><a href="/plany/index.html">Start</a></li>
+        <li><a href="/plany/przewodniki.html">Przewodniki</a></li>
+        <li><a href="/plany/kontakt.html">Kontakt</a></li>
+        <li><a href="/plany/omnie.html">O mnie</a></li>
+      </ul>
+    </nav>
+
+<div class="country-buttons">
+  <a href="/plany/wlochy.html">🇮🇹 Włochy</a>
+  <a href="/plany/hiszpania.html">🇪🇸 Hiszpania</a>
+</div>
+    
+    <div class="menu-dropdown">
+      <select onchange="window.location.href=this.value;">
+        <option value="#">🇮🇹 Włochy ▼</option>
+        <option value="/plany/bergamo.html">Bergamo</option>
+        <option value="/plany/florencja.html">Florencja</option>
+        <option value="/plany/mediolan.html">Mediolan</option>
+        <option value="/plany/neapol.html">Neapol</option>
+        <option value="/plany/piza.html">Piza</option>
+        <option value="/plany/rzym.html">Rzym</option>
+        <option value="/plany/wenecja.html">Wenecja</option>
+        <option value="/plany/werona.html">Werona</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© {{ site.time | date: "%Y" }} – Strona „walizka planow”</p>
+    <button class="dark-mode-toggle" onclick="toggleDarkMode()">
+      <i class="fas fa-moon" id="mode-icon"></i>
+    </button>
+  </footer>
+
+  <script>
+    // Przełącznik trybu ciemnego
+    function toggleDarkMode() {
+      const isDark = document.body.classList.toggle('dark-mode');
+      localStorage.setItem('theme', isDark ? 'dark' : 'light');
+      updateIcon(isDark);
+    }
+
+    function updateIcon(isDark) {
+      const icon = document.getElementById('mode-icon');
+      icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+    }
+
+    // Sprawdź preferencje użytkownika
+    document.addEventListener('DOMContentLoaded', () => {
+      const savedTheme = localStorage.getItem('theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+      const shouldUseDark = savedTheme === 'dark' || (savedTheme === null && prefersDark);
+
+      if (shouldUseDark) {
+        document.body.classList.add('dark-mode');
+      }
+
+      updateIcon(document.body.classList.contains('dark-mode'));
+    });
+  </script>
+</body>
+</html>
