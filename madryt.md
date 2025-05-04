@@ -354,56 +354,76 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 ---
 
 <details>
-  <summary><strong>🚇 Transport publiczny w Barcelonie</strong></summary>
-  <p>Barcelona to miasto, gdzie transport publiczny działa jak dobrze naoliwiona maszyna. Metro, autobusy, tramwaje, kolejki linowe – wszystko po to, byś mógł dotrzeć tam, gdzie chcesz, bez konieczności wynajmowania rydwanu.</p>
+  <summary><strong>🚇 Transport w Madrycie</strong></summary>
 
-  <details>
-    <summary><strong>🚆 Metro – szybciej niż corrida</strong></summary>
-    <p>Metro w Barcelonie to 12 linii, które zawiozą Cię niemal wszędzie. Pociągi kursują często, więc nie musisz się spieszyć – kolejny przyjedzie za chwilę. Pamiętaj tylko, że linia L9 Sud prowadzi na lotnisko, ale wymaga specjalnego biletu.</p>
-  </details>
+  <h4>🚌 Komunikacja miejska</h4>
+  <p>
+    <p>
+  Madryt to nie miejsce, gdzie „się idzie pieszo wszędzie” (chyba że kochasz spacery maratońskie w 40 stopniach). Na szczęście komunikacja miejska działa tu jak dobrze naoliwiona maszyna – szybka, punktualna i klimatyzowana (czyli zbawienie w lipcu). Metro to prawdziwy gigant – 13 linii, ponad 300 stacji i tyle tuneli, że nawet kret miałby zawroty głowy. Do tego autobusy EMT (nie, nie to pogotowie – to lokalne niebieskie autobusy), które kursują nawet wtedy, gdy nie wiadomo dlaczego wszystko inne nie działa. A jeśli marzysz o podróży za miasto – są pociągi Cercanías, czyli szybkie wehikuły, które przeniosą Cię do urokliwych miasteczek i z powrotem, zanim zdążysz powiedzieć „churros z czekoladą”.
+</p>
+  </p>
 
-  <details>
-    <summary><strong>🚌 Autobusy – dla tych, którzy lubią widoki</strong></summary>
-    <p>Autobusy w Barcelonie to ponad 100 linii dziennych i 30 nocnych. Idealne, jeśli chcesz podziwiać miasto zza szyby lub wracasz z imprezy o 3 nad ranem. Uważaj tylko na linie nocne – niektóre kursują rzadziej, więc sprawdź rozkład.</p>
-  </details>
+  <ul>
+    <li><strong>Bilet jednorazowy (metro/autobus):</strong> 1,50–2,00 €</li>
+    <li><strong>10 przejazdów (Metrobus):</strong> 12,20 € – ważny na metro i autobusy EMT</li>
+    <li><strong>Dopłata lotniskowa:</strong> +3,00 €</li>
+    <li><strong>Bilet turystyczny (Abono Turístico):</strong> nielimitowane przejazdy – 
+      <ul>
+        <li>1 dzień: 8,40 €</li>
+        <li>2 dni: 14,20 €</li>
+        <li>3 dni: 18,40 €</li>
+        <li>7 dni: 35,40 €</li>
+      </ul>
+    </li>
+  </ul>
 
-  <details>
-    <summary><strong>🚋 Tramwaje – powrót do przyszłości</strong></summary>
-    <p>Tramwaje Trambaix i Trambesòs to nowoczesne pojazdy, które łączą różne części miasta. Jeśli chcesz poczuć się jak w filmie science fiction, wybierz się na przejażdżkę.</p>
-  </details>
+  <p>
+    Karta transportowa <strong>TTP / Tarjeta Multi</strong> kosztuje 2,50 € i można ją kupić na stacjach metra.
+  </p>
 
-  <details>
-    <summary><strong>🚠 Kolejki linowe – dla fanów wysokości</strong></summary>
-    <p>Chcesz zobaczyć Barcelonę z góry? Skorzystaj z kolejki linowej na Montjuïc lub Port Vell Aerial Tramway. Widoki zapierają dech w piersiach, a emocje są gwarantowane.</p>
-  </details>
+  <h4>🚍 Autobusy podmiejskie (Interurbanos)</h4>
+  <p>
+    Zielone autobusy łączą Madryt z okolicznymi miejscowościami (np. El Escorial, Alcalá de Henares, Aranjuez). Odjeżdżają z dużych dworców, jak <strong>Moncloa</strong> czy <strong>Avenida de América</strong>.
+  </p>
+  <ul>
+    <li><strong>Bilet jednorazowy:</strong> 1,30 € – 5,00 € w zależności od strefy</li>
+    <li><strong>10 przejazdów:</strong> od 12,20 € (na krótkich trasach)</li>
+  </ul>
+  <p>
+    Dobre opcje na wycieczki poza miasto! Uwaga: bilety kupuje się u kierowcy lub przez aplikację Consorcio Transportes Madrid.
+  </p>
 
-  <details>
-    <summary><strong>🎟️ Bilety – nie daj się zaskoczyć</strong></summary>
-    <ul>
-      <li><strong>Hola BCN!</strong> – nielimitowane przejazdy przez 48, 72, 96 lub 120 godzin. Idealne dla turystów.</li>
-      <li><strong>T-casual</strong> – 10 przejazdów, ważne dla jednej osoby. Dobre, jeśli planujesz kilka podróży.</li>
-      <li><strong>Bilet lotniskowy</strong> – specjalny bilet na przejazd metrem z lotniska. Pamiętaj, że nie jest wliczony w T-casual.</li>
-    </ul>
-    <p>Bilety możesz kupić w automatach na stacjach metra lub przez aplikację TMB.</p>
-  </details>
+  <h4>🚆 Pociągi Cercanías</h4>
+  <p>
+    Madryckie pociągi podmiejskie łączą centrum z dalszymi dzielnicami i miastami (np. Toledo, Aranjuez, lotnisko T4). Szybkie i punktualne – idealne na wycieczki.
+  </p>
+  <ul>
+    <li><strong>Bilet jednorazowy:</strong> 1,70 € – 5,50 € (w zależności od strefy, do 7 stref)</li>
+    <li><strong>Bilet 10 przejazdów:</strong> 10,20 € – 38,45 € (w zależności od strefy)</li>
+  </ul>
+  <p>
+    Bilety kupisz w automatach lub przez aplikację Renfe Cercanías. Jeśli masz <strong>Abono Turístico</strong>, Cercanías też jest w cenie!
+  </p>
 
-  <details>
-    <summary><strong>📱 Aplikacje – technologia w służbie podróżnika</strong></summary>
-    <p>Pobierz aplikację TMB App, aby planować trasy, sprawdzać rozkłady jazdy i kupować bilety. Dostępna na iOS i Androida.</p>
-  </details>
+  <h4>🚖 Taksówki i aplikacje</h4>
+  <p>
+    Oficjalne taksówki (białe z czerwonym paskiem) mają stałą cenę z lotniska: <strong>30 €</strong>. Działają też <strong>Uber, Bolt, Cabify</strong>.
+  </p>
 
-  <details>
-    <summary><strong>⚠️ Porady – unikaj niespodzianek</strong></summary>
-    <ul>
-      <li>Nie wyrzucaj biletu przed końcem podróży – kontrolerzy mogą pojawić się w najmniej oczekiwanym momencie.</li>
-      <li>Unikaj jazdy bez biletu – mandaty mogą być wysokie.</li>
-      <li>Sprawdzaj rozkłady jazdy, zwłaszcza nocą – niektóre linie kursują rzadziej.</li>
-    </ul>
-  </details>
+  <h4>🚲 Rowery i hulajnogi</h4>
+  <p>
+    <strong>BiciMAD</strong> – rowery elektryczne: 0,50 € za 10 min. Hulajnogi (Lime, Dott, Tier) to ok. 0,20 € za minutę.
+  </p>
 
-  <p>Podsumowując, transport publiczny w Barcelonie jest szybki, wygodny i pozwala zaoszczędzić czas oraz pieniądze. Wystarczy odrobina planowania, a miasto stoi przed Tobą otworem!</p>
+  <h4>🚗 Samochód?</h4>
+  <p>
+    Nie warto. Centrum to strefa niskiej emisji (Madrid Central), dostępna głównie dla mieszkańców. Parkowanie? Drogo i trudno. Metro wygra.
+  </p>
+
+  <p>
+    <a href="https://www.metromadrid.es/en" target="_blank">Mapa metra – kliknij tutaj</a>
+  </p>
 </details>
-
 ---
 
 <details>
