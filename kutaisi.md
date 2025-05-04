@@ -515,8 +515,6 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
-</details>
-  
 
 
 <p><em>Pro tip:</em> Poza centrum wiele miejsc mówi głównie po katalońsku – ale z uśmiechem i paroma hiszpańskimi słowami otworzysz każde drzwi. 🌞
