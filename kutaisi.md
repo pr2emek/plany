@@ -629,54 +629,37 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚇 Transport publiczny w Barcelonie</strong></summary>
-  <p>Barcelona to miasto, gdzie transport publiczny działa jak dobrze naoliwiona maszyna. Metro, autobusy, tramwaje, kolejki linowe – wszystko po to, byś mógł dotrzeć tam, gdzie chcesz, bez konieczności wynajmowania rydwanu.</p>
+  <summary><strong>🚍 Transport Publiczny w Kutaisi – Twoje Przemieszczanie się po Mieście</strong></summary>
 
-  <details>
-    <summary><strong>🚆 Metro – szybciej niż corrida</strong></summary>
-    <p>Metro w Barcelonie to 12 linii, które zawiozą Cię niemal wszędzie. Pociągi kursują często, więc nie musisz się spieszyć – kolejny przyjedzie za chwilę. Pamiętaj tylko, że linia L9 Sud prowadzi na lotnisko, ale wymaga specjalnego biletu.</p>
-  </details>
+  <p>
+    Kutaisi, chociaż nie jest największym miastem Gruzji, ma całkiem dobrze zorganizowany system transportu publicznego, który ułatwia poruszanie się po nim, a jednocześnie pozwala poczuć się jak prawdziwy lokalny mieszkaniec. Choć nie znajdziesz tu metra ani długich tramwajowych tras, to miasto skutecznie poradziło sobie z innymi środkami transportu.
+  </p>
 
-  <details>
-    <summary><strong>🚌 Autobusy – dla tych, którzy lubią widoki</strong></summary>
-    <p>Autobusy w Barcelonie to ponad 100 linii dziennych i 30 nocnych. Idealne, jeśli chcesz podziwiać miasto zza szyby lub wracasz z imprezy o 3 nad ranem. Uważaj tylko na linie nocne – niektóre kursują rzadziej, więc sprawdź rozkład.</p>
-  </details>
+  <h4>🚌 Autobusy</h4>
+  <p>
+    Autobusy to najpopularniejszy sposób poruszania się po Kutaisi. Kursują regularnie, obejmując większą część miasta i okolice. Bilety są bardzo tanie, więc nie musisz się martwić o wysokie koszty transportu. Można je kupić u kierowcy, a ceny są uzależnione od odległości, ale raczej niewielkie – za przejazd zapłacisz dosłownie kilka gruzińskich lari. Autobusy w Kutaisi mają swoje przystanki w kluczowych punktach miasta, a ich trasy obejmują także najważniejsze atrakcje turystyczne.
+  </p>
 
-  <details>
-    <summary><strong>🚋 Tramwaje – powrót do przyszłości</strong></summary>
-    <p>Tramwaje Trambaix i Trambesòs to nowoczesne pojazdy, które łączą różne części miasta. Jeśli chcesz poczuć się jak w filmie science fiction, wybierz się na przejażdżkę.</p>
-  </details>
+  <h4>🚖 Taksówki</h4>
+  <p>
+    Taksówki w Kutaisi są dostępne prawie na każdym rogu, szczególnie w centrum miasta. To wygodna opcja, jeśli nie chcesz czekać na autobus lub masz do pokonania większą odległość. Warto jednak pamiętać, że ceny nie są regulowane, więc warto przed wyruszeniem uzgodnić z kierowcą cenę przejazdu lub po prostu zapytać o koszt, aby uniknąć nieprzyjemnych niespodzianek. Jeśli zdecydujesz się na taksówkę, pamiętaj, żeby zawsze korzystać z oficjalnych, zaufanych firm taksówkarskich, bo w Kutaisi nie brakuje też nieco mniej profesjonalnych kierowców.
+  </p>
 
-  <details>
-    <summary><strong>🚠 Kolejki linowe – dla fanów wysokości</strong></summary>
-    <p>Chcesz zobaczyć Barcelonę z góry? Skorzystaj z kolejki linowej na Montjuïc lub Port Vell Aerial Tramway. Widoki zapierają dech w piersiach, a emocje są gwarantowane.</p>
-  </details>
+  <h4>🚲 Rowery i Skutery</h4>
+  <p>
+    Jeśli lubisz aktywność fizyczną, Kutaisi oferuje również opcję wynajmu rowerów i skuterów elektrycznych. Jest to świetna opcja, jeśli chcesz szybko przejechać po mieście, a do tego cieszyć się widokami i wziąć głęboki oddech świeżego powietrza. Wiele kawiarni i atrakcji w Kutaisi oferuje wynajem tych pojazdów, więc bez problemu znajdziesz punkt, gdzie możesz je wypożyczyć na godziny lub dni. To dobry sposób na poczucie się jak prawdziwy turysta na dwóch kółkach.
+  </p>
 
-  <details>
-    <summary><strong>🎟️ Bilety – nie daj się zaskoczyć</strong></summary>
-    <ul>
-      <li><strong>Hola BCN!</strong> – nielimitowane przejazdy przez 48, 72, 96 lub 120 godzin. Idealne dla turystów.</li>
-      <li><strong>T-casual</strong> – 10 przejazdów, ważne dla jednej osoby. Dobre, jeśli planujesz kilka podróży.</li>
-      <li><strong>Bilet lotniskowy</strong> – specjalny bilet na przejazd metrem z lotniska. Pamiętaj, że nie jest wliczony w T-casual.</li>
-    </ul>
-    <p>Bilety możesz kupić w automatach na stacjach metra lub przez aplikację TMB.</p>
-  </details>
+  <h4>🛵 Minibusy (Marszrutki)</h4>
+  <p>
+    Marszrutki to małe, minibusy kursujące na stałych trasach, które są popularne w Gruzji. W Kutaisi działają one zarówno w obrębie samego miasta, jak i na trasach międzymiastowych. Marszrutki są szybkie i wygodne, ale warto być przygotowanym na większą ilość pasażerów w godzinach szczytu. Ceny są bardzo przystępne i wynoszą zwykle mniej niż za taksówkę, a podróż jest dość szybka. Minibusy są doskonałym rozwiązaniem, jeśli chcesz wybrać się do mniej popularnych miejsc w Kutaisi lub na obrzeżach miasta.
+  </p>
 
-  <details>
-    <summary><strong>📱 Aplikacje – technologia w służbie podróżnika</strong></summary>
-    <p>Pobierz aplikację TMB App, aby planować trasy, sprawdzać rozkłady jazdy i kupować bilety. Dostępna na iOS i Androida.</p>
-  </details>
+  <h4>🚗 Wynajem Samochodu</h4>
+  <p>
+    Jeśli chcesz w pełni poczuć się jak władca drogi, wynajem samochodu to opcja, którą warto rozważyć. W Kutaisi działa wiele firm wynajmujących pojazdy, a ceny są bardzo przystępne w porównaniu do zachodnich standardów. Dzięki wynajętemu samochodowi możesz bez problemu zwiedzić okolice Kutaisi, w tym górzyste regiony i piękne krajobrazy. Ważne jest jednak, żeby pamiętać o specyfice gruzińskiego ruchu drogowego, który może różnić się od tego, do czego jesteś przyzwyczajony.
+  </p>
 
-  <details>
-    <summary><strong>⚠️ Porady – unikaj niespodzianek</strong></summary>
-    <ul>
-      <li>Nie wyrzucaj biletu przed końcem podróży – kontrolerzy mogą pojawić się w najmniej oczekiwanym momencie.</li>
-      <li>Unikaj jazdy bez biletu – mandaty mogą być wysokie.</li>
-      <li>Sprawdzaj rozkłady jazdy, zwłaszcza nocą – niektóre linie kursują rzadziej.</li>
-    </ul>
-  </details>
-
-  <p>Podsumowując, transport publiczny w Barcelonie jest szybki, wygodny i pozwala zaoszczędzić czas oraz pieniądze. Wystarczy odrobina planowania, a miasto stoi przed Tobą otworem!</p>
 </details>
 
 ---
