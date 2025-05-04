@@ -629,7 +629,7 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚍 Transport Publiczny w Kutaisi – Twoje Przemieszczanie się po Mieście</strong></summary>
+  <summary><strong>🚍 Transport Publiczny w Kutaisi</strong></summary>
 
   <p>
     Kutaisi, chociaż nie jest największym miastem Gruzji, ma całkiem dobrze zorganizowany system transportu publicznego, który ułatwia poruszanie się po nim, a jednocześnie pozwala poczuć się jak prawdziwy lokalny mieszkaniec. Choć nie znajdziesz tu metra ani długich tramwajowych tras, to miasto skutecznie poradziło sobie z innymi środkami transportu.
