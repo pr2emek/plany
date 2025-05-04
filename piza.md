@@ -1,5 +1,5 @@
 ---
-layout: layoutsprzewodnik
+layout: layoutwlochy
 title: Piza
 permalink: /piza.html
 ---
