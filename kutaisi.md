@@ -341,23 +341,100 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
   <p><em>Tip: Gelati to miejsce, w którym warto poczuć się jak średniowieczny uczony. A jeśli nie czujesz się jak uczony, to po prostu skorzystaj z okazji, by zrobić zdjęcie na tle niesamowitego widoku – i podziwiaj, jak historia otacza cię z każdej strony.</em></p>
 </details>
 
-  
-  <p><strong>Tip z serca:</strong> W Kutaisi najlepszy plan to nie mieć planu. Spaceruj, skręcaj w nieoczywiste uliczki, rozmawiaj z ludźmi i daj się zaskoczyć – miasto nagrodzi cię tym, czego nie znajdziesz w przewodnikach.</p>
 
-</details>
 
 <details>
     <summary><strong>🕵️‍♂️ Sekretne miejsca Kutaisi</strong></summary>
 
-  <h4>🎨 Mural Babci (42.2660, 42.7090)</h4>
+<details>
+  <summary><strong>🎨 Mural z starszą kobietą – sztuka, która mówi więcej niż tysiąc słów</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2645° N, 42.6904° E</p>
+
   <p>
-    Ikona Kutaisi w wersji street art. Starsza pani spogląda na przechodniów z fasady budynku z takim ciepłem, że masz ochotę zaprosić ją na herbatę. To nie tylko dzieło sztuki – to gruzińska dusza na murze. Szukaj jej w pobliżu centrum, najlepiej z aparatem w dłoni.
+    Kutaisi to nie tylko miasto pełne historii, ale także miejsc, które zaskakują na każdym kroku. Jednym z nich jest mural, który znajdziesz w centrum miasta – dzieło sztuki przedstawiające starszą kobietę, która patrzy na ciebie z okładki... no właśnie, z okładki życia. Wzrok tej kobiety, pełen mądrości i doświadczenia, sprawia, że czujesz, jakby miała ci coś bardzo ważnego do powiedzenia – a jednocześnie zdaje się mówić: „Jestem starsza, ale wciąż pełna energii, więc podążaj za swoją pasją”.
   </p>
 
-  <h4>🖌️ Galeria murali miejskich (różne lokalizacje)</h4>
   <p>
-    Jeśli myślisz, że Kutaisi to tylko kamienne cerkwie – zaskoczenie! Spacerując bocznymi uliczkami, znajdziesz murale, które są kolorową odpowiedzią miasta na szarość postsowieckiej architektury. Artyści dali tu upust fantazji – ty daj upust zachwytowi (i telefonowi).
+    Mural jest jak kawałek magicznego kolażu, który łączy tradycyjną gruzińską estetykę z nowoczesnym podejściem do sztuki ulicznej. Zdecydowanie przyciąga wzrok, i to nie tylko turystów. Jest pełen kolorów i detali, które sprawiają, że czujesz się jakbyś wpadł do świata z innego wymiaru. To idealne miejsce na zrobienie zdjęcia, które potem będziesz pokazywać wszystkim znajomym, mówiąc: „Tak, widziałem tę kobietę. Ma niesamowite spojrzenie”.
   </p>
+
+  <p>
+    Co ciekawe, mural ten jest nie tylko atrakcją wizualną, ale i symbolem kultury miejskiej, która w Kutaisi zaczyna zyskiwać na znaczeniu. Artysta, który stworzył ten obraz, postanowił pokazać coś więcej niż tylko zwykłą postać – starsza kobieta to prawdziwa mądrość tego miasta. Z pewnością zatrzymasz się, by przyjrzeć się szczegółom tego dzieła, a przy okazji poczujesz, jak sztuka wciąga cię w życie lokalnej społeczności.
+  </p>
+
+  <p><strong>🎟️ Bilety:</strong> Wstęp do świata sztuki jest darmowy. Możesz po prostu stanąć i kontemplować, co ta kobieta chce ci powiedzieć, nie wydając ani grosza. Co więcej, nie musisz się martwić o tłumy turystów – mural jest umieszczony w takiej okolicy, że możesz spokojnie zrobić zdjęcie bez większego pośpiechu. Dobre miejsce na chwilę zadumy!</p>
+
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Mural znajduje się w samym centrum Kutaisi, więc nie ma potrzeby specjalnego planowania wycieczki, aby go zobaczyć. Wystarczy, że będziesz spacerować po mieście i z pewnością go znajdziesz – kiedy tylko zobaczysz kolorowe ściany, wiesz, że jesteś blisko.</p>
+
+  <p><em>Tip: Pamiętaj, żeby zrobić zdjęcie, ale też daj się pochłonąć chwilą. Być może mural ma coś do powiedzenia nie tylko o Kutaisi, ale także o tobie.</em></p>
+</details>
+
+  <details>
+  <summary><strong>💖 Mural „Kochająca Mama” – Uścisk artystycznej miłości</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2623° N, 42.6901° E</p>
+
+  <p>
+    W Kutaisi nie brakuje ulicznych dzieł, które potrafią poruszyć serce – i ten mural jest tego najlepszym przykładem. „Kochająca Mama” to obraz przedstawiający kobietę z pełnym ciepła spojrzeniem, jakby mówiła: „Nie martw się, wszystko będzie dobrze”. Z taką postacią na ścianie miasto od razu staje się bardziej przytulne, jakby cała okolica była objęta rodzicielskim uściskiem.
+  </p>
+
+  <p>
+    Mural ukazuje matkę z dzieckiem, a ich twarze są pełne spokoju i miłości. To jakby wizyta w domu, gdzie poczujesz się jak u swojej babci – tylko zamiast ciasta, dostajesz prawdziwą sztukę uliczną. Kolorystyka obrazu jest ciepła, a obraz jest tak realistyczny, że aż masz ochotę powiedzieć „Dziękuję, mamo!” i podziękować artystom za taki kawałek emocji na murze.
+  </p>
+
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Ten mural znajduje się w małej, ale klimatycznej uliczce tuż obok głównego placu miasta. Znajdziesz go, idąc w stronę rzeki, więc najlepiej przy okazji zrobić mały spacer wzdłuż ulicy i rozkoszować się tym wyjątkowym widokiem.</p>
+</details>
+
+<details>
+  <summary><strong>🎈 Mural „Dziecięca Radość” – Kolorowe marzenia na ścianie</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2639° N, 42.6912° E</p>
+
+  <p>
+    Chcesz poczuć się jak dziecko z powrotem? Ten mural to doskonała okazja, żeby ponownie odkryć radość życia. „Dziecięca Radość” ukazuje grupkę maluchów w akcji – biegnących, śmiejących się, bawiących się, po prostu przeżywających chwilę. To jakbyś przypadkiem znalazł się w parku zabaw, ale zamiast huśtawek – masz pełen energii mural na ścianie.
+  </p>
+
+  <p>
+    Jeśli czujesz się zmęczony po zwiedzaniu miasta, ten obraz na pewno poprawi ci humor. Każda twarz na tym muralu to czysta niewinność i pasja do życia – coś, czego nie znajdziesz w żadnym muzeum. A dla wszystkich dorosłych, którzy zapomnieli, jak to jest być dzieckiem, to świetna przypomnienie – bo kto nie kocha skakać po kałużach (albo chociaż patrzeć na dzieci, które to robią)?
+  </p>
+
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Znajdziesz ten mural przy jednej z głównych ulic w Kutaisi. Jest to dość zatłoczona okolica, więc nie będziesz musiał go szukać zbyt długo. I pamiętaj, aby patrzeć na twarze dzieci – z pewnością zainspirują cię do robienia czegoś szalonego!</p>
+</details>
+
+<details>
+  <summary><strong>😊 Mural „Uśmiech Gruzji” – Bo każdemu trzeba przypomnieć, jak ważny jest uśmiech</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2651° N, 42.6933° E</p>
+
+  <p>
+    Ten mural to coś dla każdego, kto kocha energię i optymizm. „Uśmiech Gruzji” to obraz przedstawiający twarze, na których widnieje szeroki uśmiech. Wydaje się, że cała Gruzja mówi ci: „Przestań się martwić, życie jest piękne!”. To jakby cały naród powiedział ci w jednym obrazie: „Chłopie, idź do przodu i się nie przejmuj!”.
+  </p>
+
+  <p>
+    Kolory są jasne i żywe, a kształty dynamiczne, co daje poczucie ruchu i energii. Będziesz chciał zrobić zdjęcie nie tylko dla siebie, ale także dla wszystkich swoich znajomych, żeby pokazać im, jak radosne jest życie. Właściwie to ten mural jest niczym pocztówka z wakacji – tylko zamiast pocztówki, masz kawałek betonu w pełnym kolorze.
+  </p>
+
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Znajdziesz go w tętniącej życiem dzielnicy, więc po drodze do tego muralu będziesz miał szansę natknąć się na innych artystów, którzy również chcą przypomnieć ci o pięknie życia.</p>
+</details>
+
+<details>
+  <summary><strong>🌈 Mural „Festiwal Kolorów” – Ściana pełna radości!</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2673° N, 42.6925° E</p>
+
+  <p>
+    Jeśli masz dość nudnych, szarych ścian i chcesz poczuć, że życie jest pełne kolorów, to „Festiwal Kolorów” w Kutaisi to twój punkt obowiązkowy. To mural, który wygląda, jakby ktoś dosłownie wlał całą tęczę na ścianę. Płynące barwy, zawiłe kształty i odcienie – wszystko to sprawia, że czujesz się jak na wielkim festiwalu kolorów, choć wiesz, że nie będziesz musiał wymachiwać rękami w rytm muzyki.
+  </p>
+
+  <p>
+    Zamiast tradycyjnych kwiatów czy abstrakcyjnych linii, mural wypełnia całą przestrzeń, dając ci poczucie, że wkraczasz do innego wymiaru. Każdy element ma swoją opowieść, jakby każdy kolor opowiadał ci historię, którą chciałbyś poznać. Jest to swego rodzaju podróż, której nie musisz opuścić, żeby poczuć się lepiej.
+  </p>
+
+  <p><strong>🎟️ Bilety:</strong> Nadal za darmo! Po prostu wejdź i chłonąć ten kalejdoskop barw.</p>
+
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Ten mural jest w pobliżu głównych ulic handlowych, więc po obejrzeniu go możesz udać się na zakupy albo po prostu kontemplować w nieskończoność, jak te kolory zmieniają twój nastrój.</p>
+</details>
 
   <h4>🌉 Tajemniczy Most Kolejowy (42.2709, 42.7120)</h4>
   <p>
