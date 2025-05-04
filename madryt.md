@@ -424,40 +424,48 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
     <a href="https://www.metromadrid.es/en" target="_blank">Mapa metra – kliknij tutaj</a>
   </p>
 </details>
+
 ---
 
 <details>
-  <summary><strong>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</strong></summary>
-  <p>Barcelona to nie tylko Gaudí i tapas – to także miasto pełne tajemniczych opowieści, średniowiecznych duchów i kamiennych smoków, które... czasem ziewają. Oto najciekawsze legendy, które możesz odkryć między jednym churro a drugim.</p>
+  <summary><strong>👻 Legendy Madrytu</strong></summary>
 
-  <h3>🐉 Smoki z Casa Batlló</h3>
-  <p>Według miejskiej legendy, fasada <strong>Casa Batlló</strong> to nic innego jak opowieść o św. Jerzym (patronie Katalonii), który pokonuje smoka. Balkon to czaszka ofiary, kolumny to kości, a dach to grzbiet smoka. Podobno jeśli spojrzysz mu w „oko” o północy 23 kwietnia (Dzień św. Jerzego), usłyszysz ciche <em>"grrr..."</em>.</p>
+  <p>
+    Madryt ma swoje tapas, ma flamenco, ale też ma... duchy, przeklęte ulice i nawiedzone pałace. I choć za dnia to miasto pełne życia, po zmroku – lepiej nie rozmawiać za głośno z cieniami. Oto kolejne miejsca, gdzie historia zderza się z legendą, a klimat grozy wchodzi jak sangria po południu.
+  </p>
 
-  <h3>👻 Duch Mnicha z Dzielnicy Gotyckiej</h3>
-  <p>W wąskich uliczkach Barri Gòtic ponoć błąka się duch mnicha, który zginął, broniąc klasztoru przed rabusiami. Podobno szuka nadal swojej zagubionej księgi modlitw. Jeśli usłyszysz szept <em>„Ave Maria”</em>, to nie duch twojego telefonu – to on!</p>
+  <h4>🕸️ Korytarze strachu – Palacio de Linares</h4>
+  <p>
+    Barokowa rezydencja w samym centrum miasta i jeden z najbardziej nawiedzonych budynków w Hiszpanii. Mówi się, że para arystokratów nieświadomie wzięła ślub jako rodzeństwo (sic!) i z tego kazirodczego związku narodziła się mała Raimunda – której duch wciąż krąży po salach, wołając „mamá”. Serio, nagrania EVP (głosy duchów) są na YouTubie.<br>
+    <em>Lokalizacja:</em> <strong>Plaza de Cibeles</strong>
+  </p>
 
-  <h3>🔔 Dzwonnik z Kościoła Santa Maria del Mar</h3>
-  <p>W czasie budowy tej przepięknej świątyni młody chłopak pomagał robotnikom, dźwigając kamienie z portu. Zginął przy zawaleniu się rusztowania. Dziś jego duch co noc uderza raz w dzwon, żeby przypomnieć o ofiarach, które powstały przy budowie kościoła. Takie gotyckie „dziękujemy za wysiłek”.</p>
+  <h4>🪦 Duch bezdomnego z Puerta del Sol</h4>
+  <p>
+    Zatłoczony, pełen turystów plac? A jakże. Ale w nocy, przy jednej z fontann, ponoć pojawia się postać starszego mężczyzny w brudnym płaszczu, który pyta przechodniów o godzinę... i znika. Lokalni mówią, że to duch bezdomnego, który zamarzł tu pewnej zimy. Zegarka lepiej nie pokazywać.<br>
+    <em>Lokalizacja:</em> <strong>Puerta del Sol</strong>
+  </p>
 
-  <h3>💔 Ulica Złamanych Serc (Carrer dels Petons)</h3>
-  <p>Nazwa tej uliczki oznacza dosłownie „ulicę pocałunków”. Legenda głosi, że to tu skazani na śmierć żegnali się ze swoimi ukochanymi. Do dziś zakochani przychodzą tam po błogosławieństwo… i dramatyczne selfie.</p>
+  <h4>⛓️ Więzienie duchów – Cuartel del Conde-Duque</h4>
+  <p>
+    Dawne koszary, później więzienie – dziś centrum kultury. Ale niektórzy pracownicy twierdzą, że słyszą krzyki zza ścian, których nie ma. Duchy dawnych więźniów? A może tylko akustyka i wyobraźnia? Tak czy siak – miejsce z historią i... echami przeszłości.<br>
+    <em>Lokalizacja:</em> <strong>Calle Conde Duque 9</strong>
+  </p>
 
-  <h3>🌙 Magiczny kamień z Plaça del Rei</h3>
-  <p>W centrum tej placówki (czytaj: placu), wtopiony w bruk, znajduje się kamień, który ponoć przynosi szczęście tym, którzy na nim staną... trzymając lewą nogę w górze, myśląc o paelli i nucąc piosenkę Shakiry. Tak mówią.</p>
+  <h4>🕯️ Klasztor z trupią legendą – Real Monasterio de la Encarnación</h4>
+  <p>
+    Wewnątrz tego klasztoru znajduje się relikwia... zakrzepła krew świętego Pantaleona, która raz do roku – 27 lipca – podobno wraca do płynnej postaci. Jeśli nie – oznacza to katastrofę. Na szczęście, jak na razie, Madryt jeszcze stoi.<br>
+    <em>Lokalizacja:</em> <strong>Plaza de la Encarnación</strong>
+  </p>
 
-  <h3>🧛‍♂️ Wampirzyca z Raval – Enriqueta Martí</h3>
-  <p>To już nie legenda, a makabryczna miejska historia. Enriqueta Martí, znana jako „Wampirzyca z Raval”, porywała dzieci i ponoć przygotowywała z nich tajemnicze eliksiry dla barcelońskiej elity. Jej dom znajdował się przy <strong>Carrer Ponent</strong> (dziś Carrer de Joaquín Costa). Jeśli poczujesz dziwny chłód w powietrzu… uciekaj.</p>
+  <h4>⚰️ Cmentarz Almudena i kobieta w czerni</h4>
+  <p>
+    Największy cmentarz w Madrycie, który kryje mnóstwo sekretów. Strażnicy donoszą o kobiecie w czerni przechadzającej się wśród nagrobków o świcie. Kiedy się zbliżysz – znika. Ponoć to matka, która szuka grobu syna, który zaginął w wojnie domowej. Albo... ktoś, kto nie lubi turystów z kamerami.<br>
+    <em>Lokalizacja:</em> <strong>Avenida de Daroca</strong>
+  </p>
 
-  <h3>🦉 Sowa z Passeig de Sant Joan</h3>
-  <p>Na dachu jednego z budynków przy <strong>Passeig de Sant Joan</strong> stoi ogromna neonowa sowa. Niby reklama... ale według lokalnych, to „Strażniczka Barcelony”, która obserwuje miasto i mruga tylko do tych, którzy nie zostawiają okruszków po bocadillo.</p>
-
-  <h3>🕊️ Duchy więźniów z Zamku Montjuïc</h3>
-  <p>Zamek Montjuïc to dziś punkt widokowy i atrakcja turystyczna, ale niegdyś był miejscem egzekucji. Legenda mówi, że nocą można usłyszeć stąpające kroki i krzyki dawnych więźniów. Jeśli poczujesz zimny podmuch – to nie tylko wiatr znad morza.</p>
-
-  <p><strong>Uwaga:</strong> Nie wszystkie legendy nadają się do weryfikacji naukowej, ale wszystkie świetnie się opowiada przy kieliszku cava.</p>
-  
+  <p><strong>Bonus:</strong> Możesz połączyć te legendy w jedną wycieczkę nocną. Albo... czytać je wieczorem pod kocem – też działa!</p>
 </details>
-
 
 ---
 
