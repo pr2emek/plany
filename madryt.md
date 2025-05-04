@@ -279,26 +279,6 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 </details>
 
 <details>
-  <summary><strong>🎭 Teatro Real</strong></summary>
-  <p><strong>Współrzędne:</strong> 40.4189° N, 3.7110° W</p>
-  <p>
-    Teatro Real to jak luksusowy teatr operowy, w którym królowie nie tylko siedzą na balkonach, ale sami wykonują rolę! Wchodzisz do tego miejsca i czujesz się jak część wielkiego dramatu – nie tylko na scenie, ale i wśród publiczności, bo przecież czy jest coś bardziej ekscytującego niż możliwość założenia smokingu i udawania, że masz przepustkę na galę rozdania Oscarów? 
-  </p>
-  <p>
-    W Teatro Real odbywają się spektakle na światowym poziomie – Carmen, Don Giovanni, Tosca... Można by pomyśleć, że opera to tylko dla wyższych sfer, ale nie! Zresztą, jeśli nigdy nie bywasz na operze, to teraz masz idealną okazję, by poczuć się jak bohater opery, samemu wybierając, czy wejdziesz na spektakl z wielkim grzmotem, czy cichutko usiądziesz w najciemniejszym rogu, szukając trochę kultury i może... wyjątkowej atmosfery.
-  </p>
-  <p>
-    Budynek Teatru Real sam w sobie to prawdziwy zabytek. Z zewnątrz jest taki dostojny, że nie wiesz, czy to teatr, czy pałac królewski – elegancja, detale, architektura... To jakby Leonardo da Vinci i David Bowie zaprojektowali wspólnie budynek. I rzeczywiście, wnętrze sprawia, że nie możesz się oprzeć wrażeniu, że oto stajesz w centrum świata sztuki – złote zdobienia, wielkie sale, luksusowe loże… prawdziwy teatr marzeń.
-  </p>
-  <p>
-    Oczywiście, bilet na operę kosztuje więcej niż twój zwykły zestaw do kina, ale patrz na to jak na inwestycję. Bo teatr to nie tylko spektakl – to cała atmosfera, przeżycie, coś, co zapamiętasz na długo. Co więcej, Teatro Real to miejsce, które oferuje coś dla każdego – nie tylko dla tych, którzy potrafią rozpoznać „Tenor, śpiewający w wysokich rejestrach”. Można tu też przyjść na koncerty, festiwale, a nawet próby – co świetnie sprawdza się, jeśli chcesz poczuć się jak VIP bez wydawania fortuny na bilet.
-  </p>
-  <p>
-    P.S. A jeśli nie masz pojęcia, o czym śpiewają w operze, to zrób jak ja – ubierz się elegancko, przytakuj ze zrozumieniem, a potem... po prostu pozwól sobie na rozkoszowanie się magią sztuki. 
-  </p>
-</details>
-
-<details>
   <summary><strong>🧩 Plaza de España</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4179° N, 3.7132° W</p>
   <p>
@@ -322,7 +302,7 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
     Santiago Bernabéu to stadion, który ma więcej historii niż Twoje konto na Instagramie, a z pewnością więcej emocji niż wszystkie Twoje wieczory z Netflixem. To miejsce, które każdemu piłkarskiemu fanowi daje dreszczyk emocji już przy samym wejściu, a jeśli jesteś kibicem Realu Madryt – to czujesz się tu jak w świątyni. Jeśli zaś nie – nie martw się, stadion ma taką atmosferę, że poczujesz się jak na największym koncercie w twoim życiu, nawet jeśli nie wiesz, co to „ofensywa”.
   </p>
   <p>
-    Oczywiście, stadion Santiago Bernabéu to nie tylko dla fanów piłki nożnej. Możesz tu przyjść, nawet jeśli Twoja jedyna styczność z piłką to ta na Instagramie. Wewnątrz znajdziesz muzeum pełne pucharów, trofeów i zdjęć piłkarskich legend – Messi? Ronaldo? Raul? Może tu, może tam. To miejsce pełne wspomnień i emocji, które sprawiają, że zaczynasz marzyć o zdobyciu złotej piłki... a przynajmniej o dobrym selfie na tle stadionu.
+    Oczywiście, stadion Santiago Bernabéu to nie tylko dla fanów piłki nożnej. Możesz tu przyjść, nawet jeśli Twoja jedyna styczność z piłką to ta na Instagramie. Wewnątrz znajdziesz muzeum pełne pucharów, trofeów i zdjęć piłkarskich legend – Ronaldo? Raul? Może tu, może tam. To miejsce pełne wspomnień i emocji, które sprawiają, że zaczynasz marzyć o zdobyciu złotej piłki... a przynajmniej o dobrym selfie na tle stadionu.
   </p>
   <p>
     Warto zajrzeć do muzeum – bo co może być lepszego, niż popatrzeć na trofea, których prawdopodobnie nigdy nie zdobędziesz (ale przynajmniej przez chwilę poczujesz się jak mistrz)? A jeśli masz szczęście i akurat wpadniesz na mecz – przywitaj się z tą niezapomnianą atmosferą i od razu zacznij kibicować, bo w Madrycie to trochę jak bycie częścią wielkiego sportowego show.
@@ -333,18 +313,25 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 </details>
 
 <details>
-  <summary><strong>🎨 Centro de Arte Reina Sofía</strong></summary>
+  <summary><strong>⚽ Wanda Metropolitano</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4375° N,  -3.6004° W</p>
   <p>
-    Guernica Picassa na żywo robi większe wrażenie niż w podręczniku od plastyki. Miejsce dla tych, którzy chcą udawać intelektualistów – i tych, którzy naprawdę kochają sztukę współczesną (a może po prostu lubią windy panoramiczne).
+    Wanda Metropolitano – stadion, który jest tak nowoczesny, że nie tylko piłkarze, ale nawet kibice czują się tutaj jak na futurystycznym statku kosmicznym. Jeśli Santiago Bernabéu to starożytna świątynia piłki nożnej, to Wanda Metropolitano to jej nowoczesny, pełen technologii brat, który lubi głośno mówić: „Zobacz, co potrafię!”. Ale nie martw się – nawet jeśli nie znasz się na piłce nożnej, poczujesz się tutaj jak VIP, bo stadion ma to „coś”.
+  </p>
+  <p>
+    Jako główny obiekt Atlético Madryt, Wanda Metropolitano to miejsce, gdzie każdy mecz to prawdziwa impreza. Tu nie chodzi tylko o grę – tu chodzi o emocje, atmosferę i fanów, którzy są bardziej zaangażowani niż Twoi znajomi w typowaniu wyników na Facebooku. Więc jeśli nie jesteś kibicem Atletico, to po tej wizycie możesz już zacząć.
+  </p>
+  <p>
+    Stadion jest nowoczesny, piękny, z przestronnymi trybunami i świetnym widokiem z każdego miejsca. Dodatkowo, masz okazję zwiedzić muzeum, które opowiada historię klubu, pełne trofeów, zdjęć i pamiątek z największych piłkarskich chwil. Możesz zobaczyć, co oznacza prawdziwa pasja do futbolu – a jeśli to Cię nie przekona, to na pewno przekona Cię nowoczesna architektura i rozmach tego miejsca.
+  </p>
+  <p>
+    Wanda Metropolitano to nie tylko mecz – to doświadczenie. Stadion organizuje liczne wydarzenia, koncerty, a nawet... wystawy piłkarskie. Możesz także skorzystać z wycieczek po stadionie, które zabiorą cię wszędzie – od szatni piłkarzy, przez salę konferencyjną, po miejsce, w którym możesz poczuć się jak prawdziwy mistrz na środku boiska.
+  </p>
+  <p>
+    Jeśli akurat jesteś w Madrycie, nie zapomnij o wizycie na Wanda Metropolitano – bo kto wie, może przekonasz się, że piłka nożna to coś więcej niż tylko „kopać piłkę”.
   </p>
 </details>
-
-  <details>
-    <summary><strong>🧠 Bonus: Museo de las Ilusiones</strong></summary>
-    <p>
-      Idealne miejsce, jeśli chcesz się poczuć jak w krzywym zwierciadle – dosłownie. Selfie z lewitującą głową? Iluzje optyczne? A potem tłumaczenie babci, że to nie Photoshop. Śmiech gwarantowany.
-    </p>
-  </details>
+ 
 <details>
   <summary><strong>🤫 Sekretne miejsca w Madrycie</strong></summary>
   <p>
