@@ -13,7 +13,7 @@ Witaj w przewodniku po Madrycie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>📌 Podstawowe informacje</strong></summary>
 
-  <h3>🏔️ MADRYT</h3>
+  <h3>👑 MADRYT</h3>
   <p>
     Madryt – serce Hiszpanii, które nie śpi, bo zawsze coś się dzieje. Nie ma tu plaży, ale jest coś lepszego: nieprzyzwoicie dobra kuchnia, bary tapas na każdym rogu i słońce, które czasem świeci nawet przez całą zimę. To miasto, które z jednej strony potrafi być królewskie i eleganckie, a z drugiej – pełne luzu, śmiechu i życia na ulicy. 
   </p>
