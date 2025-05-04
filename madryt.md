@@ -51,80 +51,284 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
     Madryt nie rzuca się na Ciebie jak Paryż z wieżą Eiffla czy Rzym z każdym kamieniem krzyczącym „imperium!”. On cię uwodzi powoli – najpierw zaprosi na kawę, potem pokaże jakiś pałac, a na końcu zaprowadzi cię na zachód słońca, po którym już nie będziesz chciał wracać. Co więc warto zobaczyć w tej miejskiej telenoweli?
   </p>
 
-  <details>
-    <summary><strong>🏰 Pałac Królewski (Palacio Real)</strong></summary>
-    <p>
-      Królowie już tu nie mieszkają, ale luksus nadal kapie ze ścian. Złote sufity, żyrandole większe niż niejedna kawalerka i strażnicy wyglądający jakby dopiero co wyszli z pokazów mody. Warto wejść do środka, chociażby po to, żeby poczuć się jak książę... albo jak biedak, ale w stylu barokowym.
-    </p>
-  </details>
+ <details>
+  <summary><strong>🏰 Pałac Królewski (Palacio Real)</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4173° N, 3.7147° W</p>
+  <p>
+    Pałac Królewski w Madrycie to miejsce, które wygląda jakby zostało wyjęte prosto z baśni o królewnach, książętach i smokach (choć smoków tu raczej nie znajdziesz, ale kto wie?). To oficjalna rezydencja hiszpańskiej rodziny królewskiej, chociaż sami monarchowie od dawna już się tu nie zatrzymują. W każdym razie, nie martw się – to nie oznacza, że pałac jest pusty! Wręcz przeciwnie – jest pełen przepychu, złota i takiego przepychu, że aż ciężko uwierzyć, że nie przeżywasz właśnie sceny z filmu o wielkich intrygach dworskich.
+  </p>
+  <p>
+    Wejście do Pałacu to jak krok w czasie, gdy królowa Elżbieta I zarządzała modą, a monarchowie spacerowali w swych bogato zdobionych strojach, otoczeni doradcami i… strażnikami, którzy wyglądają jakby właśnie wyszli z wybiegu mody. Pałac to prawdziwe arcydzieło architektury barokowej. To jeden z największych i najpiękniejszych pałaców w Europie, więc bez wątpienia wywoła u Ciebie ślinotok z zachwytu, a po wyjściu poczujesz się jakbyś przeżył coś wielkiego, chociażbyś tylko spacerował po jego holach i podziwiał wystrój wnętrz. 
+  </p>
+  <p>
+    Mówią, że „mniej znaczy więcej”, ale to na pewno nie jest dewiza Pałacu Królewskiego. Złote sufity, tapety z jedwabiu, żyrandole, które mają więcej kryształów niż cały twój budżet na wakacje, a także mnóstwo pokoi, które nie mogłyby być bardziej wypełnione przepychem. W każdym z tych pomieszczeń czujesz się jakbyś wpadł do czasów, gdzie złoto i jedwab były normą. Przypuszczam, że nie raz pomyślisz, że Twoje mieszkanie mogłoby być równie gustowne, gdyby tylko miało nieco więcej tych wszystkich drogocennych detali. 
+  </p>
+  <p>
+    Chociaż dziś królowie nie siedzą na tronie, nie znaczy to, że Pałac nie jest pełen życia. Tutaj organizowane są oficjalne ceremonie, a także, jeśli masz szczęście, możesz natknąć się na jakiś interesujący event, który pozwoli ci poczuć się jak część hiszpańskiej arystokracji. Niezależnie od tego, czy staniesz na chwilę przed drzwiami Pałacu, czy weźmiesz udział w zwiedzaniu wnętrz – poczujesz się jak w filmie, gdzie twoim zadaniem jest rozwiązanie jakiejś dworskiej tajemnicy, podczas gdy eleganckie kurtyzany plotkują na tyłach. W końcu, wszystko jest możliwe w tym pałacowym świecie. 
+  </p>
+  <p>
+    Pałac to jednak nie tylko wnętrza, ale także ogrody! Po wyjściu z pomieszczeń pełnych złota, warto udać się na spacer po zewnętrznych ogrodach, które w swoim uroku nie ustępują wnętrzom. Piękne alejki, fontanny, zieleń – wszystko sprawia, że możesz poczuć się jak na królewskim spacerze w towarzystwie… no właśnie, nikogo, bo wciąż możesz czuć się jakbyś był jedynym gościem na tej monarchistycznej ziemi. Idealne na chwile relaksu po zobaczeniu barokowego przepychu w środku.
+  </p>
+  <p>
+    A teraz dla tych, którzy czują, że ich marzenie o byciu księżniczką lub księciem jest wciąż żywe – wejdź na dach Pałacu. Tak, na dachu czeka Cię widok, który rozciąga się na całe miasto. Widok jest tak niesamowity, że poczujesz się jakbyś naprawdę miał jakieś królewskie korzenie, a Madryt – to twoje królestwo. I tu dopiero zaczyna się magia – poczujesz, jak miasto wchodzi ci w serce, a ty zrozumiesz, dlaczego tak wiele osób zakochało się w tym pałacu.
+  </p>
+  <p>
+    Warto dodać, że Pałac Królewski jest jednym z najbardziej rozpoznawalnych symboli Madrytu, więc nawet jeśli nie planujesz zwiedzać wnętrz, na pewno zrobisz sobie zdjęcie przed tym monumentalnym budynkiem. A jeśli ktoś zada Ci pytanie „Gdzie jesteś?”, odpowiedz z dumą: „Jestem w sercu Madrytu, królewskim sercu”. I niech wszyscy ci zazdroszczą!
+  </p>
+  <p>
+    Pałac Królewski w Madrycie to po prostu atrakcja, której nie można pominąć. Czy to dla wykwintnego wystroju, czy dla poczucia, że przynajmniej przez chwilę jesteś częścią hiszpańskiej monarchii – warto odwiedzić to miejsce. W końcu, kto nie chciałby poczuć się jak książę (albo chociaż jak turysta, który dobrze się bawi)?
+  </p>
+</details>
 
   <details>
-    <summary><strong>🖼️ Muzeum Prado</strong></summary>
-    <p>
-      Jak nie byłeś w Prado, to jakbyś Madrytu nie widział. Tutaj wiszą wszystkie te obrazy, które znasz z podręczników i magnesów. Velázquez, Goya, El Greco – same sławy. Wchodzisz na chwilę, wychodzisz po 3 godzinach, z wypranym mózgiem i planem zostania koneserem sztuki.
-    </p>
-  </details>
+  <summary><strong>🖼️ Muzeum Prado</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4138° N, 3.6921° W</p>
+  <p>
+    Muzeum Prado to jak biblioteka wypełniona obrazami, które mogą cię rozbawić, zadziwić, a czasami sprawić, że zastanowisz się, czy przypadkiem nie straciłeś poczucia rzeczywistości. To jedno z najważniejszych muzeów w Europie i kolejne miejsce, które sprawi, że poczujesz się jak intelektualista, nawet jeśli przed chwilą robiłeś selfie z gołębiem na Plaza Mayor. W końcu sztuka współczesna to jedno, ale stara sztuka, pełna pędzli, farb i bez wątpienia geniuszu – to zupełnie inna bajka.
+  </p>
+  <p>
+    Wchodząc do Prado, przygotuj się na spotkanie z gigantami malarstwa: Velázquez, Goya, El Greco – to nazwiska, które mogą sprawić, że poczujesz się jakbyś przeniósł się do XVII czy XVIII wieku. I wiesz co? To będzie absolutnie magiczne. Obrazy tych mistrzów to prawdziwe dzieła sztuki, które przyprawiają o dreszcze. Czasami masz wrażenie, że portrety stojące w Prado patrzą na ciebie z takim zaciekawieniem, jakbyś miał przed sobą samego siebie, ale w wersji „głównego bohatera dramatu historycznego”.
+  </p>
+  <p>
+    Zaczynasz od Velázqueza – tego samego, który stworzył słynny obraz „Las Meninas”. Nie martw się, nie będziesz musiał rozwiązywać żadnych zagadek dotyczących dworskich intryg (choć to by było ciekawe), ale poczujesz się jak część tej całej atmosfery. A potem trafiasz na Goyę. Goya to ten facet, który pomalował „Czarną Serię”, czyli obrazy, które mogą sprawić, że zaczniesz zastanawiać się nad sensem życia. Ale spokojnie, to tylko malarstwo. Nikt cię nie zmusi do rozmyślania o złamanych sercach i nieudanych romansach w XVIII wieku. 
+  </p>
+  <p>
+    Jeśli nie jesteś mistrzem w rozpoznawaniu sztuki, to nie przejmuj się. Muzeum Prado sprawi, że każda wizyta będzie ekscytująca, a obrazy mówią do ciebie w sposób, który ma więcej sensu niż cała twoja kolekcja zdjęć na Instagramie. Co ciekawe, w Prado wciąż odbywają się wystawy czasowe, które pozwalają zobaczyć dzieła różnych artystów, nie tylko tych na stałe związanych z Hiszpanią. Więc jeśli masz dość już patrzenia na tych samych twórców, zawsze znajdziesz coś nowego, co zaspokoi twoje artystyczne głody.
+  </p>
+  <p>
+    Zanim wyjdziesz, koniecznie sprawdź dzieła El Greca, które są w Prado – jeśli jeszcze tego nie zrobiłeś, prawdopodobnie będziesz zaskoczony jego unikalnym stylem, który przypomina coś pomiędzy abstrakcją, a dziełami religijnymi, które mogłyby stać się okładkami płyt metalowych zespołów. 
+  </p>
+  <p>
+    Jeśli po całym zwiedzaniu nadal masz energię (i nie czujesz się jak malarz po 12 godzinach pracy), to wybierz się na chwilę odpoczynku w muzealnej kawiarni. Odpowiednia dla tych, którzy marzą o relaksie po całym dniu podziwiania sztuki. I tak, kawa smakuje lepiej, gdy masz za sobą Goyę i Velázqueza.
+  </p>
+  <p>
+    A na koniec – nie zapomnij o „próbie intelektualistycznej”. Wystarczy popatrzeć na jeden z obrazów, zmrużyć lekko oczy i powiedzieć: „Hmmm, ciekawe, jakie emocje wyraża ta postać?”. Ludzie będą ci zazdrościć, bo wyglądasz wtedy jak ktoś, kto rozumie te wszystkie malarskie tajemnice. A jeśli uda ci się wymyślić coś bardziej wyszukanego, to już w ogóle będziesz na szczycie!
+  </p>
+  <p>
+    Wizyta w Prado to jak podróż w czasie, gdzie każdy obraz to klucz do zrozumienia minionych wieków. Jeśli Madryt to miasto sztuki, to Prado jest jego sercem. Niezależnie od tego, czy jesteś fanem sztuki, czy po prostu chcesz popatrzeć na obrazy, które nie rozprysną się ci na ekranie telefonu – to miejsce jest absolutnie obowiązkowe. 
+  </p>
+</details>
 
   <details>
-    <summary><strong>🌳 Park Retiro</strong></summary>
-    <p>
-      Taki Central Park Madrytu – tylko z mniejszą szansą na spotkanie celebryty i większą na zjedzenie gofra. Można tu pływać łódką, czytać książkę jak artysta albo leżeć na trawie i obserwować gołębie, które mają więcej charyzmy niż niejeden influencer.
-    </p>
-  </details>
+  <summary><strong>🌳 Park Retiro</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4168° N, 3.6840° W</p>
+  <p>
+    Park Retiro to taki Madryt w wersji "slow life". Jeśli miasto jest za głośne, zbyt tłoczne i pełne ludzi, którzy biegają od muzeum do muzeum, to tutaj znajdziesz chwilę oddechu. To nie tylko park – to miejsce, gdzie możesz poczuć się jak prawdziwy madrycki bohater... oczywiście, jeżeli „bohater” oznacza osobę, która relaksuje się przy fontannach, unika zgiełku i tylko od czasu do czasu daje się porwać na przejażdżkę łódką po jeziorze.
+  </p>
+  <p>
+    Park jest rozległy, więc jeśli chcesz poczuć się jak prawdziwy odkrywca, bez obaw – masz gdzie wędrować. Czekają tu alejki, które prowadzą do urokliwych zakątków, a każda z nich to inny świat: raz spotkasz tu joginów robiących "tree pose" (na pewno lepszych od twoich prób w domu), innym razem zobaczysz grupy przyjaciół, którzy postanowili poprzestać na tańczeniu salsy przy muzyce z głośników. Jest też kilka "stref relaksu", czyli takich miejsc, w których wyciągasz koc i zapominasz o całym świecie – a jeśli trafi ci się ładna pogoda, na pewno nie będziesz chciał wyjść.
+  </p>
+  <p>
+    Jezioro w parku to prawdziwa atrakcja – nie dlatego, że ma jakąś specjalną historię (choć kto wie, może ma), ale głównie dlatego, że to miejsce, w którym możesz wypożyczyć łódkę i spędzić kilka chwil na wodzie. Wyobraź sobie – ty, łódka, jezioro, spokój, może kawałek chleba, który wpadnie do wody, a w oddali dzieciaki, które rzucają ci spojrzenia pełne zazdrości. Słoneczne popołudnie w Madrycie w tej scenerii? Marzenie.
+  </p>
+  <p>
+    Ale to nie wszystko! W parku znajdziesz też Pałac Kryształowy (Palacio de Cristal), który wygląda jakby ktoś umieścił go tam przypadkiem, nie wiedząc, co zrobić z resztkami starego szkła i konstrukcji. Tak, wygląd jest imponujący, a wnętrze pełne sztuki współczesnej. Możesz poczuć się, jakbyś przeniósł się do innego wymiaru, w którym wszyscy rozmawiają o sztuce, a ty masz ochotę raczej kupić lody.
+  </p>
+  <p>
+    Warto też zwrócić uwagę na Pałac Velázquez, który jest teraz muzeum, ale kiedyś służył jako miejsce dla królewskich wystaw. Nie musisz być specjalistą od sztuki, żeby docenić architekturę tego miejsca i klimat, który tworzy. A jeśli niczego nie kupisz, przynajmniej możesz zrobić zdjęcie na tle pałacu i poczuć się jak członek rodziny królewskiej... no, prawie.
+  </p>
+  <p>
+    Park Retiro to idealne miejsce na leniwy spacer, ale także doskonała przestrzeń na poranną medytację, jogę (jeśli tego szukasz) lub po prostu przysiąść w cieniu i patrzeć, jak życie płynie wokół ciebie. Tu masz wszystko: jezioro, pałace, fontanny, kwiaty, mnóstwo przestrzeni i odpowiednią ilość spokoju, by naprawdę poczuć, że jesteś w sercu Madrytu, ale z dala od zgiełku. Jeśli Madryt jest za szybki, to Retiro to jego wolniejsza wersja.
+  </p>
+  <p>
+    Więc jeśli masz dość zwiedzania muzeów i chcesz się zrelaksować, albo po prostu cieszyć się widokiem jakiegoś gołębia, który może czuć się bardziej artystyczny od ciebie – Park Retiro jest twoim nowym najlepszym przyjacielem. Jeśli przyjeżdżasz do Madrytu, nie zapomnij się tam zatrzymać. I pamiętaj, że nie ma nic złego w tym, żeby spędzić popołudnie po prostu siedząc na trawie z dobrym książkowym towarzystwem.
+  </p>
+</details>
 
   <details>
-    <summary><strong>🌇 Świątynia Debod</strong></summary>
-    <p>
-      Tak, dobrze widzisz – egipska świątynia w samym sercu Madrytu. Bo czemu nie? Idealne miejsce na zachód słońca i romantyczne selfie z klimatem starożytnych cywilizacji i nowoczesnych filtrów.
-    </p>
-  </details>
+  <summary><strong>🌇 Świątynia Debod</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4255° N, 3.7184° W</p>
+  <p>
+    Tak, dobrze widzisz – Świątynia Debod w Madrycie to nie pomyłka. To egipska świątynia w samym sercu Hiszpanii, więc jeśli kiedykolwiek marzyłeś o tym, żeby poczuć się jak Indiana Jones, nie musisz już latać do Egiptu. Wystarczy, że odwiedzisz to miejsce, które wygląda jakby zostało tu przeniesione z czasów faraonów, prosto do Madrytu – ale bez piasku, za to z palmami i widokiem na miasto.
+  </p>
+  <p>
+    Świątynia została zbudowana ponad 2 000 lat temu nad brzegiem Nilu, a potem, po zamknięciu Aswan, podjęto decyzję o przeniesieniu jej do Madrytu. Dlaczego Madryt? No cóż, to trochę jak prezent od Egiptu dla Hiszpanii – a kto nie lubi prezentów? Przeniesiono ją do Madrytu w latach 60-tych, a teraz jest jedną z największych atrakcji turystycznych, które łączą historię z magią starożytnego Egiptu w sercu współczesnej Hiszpanii.
+  </p>
+  <p>
+    Wokół świątyni rozciąga się mały park, więc idealnie nadaje się na szybki spacer w upalne dni (a Madryt potrafi być upalny). Możesz tu też spotkać turystów robiących zdjęcia na tle piramidy, ale nie tylko – lokalni mieszkańcy również przychodzą tu odpocząć i podziwiać zachody słońca. Tak, zachód słońca przy Świątyni Debod to widok, który zapada w pamięć. Różowe, złote i pomarańczowe barwy nieba odbijają się w wodzie i wiesz, że właśnie znalazłeś najlepsze miejsce w Madrycie do zrobienia pamiątkowego zdjęcia. I kto powiedział, że nie można być w dwóch miejscach jednocześnie – starej, egipskiej świątyni i nowoczesnym Madrycie?
+  </p>
+  <p>
+    Choć w środku świątynia jest dość minimalistyczna, to cała jej otoczka, w tym również wieczorne iluminacje, sprawia, że odwiedzający czują się, jakby przekroczyli granicę między epokami. Możesz poczuć się jak starożytny Egipcjanin na chwilę, gdy spacerujesz po placu wokół świątyni, ale bez konieczności walki z piramidami.
+  </p>
+  <p>
+    I tak, to wciąż nie jest żart – w Madrycie naprawdę możesz zobaczyć starożytną egipską świątynię. Więc jeśli masz dość klasycznych zabytków, jak pałace czy muzea, a chcesz zobaczyć coś naprawdę wyjątkowego, Świątynia Debod będzie dla Ciebie idealnym przystankiem. Zdecydowanie miejsce, które trzeba zobaczyć. A jeśli szukasz pomysłu na idealne selfie... wiesz, gdzie iść.
+  </p>
+</details>
+
+<details>
+  <summary><strong>🛍️ Gran Vía</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4190° N, 3.7074° W</p>
+  <p>
+    Gran Vía w Madrycie to jak główna arteria miasta – nie tylko dla samochodów, ale przede wszystkim dla turystów i tych, którzy chcą poczuć puls stolicy Hiszpanii. Jeśli Madryt miałby swoje serce, to biłoby właśnie tutaj. To jedna z najbardziej rozpoznawalnych ulic w mieście, pełna neonów, sklepów, teatrów i niezliczonych restauracji. Przyjeżdżasz, patrzysz, i zastanawiasz się, czy jesteś w Madrycie, Nowym Jorku, czy na Broadwayu. Przekonasz się, że Gran Vía to prawdziwa mieszanka kultury, mody i nieustającego zgiełku – a każdy jej krok to jak scena w filmie.
+  </p>
+  <p>
+    Jeśli mówimy o Gran Vii, to mówimy o ulicy, która łączy historię z nowoczesnością. Jest to przestrzeń, gdzie obok secesyjnych kamienic stoją nowoczesne wieżowce. Poczujesz się tu jak bohater filmu, który idzie do kina na najnowszy hit, ale zamiast popcornu, ma w ręku torbę z zakupami. W ciągu dnia Gran Vía tętni życiem: ludzie wchodzą do butików, a turyści robią zdjęcia na tle najbardziej ikonicznych budynków. Wieczorem cała ulica zamienia się w neonową krainę, gdzie światła teatrów i sklepów tworzą niesamowitą atmosferę.
+  </p>
+  <p>
+    Gran Vía to też raj dla miłośników zakupów. Znajdziesz tu wszystko – od luksusowych butików po sieciowe sklepy, które pozwalają poczuć się jak na modowej ulicy w Mediolanie. Jeśli nie masz zamiaru wydawać fortuny na markowe ubrania, zawsze możesz poszukać czegoś w bardziej przystępnej cenie. I pamiętaj – Gran Vía to też świetne miejsce na przerwę w kawiarni. Po kilku godzinach spaceru po sklepowych labiryntach, możesz sięgnąć po kawę i odpocząć, obserwując tłumy przechodzące obok. 
+  </p>
+  <p>
+    A jeśli masz ochotę poczuć się jak prawdziwy Madrytczyk, to tu również znajdziesz teatr i kino – czyli rozrywkę w najlepszym stylu. Gran Vía to również centrum życia nocnego Madrytu, z wieloma barami i klubami, które nie pozwolą Ci się nudzić. Jeśli chcesz poczuć prawdziwy klimat miasta, koniecznie wybierz się tutaj na wieczorny spacer, bo magia Gran Vii w blasku neonów robi wrażenie. 
+  </p>
+  <p>
+    Mówią, że Madryt to miasto, które nigdy nie zasypia – a Gran Vía to idealny dowód na to, że to prawda. Miejsce, które łączy sztukę, zakupy, kulturę i zabawę, i które jest w stanie zaspokoić potrzeby każdego turysty. Więc nie zwlekaj – wskocz na Gran Vía i daj się porwać jej atmosferze. I pamiętaj – to dopiero początek madryckiej przygody!
+  </p>
+</details>
 
   <details>
-    <summary><strong>🛍️ Gran Vía</strong></summary>
-    <p>
-      Główna arteria miasta, gdzie można kupić wszystko – od szpilek, przez paellę na wynos, po złote Elvisy (serio). Po zmroku zamienia się w Broadway po hiszpańsku – neony, tłumy i muzyka, która nie pozwala iść spać.
-    </p>
-  </details>
-
-  <details>
-    <summary><strong>⛪ Plaza Mayor</strong></summary>
-    <p>
-      Rynek jak z bajki – otoczony budynkami z balkonami, na których można wypić poranną kawę albo podglądać turystów. W środku możesz zjeść kanapkę z kalmarami. Tak, kanapkę z kalmarami. Hiszpanie wiedzą, co dobre.
-    </p>
-  </details>
+  <summary><strong>⛪ Plaza Mayor</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4154° N, 3.7074° W</p>
+  <p>
+    Plaza Mayor to serce Madrytu, które bije w rytmie hiszpańskiej tradycji, turystyki i kawy z mlekiem. To rynek, który z każdej strony otoczony jest pięknymi budynkami z balkonami, a na środku można poczuć się jak bohater filmu – tylko w tej wersji głównym bohaterem jest kanapka z kalmarami. Tak, dobrze widzisz – jeśli chcesz poczuć się jak prawdziwy Madrytczyk, to wpadnij tu na lunch i zamów tę lokalną specjałość. Wyjątkowy smak i... dziwne spojrzenia przechodniów, którzy się zastanawiają, dlaczego jedzących kalmary nikt nie karmi na plaży.
+  </p>
+  <p>
+    Plaza Mayor to miejsce, które już od stuleci łączy Madrytczyków. Dziś pełne jest turystów, którzy robią zdjęcia, spacerują po arkadach i zastanawiają się, czy to właśnie tu kiedyś odbywały się słynne corridy. Może nie znajdziesz byka, ale za to na pewno zobaczysz artystów ulicznych, którzy dumnie prezentują swoje talenty – od tańców flamenco po śpiewy, które mogą ci przypomnieć, że Hiszpanie potrafią rozgrzać atmosferę lepiej niż sama słońce. 
+  </p>
+  <p>
+    Plaza Mayor to także idealne miejsce na odpoczynek. Siadasz w jednej z kawiarenek, zamawiasz kawę i zaczynasz podziwiać piękno otaczających Cię budynków, które pamiętają czasy Habsburgów. Możesz tu spokojnie zrelaksować się, podziwiając styl architektoniczny z XVI wieku, ale nie zapominaj, że to także miejsce pełne życia. Ludzie przechadzają się, gawędzą, a niektórzy – jak ty – patrzą z zachwytem na to, jak w jednym miejscu zderzają się historia, kultura i codzienność.
+  </p>
+  <p>
+    A kiedy zmęczy Cię już spacer, możesz zatrzymać się przy jednym z kiosków i spróbować słynnych churros z czekoladą. Smak tej przekąski to prawdziwa uczta dla podniebienia, ale musisz się przygotować, bo te słodkości mają w sobie moc uzależniającą. Będziesz chciał więcej, a potem... jeszcze więcej! 
+  </p>
+  <p>
+    Warto też wiedzieć, że Plaza Mayor to doskonałe miejsce na rozpoczęcie swojego zwiedzania Madrytu. To jak centrum turystyczne, z którego wszędzie jest blisko. Możesz stąd udać się na Pałac Królewski, Mercado de San Miguel czy gran Via. A jeśli będziesz miał szczęście, na Plaza Mayor trafisz akurat na jakieś wydarzenie, koncert lub targ, które dodatkowo umili Ci czas. 
+  </p>
+  <p>
+    Więc jeśli chcesz poczuć się jak prawdziwy Madrytczyk (albo przynajmniej zbliżyć się do tego ideału), koniecznie odwiedź Plaza Mayor. I nie zapomnij spróbować kalmarów w bułce – jeśli nie tutaj, to gdzie indziej?
+  </p>
+</details>
 
 <details>
   <summary><strong>🌞 Puerta del Sol</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4168° N, 3.7038° W</p>
   <p>
-    Tu wszystko się zaczyna – dosłownie. Punkt „kilometr zero” wszystkich dróg Hiszpanii znajdziesz tuż pod nogami. Plac żyje dniem i nocą, a tłum ludzi, muzyków i mimów sprawia, że masz ochotę zatańczyć z niedźwiedziem (tak, ten z herbu Madrytu też tu stoi).
+    Puerta del Sol to miejsce, gdzie Madryt zaczyna swoją opowieść. Dosłownie. Z tego punktu rozchodzą się wszystkie główne drogi Hiszpanii, więc jeśli kiedykolwiek zastanawiałeś się, gdzie zacząć zwiedzanie tego miasta, to właśnie tutaj. To jak centralna scena w teatrze Madrytu – pełno ludzi, straganów, artystów ulicznych i turystów, którzy zastanawiają się, w którą stronę pójść, by zobaczyć więcej tej miejskiej telenoweli. Warto tylko pamiętać, że nie ma tu co liczyć na chwilę ciszy. Puerta del Sol to zawsze gwar i zgiełk, który jednak ma swój niepowtarzalny urok.
+  </p>
+  <p>
+    Co tu zobaczymy? Oprócz niezliczonej ilości turystów (spokojnie, będziesz jednym z nich), można natrafić na symbol Madrytu – niedźwiedzia wspinającego się na drzewo. Tak, w tym mieście mają w herbie... niedźwiedzia. I to nie byle jakiego, tylko stojącego dumnie na drzewie, bo czemu nie? Na Placu znajduje się także „Kilometr zero” – punkt, od którego zaczynają się wszystkie drogi w Hiszpanii. To doskonała okazja, żeby zrobić zdjęcie, które pochwalisz się znajomym, mówiąc, że właśnie stoisz w samym sercu kraju.
+  </p>
+  <p>
+    Puerta del Sol to również świetne miejsce na ludziobranie – turyści tu przychodzą, fotografują się, filmują, a Hiszpanie – no cóż – załatwiają codzienne sprawy, niczym się nie przejmując. To klasyczna hiszpańska mieszanka turystycznego szaleństwa i miejskiego życia w jednym. I tak, jak Madryt jest znany z tego, że nie śpi, tak Puerta del Sol to jego serce, które bije bez przerwy. Zatrzymują się tu autobusy, pociągi, turyści, lokalni – wszyscy w tym samym miejscu, w tym samym czasie. 
+  </p>
+  <p>
+    Ale Puerta del Sol to nie tylko punkt startowy do innych atrakcji, ale także idealne miejsce, by poczuć rytm miasta. Co tu robić? Możesz posiedzieć na jednym z ławek (które są wspaniałym przykładem „wygodnych” hiszpańskich standardów siedzenia) i obserwować ludzi. A jeśli znuży cię tłum, zawsze możesz znaleźć chwilę dla siebie w jednej z okolicznych kawiarni, gdzie najczęściej serwują "churros con chocolate". Kto by pomyślał, że na jednym placu można jednocześnie czuć się częścią tłumu i odrobinę jak turysta w poszukiwaniu przygód? 
+  </p>
+  <p>
+    Więc jeśli chcesz poczuć się jak prawdziwy Madrytczyk (lub turysta na wczasach w stolicy Hiszpanii), koniecznie zatrzymaj się na Puerta del Sol. Zrób zdjęcie, obróć się w kółko, poczuj ten niepowtarzalny klimat, a potem ruszaj dalej – w stronę Pałacu Królewskiego, na Gran Vía, a może nawet na zakupy, bo Puerta del Sol to również świetna baza wypadowa do szaleństwa zakupowego.
   </p>
 </details>
 
 <details>
   <summary><strong>🕍 Katedra Almudena</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4169° N, 3.7116° W</p>
   <p>
-    Katedra, która przez lata była "w budowie", ale wyszło z tego arcydzieło. Trochę klasyczna, trochę nowoczesna – jakby architekt nie mógł się zdecydować, czy robi świątynię czy galerię sztuki. Widok z dachu? Warto wejść, nawet jeśli twoje nogi mają już dość.
+    Katedra Almudena to miejsce, które przez lata robiło w Madrycie coś w stylu „przepraszam, jeszcze nie gotowe”, ale teraz? No teraz to już arcydzieło. Zaczęło się skromnie, od prób budowy w 1883 roku, ale jakby architekt stwierdził, że tak łatwo to z niego nie wyjdzie i postanowił, żeby wszystko było doskonałe – trochę klasyki, trochę nowoczesności, no i kilka fajnych detali, żeby nikt się nie nudził. Katedra to połączenie tradycji i współczesności, jakby ktoś chciał połączyć gotyk z odrobiną nowoczesnego minimalizmu. Tylko zamiast skórzanych sof, masz złote ołtarze. 
+  </p>
+  <p>
+    Jeśli szukasz momentu „wow”, to widok z dachu tej katedry będzie odpowiedni. Niezależnie od tego, czy zmęczony turysta, czy ambitny podziwiacz, warto się wdrapać (no, może nie wdrapać, ale wjechać windą), żeby zobaczyć panoramę Madrytu z góry. Tak, ten widok to coś, czego nie zapomnisz – Madryt rozciąga się jak na dłoni, a Ty poczujesz się, jakbyś podbijał świat z wysokości. Nawet jeśli Twoje nogi krzyczą, że mają dość, a cellulit nie chce współpracować w tej walce, ten widok wynagrodzi Ci każdy krok.
+  </p>
+  <p>
+    W środku, to już totalna magia. Ołtarze, mozaiki, rzeźby – tyle dekoracji, że w zasadzie można by tu zrobić osobną wystawę pt. „Jak ozdobić kościół na sto różnych sposobów”. To idealne miejsce, by poczuć się przez chwilę jak król (albo przynajmniej jego doradca), i nie, nie musisz mieć diademu ani korony – wystarczy tylko parę minut podziwiania. 
+  </p>
+  <p>
+    A jeśli jesteś osobą, która lubi zaskakiwać innych ciekawostkami, to pamiętaj – Katedra Almudena to miejsce, gdzie odbył się ślub Jana Pawła II z Królową Hiszpanii, Sofią. Więc nie tylko turystycznie, ale i historycznie – to miejsce, które ma swoją wagę. Warto przystanąć, by poczuć tę historyczną atmosferę, a potem... no cóż, wrócić do tej cudownej codzienności Madrytu i ruszać na dalsze przygody. 
+  </p>
+  <p>
+    P.S. Warto tu wpaść na chwilę spokoju – to miejsce, które spokojnie może być jednym z tych, które przypomną Ci, że Madryt to nie tylko szaleństwo. I choć z zewnątrz może wyglądać jak klasyczny kościół, to w środku kryje się coś, co sprawi, że przez chwilę poczujesz się jak turysta... z duchowym doświadczeniem.
   </p>
 </details>
 
 <details>
   <summary><strong>🧱 Mercado de San Miguel</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4153° N, 3.7094° W</p>
   <p>
-    Raj dla głodnych i ciekawskich. Możesz tu zjeść wszystko od ostryg, przez churros, po mini-hamburgery – i jeszcze wypić kieliszek cava między jednym a drugim. Ceny czasem wyższe niż twoje ambicje, ale klimat – bezcenny.
+    Wchodzisz do Mercado de San Miguel i masz poczucie, że trafiłeś do nieba... ale nie takiego nudnego, białego z chmurkami. Tu jest żywiołowo, kolorowo i pełno smakołyków, które bardziej przypominają dzieło sztuki niż zwykły obiad. Połączenie rynku i gastronomicznej mekki, gdzie każdy kęs jest jak mała uczta z różnymi smakami Hiszpanii. To nie jest zwykły targ, to raczej popis tego, co Hiszpania ma najlepsze do zaoferowania w formie bitej śmietany, tapasów i reszty pyszności.
+  </p>
+  <p>
+    Mercado de San Miguel to raj dla zmysłów – każdy kąt pachnie inaczej, a każdy stragan kusi czymś nowym. Możesz tu spróbować wszystkiego: od świeżych ostryg, przez churros, po mini-hamburgery – każdy kawałek to mała podróż do innego regionu Hiszpanii. Najlepsze w tym miejscu jest to, że nie musisz decydować się na jedno danie – to jak bufet marzeń, tylko że lepszy. W jednym kącie degustujesz szynkę iberyjską, w drugim próbujesz najnowsze trendy w hiszpańskim jedzeniu, a w trzecim... po prostu siedzisz przy barze i pijesz czwórkę wina z lokalnymi winogronami. 
+  </p>
+  <p>
+    W środku panuje atmosfera, która wciąga niczym najlepszy odcinek serialu. Nie zdziw się, jeśli zatrzymasz się tu na chwilę, a po godzinie odkryjesz, że przesiedziałeś cały wieczór. Po zmroku, kiedy tłumy turystów znikają, a przyjeżdżają lokalni mieszkańcy, miejsce nabiera jeszcze większego uroku. W końcu to przecież tu możesz spróbować najlepszej oliwy, zapisać się na kurs gotowania paelli (wiesz, że też na to zasługujesz) i zakochać się w winie, którego nie znajdziesz nigdzie indziej. 
+  </p>
+  <p>
+    Ale pamiętaj – ceny tu czasem mogą być wyższe niż twoje ambicje, zwłaszcza jeśli zamówisz tapas od lokalnych mistrzów sztuki kulinarnej. Ale hej – dla takich chwil warto czasem wydać parę euro więcej. Mercado de San Miguel to nie tylko miejsce, w którym zjesz – to doświadczenie, które na długo zostanie w pamięci. Jeśli szukasz miejsca, które łączy smak, atmosferę i mały kawałek hiszpańskiej duszy, to właśnie tu powinieneś być. 
+  </p>
+  <p>
+    P.S. I nie zapomnij spróbować cava! To jak hiszpański sposób na powiedzenie „ciesz się życiem” w jednej butelce.
   </p>
 </details>
 
 <details>
   <summary><strong>🎭 Teatro Real</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4189° N, 3.7110° W</p>
   <p>
-    Opera w najlepszym wydaniu. Możesz tu zobaczyć Carmen, Don Giovanniego, albo... po prostu sam budynek z zewnątrz, jeśli bilety są za drogie. Ale kto wie – może akurat trafisz na darmową próbę?
+    Teatro Real to jak luksusowy teatr operowy, w którym królowie nie tylko siedzą na balkonach, ale sami wykonują rolę! Wchodzisz do tego miejsca i czujesz się jak część wielkiego dramatu – nie tylko na scenie, ale i wśród publiczności, bo przecież czy jest coś bardziej ekscytującego niż możliwość założenia smokingu i udawania, że masz przepustkę na galę rozdania Oscarów? 
+  </p>
+  <p>
+    W Teatro Real odbywają się spektakle na światowym poziomie – Carmen, Don Giovanni, Tosca... Można by pomyśleć, że opera to tylko dla wyższych sfer, ale nie! Zresztą, jeśli nigdy nie bywasz na operze, to teraz masz idealną okazję, by poczuć się jak bohater opery, samemu wybierając, czy wejdziesz na spektakl z wielkim grzmotem, czy cichutko usiądziesz w najciemniejszym rogu, szukając trochę kultury i może... wyjątkowej atmosfery.
+  </p>
+  <p>
+    Budynek Teatru Real sam w sobie to prawdziwy zabytek. Z zewnątrz jest taki dostojny, że nie wiesz, czy to teatr, czy pałac królewski – elegancja, detale, architektura... To jakby Leonardo da Vinci i David Bowie zaprojektowali wspólnie budynek. I rzeczywiście, wnętrze sprawia, że nie możesz się oprzeć wrażeniu, że oto stajesz w centrum świata sztuki – złote zdobienia, wielkie sale, luksusowe loże… prawdziwy teatr marzeń.
+  </p>
+  <p>
+    Oczywiście, bilet na operę kosztuje więcej niż twój zwykły zestaw do kina, ale patrz na to jak na inwestycję. Bo teatr to nie tylko spektakl – to cała atmosfera, przeżycie, coś, co zapamiętasz na długo. Co więcej, Teatro Real to miejsce, które oferuje coś dla każdego – nie tylko dla tych, którzy potrafią rozpoznać „Tenor, śpiewający w wysokich rejestrach”. Można tu też przyjść na koncerty, festiwale, a nawet próby – co świetnie sprawdza się, jeśli chcesz poczuć się jak VIP bez wydawania fortuny na bilet.
+  </p>
+  <p>
+    P.S. A jeśli nie masz pojęcia, o czym śpiewają w operze, to zrób jak ja – ubierz się elegancko, przytakuj ze zrozumieniem, a potem... po prostu pozwól sobie na rozkoszowanie się magią sztuki. 
+  </p>
+</details>
+
+<details>
+  <summary><strong>🎭 Teatro Real</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4189° N, 3.7110° W</p>
+  <p>
+    Teatro Real to jak luksusowy teatr operowy, w którym królowie nie tylko siedzą na balkonach, ale sami wykonują rolę! Wchodzisz do tego miejsca i czujesz się jak część wielkiego dramatu – nie tylko na scenie, ale i wśród publiczności, bo przecież czy jest coś bardziej ekscytującego niż możliwość założenia smokingu i udawania, że masz przepustkę na galę rozdania Oscarów? 
+  </p>
+  <p>
+    W Teatro Real odbywają się spektakle na światowym poziomie – Carmen, Don Giovanni, Tosca... Można by pomyśleć, że opera to tylko dla wyższych sfer, ale nie! Zresztą, jeśli nigdy nie bywasz na operze, to teraz masz idealną okazję, by poczuć się jak bohater opery, samemu wybierając, czy wejdziesz na spektakl z wielkim grzmotem, czy cichutko usiądziesz w najciemniejszym rogu, szukając trochę kultury i może... wyjątkowej atmosfery.
+  </p>
+  <p>
+    Budynek Teatru Real sam w sobie to prawdziwy zabytek. Z zewnątrz jest taki dostojny, że nie wiesz, czy to teatr, czy pałac królewski – elegancja, detale, architektura... To jakby Leonardo da Vinci i David Bowie zaprojektowali wspólnie budynek. I rzeczywiście, wnętrze sprawia, że nie możesz się oprzeć wrażeniu, że oto stajesz w centrum świata sztuki – złote zdobienia, wielkie sale, luksusowe loże… prawdziwy teatr marzeń.
+  </p>
+  <p>
+    Oczywiście, bilet na operę kosztuje więcej niż twój zwykły zestaw do kina, ale patrz na to jak na inwestycję. Bo teatr to nie tylko spektakl – to cała atmosfera, przeżycie, coś, co zapamiętasz na długo. Co więcej, Teatro Real to miejsce, które oferuje coś dla każdego – nie tylko dla tych, którzy potrafią rozpoznać „Tenor, śpiewający w wysokich rejestrach”. Można tu też przyjść na koncerty, festiwale, a nawet próby – co świetnie sprawdza się, jeśli chcesz poczuć się jak VIP bez wydawania fortuny na bilet.
+  </p>
+  <p>
+    P.S. A jeśli nie masz pojęcia, o czym śpiewają w operze, to zrób jak ja – ubierz się elegancko, przytakuj ze zrozumieniem, a potem... po prostu pozwól sobie na rozkoszowanie się magią sztuki. 
   </p>
 </details>
 
 <details>
   <summary><strong>🧩 Plaza de España</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4179° N, 3.7132° W</p>
   <p>
-    Plac, który przeszedł lifting i teraz lśni nowym blaskiem. Idealne miejsce na spacer, chill i zdjęcie z Don Kichotem, który pewnie też nie ogarnia inflacji, ale wciąż walczy z wiatrakami.
+    Plaza de España to miejsce, które zmieniło się bardziej niż Twoja ulubiona aplikacja po aktualizacji. Po remoncie prezentuje się jak prawdziwa gwiazda Madrytu, ale nie martw się – nie zapomniała swoich korzeni. Choć teraz wygląda bardziej elegancko, nadal czuje się jak stary przyjaciel, który za każdym razem mówi „cześć!” z nowym uśmiechem. 
+  </p>
+  <p>
+    Znajdziesz tu nie tylko wspaniałe widoki, ale i pomnik Don Kichota, który (nadal) walczy z wiatrakami. Może i nie tak jak kiedyś, ale jego walka z tymi nieuchwytnymi wrogami trwa – chyba to zrozumiesz, gdy po raz kolejny napotkasz tłum turystów, próbujących zrobić sobie selfie z jego pomnikiem. A co tam! Sam Don Kichot pewnie by się śmiał. 
+  </p>
+  <p>
+    Plaza de España to jedno z tych miejsc, które jest pełne historii, ale nie traktuje jej zbyt poważnie. Możesz tu usiąść na jednej z ławek, patrząc na Don Kichota, który nieustannie marzy o bohaterskich czynach, ale wcale nie musi walczyć – wystarczy, że jest symbolem tego, co Madryt w sobie kryje: pasji, energii i tej nieodpartej chęci, by dążyć do czegoś, nawet jeśli jest to wiatrak.  
+  </p>
+  <p>
+    Warto tu przyjść, pospacerować, zrobić kilka zdjęć i zrozumieć, że Plaza de España jest niczym Madryt – wciąż pełne niespodzianek, wciąż w ruchu i pełne życia. A na koniec dnia – idealne miejsce na picie kawy i podziwianie miejskiego zgiełku, który zdaje się być częścią tej telenoweli, w której każdy turysta ma swoje miejsce.
+  </p>
+</details>
+
+<details>
+  <summary><strong>⚽ Santiago Bernabéu</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4531° N, 3.6883° W</p>
+  <p>
+    Santiago Bernabéu to stadion, który ma więcej historii niż Twoje konto na Instagramie, a z pewnością więcej emocji niż wszystkie Twoje wieczory z Netflixem. To miejsce, które każdemu piłkarskiemu fanowi daje dreszczyk emocji już przy samym wejściu, a jeśli jesteś kibicem Realu Madryt – to czujesz się tu jak w świątyni. Jeśli zaś nie – nie martw się, stadion ma taką atmosferę, że poczujesz się jak na największym koncercie w twoim życiu, nawet jeśli nie wiesz, co to „ofensywa”.
+  </p>
+  <p>
+    Oczywiście, stadion Santiago Bernabéu to nie tylko dla fanów piłki nożnej. Możesz tu przyjść, nawet jeśli Twoja jedyna styczność z piłką to ta na Instagramie. Wewnątrz znajdziesz muzeum pełne pucharów, trofeów i zdjęć piłkarskich legend – Messi? Ronaldo? Raul? Może tu, może tam. To miejsce pełne wspomnień i emocji, które sprawiają, że zaczynasz marzyć o zdobyciu złotej piłki... a przynajmniej o dobrym selfie na tle stadionu.
+  </p>
+  <p>
+    Warto zajrzeć do muzeum – bo co może być lepszego, niż popatrzeć na trofea, których prawdopodobnie nigdy nie zdobędziesz (ale przynajmniej przez chwilę poczujesz się jak mistrz)? A jeśli masz szczęście i akurat wpadniesz na mecz – przywitaj się z tą niezapomnianą atmosferą i od razu zacznij kibicować, bo w Madrycie to trochę jak bycie częścią wielkiego sportowego show.
+  </p>
+  <p>
+    Dla tych, którzy nie mają biletów na mecz, stadion oferuje wycieczki, gdzie możesz zajrzeć do szatni, przejść przez tunel, którym piłkarze wchodzą na boisko, a także usiąść na trybunach i poczuć się jak prawdziwy kibic. Bo Santiago Bernabéu to miejsce, które wciąga bez względu na to, czy interesujesz się piłką nożną, czy po prostu chcesz poczuć ducha Madrytu na własnej skórze.
   </p>
 </details>
 
