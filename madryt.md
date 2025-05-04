@@ -1,5 +1,5 @@
 ---
-layout: layoutsprzewodnik
+layout: layouthiszpania
 title: Madryt
 permalink: /madryt.html
 ---
