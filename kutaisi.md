@@ -513,6 +513,7 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 </details>
+</details>
       
 ---
 
