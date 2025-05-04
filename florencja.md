@@ -1,5 +1,5 @@
 ---
-layout: layoutsprzewodnik
+layout: layoutwlochy
 title: Florencja
 permalink: /florencja.html
 ---
