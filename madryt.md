@@ -6,40 +6,42 @@ permalink: /madryt.html
 
 # Madryt 🇪🇸 
 
-Witaj w przewodniku po Madrycue! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Madrycie! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 ---
-
 <details>
-      <summary><strong>📌 Podstawowe informacje</strong></summary>
+  <summary><strong>📌 Podstawowe informacje</strong></summary>
 
-    <h3>🏔️ MADRYT</h3>
-    <p>Barcelona to miasto kontrastów: gotyckie zaułki, futurystyczne cuda Gaudiego i plaże w samym sercu miasta. Tu codzienność pachnie kawą, tapasami i morską bryzą. Idealna dla miłośników architektury, jedzenia i życia w zwolnionym tempie (ale bez przesady).</p>
+  <h3>🏔️ MADRYT</h3>
+  <p>
+    Madryt – serce Hiszpanii, które nie śpi, bo zawsze coś się dzieje. Nie ma tu plaży, ale jest coś lepszego: nieprzyzwoicie dobra kuchnia, bary tapas na każdym rogu i słońce, które czasem świeci nawet przez całą zimę. To miasto, które z jednej strony potrafi być królewskie i eleganckie, a z drugiej – pełne luzu, śmiechu i życia na ulicy. 
+  </p>
+  <p>
+    Stąd rządzi król, tu decydują politycy, ale też tu bawi się młodzież, tu gra Real Madryt (albo Atlético, jeśli lubisz być pod prąd), tu chodzisz po muzeach, jakbyś zbierał punkty do paszportu kultury, a wieczorem... fiesta, wiadomo.
+  </p>
+  <p>
+    Madryt to też miasto spacerów – chodniki szerokie jak hiszpańska gościnność, parki tak zielone, że można zapomnieć, że jest się w stolicy, a zachody słońca na dachu Círculo de Bellas Artes potrafią wzruszyć nawet najbardziej niewzruszonego podróżnika.
+  </p>
 
-    <h3>✈️ Jak się dostać?</h3>
-    <p>Jeśli wybierasz się do Barcelony z Polski, najlepszą opcją jest lot samolotem. W zależności od miejsca, z którego startujesz, masz kilka opcji. Główne lotniska w Polsce, które oferują bezpośrednie połączenia do Barcelony to:</p>
-    <ul>
-      <li><strong>Warszawa:</strong> Lotnisko Chopina (WAW) - Z Warszawy regularnie latają tanie linie Ryanair oraz Wizz Air. Czas lotu to około 3 godziny.</li>
-      <li><strong>Kraków:</strong> Lotnisko Balice (KRK) - Tanie linie takie jak Ryanair czy Wizz Air oferują loty do Barcelony kilka razy w tygodniu.</li>
-      <li><strong>Gdańsk:</strong> Lotnisko im. Lecha Wałęsy (GDN) - Ryanair ma tu regularne połączenia do Barcelony, co sprawia, że Gdańsk staje się coraz popularniejszym punktem wyjazdowym.</li>
-      <li><strong>Wrocław:</strong> Lotnisko Strachowice (WRO) - Tutaj Ryanair i Wizz Air oferują tanie bilety na trasie Wrocław-Barcelona.</li>
-    </ul>
-    <p>Większość połączeń z Polski to loty bezpośrednie, więc oszczędzisz czas. Czasami warto sprawdzić również opcje z przesiadkami, szczególnie gdy szukasz tańszych biletów.</p>
+  <h4>✈️ Jak się dostać?</h4>
+  <p>
+    Lotnisko Adolfo Suárez Madrid-Barajas to nie tylko długi szyld – to ogromny węzeł komunikacyjny z bezpośrednimi lotami z Polski (WizzAir, Ryanair, LOT – kto co lubi). Leży zaledwie 13 km od centrum, a dojazd jest banalny – metro (linia 8), autobus ekspresowy (24h na dobę!), taxi albo nawet Uber. Można wysiąść i dosłownie za godzinę sączyć sangrię w dzielnicy La Latina.
+  </p>
+<h3>☀️ Styl życia w Madrycie</h3>
+<p>
+Madryt żyje w swoim rytmie – i niekoniecznie pokrywa się on z zegarkiem turysty. Tu życie zaczyna się po 10:00, rozkręca się koło 15:00, a wieczory... no cóż, trwają do rana. Przerwa na sjestę to świętość, kolacja przed 21:00 to herezja, a spotkania towarzyskie w środku tygodnia? Oczywiście – przecież życie towarzyskie to też obowiązek!
+</p>
+<p>
+Mieszkańcy Madrytu wiedzą, jak cieszyć się chwilą. Długie rozmowy przy kawie, tapas z przyjaciółmi, spacery po parkach i plazach, wspólne kibicowanie w barach – wszystko to tworzy klimat, który zaraża luzem i radością życia. Tu nie musisz się spieszyć. Madryt nauczy Cię, że „mañana” to nie lenistwo, tylko filozofia spokoju.
+</p>
+<p>
+A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madrytczycy traktują ją jak święto – to dzień odpoczynku, relaksu i... spacerów! Wiele osób spędza go na przechadzkach po Retiro, głównym parku stolicy, albo bierze udział w tradycyjnych spotkaniach przy „torta de aceite” – słodkich bułeczkach, które najlepiej smakują z kawą. Niedzielne popołudnia to również czas na odwiedzanie lokalnych rynków, takich jak Mercado de San Miguel, gdzie można spróbować hiszpańskich przysmaków i spędzić czas w gronie bliskich.
+</p>
+</details>
 
-    <h3>🛫 Lotniska</h3>
-    <p>Główne lotnisko Barcelony to <strong>Barcelona-El Prat (BCN)</strong>, które znajduje się tylko 12 km od centrum miasta. Z lotniska do miasta możesz dostać się:</p>
-    <ul>
-      <li><strong>Metrem:</strong> Linią L9 (pomarańczowa linia) – podjeżdżasz w 30 minut do centrum.</li>
-      <li><strong>Autobusem:</strong> Aerobus – szybki i wygodny autobus, który łączy lotnisko z Placa Catalunya w około 35 minut.</li>
-      <li><strong>Taksówką:</strong> Podróż taksówką kosztuje około 30-35 euro, a dojazd do centrum trwa około 20 minut, w zależności od ruchu.</li>
-    </ul>
-    <p>Warto dodać, że czasami tanie linie lotnicze latają na <strong>lotnisko Girona (GRO)</strong> lub <strong>Reus (REU)</strong>, które są oddalone od Barcelony o około 100 km. Z tych lotnisk kursują autobusy do Barcelony, ale podróż trwa około 1,5 godziny.</p>
-
-    <h3>🏖️ Życie w Barcelonie</h3>
-    <p>Dzień zaczyna się późno, a kończy jeszcze później. Obiad po 14:00, kolacja po 21:00 — i nikt się tym nie przejmuje. Latem ciepło jak w piekarniku, zimą chłodno, ale bez dramatów. Ludzie są przyjaźni, a kieszonkowcy szybsi niż Twoja reakcja na "okazję".</p>
-
-  </details>
+   
+  
 
 ---
 
