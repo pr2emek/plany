@@ -436,24 +436,82 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>🚶‍♂️ Lokalizacja:</strong> Ten mural jest w pobliżu głównych ulic handlowych, więc po obejrzeniu go możesz udać się na zakupy albo po prostu kontemplować w nieskończoność, jak te kolory zmieniają twój nastrój.</p>
 </details>
 
-  <h4>🌉 Tajemniczy Most Kolejowy (42.2709, 42.7120)</h4>
+<details>
+  <summary><strong>🚂 Tajemniczy Most Kolejowy – Kiedy tory spotykają się z magią</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2678° N, 42.6907° E</p>
+
   <p>
-    Żelazna konstrukcja rodem z filmów o detektywach i czasach, gdy bilety kolejowe kosztowały tyle co paczka gumy. Stary most wciąż tętni życiem, choć wygląda jakby pamiętał czasy parowozów. Idealny na fotkę z duszą i na chwilę samotnej kontemplacji nad rzeką Rioni.
+    Tajemniczy Most Kolejowy w Kutaisi to jedno z tych miejsc, które po prostu musisz zobaczyć, nawet jeśli nie jesteś fanem pociągów (choć jeśli jesteś, to tym bardziej!). Most, który na pierwszy rzut oka może wydawać się tylko zwykłą konstrukcją, skrywa w sobie coś niezwykłego. Jeśli przejdziesz przez niego, poczujesz, jakbyś przeniósł się w czasie – nie tylko w sensie fizycznym, ale i emocjonalnym. Ktoś powiedziałby, że ten most ma „duszę” – coś, co czuje każdy podróżnik, gdy tylko zatrzyma się na chwilę i spojrzy na otaczający go krajobraz.
   </p>
 
-  <h4>🏚️ Opuszczona stacja kolejowa (42.2715, 42.7143)</h4>
   <p>
-    Trochę straszna, bardzo fotogeniczna. Bluszcz, zardzewiałe znaki i echo dawnych odjazdów. Miejsce dla miłośników urban exploration – albo tych, którzy chcą wrzucić coś na Instagram i napisać „zaginione w czasie”.
+    Historia tego mostu jest równie fascynująca, co jego wygląd. Zbudowany w XIX wieku, przez lata stał się częścią lokalnego folkloru. Istnieją legendy, które mówią, że most był świadkiem niejednej tajnej podróży, a także miał swoje chwile chwały podczas wielkich zmagań wojennych. Kiedy przechodzi się obok, łatwo wyobrazić sobie pociągi sprzed lat, które przetaczały się przez ten most z hukiem, niosąc ze sobą historie, które dziś już zatarły się w mroku czasu.
   </p>
 
-  <h4>☕ Sekretne kawiarnie w podwórkach (ulica Tsereteli i okolice)</h4>
   <p>
-    Przejdź przez bramę, skręć w podwórko, a tam... sznurki z praniem, koci obserwator na dachu i kawiarnia jak z bajki. Bez szyldu, za to z lemoniadą w słoiku i muzyką na winylach. Idealne miejsce na reset i najlepszą kawę w mieście.
+    Dzisiaj most stanowi miejsce spotkań dla turystów, którzy lubią odkrywać „nieoczywiste” atrakcje. Zdecydowanie warto zatrzymać się na chwilę, zejść na torowisko i poczuć tę specyficzną atmosferę. Często można tam spotkać lokalnych artystów, którzy dodają temu miejscu jeszcze więcej uroku, tworząc wspaniałe graffiti, które zdobią most. Słowem, Tajemniczy Most Kolejowy to jedno z tych miejsc, które jest pełne tajemnic – po prostu trzeba je odkryć na własną rękę.
   </p>
 
-  <p><strong>Rada tajnego odkrywcy:</strong> Idź bez mapy. Sekretne miejsca mają to do siebie, że lubią się znaleźć same – wtedy smakują najlepiej.</p>
-
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Most znajduje się w pobliżu rzeki Rioni, więc idealnym pomysłem jest spacer wzdłuż niej, by w końcu natrafić na ten niezwykły most. Znajdziesz go nieopodal jednej z lokalnych dzielnic Kutaisi, a śledzenie torów na pewno będzie fascynującą przygodą!</p>
 </details>
+
+<details>
+  <summary><strong>🚉 Opuszczona Stacja Kolejowa – Miejsce, gdzie czas się zatrzymał</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2531° N, 42.7117° E</p>
+
+  <p>
+    Jeśli kiedykolwiek marzyłeś o znalezieniu się w jednym z tych miejsc, które wyglądają, jakby zostały wyrwane prosto z filmu o post-apokalipsie, Opuszczona Stacja Kolejowa w Kutaisi jest dla Ciebie! To miejsce ma w sobie coś wyjątkowego – poczucie, jakby zatrzymał się tutaj czas. Stacja, niegdyś pełna zgiełku podróżnych, teraz czeka na swoje drugie życie. Cichy szum wiatrów przez zapomniane perony i niskie światło, które przenika przez zrujnowane okna budynku, nadają temu miejscu niemal magiczny charakter.
+  </p>
+
+  <p>
+    Kiedyś była to tętniąca życiem stacja, gdzie każdego dnia przejeżdżały pociągi pełne ludzi. Dziś pozostaje tylko wspomnieniem. Oczywiście, nie znajdziesz tu żadnych pasażerów czekających na swój pociąg (no, może oprócz kilku turystów i przypadkowych artystów), ale to właśnie sprawia, że miejsce jest tak fascynujące. Budynek z zewnątrz wygląda jak z obrazów malowanych przez nostalgicznych marzycieli, a z jego wnętrza wydobywa się echo przeszłości, które tylko czeka, by opowiedzieć swoją historię.
+  </p>
+
+  <p>
+    Jeżeli szukasz miejsca do zrobienia zdjęć, które wzbudzą zachwyt, to zdecydowanie powinieneś odwiedzić tę opuszczoną stację. Zrujnowane, pokryte graffiti ściany, porośnięte przez roślinność perony i puste tory mają w sobie urok, który przypomina o minionych czasach, kiedy ta stacja była jednym z najważniejszych punktów transportowych w regionie.
+  </p>
+
+  <p>
+    Poza tym, jeśli masz trochę wyobraźni, możesz poczuć się jak bohater jakiegoś filmu o podróżnikach w czasie – przecież nigdy nie wiadomo, co kryje się za zakurzoną tablicą z nazwą stacji, prawda? Możliwości są nieograniczone!
+  </p>
+
+  <p><strong>🚶‍♂️ Lokalizacja:</strong> Stacja znajduje się w pobliżu jednej z głównych dróg w Kutaisi, więc łatwo do niej dotrzeć pieszo lub lokalnym transportem. Choć budynek nie jest czynny, to wciąż stanowi ciekawą atrakcję turystyczną dla poszukiwaczy nietypowych miejsc.</p>
+</details>
+
+<details>
+  <summary><strong>☕ Sekretne Kawiarnie w Podwórkach – Smak ukryty w sercu miasta</strong></summary>
+
+  <p><strong>Współrzędne:</strong> 42.2671° N, 42.7030° E</p>
+
+  <p>
+    Kutaisi, jak na miasto pełne kontrastów przystało, ma coś, czego nie znajdziesz w żadnym przewodniku turystycznym – kawiarnie schowane w najciemniejszych zakamarkach, pośród podwórek i ukrytych zaułków. Znajdziesz je na ulicy Tsereteli oraz w jej najbliższej okolicy – zupełnie niewidoczne z głównych szlaków turystycznych, ale warte każdej wędrówki, jaką trzeba odbyć, by je odkryć.
+  </p>
+
+  <p>
+    W tej części Kutaisi kawa smakuje inaczej. Tutaj nie znajdziesz ogromnych, nowoczesnych sieci, ale prawdziwą, lokalną atmosferę – miejsce, gdzie czas zwalnia, a rozmowy przy filiżance espresso są pełne pasji i entuzjazmu. Większość z tych kawiarni znajduje się w urokliwych, nieco zapomnianych podwórkach, które aż proszą się o odkrycie. Wchodzisz przez wąskie drzwi, a za nimi… magiczny świat w klimatycznym wnętrzu.
+  </p>
+
+  <p>
+    Niektóre z tych kawiarni wyglądają jak tajemne ogrody, inne przypominają klimatyczne mieszkania zamienione w przytulne kawiarnie, a jeszcze inne to małe, rustykalne knajpki, które oferują tradycyjne gruzińskie napoje, takie jak „tarkhuna” (zielona herbata) czy domowy „chacha”. Wszystkie mają jeden wspólny element – nastrojowy klimat, który wciąga na długie godziny. 
+  </p>
+
+  <p>
+    Chciałbyś napić się kawy w miejscu, które przypomina filmową scenę z lat 60. lub 70., z drewnianymi stolikami, lamparcikami na stole i porozrzucanymi książkami? Takie kawiarnie znajdziesz właśnie tutaj. Możesz cieszyć się filiżanką gruzińskiej kawy, a do tego – być świadkiem rozmów mieszkańców, którzy zatrzymali się na chwilę, by złapać oddech w tej skrytej enklawie.
+  </p>
+
+  <p>
+    Najciekawsze w tych kawiarniach jest to, że każda ma swój własny charakter – jedna to lokalne centrum kultury, druga to oaza dla artystów i pisarzy, a jeszcze inna to idealne miejsce na wczesne poranki w towarzystwie książki i filiżanki świeżo zaparzonej kawy. Warto się zgubić w tych zaułkach i poczuć się jak lokalny, odkrywca tajemniczego Kutaisi.
+  </p>
+
+  <p>
+    Jeśli kiedykolwiek będziesz w okolicy, polecam zagubić się w tej części miasta i dać się ponieść tajemnicy ukrytych kawiarni. Gwarantuję, że po kilku filiżankach kawy znajdziesz się w miejscu, gdzie czas płynie wolniej, a magiczny nastrój podwórkowych kafejek wciągnie Cię na długie godziny.
+  </p>
+
+  <p><strong>🎟️ Wstęp:</strong> Wstęp wolny, ale warto zabrać ze sobą gotówkę na kawę (i ciastko, bo naprawdę warto!).</p>
+</details>
+
 </details>
       
 ---
