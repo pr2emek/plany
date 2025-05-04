@@ -1,5 +1,5 @@
 ---
-layout: layoutsprzewodnik
+layout: layoutwlochy
 title: Bergamo
 permalink: /bergamo.html
 ---
