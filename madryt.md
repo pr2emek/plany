@@ -397,109 +397,176 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
-  <details>
-  <summary><strong>📅 Plan zwiedzania Barcelony – 1 dzień</strong></summary>
+<details>
+  <summary><strong>🗓️ Dzień 1: Serce Madrytu, królewski przepych i egipski zachód słońca</strong></summary>
 
-  <<p><strong>Styl:</strong> Spacerowy z opcją „ochów” przy każdej mozaice. Idealny na pierwszy kontakt z miastem i poczucie jego klimatu.</p>
+  <p>
+    Madryt nie atakuje atrakcji na hurra – on Cię wciąga jak dobra telenowela. Zaczynamy od samego serducha miasta, potem zaglądamy do królewskich komnat, robimy przystanek na coś pysznego, a kończymy w miejscu, gdzie słońce żegna się w stylu faraonów. Brzmi intensywnie? Tak ma być.
+  </p>
 
-  <h3>Sagrada Família</h3>
-  <p>Zaczynamy mocno – arcydzieło Gaudíego. Kup bilet wcześniej, bo kolejki są epickie. W środku wygląda jak kosmiczna katedra, a witraże robią robotę lepszą niż filtry na Instagramie.</p>
+  <h4>🌞 Puerta del Sol</h4>
+  <p>
+    Witamy w centrum wszystkiego. Puerta del Sol to taki madrycki Times Square – tylko bardziej hiszpański i z mniejszą szansą na reklamę zegarków. Tutaj znajdziesz <strong>punkt „kilometr zero”</strong> – czyli start wszystkich hiszpańskich dróg. Można się tu zgubić, zakochać i znaleźć w tym samym czasie. 
+    Przed Tobą słynny <strong>niedźwiedź wspinający się na drzewo poziomkowe</strong> (czyli symbol miasta – serio, Madryt ma słabość do dziwnych zwierząt), a wokół kręcą się turyści, grajkowie, mimowie i – oczywiście – sprzedawcy dziwnych okularów. Klimat? Jakby każda minuta była początkiem święta.
+  </p>
 
-  <h3>Spacer po Avinguda Gaudí</h3>
-  <p>Miły deptak z widokiem na bazylikę, prowadzący w stronę modernistycznego <strong>Szpitala Sant Pau</strong>. Tak, nawet szpital tu wygląda jak muzeum.</p>
+  <h4>⛪ Plaza Mayor</h4>
+  <p>
+    Kilka kroków dalej trafiasz na <strong>Plaza Mayor</strong> – plac jak z obrazka. Otoczony eleganckimi budynkami, idealnie symetryczny, z posągiem króla, który wygląda, jakby i on też szukał najbliższej kawiarni. W dzień to raj dla turystów i artystów ulicznych, wieczorem zmienia się w arenę tapasowych podbojów. 
+    <strong>Tip: zamów „bocadillo de calamares”</strong> – kanapkę z kalmarami. Brzmi dziwnie? Może. Ale Madryt się nie pyta – Madryt częstuje.
+  </p>
 
-  <h3>Passeig de Gràcia: Casa Batlló i Casa Milà (La Pedrera)</h3>
-  <p>Przenieś się do świata falujących balkonów i kolorowych mozaik. Warto zajrzeć chociaż do jednej z tych kamienic (Batlló bardziej bajkowa, Milà bardziej surowa).</p>
+  <h4>🧱 Mercado de San Miguel</h4>
+  <p>
+    Czas coś przegryźć – i robimy to z przytupem. Wchodzisz do <strong>Mercado de San Miguel</strong> i wiesz, że Twoja dieta właśnie dostała SMS-a z tekstem „nie dzisiaj”. 
+    Tapasy, owoce morza, mini-deserki, wina z każdej części Hiszpanii. Tu jedzenie jest sztuką, a degustacja to obowiązek turysty. Można zacząć od ostrygi, potem przegryźć jamón ibérico, a na deser – kieliszek cava i churros. 
+    Uwaga: portfel może zapłakać, ale serce i żołądek będą śpiewać flamenco.
+  </p>
 
-  <h3>Obiad w okolicach Plaça de Catalunya</h3>
-  <p>Tapasy? Paella? A może bocadillo z jamón ibérico? Wybierz coś lokalnego – siesta Ci się należy.</p>
+  <h4>🏰 Pałac Królewski (Palacio Real)</h4>
+  <p>
+    Królowie tu już nie śpią, ale pałac wciąż wygląda, jakby lada moment miał wjechać orszak z XVIII wieku. <strong>Palacio Real</strong> to największy pałac królewski w Europie Zachodniej – i serio, czuć to każdym metrem marmuru.
+    Z zewnątrz monumentalny, w środku – pełen złota, jedwabiu i żyrandoli, które same mogłyby mieć swoje konto na Instagramie. 
+    Wchodzisz i czujesz, że Twoje codzienne życie (z mikrofalą i IKEA) to zupełnie inna liga. A jednak... podoba Ci się tu. Nawet bardzo.
+  </p>
 
-  <h3>La Rambla i Mercat de la Boqueria</h3>
-  <p>Spacer wśród tłumów, kwiatów, mimów i okazjonalnych kieszonkowców (pilnuj torebki!). Wpadnij do kolorowego targu Boqueria na sok z mango lub coś bardziej „zapachowego”.</p>
+  <h4>⛪ Katedra Almudena</h4>
+  <p>
+    Po drugiej stronie ulicy stoi <strong>Katedra Almudena</strong> – i nie da się jej nie zauważyć. Wielka, różnorodna, trochę jakby ktoś przez pomyłkę połączył gotyk z modernizmem. Ale to właśnie czyni ją wyjątkową.
+    W środku witraże robią klimat, a z dachu roztacza się <strong>fantastyczny widok na miasto i pałac</strong>. Warto się wspiąć – to taki prezent za wytrwałość. A poza tym: lepsze selfie niż z tarasu galerii handlowej.
+  </p>
 
-  <h3>Dzielnica Gotycka (Barri Gòtic)</h3>
-  <p>Zgub się celowo w labiryncie średniowiecznych uliczek. Odwiedź <strong>Katedrę św. Eulalii</strong>, zajrzyj na <strong>Placa del Rei</strong> i poszukaj magicznego kamienia.</p>
+  <h4>🌇 Świątynia Debod</h4>
+  <p>
+    I nagle... Egipt. W środku Madrytu. <strong>Świątynia Debod</strong> to prezent od Egipcjan, żeby podziękować Hiszpanom za pomoc w ratowaniu zabytków. 
+    Efekt? Egipska świątynia z widokiem na park i zachodzące słońce. Romantyzm w czystej postaci – pary siedzą na murkach, dzieci biegają w tle, a słońce chowa się za horyzontem jak aktor po owacjach na stojąco. 
+    Można tu siedzieć godzinami. Albo przynajmniej do momentu, aż skończy się bateria w telefonie.
+  </p>
 
-  <h3> Chill przy Plaça Reial</h3>
-  <p>Palmy, arkady, muzyka uliczna – idealne miejsce na kawę lub sangrię. Usiądź, patrz na ludzi i udawaj, że tu mieszkasz.</p>
+  <h4>🍷 Wieczór – tapas i zachwyty</h4>
+  <p>
+    Po takim dniu należy Ci się coś pysznego i coś w kieliszku. Polecam tapas tour po okolicy La Latina – bar do baru, tapa do tapy, aż trafisz na swój ulubiony smak Madrytu. A jeśli nie tapas, to przynajmniej kieliszek tinto de verano z widokiem na miasto, które Cię właśnie rozkochało.
+  </p>
 
-  <h3>Kolacja / zachód słońca przy plaży Barceloneta</h3>
-  <p>Zakończ dzień spacerem nad morzem. Usiądź przy jednej z nadmorskich knajpek, zamów tapas, a potem idź na plażę zobaczyć zachód słońca. Idealne zakończenie pierwszego dnia!</p>
-
-  <p><strong>Bonus:</strong> Jeśli masz jeszcze siłę – zajrzyj do jednego z barów z muzyką flamenco albo przejdź się jeszcze raz nocą pod Sagradę – robi magiczne wrażenie.</p>
+  <p><strong>Tip z serca:</strong> Ten dzień to jak wstęp do znajomości z Madrytem – trochę klasyki, trochę jedzenia i trochę zachwytu. Nie biegnij – daj się prowadzić. Madryt wie, co robi.</p>
 </details>
 
 <details>
-<summary><strong>📅 Plan zwiedzania Barcelony – 2 dzień</strong></summary>
+  <summary><strong>🗓️ Dzień 2: Sztuka, zieleń i ulica, która nie zasypia</strong></summary>
 
-  <p><strong>Styl:</strong> Relaks, kolory, kawiarnie i spacer wśród palm. Bez gonitwy – tylko dobre widoki i dobry nastrój.</p>
+  <p>
+    Drugi dzień w Madrycie? Czas na kombinację: wielka sztuka, wielka zieleń i wielka ulica. Czyli idealny miks na dzień pełen „wow”, „mmm” i „ale fajnie tu”. Wszystko w zasięgu nóg i z przerwami na coś słodkiego.
+  </p>
 
-  <h3>🌳 Park Güell</h3>
-  <p>Rozpocznij dzień od magicznego świata Gaudíego. Kolorowa salamandra, zakręcona ławka i bajkowe kolumny – to jak z wizji sennej architekta z fantazją. Kup bilet online, żeby uniknąć kolejek. Po zwiedzaniu – czas na kawę lub sok z pomarańczy przy wejściu.</p>
+  <h4>🖼️ Muzeum Prado</h4>
+  <p>
+    Zaczynamy mocno – <strong>Muzeum Prado</strong>. Świątynia sztuki, gdzie Goya, Velázquez i spółka wiszą na ścianach i rzucają Ci wyzwanie: „rozumiesz mnie?”. Może nie zawsze, ale to nie przeszkadza się zachwycać. Must-see i must-slow-walk.
+  </p>
 
-  <h3>🌿 Spacer po dzielnicy Gràcia</h3>
-  <p>Po wyjściu z parku powędruj w dół do dzielnicy Gràcia. To małe miasteczko w mieście – pełne placyków, lokalnych barów i uliczek z muralami. Przysiądź na <strong>Plaça del Sol</strong> albo <strong>Plaça de la Vila de Gràcia</strong> i poobserwuj lokalne życie – tu dzieci bawią się na skwerach, a starsi panowie grają w domino.</p>
+  <h4>🖌️ Muzeum Thyssen-Bornemisza</h4>
+  <p>
+    Dosłownie rzut beretem od Prado (i tak, ktoś kiedyś rzucał), znajduje się <strong>Thyssen</strong> – idealna kontynuacja artystycznej podróży. Tu masz przekrój przez całą historię sztuki: od średniowiecza po pop-art. A sala z pejzażami Holendrów? Ukojenie duszy.
+  </p>
 
-  <h3>🍴 Lunch w Gràcia</h3>
-  <p>Wybierz jedną z tutejszych knajpek – są mniej turystyczne, bardziej domowe. Tapasy z patatas bravas, croquetas i tortilla española smakują tu jakoś lepiej. Możesz też spróbować kuchni wegańskiej, która ma tu silną reprezentację.</p>
+  <h4>🎨 Centrum Sztuki Reina Sofía</h4>
+  <p>
+    Trzeci punkt „Złotego Trójkąta Sztuki”. <strong>Reina Sofía</strong> to dom nowoczesności – Picassa, Dalí i ludzi, którzy mieli wizje niekoniecznie po herbacie. „Guernica” robi wrażenie większe niż ekran IMAX. I nie zapomnij o windzie panoramicznej!
+  </p>
 
-  <h3>🏛️ Casa Vicens</h3>
-  <p>Jeśli masz jeszcze ochotę na Gaudíego, zajrzyj do <strong>Casa Vicens</strong> – mniej znany, ale niesamowity dom w stylu orientalnym i modernistycznym. To jeden z jego pierwszych projektów i prawdziwy rarytas dla fanów architektury.</p>
+  <h4>🌳 Park Retiro</h4>
+  <p>
+    Po uczcie dla ducha, pora na ucztę dla płuc. <strong>Park Retiro</strong> – zielony raj, w którym życie płynie wolniej, a ludzie są piękniejsi (to ta hiszpańska aura). Łódki, pawie, kryształowy pałac i gofry, które kalorycznie niweczą cały ten spacer. Ale warto.
+  </p>
 
-  <h3>☕ Kawa i chill przy Passeig de Sant Joan</h3>
-  <p>Na zakończenie dnia polecam spacer w stronę <strong>Passeig de Sant Joan</strong> – mniej zatłoczony niż Passeig de Gràcia, z przytulnymi kawiarniami i lodziarniami. Idealne miejsce na popołudniowy relaks i obserwację miejskiego życia z perspektywy stolika.</p>
+  <h4>🏛️ Puerta de Alcalá</h4>
+  <p>
+    Wychodząc z Retiro, wpadasz na <strong>Puerta de Alcalá</strong> – triumfalną bramę, która mówi „Hola!” bardziej elegancko niż jakikolwiek przewodnik. Można podziwiać, można cyknąć zdjęcie, można zrobić mini-piknik na trawniku obok.
+  </p>
 
-  <p><strong>Opcjonalnie:</strong> Jeśli wieczorem masz jeszcze energię – rzut beretem stąd jest <strong>La Sagrada Família</strong>. Nawet jeśli już ją widziałeś – nocą podświetlona wygląda magicznie i można ją podziwiać z zewnątrz bez tłumów.</p>
+  <h4>🛍️ Gran Vía</h4>
+  <p>
+    Królowa madryckich ulic. <strong>Gran Vía</strong> to Broadway, Soho i 5th Avenue w jednym, tylko z churrosami na każdym rogu. Sklepy, kina, neony, muzyka i ludzie, którzy wyglądają, jakby właśnie wrócili z castingu do Netflixa. Tu się nie chodzi – tu się płynie z tłumem.
+  </p>
+
+  <h4>⛲ Plaza del Callao</h4>
+  <p>
+    Gran Vía prowadzi Cię prosto na <strong>Plaza del Callao</strong> – serce miejskiego zgiełku, gdzie możesz usiąść na schodach i patrzeć, jak życie mknie. Obok świetne księgarnie, lodziarnie i kino z widokiem na miasto z dachu (El Corte Inglés – serio, warto).
+  </p>
+
+  <h4>🍸 Rooftop Bellas Artes</h4>
+  <p>
+    Na wieczór – <strong>Circulo de Bellas Artes</strong>. Rooftop z widokiem na cały Madryt. Wino, zachód słońca, lekki wiatr i poczucie, że jesteś bohaterem jakiegoś hiszpańskiego filmu. I może jesteś.
+  </p>
+
+  <p><strong>Tip z serca:</strong> Ten dzień można spokojnie przejść piechotą – trasa to coś między kulturalnym maratonem a miejskim spa dla zmysłów. Nie spiesz się – Madryt i tak Cię dogoni z tapasami.</p>
 </details>
 
 <details>
-<summary><strong>📅 Plan zwiedzania Barcelony – 3 dzień</strong></summary>
-      
-  <p><strong>Styl:</strong> Widoki, przyroda, trochę historii i leniwe spacery nad morzem. Idealne na trzeciego dnia, kiedy nogi już trochę protestują.</p>
+  <summary><strong>🗓️ Dzień 3: Hipsteriada, stadion i sekrety Madrytu</strong></summary>
 
-  <h3>🚠 Wjazd na wzgórze Montjuïc</h3>
-  <p>Rano wjedź na Montjuïc kolejką linową (teleferic) albo skorzystaj z funicularu. Widoki podczas przejazdu są już same w sobie atrakcją! Montjuïc to zielone wzgórze pełne ogrodów, muzeów i zamków.</p>
+  <p>
+    Trzeci dzień to moment, by zajrzeć za kulisy. Tam, gdzie turyści rzadziej docierają, a lokalsi mają swoje ulubione kawiarnie, murale i stadiony. To Madryt bez filtrów – z nutką espresso, graffiti i stadionową pieśnią w tle.
+  </p>
 
-  <h3>🏰 Zamek Montjuïc</h3>
-  <p>Na szczycie znajdziesz dawną fortecę z widokiem na cały port i miasto. Spaceruj po murach, zrób milion zdjęć i poczuj powiew historii (i wiatru).</p>
+  <h4>☕ Malasaña</h4>
+  <p>
+    Zaczynamy od <strong>Malasañi</strong> – dzielnicy hipsterów, artystów i ludzi z fryzurami, których nie rozumiesz, ale szanujesz. Tu kawa smakuje jak filozofia, a second-handy są tak stylowe, że możesz przez przypadek kupić koszulę swojego przyszłego ex. Idealne miejsce na śniadanie i slow start.
+  </p>
 
-  <h3>🌺 Ogrody Montjuïc</h3>
-  <p>Nie śpiesz się! Zajrzyj do Ogrodu Cactusów (Jardins de Mossèn Costa i Llobera) – setki kaktusów z całego świata, z widokiem na morze. Albo wybierz magiczne Jardins de Laribal, pełne fontann, schodków i cienia.</p>
+  <h4>🎨 Calle del Pez i murale</h4>
+  <p>
+    Spacer ulicą <strong>del Pez</strong> to jak scrollowanie Instagrama w realu. Murale, grafiki, małe galerie i antykwariaty z książkami, które mają więcej historii niż większość seriali. Cicho, kolorowo i inspirująco.
+  </p>
 
-  <h3>🎨 Fundacja Miró lub Narodowe Muzeum Sztuki Katalonii (MNAC)</h3>
-  <p>Jeśli masz ochotę na odrobinę sztuki, zajrzyj do Fundacji Miró (sztuka nowoczesna) albo do ogromnego MNAC – samo wejście do muzeum wygląda jak pałac. Nawet jeśli nie chcesz zwiedzać wystaw, z placu przed MNAC rozciąga się fenomenalny widok na Barcelonę.</p>
+  <h4>🪞 Plac Dos de Mayo</h4>
+  <p>
+    Serce Malasañi – <strong>Plaza Dos de Mayo</strong>. Miejsce, gdzie możesz zjeść tapas, wypić coś zimnego i obserwować lokalne życie: dzieci grające w piłkę, psy większe niż ich właściciele i staruszków grających w domino z miną taktyków wojskowych.
+  </p>
 
-  <h3>⛲ Magiczna Fontanna (Font Màgica)</h3>
-  <p>Jeśli zostaniesz do wieczora, czeka Cię spektakl świateł, muzyki i wody przy Magicznej Fontannie. (Uwaga: pokazy odbywają się tylko w określone dni – warto sprawdzić wcześniej).</p>
+  <h4>🏟️ Santiago Bernabéu</h4>
+  <p>
+    Pora na futbolową pielgrzymkę – <strong>Santiago Bernabéu</strong>. Niezależnie, czy kochasz Real, czy nie wiesz, co to spalony – stadion robi wrażenie. Zwiedzanie muzeum to podróż przez historię piłki, złote buty i setki trofeów. A sklepik? Groźny dla portfela.
+  </p>
 
-  <h3>🌴 Spacer nadmorski przy Barcelonecie</h3>
-  <p>Po południu lub wieczorem przejedź w stronę plaży Barceloneta. Spokojny spacer promenadą, lody albo drink w jednym z nadmorskich barów to idealne zakończenie dnia. Plaża, surfersi i zachód słońca – klasyka Barcelony.</p>
+  <h4>🛹 Madrid Río</h4>
+  <p>
+    Z Bernabéu wskocz w metro i przeskocz do <strong>Madrid Río</strong> – nadbrzeżnego parku, który ciągnie się kilometrami. Miejsce na spacer, rolki, rower albo po prostu leżenie na trawie i udawanie, że jesteś lokalsem, który ma wszystko pod kontrolą.
+  </p>
 
-  <p><strong>Tip:</strong> Jeśli lubisz mniej turystyczne miejsca, idź dalej promenadą w stronę plaż <strong>Nova Icaria</strong> lub <strong>Bogatell</strong> – jest tam mniej tłoczno niż przy Barcelonecie.</p>
+  <h4>🏟️ Wanda Metropolitano (dla chętnych)</h4>
+  <p>
+    Dla kibiców drugiej strony barykady – <strong>Wanda Metropolitano</strong>, dom Atlético. Stadion nowoczesny jak lotnisko, z klimatem jak z lat 90., ale pełen pasji. Dla fanów piłki – obowiązkowo, dla reszty – ciekawe doświadczenie.
+  </p>
+
+  <h4>🕯️ Sekretne legendy i nawiedzone ulice</h4>
+  <p>
+    Wieczorem wróć do centrum i rusz śladem <strong>madryckich legend</strong>. Zajrzyj na Calle del Milagro (podobno pełna cudów), do nawiedzonego <strong>Domu Siedmiu Kominków</strong>, a potem zamknij dzień przy fontannie Cibeles – królowej wód i memów.
+  </p>
+
+  <p><strong>Tip z serca:</strong> Daj się ponieść nastrojowi tego dnia – to dzień, w którym warto skręcić w boczną uliczkę, usiąść na krawężniku i zjeść lody, nie patrząc na mapę. Madryt i tak znajdzie Cię sam.</p>
 </details>
 
 <details>
-<summary><strong>📅 Plan zwiedzania Barcelony – 4 dzień</strong></summary>
-  <p><strong>Styl:</strong> Odkrywanie mniej turystycznych miejsc, klimatyczne uliczki, lokalne bary, nietypowe widoki – Barcelona z innej perspektywy.</p>
+  <summary><strong>🗓️ Dzień 4: Wypad poza Madryt – ucieczka w klimat średniowieczny</strong></summary>
 
-  <h3>🏙️ El Born – artystyczna dzielnica</h3>
-  <p>Rozpocznij dzień spacerem po El Born – wąskie uliczki, kawiarnie, sklepy z rękodziełem i sztuka na każdym rogu. Zatrzymaj się przy <strong>Santa Maria del Mar</strong> – gotyckiej perle z pięknymi witrażami i spokojnym wnętrzem. A potem wybierz się do <strong>Picasso Museum</strong> – po drodze zobaczysz także popularny <strong>Mercat del Born</strong> (stary rynek przekształcony w centrum kultury).</p>
+  <p>
+    Po trzech dniach intensywnego zwiedzania, czas na wypad za miasto. Madryt ma wokół siebie prawdziwe perełki – od królewskich rezydencji, przez średniowieczne zaułki, po miasteczka z duszą i widokami, które Instagram przyjmie bez filtra.
+  </p>
 
-  <h3>🧩 Bunkers del Carmel – widoki jak z pocztówki</h3>
-  <p>Jeśli chcesz poczuć się jak lokalny, to Bunkers del Carmel to idealne miejsce. Niegdyś punkt obronny z czasów wojny domowej, dziś to świetne miejsce na piknik, spacer i absolutnie fenomenalne widoki na całe miasto. Z tego miejsca Barcelonę widać jak na dłoni – idealne na zdjęcia!</p>
+  <h4>⛪ Toledo – miasto trzech kultur</h4>
+  <p><strong>Dlaczego warto:</strong> Toledo to podróż w czasie – z jednej strony katedra, z drugiej meczet, a gdzieś między nimi synagoga. Wszystko na wzgórzu, otoczone rzeką, z wąskimi uliczkami jak labirynt z powieści historycznej. Idealne na całodniowy spacer i churros w cieniu wieży. Bonus: widok z punktu widokowego Mirador del Valle – wow.</p>
+  <p><strong>Jak dojechać:</strong> Pociąg AVANT z dworca Atocha – 33 minuty jazdy, jeździ co godzinę. Bilet w dwie strony to ok. 20–25 €. Albo autobus ALSA – taniej (ok. 10 €), ale jedzie godzinę i 30 minut.</p>
 
-  <h3>🍷 Lunch w Poblenou – hipsterska dzielnica</h3>
-  <p>Przenieś się do Poblenou, gdzie sztuka i nowe technologie spotykają się z przemysłowym stylem. To doskonałe miejsce na lunch – znajdziesz tu mnóstwo klimatycznych restauracji i kawiarni. Polecam spróbować tapas w jednym z barów przy <strong>Rambla de Poblenou</strong>, a później zerknij na <strong>Parc del Centre del Poblenou</strong> – piękny park z rzeźbami i nowoczesną architekturą.</p>
+  <h4>🏰 El Escorial – królewski chill i groby monarchów</h4>
+  <p><strong>Dlaczego warto:</strong> El Escorial to pałac-klasztor-muzeum-cmentarz w jednym. Królowie Hiszpanii tu mieszkali, modlili się i... zostali pochowani. Ogrody, widoki na góry i powaga miejsca sprawiają, że człowiek czuje się, jakby znał Habsburgów osobiście. A przy tym mniej turystów niż w Toledo.</p>
+  <p><strong>Jak dojechać:</strong> Pociąg Cercanías z dworca Chamartín lub Príncipe Pío – linia C3 lub C8. Dojazd trwa ok. 1 godziny. Bilet tam i z powrotem – ok. 10 €.</p>
 
-  <h3>🏛️ Muzeum Designu w Poblenou</h3>
-  <p>Jeśli masz ochotę na muzeum, to <strong>Muzeum Designu</strong> w Poblenou jest fantastyczną opcją. To połączenie sztuki użytkowej, grafiki i designu. Ekspozycje zmieniają się, więc warto zajrzeć. Jeśli nie masz ochoty na muzeum, przejdź się po okolicy i zobacz futurystyczne budynki, które kontrastują z tradycyjną Barceloną.</p>
+  <h4>🎨 Alcalá de Henares – śladami Cervantesa</h4>
+  <p><strong>Dlaczego warto:</strong> Miasto narodzin Cervantesa (tak, tego od Don Kichota). Stare uniwersytety, brukowane ulice i klimat spokojnego studenckiego miasteczka. Idealne, jeśli chcesz mniej tłumów i więcej literackiej aury.</p>
+  <p><strong>Jak dojechać:</strong> Cercanías C2 z Atocha – 40 minut jazdy. Bilet to ok. 5 € w jedną stronę. Pociągi kursują co 10–20 minut.</p>
 
-  <h3>🌅 Zachód słońca na plaży Mar Bella</h3>
-  <p>Kończ dzień na plaży Mar Bella, znanej z luźnej atmosfery i widoków na zachodzące słońce. To świetne miejsce na odpoczynek, zwłaszcza jeśli chcesz poczuć bardziej lokalny klimat. Wieczorem zrelaksuj się przy drinku lub po prostu posiedź na piasku, słuchając fal.</p>
-
-  <p><strong>Tip:</strong> Mar Bella jest popularna wśród lokalnych, a mniej turystyczna niż Barceloneta – idealna na chwilę spokoju nad morzem.</p>
+  <p><strong>Tip z serca:</strong> Zabierz wygodne buty i pustą kartę pamięci. Te miasteczka wyglądają jakby kręcono tam filmy kostiumowe – tylko bez green screena.</p>
 </details>
-
 
 </details>
 
