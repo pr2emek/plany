@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layouthiszpania
 title: Hiszpania
 permalink: /hiszpania.html
 ---
