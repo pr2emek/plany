@@ -442,109 +442,207 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 ---
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Barcelonie?</strong></summary>
+  <summary><strong>👶 Co robić z dziećmi w Madrycie</strong></summary>
 
-  <p>Barcelona to nie tylko Gaudí i tapas – to także prawdziwy plac zabaw dla najmłodszych! Oto kilka miejsc, które sprawią, że dzieci (i dorośli) będą zachwyceni:</p>
+  <p>
+    Madryt to miasto, które wie, jak sprawić, by maluchy i ich rodzice spędzili niezapomniane chwile. Tu nie brakuje atrakcji, które sprawią, że dzieci będą biegać z radości, a rodzice – z ulgą, że odpoczną na chwilę (przynajmniej przy kawie!). Oto kilka miejsc, które musisz odwiedzić z pociechami.
+  </p>
 
+  <h4>🦁 Zoo Aquarium de Madrid</h4>
+  <p>
+    Jeśli Twoje dziecko marzy o spotkaniu z dinozaurami, to się nie martw – chociaż może nie spotka ono wielkich gadów z prehistorii, to w zoo znajdzie mnóstwo innych, równie fascynujących stworzeń! Od lwa po pingwiny, przez delfiny w akwarium – tu każda wizyta to przygoda. I tak, na pewno poczujesz się jak dziecko znowu!
+  </p>
+
+  <h4>🚂 Parque de Atracciones</h4>
+  <p>
+    Rollercoastery, karuzele, i jeszcze raz rollercoastery! Parque de Atracciones to raj dla wszystkich, którzy uwielbiają adrenalinę (czyli dzieci do lat 12 i rodzice, którzy chcą spróbować swoich sił na kolejnych zjazdach). Zresztą, nie ma nic lepszego niż śmiech maluchów na huśtawkach i wesołych miasteczkach!
+  </p>
+
+  <h4>🦄 Faunia</h4>
+  <p>
+    Faunia to bardziej jak dżungla w samym sercu Madrytu. Oprócz zoo, tu znajdziesz parki tematyczne z różnych ekosystemów – od tropikalnych lasów po hiszpańskie łąki. A dzieci będą miały frajdę, bo mogą zobaczyć zwierzęta w ich naturalnym środowisku – a nawet odwiedzić Antarktydę, o ile nie zapomną o czapkach!
+  </p>
+
+  <h4>🌳 Parque del Retiro</h4>
+  <p>
+    I wreszcie – nie zapomnij o parku Retiro. To idealne miejsce na piknik, zabawy na świeżym powietrzu i popołudniowy spacer. A jeśli Twoje dziecko chce się poczuć jak w bajce, wynajmijcie łódkę na stawie – to jedna z tych magicznych chwil, które zapadają w pamięć na długo.
+  </p>
+
+  <h4>🎨 CentroCentro</h4>
+  <p>
+    Wstęp do tego centrum kultury jest darmowy w każdą pierwszą niedzielę miesiąca, a dzieci uwielbiają wszelkiego rodzaju interaktywne wystawy. To świetna okazja, by poczuć atmosferę sztuki, nie wydając przy tym ani grosza! Co więcej, jeśli Twoje dziecko ma artystyczne zapędy, CentroCentro to prawdziwy raj.
+  </p>
+
+  <h4>🖼️ Muzeum Prado (za darmo w godz. popołudniowych)</h4>
+  <p>
+    Tak, dobrze widzisz! Muzeum Prado to jedno z najważniejszych muzeów sztuki na świecie, a dzieci mogą je zwiedzać za darmo w godzinach wieczornych (od 18:00 do 20:00). Więc, jeśli masz małego miłośnika sztuki (lub chociaż próbujesz go nim uczynić), to koniecznie wybierz się tu na szybki spacer po dziełach Velázqueza i Goyi. A jeśli nie, to zawsze warto poznać te „nudne” obrazy, żeby… nauczyć się cicho siedzieć!
+  </p>
+
+  <h4>🏰 Palacio Real i jego ogrody</h4>
+  <p>
+    Pałac Królewski w Madrycie to zamek, którego nie musisz płacić, by go zobaczyć z zewnątrz. Przejdź się po jego ogrodach, gdzie możesz odpocząć na trawie i podziwiać rzeźby oraz fontanny. To również świetne miejsce, by dzieci mogły pobiegać na świeżym powietrzu – a dla rodziców to szansa na chwilę relaksu.
+  </p>
+
+  <h4>🎡 Mercado de San Miguel (wstęp darmowy)</h4>
+  <p>
+    Jeśli chcesz poczuć hiszpańską atmosferę, ale bez wydawania fortuny, odwiedź Mercado de San Miguel. Chociaż sprzedaż jedzenia wiąże się z opłatami, to zwiedzanie samego rynku jest darmowe! A dzieci mogą podziwiać różnorodne produkty, a przy okazji poczuć się jak w prawdziwym, hiszpańskim targu. Gwarantujemy, że wrócicie z apetytem na coś pysznego!
+  </p>
+
+  <p>
+    Madryt ma naprawdę mnóstwo darmowych atrakcji, które mogą sprawić, że podróż z dziećmi będzie równie ekscytująca, co zabawna! Nie musisz szukać drobnych w kieszeni, by cieszyć się tym miastem.
+  </p>
+</details>
+
+
+---
+
+<details>
+  <summary><strong>🍴 Gdzie zjeść w Madrycie</strong></summary>
+
+  <p>
+    Madryt to prawdziwa uczta dla podniebienia! Od tradycyjnych tapas po nowoczesne gastro doznania, stolica Hiszpanii nie zawodzi. Oto kilka miejsc, które warto odwiedzić, żeby zasmakować w autentycznej kuchni madryckiej – zarówno tych popularnych, jak i mniej znanych.
+  </p>
+
+  <h4>🍤 Sobrino de Botín</h4>
+  <p>
+    W tym miejscu nie tylko zjesz wyśmienite dania, ale także poczujesz magię historii – to najstarsza restauracja na świecie, która znajduje się na Liście Rekordów Guinnessa! Podaję się tu klasyczne dania hiszpańskie, jak pieczony baran czy tradycyjna hiszpańska zupa cebulowa. Dodatkowo wnętrze to prawdziwa podróż w czasie, w której poczujesz się jak w XIX wieku. To miejsce dla miłośników historii i smaku w jednym!
+  </p>
+
+  <h4>🍕 Pizzas al Cuadrado</h4>
+  <p>
+    Choć może i nie jest to tradycyjna hiszpańska pizza, to na pewno jest pyszna! W Pizzas al Cuadrado pizza jest podawana w kwadracie, a wybór smaków sprawia, że każdy znajdzie coś dla siebie. Idealne na szybki lunch w centrum Madrytu, ale na pewno nie zabraknie tu i odrobiny tradycyjnych hiszpańskich dodatków, jak szynka serrano czy oliwki.
+  </p>
+
+  <h4>🥘 Mercado de San Miguel</h4>
+  <p>
+    Jeśli szukasz miejsca, w którym możesz spróbować wszystkiego po trochu, Mercado de San Miguel to miejsce, które musisz odwiedzić. To kultowy targ, pełen różnorodnych stoisk z jedzeniem – od tapas po świeże owoce morza, czy wykwintne desery. Zasiądź przy jednym ze stołów, zamów coś z każdej strony, i ciesz się smakiem Hiszpanii w jednym miejscu. A do tego, atmosfera jest absolutnie wyjątkowa!
+  </p>
+
+  <h4>🍮 Chocolatería San Ginés</h4>
+  <p>
+    Madryt to miasto czekolady, a w szczególności gorącej czekolady z churros. Jeśli chcesz poczuć się jak prawdziwy Madrytczyk, musisz wybrać się do Chocolatería San Ginés. To kultowe miejsce, które serwuje jedne z najlepszych churros w mieście, polane gęstą, czekoladową polewą. Idealne na śniadanie lub późne popołudnie!
+  </p>
+
+  <h4>🍷 Casa Lucio</h4>
+  <p>
+    Jeśli chcesz spróbować prawdziwego madryckiego dania, to Casa Lucio jest najlepszym miejscem, by zasmakować w "huevos rotos" – jajkach na gorąco, podanych z frytkami i szynką. To proste, ale absolutnie pyszne danie jest ulubionym wyborem wielu mieszkańców Madrytu. Pamiętaj, żeby zarezerwować stolik wcześniej – miejsce jest bardzo popularne!
+  </p>
+
+  <h4>🥙 El Club Allard</h4>
+  <p>
+    To miejsce to prawdziwa przygoda kulinarna! El Club Allard to nowoczesna restauracja, w której serwowane są eksperymentalne dania degustacyjne, które zaskoczą Cię swoją finezją i pomysłowością. Jeśli chcesz spróbować czegoś naprawdę wyjątkowego, to idealne miejsce na romantyczną kolację lub gastronomiczne wyzwanie.
+  </p>
+
+  <h4>🍸 Bar Tomate</h4>
+  <p>
+    Madryt to również świetne miejsce na drinka. Jeśli masz ochotę na stylowe koktajle i tapas w nowoczesnym wydaniu, Bar Tomate to miejsce, które trzeba odwiedzić. W tym barze każda potrawa jest prawdziwym dziełem sztuki, a cała atmosfera sprawia, że poczujesz się jak w stolicy mody.
+  </p>
+
+  <h4>🌮 Taquería El Farolito</h4>
+  <p>
+    Chociaż Madryt to miasto z hiszpańską duszą, to nie brakuje tu również smaków z Meksyku. Taquería El Farolito to miejsce, w którym spróbujesz prawdziwych, soczystych tacos i burritos w wersji meksykańskiej. To proste dania, ale pełne smaku i świeżych składników. Jeśli masz ochotę na coś innego niż hiszpańska kuchnia, to jest to zdecydowanie miejsce dla Ciebie!
+  </p>
+
+  <h4>🍝 Casa de las Torrijas</h4>
+  <p>
+    Madryt to miasto słodkości, a Casa de las Torrijas to raj dla fanów słodkich smakołyków. Zjesz tu tradycyjne torrijas (hiszpańskie odpowiedniki tostów francuskich) w różnych wersjach – na ciepło, z czekoladą, a nawet z dodatkiem owoców. To miejsce to idealny wybór na popołudniową przerwę z kawą i słodką przekąską!
+  </p>
+
+  <h4>🍷 Bodegas Ricla</h4>
+  <p>
+    Madryt to także miasto win, a Bodegas Ricla to klasyczna winiarnia, gdzie możesz spróbować najlepszych win z regionu i innych hiszpańskich winogron. Jeśli chcesz połączyć degustację z pysznych tapas, to to miejsce Cię nie zawiedzie. Czas na relaks i zanurzenie się w madrycką kulturę wina!
+  </p>
+
+  <h4>🍺 100 Manditas</h4>
+  <p>
+    Jeśli szukasz taniego, ale pysznego miejsca na drinka i przekąski, 100 Manditas to absolutny hit w Madrycie. Ten bar jest znany z ogromnej różnorodności napojów, a do tego dostaniesz świetne tapas w bardzo przystępnych cenach. To idealne miejsce na wieczór w gronie znajomych – w atmosferze, która sprawia, że czujesz się jak w lokalnym centrum towarzyskim.
+  </p>
+
+  <h4>🍸 El Viajero</h4>
+  <p>
+    El Viajero to kultowy bar na dachu, który oferuje niesamowite widoki na Madryt. Jest to świetne miejsce, by napić się drinka i spróbować tapas w przystępnej cenie, zwłaszcza na spokojny wieczór. A jeśli chcesz, możesz tu spróbować pysznych koktajli i cieszyć się słońcem w jednym z najpiękniejszych miejsc Madrytu.
+  </p>
+
+  <h4>🍻 La Venencia</h4>
+  <p>
+    La Venencia to bar z duszą i historią. To małe, klasyczne miejsce z atmosferą starego Madrytu, które serwuje doskonałe wino, głównie sherry, oraz proste tapas. Warto odwiedzić to miejsce, by poczuć prawdziwy klimat madryckich knajp.
+  </p>
+
+  <p>
+    Madryt to prawdziwa kulinarna mekka – od autentycznych tapas po najnowsze gastro-trendy. Bez względu na to, czy jesteś fanem tradycyjnych hiszpańskich smaków, czy chcesz spróbować czegoś nowego, Madryt z pewnością ma w swojej ofercie coś dla Ciebie!
+  </p>
+</details>
+
+---
+
+<details>
+  <summary><strong>💡 Praktyczne porady</strong></summary>
+
+  <h4>💳 Gotówka czy karta?</h4>
+  <p>
+    W Madrycie możesz spokojnie korzystać z karty kredytowej lub debetowej w większości sklepów, restauracji i atrakcji turystycznych. Większość miejsc akceptuje płatności zbliżeniowe, co jest wygodne, zwłaszcza jeśli nie chcesz nosić przy sobie dużej ilości gotówki. Niemniej jednak warto mieć przy sobie trochę gotówki, szczególnie w mniejszych sklepach, lokalnych barach czy na targach. Warto także zabrać kartę, która nie pobiera dodatkowych opłat za transakcje zagraniczne, aby uniknąć niepotrzebnych kosztów.
+  </p>
+
+  <h4>🛍️ Co warto kupić?</h4>
+  <p>
+    Madryt to prawdziwa mecca zakupowa! Oto kilka rzeczy, które warto przywieźć z tego miasta:
+  </p>
   <ul>
-    <li><strong>🎢 Parc d'Atraccions Tibidabo</strong> – Najstarszy park rozrywki w Hiszpanii, gdzie karuzele kręcą się z widokiem na całe miasto. Dorośli poczują nostalgię, a dzieci radość! <a href="https://przystanekrodzinka.pl/barcelona-z-dziecmi-odkrywajcie-najlepsze-atrakcje-dla-dzieci-w-barcelonie/">Źródło</a></li>
-
-    <li><strong>🦈 L’Aquàrium de Barcelona</strong> – Spacer 80-metrowym podwodnym tunelem wśród rekinów i kolorowych rybek. Idealne miejsce na "mokre" przygody bez zamoczenia stóp! <a href="https://www.tiqets.com/pl/barcelona-atrakcje-c66342/3-ciekawe-rzeczy-do-zrobienia-w-barcelonie-z-dziecmi-cg68/">Źródło</a></li>
-
-    <li><strong>🔬 CosmoCaixa</strong> – Muzeum nauki, gdzie dzieci mogą dotknąć, zobaczyć i zrozumieć świat. Od dinozaurów po eksperymenty – nauka nigdy nie była tak zabawna! <a href="https://en.wikipedia.org/wiki/CosmoCaixa_Barcelona">Źródło</a></li>
-
-    <li><strong>🍫 Museu de la Xocolata</strong> – Muzeum czekolady, gdzie eksponaty są tak apetyczne, że trudno się powstrzymać przed ich zjedzeniem. Uwaga: ślinotok gwarantowany! <a href="https://tymrazem.pl/barcelona-z-dziecmi-atrakcje-ktore-musisz-odwiedzic/">Źródło</a></li>
-
-    <li><strong>🦓 Zoo de Barcelona</strong> – Spotkanie z egzotycznymi zwierzętami w sercu miasta. Od flamingów po małpy – każdy znajdzie swojego ulubieńca. <a href="https://przystanekrodzinka.pl/barcelona-z-dziecmi-odkrywajcie-najlepsze-atrakcje-dla-dzieci-w-barcelonie/">Źródło</a></li>
-
-    <li><strong>🌊 Plaża Barceloneta</strong> – Budowanie zamków z piasku, pluskanie w wodzie i lody na deser. Czego chcieć więcej? <a href="https://espania.pl/barcelona-z-dziecmi-darmowe-atrakcje-co-warto-zwiedzic/">Źródło</a></li>
-
-    <li><strong>🎭 Magiczne Fontanny Montjuïc</strong> – Wieczorne pokazy światła, muzyki i wody, które oczarują każdego. Idealne zakończenie dnia pełnego wrażeń. <a href="https://czasdzieci.pl/ro_artykuly/id%2C771896b.html">Źródło</a></li>
+    <li><strong>Wina hiszpańskie</strong> – Hiszpania to kraj, w którym wino ma długą tradycję. W Madrycie znajdziesz świetne regionalne wina, które idealnie nadają się na prezent lub jako pamiątka z podróży.</li>
+    <li><strong>Rękodzieło</strong> – Madryt pełen jest sklepów z unikalnym rękodziełem, od ceramiki po wyroby skórzane. Warto poszukać oryginalnych pamiątek, takich jak kolorowe wachlarze, skórzane torby, czy biżuteria.</li>
+    <li><strong>Gadżety związane z futbolem</strong> – Jeśli jesteś fanem piłki nożnej, koniecznie zajrzyj do sklepów związanych z madryckimi klubami, takimi jak Real Madryt czy Atlético Madryt. Koszulki, szaliki czy piłki to świetny sposób na przywiezienie kawałka sportowej tradycji Madrytu.</li>
+    <li><strong>Paella</strong> – Choć w Madrycie nie jest to danie typowe dla miasta, znajdziesz tam wysokiej jakości składniki do przyrządzenia tej hiszpańskiej potrawy w domu. Warto kupić specjalne przyprawy i ryż.</li>
   </ul>
 
-  <p>Barcelona z dziećmi? To gwarancja uśmiechu od ucha do ucha – zarówno dla maluchów, jak i dorosłych!</p>
-</details>
+  <h4>⚠️ Na co uważać?</h4>
+  <p>
+    Madryt jest bezpiecznym miastem, ale jak w każdym dużym mieście, warto być czujnym. Oto kilka rzeczy, na które warto zwrócić uwagę:
+  </p>
+  <ul>
+    <li><strong>Kieszonkowcy</strong> – szczególnie w miejscach turystycznych, takich jak Puerta del Sol, Gran Vía, w metrze i w popularnych lokalach. Warto przechowywać swoje rzeczy w bezpiecznym miejscu, a portfel trzymać w wewnętrznej kieszeni.</li>
+    <li><strong>Oficjalne sklepy</strong> – W Madrycie znajdziesz mnóstwo sklepów z pamiątkami, ale warto uważać na miejsca, które oferują podejrzanie tanie produkty. Może się okazać, że kupujesz podróbki. Kupuj w sklepach z dobrą reputacją.</li>
+    <li><strong>Promocje turystyczne</strong> – Madryt pełen jest atrakcji turystycznych i wielu organizatorów oferuje "darmowe" bilety lub zniżki. Uważaj jednak, żeby nie dać się nabrać na fałszywe oferty. Zawsze sprawdzaj wiarygodność organizatora przed zakupem biletów.</li>
+    <li><strong>Woda pitna</strong> – Choć woda w Madrycie jest bardzo dobrej jakości, niektóre restauracje mogą próbować naliczyć dodatkową opłatę za podanie wody, mimo że jest ona dostępna w kranie. Zawsze pytaj o "agua del grifo", czyli wodę z kranu, jeśli chcesz uniknąć dodatkowych opłat.</li>
+  </ul>
+  
+  <h4>💸 Jak poruszać się po Madrycie?</h4>
+  <p>
+    Madryt to miasto, które idealnie nadaje się do zwiedzania pieszo, ale także oferuje sprawny system transportu publicznego. Warto zaopatrzyć się w <strong>kartę turystyczną</strong>, która pozwala na nieograniczone korzystanie z metra, autobusów i pociągów w strefach A i T. Istnieją różne opcje kart – na 1, 2, 3, 5 dni, a także karty z możliwością doładowania na pojedyncze przejazdy. Metro jest szybkie i wygodne, ale pamiętaj, że w godzinach szczytu bywa dość zatłoczone.
+  </p>
+
+  <h4>📱 Internet i SIM</h4>
+  <p>
+    Wi-Fi jest dostępne w wielu miejscach publicznych, takich jak kawiarnie, restauracje, czy hotele. Jeśli chcesz mieć dostęp do internetu bez przerwy, najlepszą opcją będzie zakup karty SIM z lokalnym numerem. Możesz kupić kartę SIM w jednym z wielu punktów sprzedaży, a oferty z dużą ilością danych wcale nie są drogie. Sprawdzi się to szczególnie, jeśli będziesz korzystać z map online czy aplikacji transportowych.
+  </p>
+
+  <h4>💧 Picie wody</h4>
+  <p>
+    Madryt, podobnie jak inne hiszpańskie miasta, jest znany z bardzo dobrej jakości wody. Możesz pić wodę prosto z kranu, co pozwala zaoszczędzić na butelkowanej wodzie. W restauracjach często podają ją bezpłatnie, gdy poprosisz o „agua del grifo”. Dobrze jest jednak upewnić się, czy woda jest odpowiednia do picia, ponieważ w niektórych rejonach kraju może mieć inny smak.
+  </p>
+
+  <h4>🕰️ Godziny otwarcia</h4>
+  <p>
+    Hiszpanie mają swoją specyficzną rutynę, dlatego warto znać godziny otwarcia sklepów i restauracji. Zazwyczaj sklepy są otwarte od 9:30 do 13:30, a następnie od 17:00 do 20:00. Restauracje zaczynają serwować obiad między 13:00 a 15:00, a kolacja to najczęściej godziny od 20:00 do 23:00. Hiszpanie późno wstają, a dzień pełen energii zaczyna się po południu – szczególnie jeśli chodzi o życie nocne.
+  </p>
 
 
----
+  <h4>🍷 Kultura picia alkoholu</h4>
+  <p>
+    W Hiszpanii alkohol jest elementem kultury towarzyskiej. W Madrycie znajdziesz mnóstwo barów, w których podawane są różne napoje – od sangrii po wino, a także wyśmienite lokalne piwa. Hiszpanie piją w grupie i zazwyczaj zaczynają od małego „aperitifu”, czyli drinka przed obiadem. Pamiętaj, że w Madrycie nie ma specjalnych godzin na alkohol, więc w większości barów możesz napić się wieczorem (a także po kolacji!).
+  </p>
 
-<details>
-<summary><strong>🍴 Gdzie zjeść w Barcelonie</strong></summary>
+  <h4>📅 Niedziela w Madrycie</h4>
+  <p>
+    Niedziela w Madrycie to czas relaksu i odpoczynku, ale także – wbrew pozorom – pełen atrakcji! Mimo że wiele sklepów jest zamkniętych, w centrum miasta odbywają się liczne wydarzenia, koncerty, a także popularne pchle targi, jak <strong>El Rastro</strong> w dzielnicy La Latina. Warto wybrać się na spacer po jednym z licznych parków, takich jak <strong>Retiro</strong>, lub na popołudniową kawę w jednej z madryckich kawiarni.
+  </p>
 
-<h3>🥘 Lokalna klasyka – dla smakoszy tradycji</h3>
-<ul>
-  <li><strong>Can Culleretes</strong> – najstarsza restauracja Barcelony (z 1786 roku!). Tutaj zjesz tradycyjne katalońskie dania jak <em>escudella</em> czy <em>crema catalana</em>. Klimat: jak u babci na święta.</li>
-  <li><strong>La Paradeta</strong> – świeże owoce morza, które wybierasz jak na targu, a kucharze przygotowują je na Twoich oczach. Poczuj się jak pirat na rybnej uczcie!</li>
-</ul>
+  <h4>⏳ Czas na sjestę?</h4>
+  <p>
+    Hiszpanie mają swoje tradycje, a jedną z nich jest sjesta – popołudniowa drzemka, która ma na celu odpoczynek po obfitym obiedzie. Choć w Madrycie nie jest to już obowiązkowy element dnia, wciąż niektóre sklepy i firmy zamykają się na krótki czas między 14:00 a 17:00. Upewnij się, że sprawdzisz godziny otwarcia przed wyruszeniem na zakupy lub planowaniem zwiedzania.
+  </p>
 
-<h3>🍤 Street food i luźna atmosfera</h3>
-<ul>
-  <li><strong>La Boqueria</strong> – kultowy targ przy La Rambla. Świeże owoce, tapas na szybko, empanady, kanapki z jamón ibérico – raj dla łakomczuchów. Kolory, zapachy, gwar – i Ty w samym środku.</li>
-  <li><strong>Chök</strong> – raj dla miłośników słodyczy. Donuty, czekoladowe wynalazki i ciasteczka, które wyglądają jak małe dzieła sztuki. Uwaga: uzależnia.</li>
-</ul>
-
-<h3>🍕 Na szybko, ale dobrze</h3>
-<ul>
-  <li><strong>Bacoa</strong> – najlepsze burgery w Barcelonie. Opcje klasyczne i wegetariańskie, domowe sosy, bułki jak z bajki – idealne na szybki, porządny posiłek przed kolejnym zwiedzaniem.</li>
-  <li><strong>Buenas Migas</strong> – focaccie, lemoniady, pyszne kawy – szybka regeneracja w modnym stylu. Idealne na przerwę między muzeum a spacerem po plaży.</li>
-</ul>
-
-<h3>🍹 Gdzie napić się aperola lub wieczornego drinka</h3>
-<ul>
-  <li><strong>El Bosc de Les Fades</strong> – zaczarowany bar ukryty za muzeum figur woskowych. Wchodzisz jak do magicznego lasu: światełka, szum wody, drzewa – idealne miejsce na Aperola w magicznej atmosferze.</li>
-  <li><strong>Terraza 360º (Barcelo Raval Hotel)</strong> – drink z widokiem na całe miasto? Tylko tutaj! Wieczorem panorama Barcelony zapiera dech w piersiach, a koktajl smakuje jak nagroda za cały dzień zwiedzania.</li>
-</ul>
-
-<p><em>Pro tip:</em> w Barcelonie zwyczajowo nie zostawia się napiwku, ale jeśli obsługa była super, 5–10% zawsze mile widziane!</p>
-
-</details>
-
----
-
-<details>
-<summary><strong>🧠 Praktyczne porady w Barcelonie</strong></summary>
-
-<h3>💶 Gotówka czy karta?</h3>
-<p>
-W Barcelonie kartą zapłacisz praktycznie wszędzie – nawet za kawę za 1€. Ale drobne euro przydadzą się na targach, w małych piekarniach i przy kupnie pamiątek od ulicznych artystów. Warto mieć kilka monet pod ręką.
-</p>
-
-<h3>💸 Napiwki</h3>
-<p>
-Napiwki są mile widziane, ale nieobowiązkowe – zwykle zostawia się 5–10% za dobrą obsługę. W barze za szybkie espresso możesz zostawić drobniaki, ale nikt się nie obrazi, jeśli nie zostawisz nic.
-</p>
-
-<h3>🛍️ Co warto kupić?</h3>
-<ul>
-  <li><strong>Szynka jamón ibérico</strong> – w próżniowym opakowaniu, do transportu.</li>
-  <li><strong>Cava</strong> – katalońskie wino musujące, świetna pamiątka i prezent.</li>
-  <li><strong>Maneki (mozaikowe figurki Gaudiego)</strong> – kolorowe, radosne i lekkie!</li>
-  <li><strong>Oliwa z oliwek</strong> – najlepiej z targu, w małej butelce na prezent.</li>
-</ul>
-
-<h3>⚠️ Na co uważać?</h3>
-<ul>
-  <li><strong>Kieszonkowcy</strong> – zwłaszcza na La Rambla, w metrze i przy Sagradzie Familii. Portfel trzymaj z przodu, torby miej zawsze zamknięte!</li>
-  <li><strong>Fałszywi przewodnicy</strong> – zwłaszcza wokół popularnych atrakcji. Kupuj bilety online lub bezpośrednio w kasach oficjalnych.</li>
-  <li><strong>Wysokie ceny w "turystycznych" barach</strong> – zwłaszcza przy La Rambla. Jeśli menu nie ma cen albo ktoś "nagania" Cię do środka – lepiej odejdź 10 kroków dalej.</li>
-</ul>
-
-<h3>🗣️ Podstawowe zwroty po hiszpańsku i katalońsku</h3>
-<ul>
-  <li><strong>Buenos días</strong> (hiszpański) / <strong>Bon dia</strong> (kataloński) – Dzień dobry</li>
-  <li><strong>Por favor</strong> / <strong>Si us plau</strong> – Proszę</li>
-  <li><strong>Gracias</strong> / <strong>Gràcies</strong> – Dziękuję</li>
-  <li><strong>¿Cuánto cuesta?</strong> / <strong>Quant costa?</strong> – Ile to kosztuje?</li>
-  <li><strong>La cuenta, por favor</strong> / <strong>El compte, si us plau</strong> – Poproszę rachunek</li>
-</ul>
-
-<h3>🚆 Transport</h3>
-<p>
-Kup <strong>T-Casual</strong> (bilet na 10 przejazdów) – opłaca się bardziej niż pojedyncze bilety, a metro działa szybko i sprawnie. Jeśli planujesz intensywne zwiedzanie, rozważ <strong>Hola BCN!</strong> – nielimitowane przejazdy na 2–5 dni.
-</p>
-
-<p><em>Pro tip:</em> Poza centrum wiele miejsc mówi głównie po katalońsku – ale z uśmiechem i paroma hiszpańskimi słowami otworzysz każde drzwi. 🌞
-</p>
-
-
+  <h4>🚖 Transport taksówką</h4>
+  <p>
+    Taksówki w Madrycie są wygodnym środkiem transportu, ale pamiętaj, żeby sprawdzić cenę za kurs przed rozpoczęciem jazdy. Warto korzystać z oficjalnych taksówek – rozpoznasz je po białym kolorze z czerwonym pasem po boku. Cena przejazdu jest naliczana na podstawie taksometru, ale warto wiedzieć, że przejazdy mogą być droższe w godzinach szczytu, czy w weekendy.
+  </p>
 </details>
