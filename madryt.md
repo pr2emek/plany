@@ -6,7 +6,7 @@ permalink: /madryt.html
 
 # Madryt 🇪🇸 
 
-Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Madrycue! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 ---
@@ -14,7 +14,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
       <summary><strong>📌 Podstawowe informacje</strong></summary>
 
-    <h3>🏔️ BARCELONA</h3>
+    <h3>🏔️ MADRYT</h3>
     <p>Barcelona to miasto kontrastów: gotyckie zaułki, futurystyczne cuda Gaudiego i plaże w samym sercu miasta. Tu codzienność pachnie kawą, tapasami i morską bryzą. Idealna dla miłośników architektury, jedzenia i życia w zwolnionym tempie (ale bez przesady).</p>
 
     <h3>✈️ Jak się dostać?</h3>
@@ -404,8 +404,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-<section>
-  <h3>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</h3>
+<details>
+  <summary><strong>🧙‍♂️ Legendy Barcelony – magia, duchy i gadające smoki</strong></summary>
   <p>Barcelona to nie tylko Gaudí i tapas – to także miasto pełne tajemniczych opowieści, średniowiecznych duchów i kamiennych smoków, które... czasem ziewają. Oto najciekawsze legendy, które możesz odkryć między jednym churro a drugim.</p>
 
   <h3>🐉 Smoki z Casa Batlló</h3>
@@ -433,7 +433,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Zamek Montjuïc to dziś punkt widokowy i atrakcja turystyczna, ale niegdyś był miejscem egzekucji. Legenda mówi, że nocą można usłyszeć stąpające kroki i krzyki dawnych więźniów. Jeśli poczujesz zimny podmuch – to nie tylko wiatr znad morza.</p>
 
   <p><strong>Uwaga:</strong> Nie wszystkie legendy nadają się do weryfikacji naukowej, ale wszystkie świetnie się opowiada przy kieliszku cava.</p>
-</section>
+  
+</details>
+
 
 ---
 
@@ -541,8 +543,6 @@ Kup <strong>T-Casual</strong> (bilet na 10 przejazdów) – opłaca się bardzie
 
 <p><em>Pro tip:</em> Poza centrum wiele miejsc mówi głównie po katalońsku – ale z uśmiechem i paroma hiszpańskimi słowami otworzysz każde drzwi. 🌞
 </p>
-
-</details>
 
 
 </details>
