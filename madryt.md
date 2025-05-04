@@ -510,8 +510,9 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 
   <h4>☕ Malasaña</h4>
   <p>
-    Zaczynamy od <strong>Malasañi</strong> – dzielnicy hipsterów, artystów i ludzi z fryzurami, których nie rozumiesz, ale szanujesz. Tu kawa smakuje jak filozofia, a second-handy są tak stylowe, że możesz przez przypadek kupić koszulę swojego przyszłego ex. Idealne miejsce na śniadanie i slow start.
-  </p>
+    Zaczynamy od <strong>Malasañi</strong> Jeśli Madryt miałby swoje serce hipstera – byłaby to Malasaña. Tu na każdej ulicy znajdziesz mural, bar z piwem rzemieślniczym i second-hand, w którym można kupić kurtkę z lat 80., która wygląda, jakby przeżyła Movidę (i pewnie tak było). To dzielnica, gdzie babcia serwuje tapas obok sklepu z winylami, a każdy pies ma bardziej wyszukane imię niż większość ludzi. Idealne miejsce na kawę z mlekiem owsianym, artystyczne zdjęcie latarni i rozważania nad sensem życia – albo przynajmniej nad tym, czy zamówić jeszcze jedną empanadę.
+</p>
+
 
   <h4>🎨 Calle del Pez i murale</h4>
   <p>
