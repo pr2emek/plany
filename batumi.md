@@ -68,14 +68,13 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
-
-
 <details>
     <summary><strong>🕵️‍♂️ Sekretne miejsca Kutaisi</strong></summary>
 
 <details>
   <summary><strong>🎨 Mural z starszą 
 
+</details>
 </details>
 </details>
       
