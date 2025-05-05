@@ -299,37 +299,26 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-<details>
-  <summary><strong>🚍 Transport Publiczny w Kutaisi</strong></summary>
+  <details>
+  <summary><strong>🚍 Transport publiczny w Batumi</strong></summary>
 
-  <p>
-    Kutaisi, chociaż nie jest największym miastem Gruzji, ma całkiem dobrze zorganizowany system transportu publicznego, który ułatwia poruszanie się po nim, a jednocześnie pozwala poczuć się jak prawdziwy lokalny mieszkaniec. Choć nie znajdziesz tu metra ani długich tramwajowych tras, to miasto skutecznie poradziło sobie z innymi środkami transportu.
-  </p>
+  <p>Transport w Batumi to taki trochę chaos z uśmiechem – niby wszystko działa, ale jak już zadziała, to człowiek czuje się jak lokalny ninja. Oto jak poruszać się po mieście bez potrzeby wynajmu helikoptera:</p>
 
-  <h4>🚌 Autobusy</h4>
-  <p>
-    Autobusy to najpopularniejszy sposób poruszania się po Kutaisi. Kursują regularnie, obejmując większą część miasta i okolice. Bilety są bardzo tanie, więc nie musisz się martwić o wysokie koszty transportu. Można je kupić u kierowcy, a ceny są uzależnione od odległości, ale raczej niewielkie – za przejazd zapłacisz dosłownie kilka gruzińskich lari. Autobusy w Kutaisi mają swoje przystanki w kluczowych punktach miasta, a ich trasy obejmują także najważniejsze atrakcje turystyczne.
-  </p>
+  <h4>Autobusy miejskie</h4>
+  <p>Działają zaskakująco dobrze! Są klimatyzowane, jeżdżą regularnie i kosztują grosze (0,50 GEL za przejazd). Ale uwaga – nie płacisz kierowcy! Potrzebujesz karty Batumi Card albo aplikacji <strong>Batumi Transport</strong>. Karta dostępna na dworcu autobusowym i w punktach informacji.</p>
+  <p>Rozkład? Na przystanku niby jest, ale lepiej sprawdzić online – np. na Google Maps działa całkiem nieźle.</p>
 
-  <h4>🚖 Taksówki</h4>
-  <p>
-    Taksówki w Kutaisi są dostępne prawie na każdym rogu, szczególnie w centrum miasta. To wygodna opcja, jeśli nie chcesz czekać na autobus lub masz do pokonania większą odległość. Warto jednak pamiętać, że ceny nie są regulowane, więc warto przed wyruszeniem uzgodnić z kierowcą cenę przejazdu lub po prostu zapytać o koszt, aby uniknąć nieprzyjemnych niespodzianek. Jeśli zdecydujesz się na taksówkę, pamiętaj, żeby zawsze korzystać z oficjalnych, zaufanych firm taksówkarskich, bo w Kutaisi nie brakuje też nieco mniej profesjonalnych kierowców.
-  </p>
+  <h4>Marszrutki</h4>
+  <p>Żółte mikrobusy, które zatrzymują się „jak poprosisz”. Bez klimatyzacji, bez luksusu, ale za to z charakterem. Cena podobna do autobusu. Najlepiej machać ręką, wsiadać i płacić kierowcy gotówką. W środku tłok, ale i prawdziwy duch podróży!</p>
 
-  <h4>🚲 Rowery i Skutery</h4>
-  <p>
-    Jeśli lubisz aktywność fizyczną, Kutaisi oferuje również opcję wynajmu rowerów i skuterów elektrycznych. Jest to świetna opcja, jeśli chcesz szybko przejechać po mieście, a do tego cieszyć się widokami i wziąć głęboki oddech świeżego powietrza. Wiele kawiarni i atrakcji w Kutaisi oferuje wynajem tych pojazdów, więc bez problemu znajdziesz punkt, gdzie możesz je wypożyczyć na godziny lub dni. To dobry sposób na poczucie się jak prawdziwy turysta na dwóch kółkach.
-  </p>
+  <h4>Taksówki i aplikacje</h4>
+  <p>Oficjalnych taksówek jak na lekarstwo, ale działa <strong>Yandex Go</strong> (czyli gruziński Uber). Ceny niskie, przejrzyste, a nie trzeba się targować. Na lotnisko – warto, bo wygodniej niż z walizką do marszrutki.</p>
 
-  <h4>🛵 Minibusy (Marszrutki)</h4>
-  <p>
-    Marszrutki to małe, minibusy kursujące na stałych trasach, które są popularne w Gruzji. W Kutaisi działają one zarówno w obrębie samego miasta, jak i na trasach międzymiastowych. Marszrutki są szybkie i wygodne, ale warto być przygotowanym na większą ilość pasażerów w godzinach szczytu. Ceny są bardzo przystępne i wynoszą zwykle mniej niż za taksówkę, a podróż jest dość szybka. Minibusy są doskonałym rozwiązaniem, jeśli chcesz wybrać się do mniej popularnych miejsc w Kutaisi lub na obrzeżach miasta.
-  </p>
+  <h4>Rowery i hulajnogi</h4>
+  <p>Batumi ma ścieżki rowerowe wzdłuż morza i system wynajmu rowerów miejskich. Hulajnogi elektryczne (np. Scroll) są prawie na każdym rogu – aplikacja, kilka kliknięć i jazda. Uwaga: nie jeździj po deptaku pełnym dzieci z watą cukrową – możesz dostać spojrzenie babci w trybie „co ty robisz, dziecko”.</p>
 
-  <h4>🚗 Wynajem Samochodu</h4>
-  <p>
-    Jeśli chcesz w pełni poczuć się jak władca drogi, wynajem samochodu to opcja, którą warto rozważyć. W Kutaisi działa wiele firm wynajmujących pojazdy, a ceny są bardzo przystępne w porównaniu do zachodnich standardów. Dzięki wynajętemu samochodowi możesz bez problemu zwiedzić okolice Kutaisi, w tym górzyste regiony i piękne krajobrazy. Ważne jest jednak, żeby pamiętać o specyfice gruzińskiego ruchu drogowego, który może różnić się od tego, do czego jesteś przyzwyczajony.
-  </p>
+  <h4>Pieszo?</h4>
+  <p>Tak! Centrum Batumi i bulwar to idealne miejsce na spacery. Wszystko blisko, płasko i z palmami. Buty wygodne, bo chodniki mają swoje humory.</p>
 
 </details>
 
