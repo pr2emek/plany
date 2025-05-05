@@ -13,6 +13,7 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>Podstawowe informacje o Batumi</strong></summary>
+
   <p>Batumi to miasto, które wygląda jakby ktoś rzucił Simsy, futurystyczne wieżowce, plażę, palmy, radziecki pomnik, fontanny z muzyką, budy z chaczapuri i stado krów – wszystko do jednego gara – i powiedział: „No dobra, niech tak będzie”. To wakacyjna stolica Gruzji, gdzie możesz w tym samym dniu pić prosecco na dachu wieżowca i kupić ogórki kiszone od babci pod blokiem. Z jednej strony morze, z drugiej – góry, a pośrodku chaos, który zaskakująco dobrze działa.</p>
 
   <h4>Dlaczego warto?</h4>
@@ -58,11 +59,8 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
   <h4>🚌 Marszrutka z centrum Kutaisi</h4>
   <p>Dla hardkorowców i backpackersów: z lotniska musisz najpierw dostać się do centrum Kutaisi (taksówka lub lokalny bus), a stamtąd łapiesz marszrutkę do Batumi. Tanio (20–25 GEL), ale czasochłonnie i z przesiadką. Styl lokalny, dużo emocji i zero przestrzeni na nogi.</p>
 
-  
-
-</details>
     <li><strong>Pociąg z Tbilisi:</strong> Ekspresowo i całkiem wygodnie. Polecane dla fanów krajobrazów i gruzińskich przekąsek jedzonych przez współpasażerów.</li>
-  </ul>
+  
 
   <h4>Podstawowe fakty (ale z przymrużeniem oka)</h4>
   <ul>
