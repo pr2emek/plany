@@ -520,108 +520,141 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
+<details>
+  <summary><strong>🗓 Dzień 1 – Pierwsze koty za płoty (i pierwszy chaczapuri na talerzu)</strong></summary>
+
+  <h3>🔹 Start: Plac Centralny i Fontanna Kolchidy</h3>
+  <p>
+    Zacznijmy tam, gdzie wszyscy zaczynają... nawet jeśli nie mają pojęcia, dokąd iść dalej. Fontanna Kolchidy to taki kutaiski odpowiednik Times Square, tylko zamiast neonów mamy złote (no, prawie) konie, barana i inne cuda, które wyglądają jakby zleciały z nieba – a może z mitologii. Zrób sobie selfie, udawaj, że znasz się na sztuce, i kieruj się dalej.
+  </p>
+
+  <h3>🔹 Biały Most (który jest biały, ale nie do końca)</h3>
+  <p>
+    Most jak most – można przejść, można się zatrzymać i popatrzeć na rzekę Rioni, która płynie tu od tysięcy lat i nadal się nie znudziła. Uwaga: nie patrz w dół, jeśli masz lęk wysokości, i nie patrz za długo w górę, bo zignorujesz piękne murale obok. Po prawej – kawiarnie, po lewej – nic nie ma. A w środku – Ty, zachwycony swoim życiem.
+  </p>
+
+  <h3>🔹 Katedra Bagrati – czyli świętość z widokiem</h3>
+  <p>
+    Pora na trochę podniosłej atmosfery. Katedra Bagrati stoi sobie dumnie na wzgórzu, jakby chciała powiedzieć: „Patrzcie, jeszcze tu jestem!”. Widok z góry? Sztos. Historia? Tysiącletnia. Remont? Wieczny. Ale mimo wszystko warto – nie tylko dla selfie, ale też dla chwili refleksji, czy może jednak chcesz zostać mnichem z widokiem.
+  </p>
+
+  <h3>🔹 Obiadek czas start – Restauracja <em>Palaty</em> albo <em>Baraka</em></h3>
+  <p>
+    Chinkali, chaczapuri, lobiani – i to wszystko z widokiem na ulicę, którą co chwilę przejeżdża marszrutka trąbiąca jakby ogłaszała koniec świata. Ale to nie szkodzi. Jedzenie? Boskie. Obsługa? Miła, ale nie nachalna. A ceny? Zaskakująco ludzkie. Po takim posiłku będziesz gotów na dalsze eksploracje lub krótką drzemkę (która czasem zmienia się w długą).
+  </p>
+
+  <h3>🔹 Murale i sekretne przejścia przy ul. Tsereteli</h3>
+  <p>
+    Tu wchodzimy w klimaty street-artowo-detektywistyczne. Murale Kutaisi to nie tylko babcia z wielkim spojrzeniem i mural z samowarem – to całe mini-muzeum na świeżym powietrzu. Zajrzyj w bramy, podejdź do starych kamienic, powąchaj trochę historii (i kotów), i zobacz, co kryje się za niepozornymi drzwiami. Hint: czasem to kawiarnia, czasem warsztat, czasem... pustka.
+  </p>
+
+  <h3>🔹 Wieczór: Kawa w jednej z ukrytych kawiarni</h3>
+  <p>
+    Dzień kończymy w stylu bohemy – kawa, deser i koniecznie stolik z widokiem na nic konkretnego. Może to być <strong>Museum Cafe</strong> albo jakaś bezimienna kawiarnia, o której wiedzą tylko miejscowi i babcia, która tam codziennie szydełkuje. Zamów kawę, udawaj, że piszesz powieść i zakończ dzień z przekonaniem, że Kutaisi to całkiem niezłe miejsce do życia. Choćby przez trzy dni.
+  </p>
+</details>
+
   <details>
-  <summary><strong>📅 Plan zwiedzania Barcelony – 1 dzień</strong></summary>
+  <summary><strong>🗓 Dzień 2 – W góry, do jaskiń i lekko poza zasięg Wi-Fi</strong></summary>
 
-  <<p><strong>Styl:</strong> Spacerowy z opcją „ochów” przy każdej mozaice. Idealny na pierwszy kontakt z miastem i poczucie jego klimatu.</p>
+  <h3>🔹 Start: Kanion Okatse – czyli natura robi pokaz</h3>
+  <p>
+    Zaczynamy z grubej rury. Kanion Okatse to taka naturalna wersja parku linowego, tylko zamiast linek masz mosty i ścieżki zawieszone nad przepaścią. Trochę adrenaliny, trochę potu, sporo „ooo” i „ło matko”. Uwaga: selfie z barierki tylko dla ludzi z dobrą równowagą i silnym Wi-Fi (bo zasięg tu to temat rzeka). Buty? Wygodne. Nastrój? Podziw plus zadyszka.
+  </p>
 
-  <h3>Sagrada Família</h3>
-  <p>Zaczynamy mocno – arcydzieło Gaudíego. Kup bilet wcześniej, bo kolejki są epickie. W środku wygląda jak kosmiczna katedra, a witraże robią robotę lepszą niż filtry na Instagramie.</p>
+  <h3>🔹 Prometeusz? Zobaczymy, co tam ukrywał – Jaskinie Prometeusza</h3>
+  <p>
+    Po kanionie czas na wnętrze ziemi. Jaskinie Prometeusza to nie tylko woda, stalaktyty i przewodnik, który mówi szybciej niż Google Translate – to też łódka! Tak, na końcu pływa się łódką w podziemnym klimacie jak z filmów przygodowych klasy B. Kolorowe światła? Są. Akustyka? Idealna do rozważań egzystencjalnych. Kask? Na szczęście nie trzeba.
+  </p>
 
-  <h3>Spacer po Avinguda Gaudí</h3>
-  <p>Miły deptak z widokiem na bazylikę, prowadzący w stronę modernistycznego <strong>Szpitala Sant Pau</strong>. Tak, nawet szpital tu wygląda jak muzeum.</p>
+  <h3>🔹 Przerwa na lunch – Rustaveli Restaurant albo piknik z widokiem</h3>
+  <p>
+    Teraz czas coś zjeść. Jeśli wracasz do miasta – Rustaveli Restaurant. Jeśli zostałeś gdzieś w okolicach – polecamy lokalny market, trochę sera, chleb i pomidory większe niż Twoja dłoń. Zjeść to można gdziekolwiek, bo w Gruzji wszystko smakuje lepiej z widokiem i lekkim kurzem na spodniach.
+  </p>
 
-  <h3>Passeig de Gràcia: Casa Batlló i Casa Milà (La Pedrera)</h3>
-  <p>Przenieś się do świata falujących balkonów i kolorowych mozaik. Warto zajrzeć chociaż do jednej z tych kamienic (Batlló bardziej bajkowa, Milà bardziej surowa).</p>
+  <h3>🔹 Monastyr Gelati – czyli duchowość na full HD</h3>
+  <p>
+    Jedziemy do klasztoru, który wygląda jakby został sklejony z puzzli z epoki średniowiecza. Gelati to nie tylko zabytek UNESCO (czytaj: „wow, powaga!”), ale też miejsce, gdzie naprawdę czuć historię. Freski, cisza, góry w tle, i ten moment, w którym znowu mówisz „dlaczego nie zostałem mnichem?”. Odpowiedź: bo chcesz jeszcze na kolację i wino.
+  </p>
 
-  <h3>Obiad w okolicach Plaça de Catalunya</h3>
-  <p>Tapasy? Paella? A może bocadillo z jamón ibérico? Wybierz coś lokalnego – siesta Ci się należy.</p>
+  <h3>🔹 Bonus – Monastyr Motsameta (jeśli masz siłę w nogach i duszy)</h3>
+  <p>
+    Jeśli po Gelati masz jeszcze siłę – rzut beretem dalej znajduje się Motsameta. Klasztor mniejszy, ale za to z klimatem jak z opowieści dziadka przy ognisku. Podobno jak się pomodlisz pod ołtarzem i przepełzniesz pod nim (tak, serio), to spełnia się życzenie. Może to bajka, a może... warto spróbować? Tylko nie utknij!
+  </p>
 
-  <h3>La Rambla i Mercat de la Boqueria</h3>
-  <p>Spacer wśród tłumów, kwiatów, mimów i okazjonalnych kieszonkowców (pilnuj torebki!). Wpadnij do kolorowego targu Boqueria na sok z mango lub coś bardziej „zapachowego”.</p>
-
-  <h3>Dzielnica Gotycka (Barri Gòtic)</h3>
-  <p>Zgub się celowo w labiryncie średniowiecznych uliczek. Odwiedź <strong>Katedrę św. Eulalii</strong>, zajrzyj na <strong>Placa del Rei</strong> i poszukaj magicznego kamienia.</p>
-
-  <h3> Chill przy Plaça Reial</h3>
-  <p>Palmy, arkady, muzyka uliczna – idealne miejsce na kawę lub sangrię. Usiądź, patrz na ludzi i udawaj, że tu mieszkasz.</p>
-
-  <h3>Kolacja / zachód słońca przy plaży Barceloneta</h3>
-  <p>Zakończ dzień spacerem nad morzem. Usiądź przy jednej z nadmorskich knajpek, zamów tapas, a potem idź na plażę zobaczyć zachód słońca. Idealne zakończenie pierwszego dnia!</p>
-
-  <p><strong>Bonus:</strong> Jeśli masz jeszcze siłę – zajrzyj do jednego z barów z muzyką flamenco albo przejdź się jeszcze raz nocą pod Sagradę – robi magiczne wrażenie.</p>
+  <h3>🔹 Wieczór: Powrót do Kutaisi i relaks (czyt. wino i chinkali)</h3>
+  <p>
+    Dzień kończymy tradycyjnie: kieliszek wina, może dwa. Na stole coś lokalnego, rozmowy z przypadkowym Niemcem, który rzucił pracę w korporacji i teraz zbiera zioła w Swanetii. Kutaisi wie, jak zamykać dzień – bez pośpiechu, z humorem i lekko niechlujnym toastem: <em>gaumarjos!</em>
+  </p>
 </details>
 
-<details>
-<summary><strong>📅 Plan zwiedzania Barcelony – 2 dzień</strong></summary>
+  <details>
+  <summary><strong>🗓 Dzień 3 – Ucieczka z miasta: tajemnicze monastyry i droga bez końca</strong></summary>
 
-  <p><strong>Styl:</strong> Relaks, kolory, kawiarnie i spacer wśród palm. Bez gonitwy – tylko dobre widoki i dobry nastrój.</p>
+  <h3>🔹 Start: Śniadanie w Kutaisi – czyli „jeszcze jedną chaczapuri, proszę”</h3>
+  <p>
+    Zaczynamy dzień na miękko. Śniadanie gdzieś przy ulicy Rustaveli – kawa, ciasto z orzechami i świadomość, że znów zjadasz 1500 kalorii jeszcze przed 10:00. Ale nie szkodzi – dziś spalisz je wśród mnichów, lasów i kamieni, które mają więcej historii niż niejeden doktorat.
+  </p>
 
-  <h3>🌳 Park Güell</h3>
-  <p>Rozpocznij dzień od magicznego świata Gaudíego. Kolorowa salamandra, zakręcona ławka i bajkowe kolumny – to jak z wizji sennej architekta z fantazją. Kup bilet online, żeby uniknąć kolejek. Po zwiedzaniu – czas na kawę lub sok z pomarańczy przy wejściu.</p>
+  <h3>🔹 Monastyr Motsameta – mistycznie, zielono i prawie jak w „Władcy Pierścieni”</h3>
+  <p>
+    Rzut kamieniem od Kutaisi (ok. 15 minut taksówką lub marszrutką, jeśli lubisz adrenalinkę), a nagle jesteś w zupełnie innym świecie. Czerwony dach, klif, rzeka pod spodem i cisza taka, że słychać własne myśli (albo bzyczenie komara). Podobno jeśli przeczołgasz się pod ołtarzem, spełni się Twoje życzenie. Nie mówimy, że sprawdzaliśmy... ale tak, sprawdzaliśmy.
+  </p>
 
-  <h3>🌿 Spacer po dzielnicy Gràcia</h3>
-  <p>Po wyjściu z parku powędruj w dół do dzielnicy Gràcia. To małe miasteczko w mieście – pełne placyków, lokalnych barów i uliczek z muralami. Przysiądź na <strong>Plaça del Sol</strong> albo <strong>Plaça de la Vila de Gràcia</strong> i poobserwuj lokalne życie – tu dzieci bawią się na skwerach, a starsi panowie grają w domino.</p>
+  <h3>🔹 Monastyr Gelati – średniowieczna szkoła z marmurowym klimatem</h3>
+  <p>
+    Kolejny punkt programu to Gelati – wpisany na listę UNESCO, czyli tłumacząc na nasze: „to ważne, nawet jeśli nie wygląda jak Disneyland”. Założony przez króla Dawida Budowniczego (tak, serio tak się nazywał), to miejsce było kiedyś centrum wiedzy i nauki. Teraz to doskonała okazja, żeby pospacerować między murami i zadać sobie pytanie: czemu nie zostałem mnichem?
+  </p>
 
-  <h3>🍴 Lunch w Gràcia</h3>
-  <p>Wybierz jedną z tutejszych knajpek – są mniej turystyczne, bardziej domowe. Tapasy z patatas bravas, croquetas i tortilla española smakują tu jakoś lepiej. Możesz też spróbować kuchni wegańskiej, która ma tu silną reprezentację.</p>
+  <h3>🔹 Przerwa obiadowa na łonie natury – czyli piknik jak z reklamy, ale bez agencji</h3>
+  <p>
+    W drodze powrotnej zatrzymaj się gdzieś przy drodze. Dosłownie. Lokalne sklepy oferują wszystko – chleb lawasz, ser, pomidory i słodkości, które przypominają plastelinę, ale smakują jak niebo. Zrób sobie piknik z widokiem na dolinę i pogadaj z jakimś pasterzem. On powie coś po gruzińsku, Ty się uśmiechniesz – i to wystarczy.
+  </p>
 
-  <h3>🏛️ Casa Vicens</h3>
-  <p>Jeśli masz jeszcze ochotę na Gaudíego, zajrzyj do <strong>Casa Vicens</strong> – mniej znany, ale niesamowity dom w stylu orientalnym i modernistycznym. To jeden z jego pierwszych projektów i prawdziwy rarytas dla fanów architektury.</p>
+  <h3>🔹 Tajemniczy most kolejowy – nostalgia, rdza i urok w pakiecie</h3>
+  <p>
+    W drodze powrotnej do miasta odwiedź opuszczony most kolejowy, gdzie kiedyś pociągi śmigały z takim rozmachem, że aż śruby drżały. Dziś – tylko Ty, trochę grafitti i aura tajemniczości. Idealne miejsce na zdjęcia, przemyślenia i pytanie „czemu ten most wciąż tu stoi?”. Odpowiedź: bo Gruzja to stan ducha, nie logiki.
+  </p>
 
-  <h3>☕ Kawa i chill przy Passeig de Sant Joan</h3>
-  <p>Na zakończenie dnia polecam spacer w stronę <strong>Passeig de Sant Joan</strong> – mniej zatłoczony niż Passeig de Gràcia, z przytulnymi kawiarniami i lodziarniami. Idealne miejsce na popołudniowy relaks i obserwację miejskiego życia z perspektywy stolika.</p>
+  <h3>🔹 Kolacja z powrotem w Kutaisi – powrót do cywilizacji (czyli chinkali)</h3>
+  <p>
+    Wieczorem wracamy na znane rejony – ulica Tsereteli, trochę świateł, trochę chaosu, trochę muzyki z głośnika, który ma więcej basu niż jakości. Siadasz w jednej z ukrytych knajpek, zamawiasz coś, co nie do końca rozumiesz – i to właśnie jest sedno podróżowania. A jak kelner przyniesie litrową butelkę domowego wina „gratis” – nie pytaj, po prostu pij.
+  </p>
 
-  <p><strong>Opcjonalnie:</strong> Jeśli wieczorem masz jeszcze energię – rzut beretem stąd jest <strong>La Sagrada Família</strong>. Nawet jeśli już ją widziałeś – nocą podświetlona wygląda magicznie i można ją podziwiać z zewnątrz bez tłumów.</p>
+  <p><strong>Tip z serca:</strong> Nie bój się skręcać w boczne ścieżki. Czasem najlepsze miejsca nie mają tabliczek. Ani zasięgu. Ani toalety. Ale mają duszę.</p>
 </details>
 
-<details>
-<summary><strong>📅 Plan zwiedzania Barcelony – 3 dzień</strong></summary>
-      
-  <p><strong>Styl:</strong> Widoki, przyroda, trochę historii i leniwe spacery nad morzem. Idealne na trzeciego dnia, kiedy nogi już trochę protestują.</p>
+ <details>
+  <summary><strong>🗓 Dzień 4 – Plusk, chlup, och i ach: wodna strona Kutaisi</strong></summary>
 
-  <h3>🚠 Wjazd na wzgórze Montjuïc</h3>
-  <p>Rano wjedź na Montjuïc kolejką linową (teleferic) albo skorzystaj z funicularu. Widoki podczas przejazdu są już same w sobie atrakcją! Montjuïc to zielone wzgórze pełne ogrodów, muzeów i zamków.</p>
+  <h3>🔹 Start: kawa z widokiem na Rioni</h3>
+  <p>
+    Zaczynamy leniwie – kawa z widokiem na rzekę Rioni. To ta, która dzieli Kutaisi na dwie części i próbuje udawać Sekwanę, tylko z mniejszą ilością mostów i większą ilością prania suszącego się na balkonie. Idealne tło do porannego „nicnierobienia”.
+  </p>
 
-  <h3>🏰 Zamek Montjuïc</h3>
-  <p>Na szczycie znajdziesz dawną fortecę z widokiem na cały port i miasto. Spaceruj po murach, zrób milion zdjęć i poczuj powiew historii (i wiatru).</p>
+  <h3>🔹 Wypad nad jezioro Lajlashi – czyli gruzińskie Malediwy (z mniejszą ilością kokosów)</h3>
+  <p>
+    Lajlashi to perła ukryta w górach Raczy, oddalona od Kutaisi o jakieś 2–2,5 godziny jazdy autem (więc najlepiej wypożyczyć furę albo złapać kierowcę z chęcią przygody). Co w tym jeziorze takiego szczególnego? Turkusowa woda, mini-wyspy i klimat „rajskiego końca świata”, który wynagradza każdą minutę drogi. Miejscowi kąpią się tu, grillują i zapraszają do stołu ludzi, których znają od 3 minut. Czyli Ciebie.
+  </p>
 
-  <h3>🌺 Ogrody Montjuïc</h3>
-  <p>Nie śpiesz się! Zajrzyj do Ogrodu Cactusów (Jardins de Mossèn Costa i Llobera) – setki kaktusów z całego świata, z widokiem na morze. Albo wybierz magiczne Jardins de Laribal, pełne fontann, schodków i cienia.</p>
+  <h3>🔹 Alternatywa bliżej: wodospady Kinchkha i okoliczne kąpieliska</h3>
+  <p>
+    Jeśli nie chcesz się bujać tak daleko, to kierunek: wodospad Kinchkha. Około godzina drogi, a widoki – jak z reklamy dezodorantu „dla mężczyzn aktywnych”. Woda spada z 70 metrów, otacza Cię las, śpiewają ptaki i komary próbują dołączyć do obiadu. Plus bonus – naturalne zbiorniki wodne, w których możesz się wykąpać (zimno? Pewnie. Ale jakże instagramowo).
+  </p>
 
-  <h3>🎨 Fundacja Miró lub Narodowe Muzeum Sztuki Katalonii (MNAC)</h3>
-  <p>Jeśli masz ochotę na odrobinę sztuki, zajrzyj do Fundacji Miró (sztuka nowoczesna) albo do ogromnego MNAC – samo wejście do muzeum wygląda jak pałac. Nawet jeśli nie chcesz zwiedzać wystaw, z placu przed MNAC rozciąga się fenomenalny widok na Barcelonę.</p>
+  <h3>🔹 Obiad po drodze – chinkali na świeżym powietrzu</h3>
+  <p>
+    Po takich atrakcjach czas na nagrodę. Znajdziesz lokalne knajpki przy drodze – takie z plastikowymi stołami i babcią w kuchni. To te najlepsze. Zamawiasz chinkali, grillowaną rybę (jeśli mają) i wodę… znaczy wino. I nie, nie pytaj, co to za ryba. Po prostu jedz.
+  </p>
 
-  <h3>⛲ Magiczna Fontanna (Font Màgica)</h3>
-  <p>Jeśli zostaniesz do wieczora, czeka Cię spektakl świateł, muzyki i wody przy Magicznej Fontannie. (Uwaga: pokazy odbywają się tylko w określone dni – warto sprawdzić wcześniej).</p>
+  <h3>🔹 Powrót przez zachód słońca – obowiązkowo!</h3>
+  <p>
+    Nieważne, czy wracasz z jeziora czy spod wodospadu – złap zachód słońca nad Rioni. Niebo robi się tu różowo-fioletowe jak waty cukrowe na festynie, a miasto na chwilę wygląda jak z bajki. Idealne na zakończenie dnia, zanim znów wpadniesz w objęcia gruzińskiej kuchni i nieplanowanej supry.
+  </p>
 
-  <h3>🌴 Spacer nadmorski przy Barcelonecie</h3>
-  <p>Po południu lub wieczorem przejedź w stronę plaży Barceloneta. Spokojny spacer promenadą, lody albo drink w jednym z nadmorskich barów to idealne zakończenie dnia. Plaża, surfersi i zachód słońca – klasyka Barcelony.</p>
-
-  <p><strong>Tip:</strong> Jeśli lubisz mniej turystyczne miejsca, idź dalej promenadą w stronę plaż <strong>Nova Icaria</strong> lub <strong>Bogatell</strong> – jest tam mniej tłoczno niż przy Barcelonecie.</p>
+  <p><strong>Tip z serca:</strong> Weź klapki, ręcznik i luz. Dzień nad wodą nie wymaga perfekcji – tylko odrobiny słońca i odwagi do kąpieli w czymś, co przypomina topniejący lodowiec.</p>
 </details>
 
-<details>
-<summary><strong>📅 Plan zwiedzania Barcelony – 4 dzień</strong></summary>
-  <p><strong>Styl:</strong> Odkrywanie mniej turystycznych miejsc, klimatyczne uliczki, lokalne bary, nietypowe widoki – Barcelona z innej perspektywy.</p>
-
-  <h3>🏙️ El Born – artystyczna dzielnica</h3>
-  <p>Rozpocznij dzień spacerem po El Born – wąskie uliczki, kawiarnie, sklepy z rękodziełem i sztuka na każdym rogu. Zatrzymaj się przy <strong>Santa Maria del Mar</strong> – gotyckiej perle z pięknymi witrażami i spokojnym wnętrzem. A potem wybierz się do <strong>Picasso Museum</strong> – po drodze zobaczysz także popularny <strong>Mercat del Born</strong> (stary rynek przekształcony w centrum kultury).</p>
-
-  <h3>🧩 Bunkers del Carmel – widoki jak z pocztówki</h3>
-  <p>Jeśli chcesz poczuć się jak lokalny, to Bunkers del Carmel to idealne miejsce. Niegdyś punkt obronny z czasów wojny domowej, dziś to świetne miejsce na piknik, spacer i absolutnie fenomenalne widoki na całe miasto. Z tego miejsca Barcelonę widać jak na dłoni – idealne na zdjęcia!</p>
-
-  <h3>🍷 Lunch w Poblenou – hipsterska dzielnica</h3>
-  <p>Przenieś się do Poblenou, gdzie sztuka i nowe technologie spotykają się z przemysłowym stylem. To doskonałe miejsce na lunch – znajdziesz tu mnóstwo klimatycznych restauracji i kawiarni. Polecam spróbować tapas w jednym z barów przy <strong>Rambla de Poblenou</strong>, a później zerknij na <strong>Parc del Centre del Poblenou</strong> – piękny park z rzeźbami i nowoczesną architekturą.</p>
-
-  <h3>🏛️ Muzeum Designu w Poblenou</h3>
-  <p>Jeśli masz ochotę na muzeum, to <strong>Muzeum Designu</strong> w Poblenou jest fantastyczną opcją. To połączenie sztuki użytkowej, grafiki i designu. Ekspozycje zmieniają się, więc warto zajrzeć. Jeśli nie masz ochoty na muzeum, przejdź się po okolicy i zobacz futurystyczne budynki, które kontrastują z tradycyjną Barceloną.</p>
-
-  <h3>🌅 Zachód słońca na plaży Mar Bella</h3>
-  <p>Kończ dzień na plaży Mar Bella, znanej z luźnej atmosfery i widoków na zachodzące słońce. To świetne miejsce na odpoczynek, zwłaszcza jeśli chcesz poczuć bardziej lokalny klimat. Wieczorem zrelaksuj się przy drinku lub po prostu posiedź na piasku, słuchając fal.</p>
-
-  <p><strong>Tip:</strong> Mar Bella jest popularna wśród lokalnych, a mniej turystyczna niż Barceloneta – idealna na chwilę spokoju nad morzem.</p>
-</details>
 
 
 </details>
