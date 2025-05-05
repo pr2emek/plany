@@ -72,26 +72,55 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>Co zobaczyć w Batumi</strong></summary>
 
-  <h4>1. Ruchomy pomnik Ali i Nino</h4>
-  <p>Dwie stalowe postacie, które powoli zbliżają się do siebie, przenikają i… mijają. Romantyczne, symboliczne i trochę jak randki na Tinderze – niby blisko, ale i tak się nie udaje. Wieczorem podświetlane, więc możesz poczuć się jak na planie futurystycznej opery mydlanej.</p>
+<details>
+  <summary><strong>❤️ Pomnik Ali i Nino – <em>41.6546, 41.6406</em></strong></summary>
+  <p>Dwie stalowe postacie – ona i on – które przez cały dzień powoli zbliżają się do siebie, przenikają i… oddalają. Jak w życiu. Albo w związku na odległość z Tinderem jako jedyną formą kontaktu. Pomnik inspirowany powieścią „Ali i Nino”, czyli gruzińsko-azerską historią miłości niemożliwej, jest jednym z najbardziej poruszających miejsc w Batumi – i nie tylko dlatego, że się rusza.</p>
+  <p>Konstrukcja ma 8 metrów wysokości, wygląda jak futurystyczna instalacja z muzeum nowoczesnej sztuki, a po zmroku robi się jeszcze bardziej romantycznie – całość podświetlona i lekko tajemnicza, jakby za chwilę miała zacząć opowiadać własną wersję „Romea i Julii w wersji cyberpunk”. Idealne miejsce na zachód słońca, filozoficzne przemyślenia i selfie z czymś naprawdę symbolicznym.</p>
+</details>
 
-  <h4>2. Wieża alfabetu</h4>
-  <p>Wysoka konstrukcja, która wygląda jakby DNA miało swoją imprezową wersję. Z bliska pokryta gruzińskimi literkami, więc możesz sobie zrobić selfie z czymś, czego i tak nie przeczytasz. Widok z góry? Sztos. Wejście – windą, nie na piechotę (chyba że lubisz wyzwania).</p>
+<details>
+  <summary><strong>🔤 Wieża Alfabetu – <em>41.6531, 41.6417</em></strong></summary>
+  <p>Wygląda jakby ktoś postanowił skrzyżować wieżę Eiffla z łańcuchem DNA i dołożyć do tego lekcję gruzińskiego. Efekt? 130-metrowa Wieża Alfabetu, która upamiętnia unikalny gruziński alfabet – jeden z zaledwie kilkunastu oryginalnych systemów pisma na świecie. Jeśli myślałeś, że łacińskie literki są dziwne, tutaj każda wygląda jak znak z innej planety.</p>
+  <p>Spirala konstrukcji opleciona jest literami – każda ma ponad 4 metry wysokości – a na szczycie mieści się punkt widokowy. Możesz tam wjechać windą i spojrzeć na Batumi z góry: morze, palmy, góry, a wszystko wygląda jak z folderu reklamowego, tylko lepiej. Czasami działa tam restauracja, ale nawet bez niej – panorama robi robotę.</p>
+  <p>Wieża szczególnie imponuje wieczorem, gdy podświetlone litery świecą jak neonowy poemat o języku i tożsamości. Idealna na spacer przy bulwarze, romantyczne „wow” i lekcję alfabetu bez nudnych podręczników.</p>
+</details>
 
-  <h4>3. Bulwar nadmorski</h4>
-  <p>Kilometry palm, knajpek, rowerów, ludzi na rolkach i nagłych zespołów grających największe hity lat 90. Idealne miejsce na spacer, lody albo testowanie lokalnych piw bez etykiety. W nocy wszystko świeci jak choinka na sterydach.</p>
+<details>
+  <summary><strong>🌴 Bulwar nadmorski – <em>41.6495, 41.6372</em></strong></summary>
+  <p>Bulwar Batumi to kilka kilometrów czystej rozrywki i chaosu w najlepszym wydaniu. Palmy jak z Miami, morze jak z pocztówki, a do tego riksze, rowery, dorożki i panowie z popcornem na każdym kroku. Spacer tutaj to jak wejście do symulatora wakacyjnych klimatów – wystarczy parę kroków, żeby przeżyć połowę sezonu.</p>
+  <p>Po jednej stronie Morze Czarne, po drugiej – kawiarenki, food trucki, ludzie grający w szachy, a czasem nawet ktoś próbujący tańczyć tango z dronem. Wieczorami wszystko świeci jak choinka na dopalaczach, a w tle często słychać największe hity lat 90., bo nostalgia nigdy nie wychodzi z mody.</p>
+  <p>Dla dzieci – mini place zabaw i kolorowe fontanny. Dla zakochanych – ławeczki i widoki jak z Instagrama. Dla zmęczonych – knajpy z lemoniadą, lodami i khinkali wielkości pięści. I co najlepsze – nic nie kosztuje (poza lodami, oczywiście). Obowiązkowy punkt, nawet jeśli nie masz zamiaru chodzić – możesz po prostu usiąść i chłonąć to wszystko jak serial, tylko bez reklam.</p>
+</details>
 
-  <h4>4. Batumi Piazza</h4>
-  <p>Nagle z gruzińskiego chaosu wchodzisz do... Włoch? Trochę tak. Plac w stylu europejskim z muzyką na żywo, kawiarenkami i mozaiką na środku. Dobre miejsce na kawę, pizzę albo zastanowienie się, czy jesteś jeszcze w Gruzji.</p>
+<details>
+  <summary><strong>⛲ Batumi Piazza – <em>41.6504, 41.6366</em></strong></summary>
+  <p>Wyobraź sobie, że ktoś teleportował kawałek Włoch prosto do Gruzji, po drodze lekko potrząsając walizką z mozaikami i muzyką na żywo – oto Batumi Piazza. Plac w stylu śródziemnomorskim, tak czysty i fotogeniczny, że przez chwilę można zapomnieć, że tuż obok ktoś sprzedaje arbuzy prosto z bagażnika.</p>
+  <p>W centrum – gigantyczna mozaika, która wygląda jakby Picasso pomylił się i stworzył coś z sensem. Dookoła – kawiarenki, knajpki, a czasem nawet koncert na żywo. Nieważne, czy to jazz, czy lokalna kapela grająca "Despacito" na akordeonie – brzmi magicznie. Idealne miejsce na kawę, pizzę lub głęboką refleksję typu „czy jestem jeszcze w Gruzji, czy już w Wenecji?”</p>
+  <p>Wieczorami piazza tętni życiem – lampki świecą, kelnerzy biegają, turyści robią selfie, a koty jak zwykle rządzą tym wszystkim z pogardą godną arystokracji. To jeden z tych punktów, gdzie warto przysiąść i po prostu chłonąć klimat. A jeśli przypadkiem ktoś Ci zagra serenadę – nie uciekaj, to normalne. Prawie.</p>
+</details>
 
-  <h4>5. Ogród botaniczny</h4>
-  <p>Raj dla fanów zieleni, liści i krzaków z nazwami nie do wymówienia. Położony na wzgórzu z widokiem na morze – idealny do zdjęć w stylu „ja i przyroda, chociaż na co dzień blokowisko”. Weź wygodne buty – teren jest złośliwie pofałdowany.</p>
+<details>
+  <summary><strong>🌿 Ogród Botaniczny – <em>41.7224, 41.7434</em></strong></summary>
+  <p>Jeśli Twoje rośliny w domu padają po tygodniu, a kaktus się obraził i zwiędł – tu dostaniesz drugą szansę. Batumi ma jeden z największych ogrodów botanicznych w regionie, a jego rozmiar sprawia, że spokojnie mógłby się w nim zgubić niewielki kraj. Lub Ty. Serio, weź mapę. I wodę.</p>
+  <p>Położony na wzgórzach z widokiem na Morze Czarne, ogród to miejsce, gdzie palmy, bambusy i krzewy o nazwach brzmiących jak zaklęcia z Harry’ego Pottera rosną sobie obok siebie w harmonii, jakby klimat polityczny ich nie dotyczył. Można tu spacerować godzinami i podziwiać przyrodę z całego świata, od Japonii po Meksyk – bez paszportu i odprawy celnej.</p>
+  <p>Najlepsze momenty? Wiosną wszystko kwitnie, pachnie i wygląda jak sceneria z reklamy perfum. Latem jest cień, spokój i… jeszcze więcej zieleni. A jesienią liście robią „wow”. W zimie? Wciąż lepiej niż w bloku.</p>
+  <p>Pro tip: załóż wygodne buty, bo teren to nie tylko romantyczne ścieżki – to także strome zbocza, które sprawią, że Twoje łydki będą płakać. Ale warto. Ogród to jedno z tych miejsc, gdzie można się zachwycić, wyciszyć i zadać sobie pytanie: „czy ja właśnie gadam z paprocią?”</p>
+</details>
 
-  <h4>6. Kolejka linowa Argo</h4>
-  <p>Kto nie lubi patrzeć z góry, ten nie jechał jeszcze tą kolejką. Widok na całe Batumi, morze, góry i dachy budynków, które nie wiadomo, czy są w budowie, czy już się sypią. Na górze kawiarnia, więc możesz wypić lemoniadę patrząc, jak inni męczą się na dole.</p>
+<details>
+  <summary><strong>🚡 Kolejka linowa Argo – <em>41.6550, 41.6433</em></strong></summary>
+  <p>Jeśli chcesz poczuć się jak James Bond... tylko wolniej i bez pościgu – wsiądź do kolejki Argo. To nie tylko transport, to widowiskowa przejażdżka nad dachami Batumi, która zaczyna się w centrum, a kończy na szczycie wzgórza z widokiem, który mógłby sprzedawać się jako tapeta Windowsa.</p>
+  <p>Kapsuły są przeszklone, więc nie ma gdzie się schować – musisz patrzeć, nawet jeśli boisz się wysokości. Ale spokojnie, trasa jest płynna, a widoki zajmą Twój mózg na tyle, że zapomnisz o swoim lęku (i o tym, że jeszcze przed chwilą jadłeś chaczapuri).</p>
+  <p>Na górze znajdziesz punkt widokowy, kawiarnię i... więcej selfie-sticków niż drzew. Ale warto. Morze, miasto, góry, a wszystko jakby lekko podkręcone filtrem z Instagrama. To idealne miejsce, żeby spojrzeć na Batumi z góry – dosłownie i metaforycznie.</p>
+  <p>Tip dla romantyków: jedź o zachodzie słońca. Tip dla introwertyków: jedź rano, zanim zjawią się tłumy. Tip dla wszystkich: nie machaj ludziom z dołu – nie wszyscy zrozumieją, że to z życzliwości.</p>
+</details>
 
-  <h4>7. Meczet Orta Dżame</h4>
-  <p>Maleńki meczet ukryty wśród domów, gdzie gruzińscy muzułmanie spotykają się od XIX wieku. Klimatyczne, ciche, spokojne. Zero tłumów i selfie-sticków – idealnie, żeby złapać oddech.</p>
+<details>
+  <summary><strong>🕌 Meczet Orta Dżame – <em>41.6498, 41.6375</em></strong></summary>
+  <p>Wśród bloków, sklepików i zgiełku Batumi nagle pojawia się… spokój. I to taki z klasą. Meczet Orta Dżame, czyli „Środkowy Meczet”, to niepozorna perła z XIX wieku, która przetrwała tyle historii, co niejedna gruzińska babcia. Niewielki, skromny, ale za to z duszą – jak stary notes, którego nikt nie chce wyrzucić, bo w środku jest coś ważnego.</p>
+  <p>Znajdziesz go przy bocznej uliczce, gdzie nie ma tłumów z aparatami, a lokalni muzułmanie wciąż przychodzą na modlitwę. Zero show, zero cekinów – tylko atmosfera skupienia i ciszy. Nawet jeśli nie jesteś religijny, to miejsce sprawia, że automatycznie zwalniasz krok i odrywasz się od chaosu miasta.</p>
+  <p>Fasada zdobiona orientalnymi motywami, drewniane wnętrze i zapach kadzideł sprawiają, że to idealny punkt na złapanie oddechu – lub na chwilę zadumy po zbyt intensywnej degustacji gruzińskich win. Po prostu – Batumi unplugged.</p>
+</details>
 
   <details>
     <summary><strong>Sekretne miejsca Batumi</strong></summary>
