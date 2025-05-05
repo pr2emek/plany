@@ -317,38 +317,23 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>👻 Legendy i miejskie opowieści Kutaisi</strong></summary>
+  <summary><strong>Legendy Batumi</strong></summary>
 
-  <p>
-    Kutaisi to jedno z tych miast, gdzie każdy kamień coś pamięta, a każda starsza pani mogłaby opowiedzieć ci historię, po której boisz się iść sam do piwnicy. Tu mit miesza się z rzeczywistością, duchy mają swoje ulubione zaułki, a opowieści są tak barwne, że Netflix mógłby je kręcić bez scenariusza.
-  </p>
+  <p>Batumi to nie tylko palmy, neonowe fontanny i chaczapuri z serem. To także miejsce pełne opowieści – czasem romantycznych, czasem mrocznych, a czasem tak dziwnych, że musiały wydarzyć się naprawdę. Oto kilka legend, które usłyszysz, jeśli dobrze się wsłuchasz w szum Morza Czarnego:</p>
 
-  <h4>🧙‍♂️ Dawid Budowniczy i kamień zaklęć (Katedra Bagrati – 42.2722, 42.7099)</h4>
-  <p>
-    Mówią, że król Dawid IV zbudował katedrę Bagrati nie tylko z cegieł, ale i... zaklęć. Według lokalnej legendy, w jednej z kolumn ukryto runy chroniące miasto przed najazdami. Jeśli pocałujesz ten kamień (nie polecamy w sezonie grypowym), spełni się jedno życzenie – choć zazwyczaj kończy się na selfie i nadziei.
-  </p>
+  <h4>Ali i Nino – wieczna miłość w ruchu</h4>
+  <p>W sercu bulwaru stoi niezwykła rzeźba – dwie stalowe postacie, które powoli zbliżają się do siebie, przenikają i oddalają. To Ali i Nino – muzułmański chłopak i chrześcijańska dziewczyna, których miłość pokonała wszystko… oprócz losu. Inspirowane powieścią, ich ruch to symbol tragicznego uczucia i tęsknoty. A turystom świetnie wychodzą zdjęcia z ich „pocałunku”.</p>
 
-  <h4>🧤 Ręka Tamary (Monastyr Gelati – 42.3043, 42.6683)</h4>
-  <p>
-    W klasztorze Gelati znajdziesz grób królowej Tamary – a raczej... podobno znajdziesz. Legenda mówi, że jej prawa ręka została pochowana osobno, by chronić Gruzję nawet po śmierci. Wierzący twierdzą, że czujesz ciepło, gdy staniesz w odpowiednim miejscu. Sceptycy twierdzą, że to tylko słońce. A może to jedno i to samo?
-  </p>
+  <h4>Studnia życzeń przy Parku 6 Maja</h4>
+  <p>Mówi się, że jeśli wrzucisz monetę do jednej z fontann przy parku i pomyślisz życzenie związane z miłością – spełni się… ale tylko wtedy, gdy kupisz chaczapuri dla kogoś z lokalnych. Czy to działa? Ktoś wrzucił grosik i wrócił do Batumi z pierścionkiem zaręczynowym. Przypadek?</p>
 
-  <h4>👣 Schody do nikąd (Park Besik Gabashvili – 42.2690, 42.7107)</h4>
-  <p>
-    W jednym z parków miejskich znajdują się stare kamienne schody, które kończą się... niczym. Nikt nie wie, dokąd kiedyś prowadziły, ale dzieci z sąsiedztwa mówią, że jeśli po nich zejdziesz po zmroku, możesz usłyszeć głosy z przeszłości. Albo śmiech sąsiada. Różnie bywa.
-  </p>
+  <h4>Latarnia morska i duch kapitana</h4>
+  <p>Latarnia w Batumi ma swoją historię. Mieszkańcy mówią o duchu starego kapitana, który pojawia się w mglistą noc i pomaga zagubionym statkom wrócić do portu. A jeśli ktoś znajdzie na plaży stary kompas – to ponoć znak, że kapitan był niedaleko.</p>
 
-  <h4>🧒 Duch chłopca z nabrzeża (Rioni Riverside – 42.2713, 42.7122)</h4>
-  <p>
-    Starsi mieszkańcy wspominają o małym chłopcu, który pojawia się o zmroku na brzegu Rioni. Zawsze sam, zawsze patrzy w wodę. Nie mówi nic, ale kiedy próbujesz podejść – znika. Mówią, że czeka na ojca, który nigdy nie wrócił z frontu. Inni mówią, że to tylko złudzenie. Ale każdy, kto go widział, wychodzi z drżeniem w głosie.
-  </p>
+  <h4>Kot z dzielnicy Piazza</h4>
+  <p>W tej artystycznej dzielnicy mieszka kot. Albo raczej: kot rządzi dzielnicą. Mówią, że jeśli dasz mu coś do jedzenia i usiądziesz przy fontannie, usłyszysz od przechodnia dobrą historię, a dzień będzie udany. Nie wiadomo, ile w tym prawdy, ale kot wygląda na bardzo zadowolonego z życia.</p>
 
-  <h4>🏚️ Przeklęty balkon (ul. Paliashvili – 42.2684, 42.7101)</h4>
-  <p>
-    W jednej z opuszczonych kamienic przy ulicy Paliashvili wisi balkon, z którego – według legendy – nikt nigdy nie spadł, ale każdy coś... zgubił. Czas. Rozsądek. Telefon. Podobno balkon ma moc przyciągania tych, którzy nie potrafią się zdecydować. Zanim podejdziesz – upewnij się, że masz baterię w telefonie i klarowny plan na życie.
-  </p>
-
-  <p><strong>Ostrzeżenie podróżnika:</strong> Legendy to nie fakty, ale czy warto ryzykować? Najlepiej posłuchać, zanotować... i trzymać się z daleka od dziwnych schodów po zmroku.</p>
+  <p>Batumi nie pokazuje swoich sekretów od razu. Trzeba trochę się powłóczyć, zapytać kogoś starszego, zajrzeć za róg i zatrzymać się przy rzeźbie, która "niby tylko tam stoi". Wtedy miasto zaczyna szeptać historie...</p>
 
 </details>
 
