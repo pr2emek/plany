@@ -6,7 +6,6 @@ permalink: /gruzja.html
 
 <section>
  
-  <summary><strong>🌍 Gruzja – mały kraj z wielką duszą</strong></summary>
 
   <h3>🇬🇪 Gruzja – kraina wina, chinkali i ludzi z sercem na dłoni</h3>
 
