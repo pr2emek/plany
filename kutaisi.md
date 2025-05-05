@@ -572,16 +572,6 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
     Teraz czas coś zjeść. Jeśli wracasz do miasta – Rustaveli Restaurant. Jeśli zostałeś gdzieś w okolicach – polecamy lokalny market, trochę sera, chleb i pomidory większe niż Twoja dłoń. Zjeść to można gdziekolwiek, bo w Gruzji wszystko smakuje lepiej z widokiem i lekkim kurzem na spodniach.
   </p>
 
-  <h3>🔹 Monastyr Gelati – czyli duchowość na full HD</h3>
-  <p>
-    Jedziemy do klasztoru, który wygląda jakby został sklejony z puzzli z epoki średniowiecza. Gelati to nie tylko zabytek UNESCO (czytaj: „wow, powaga!”), ale też miejsce, gdzie naprawdę czuć historię. Freski, cisza, góry w tle, i ten moment, w którym znowu mówisz „dlaczego nie zostałem mnichem?”. Odpowiedź: bo chcesz jeszcze na kolację i wino.
-  </p>
-
-  <h3>🔹 Bonus – Monastyr Motsameta (jeśli masz siłę w nogach i duszy)</h3>
-  <p>
-    Jeśli po Gelati masz jeszcze siłę – rzut beretem dalej znajduje się Motsameta. Klasztor mniejszy, ale za to z klimatem jak z opowieści dziadka przy ognisku. Podobno jak się pomodlisz pod ołtarzem i przepełzniesz pod nim (tak, serio), to spełnia się życzenie. Może to bajka, a może... warto spróbować? Tylko nie utknij!
-  </p>
-
   <h3>🔹 Wieczór: Powrót do Kutaisi i relaks (czyt. wino i chinkali)</h3>
   <p>
     Dzień kończymy tradycyjnie: kieliszek wina, może dwa. Na stole coś lokalnego, rozmowy z przypadkowym Niemcem, który rzucił pracę w korporacji i teraz zbiera zioła w Swanetii. Kutaisi wie, jak zamykać dzień – bez pośpiechu, z humorem i lekko niechlujnym toastem: <em>gaumarjos!</em>
@@ -624,8 +614,40 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>Tip z serca:</strong> Nie bój się skręcać w boczne ścieżki. Czasem najlepsze miejsca nie mają tabliczek. Ani zasięgu. Ani toalety. Ale mają duszę.</p>
 </details>
 
+<details>
+  <summary><strong>🗓 Dzień 4 – Dinozaury, szkło i górskie westchnienia</strong></summary>
+
+  <h3>🦕 Park Sataplia</h3>
+  <p>
+    Gdzie indziej możesz postawić stopę tam, gdzie miliony lat temu stąpał dinozaur? Park Sataplia to miks jaskiniowej tajemnicy, prehistorycznych śladów i przeszklonego tarasu widokowego, na którym nogi drżą nie tylko z wrażenia. W cenie biletu: ślady dino, jaskinia z dyskotekowym oświetleniem i panorama, która odbiera mowę nawet najbardziej wygadanemu turyście.
+  </p>
+
+  <h3>🥾 Spacer po rezerwacie Sataplia</h3>
+  <p>
+    Po zejściu z tarasu warto się nie spieszyć. Rezerwat otaczający park to gęsty las z pachnącymi drzewami, śpiewem ptaków i trasami spacerowymi, które są tak spokojne, że aż podejrzane. Co jakiś czas trafiasz na tabliczkę informacyjną, z której dowiadujesz się, że ten mech jest starszy niż Twoja babcia.
+  </p>
+
+  <h3>🍽️ Lunch w lokalnej restauracji w pobliżu Sataplii</h3>
+  <p>
+    Gdzieś po drodze – czasem przy głównej, czasem za płotem – znajdziesz knajpkę, gdzie serwują chaczapuri większe niż Twoja głowa i lemoniadę tak naturalną, że sokowirówka powinna dostać za nią Oscara. Miejsce zależy od tego, gdzie zboczysz – ale zasada prosta: im bardziej niepozorne, tym smaczniejsze.
+  </p>
+
+  <h3>🏛️ Niko Berdzenishvili Kutaisi State Historical Museum</h3>
+  <p>
+    Wracając do miasta, zajrzyj do muzeum, w którym zgromadzono więcej artefaktów niż w piwnicy Twojej babci. Starożytne monety, ceramika, ubrania, a nawet ikony, które pamiętają jeszcze czasy, gdy selfie robiło się dłutem na kamieniu. Idealne miejsce, żeby odpocząć w klimatyzacji i udawać, że znasz się na historii.
+  </p>
+
+  <h3>🍦 Chwila relaksu w parku przy fontannie Kolchidy</h3>
+  <p>
+    Po takiej dawce wiedzy – należna nagroda. Weź lody (albo lokalne ciastko z nazwą, której nie umiesz wymówić) i usiądź przy fontannie Kolchidy. Złote posągi błyszczą jak biżuteria w tureckim serialu, a dzieci ganiają się między ławkami, jakby grawitacja była tylko sugestią. To miejsce ma klimat małego kurortu – tylko bez tłumów.
+  </p>
+
+  <p><strong>Tip z serca:</strong> Weź wygodne buty, zapas wody i trochę gotówki – w okolicach Sataplii kartą zapłacisz co najwyżej za dobre intencje.</p>
+</details>
+
+
  <details>
-  <summary><strong>🗓 Dzień 4 – Plusk, chlup, och i ach: wodna strona Kutaisi</strong></summary>
+  <summary><strong>🗓 Dzień 5 – Plusk, chlup, och i ach: wodna strona Kutaisi</strong></summary>
 
   <h3>🔹 Start: kawa z widokiem na Rioni</h3>
   <p>
