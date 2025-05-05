@@ -12,66 +12,66 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>📌 Podstawowe informacje</strong></summary>
+  <summary><strong>Podstawowe informacje o Batumi</strong></summary>
+  <p>Batumi to miasto, które wygląda jakby ktoś rzucił Simsy, futurystyczne wieżowce, plażę, palmy, radziecki pomnik, fontanny z muzyką, budy z chaczapuri i stado krów – wszystko do jednego gara – i powiedział: „No dobra, niech tak będzie”. To wakacyjna stolica Gruzji, gdzie możesz w tym samym dniu pić prosecco na dachu wieżowca i kupić ogórki kiszone od babci pod blokiem. Z jednej strony morze, z drugiej – góry, a pośrodku chaos, który zaskakująco dobrze działa.</p>
 
-  <h3>🧭 KUTAISI – gruziński chill w pakiecie z historią</h3>
-
-  <p>
-    Kutaisi to nie jest metropolia z wieżowcami, w których gubisz GPS. To raczej miasto, które przywita cię jak stary znajomy – z kubkiem herbaty, winogronem i opowieścią o czasach, kiedy jeszcze nie było Google Maps, a ludzie pytali o drogę naprawdę (szok!). To miejsce, gdzie współczesność żyje w zgodzie z mitologią, a ulica z dziurą w asfalcie prowadzi do… UNESCO.
-  </p>
-
-  <p>
-    To też prawdopodobnie jedyne miejsce na świecie, gdzie możesz zobaczyć świętą katedrę, zjeść khinkali za 10 zł, a potem iść do jaskini z nietoperzami – wszystko w jeden dzień. Kutaisi to taki miks: trochę wsi, trochę miasta, trochę bajki i trochę starej babci, która wie wszystko i częstuje cię czaczą. Jeśli szukasz czegoś autentycznego, nieprzefiltrowanego i z sercem – to tutaj.
-  </p>
-  
-
-  <h4>✈️ Jak się dostać?</h4>
-  <p>
-    Lotnisko im. Dawida Budowniczego (KUT) obsługuje głównie tanie linie, więc jeśli złapiesz bilet za 100 zł, to gratulacje – masz przelot i jeszcze zostaje Ci na 40 pierogów z mięsem. Z lotniska do centrum jest ok. 20 km. Możesz:
-  </p>
+  <h4>Dlaczego warto?</h4>
   <ul>
-    <li>➡️ Wziąć <strong>autobus miejskim</strong> (ok. 2 GEL – czyli mniej niż napój gazowany w automacie)</li>
-    <li>➡️ Złapać <strong>marszrutkę</strong> (czyli lokalny minibus – przeżycie samo w sobie, szczególnie jak kierowca słucha techno o 7 rano)</li>
-    <li>➡️ <strong>Taxi</strong> – idealne dla zmęczonych, leniwych lub podróżujących z walizką większą niż życie. Ale uwaga: negocjuj cenę, najlepiej zanim ruszycie. Gruzini są mili, ale taxi to sport kontaktowy.</li>
+    <li>Bo to jedyne miejsce, gdzie możesz zjeść chaczapuri adżarskie wielkości tratwy ratunkowej i popić je winem za 8 zł.</li>
+    <li>Bo Batumi nocą wygląda jakby Las Vegas i Dubaj poszli razem na wino i wrócili przez przypadek do Gruzji.</li>
+    <li>Bo morze, palmy, góry i taniec fontann w jednym miejscu to już prawie bingo podróżnicze.</li>
+    <li>Bo nigdzie indziej nie zobaczysz budynku uniwersytetu z obrotowym kołem diabelskim w ścianie. (Serio.)</li>
   </ul>
 
-  <h4>❤️ Dlaczego warto tu przyjechać?</h4>
+  <h4>Jak się tu dostać?</h4>
   <ul>
-    <li>Bo ludzie są tak gościnni, że po trzecim toaście za twoje zdrowie już nie wiesz, czy jesteś turystą, czy synem gospodarza.</li>
-    <li>Bo jedzenie to nie żart – to rytuał. Chaczapuri, lobiani, khinkali… i wszystko z widokiem na góry lub rzekę.</li>
-    <li>Bo jest tanio – tak tanio, że przez chwilę zastanowisz się, czy nie zostać tu na stałe i handlować nalewkami.</li>
-    <li>Bo to idealna baza wypadowa – blisko masz jaskinie, wodospady, klasztory i więcej zieleni niż w niejednym parku narodowym.</li>
-    <li>Bo Kutaisi nie udaje. Jest, jaki jest – i za to się go kocha.</li>
+    <li><strong>Samolotem:</strong> Batumi ma swoje lotnisko, więc jeśli masz szczęście – wylądujesz od razu na miejscu. Jeśli nie – lecisz do Kutaisi, a potem... marszrutka.</li>
+    <li><strong>Marszrutką z Kutaisi:</strong> Około 2–3 godziny jazdy z muzyką w stylu „gruziński turbo folk disco remix 2008”. Widoki – 10/10. Komfort – zależy od tego, czy trafisz na marszrutkę z klimatyzacją, czy z zapachem kabaczka.</li>
+    <li><strong>Pociąg z Tbilisi:</strong> Ekspresowo i całkiem wygodnie. Polecane dla fanów krajobrazów i gruzińskich przekąsek jedzonych przez współpasażerów.</li>
   </ul>
 
-  <p><strong>Tip z serca:</strong> Jeśli w lokalnej knajpce ktoś zaprosi Cię na toast – nie odmawiaj. W Gruzji wino to nie tylko napój, to forma komunikacji, filozofia życia i, w sumie, jeden z podstawowych języków emocji.</p>
+  <h4>Podstawowe fakty (ale z przymrużeniem oka)</h4>
+  <ul>
+    <li><strong>Gdzie to leży?</strong> Na samym południowym zachodzie Gruzji, tuż przy Morzu Czarnym. Czyli jakby Gruzja miała plażę, to właśnie tu.</li>
+    <li><strong>Czy to Gruzja?</strong> Tak, ale Adżaria ma własny parlament, więc czujesz się jak w Gruzji, ale trochę jakby nie do końca.</li>
+    <li><strong>Jaka waluta?</strong> Lari. Albo jak mówią lokalsi: GEL. Brzmi jak żel, ale nie smaruj tym włosów.</li>
+    <li><strong>Jaki język?</strong> Gruziński. Alfabet wygląda jakby ktoś się bawił spaghetti, ale z czasem można rozpoznać literki. Albo przynajmniej udawać.</li>
+    <li><strong>Czas lokalny?</strong> Dwie godziny do przodu względem Polski. Idealnie, żeby wstawać później i nadal być na czasie.</li>
+  </ul>
 </details>
-
 
 ---
 
 <details>
-  <summary><strong>🔍 Co zobaczyć w Kutaisi</strong></summary>
+  <summary><strong>Podstawowe informacje o Batumi</strong></summary>
+  <p>Batumi to miasto, które wygląda jakby ktoś rzucił Simsy, futurystyczne wieżowce, plażę, palmy, radziecki pomnik, fontanny z muzyką, budy z chaczapuri i stado krów – wszystko do jednego gara – i powiedział: „No dobra, niech tak będzie”. To wakacyjna stolica Gruzji, gdzie możesz w tym samym dniu pić prosecco na dachu wieżowca i kupić ogórki kiszone od babci pod blokiem. Z jednej strony morze, z drugiej – góry, a pośrodku chaos, który zaskakująco dobrze działa.</p>
 
-  <p>
-    Kutaisi to nie metropolia z tysiącem atrakcji, tylko kumpel z sąsiedztwa, który zna kilka genialnych miejsc, ale nie będzie się nimi chwalił, dopóki sam nie zapytasz. To miasto nie krzyczy – ono mruga do ciebie porozumiewawczo. Zobaczmy, co warto tu odkryć!
-  </p>
+  <h4>Dlaczego warto?</h4>
+  <ul>
+    <li>Bo to jedyne miejsce, gdzie możesz zjeść chaczapuri adżarskie wielkości tratwy ratunkowej i popić je winem za 8 zł.</li>
+    <li>Bo Batumi nocą wygląda jakby Las Vegas i Dubaj poszli razem na wino i wrócili przez przypadek do Gruzji.</li>
+    <li>Bo morze, palmy, góry i taniec fontann w jednym miejscu to już prawie bingo podróżnicze.</li>
+    <li>Bo nigdzie indziej nie zobaczysz budynku uniwersytetu z obrotowym kołem diabelskim w ścianie. (Serio.)</li>
+  </ul>
 
-  <details>
-  <summary><strong>⛪ Katedra Bagrati – Bo każda katedra zasługuje na uwagę!</strong></summary>
+  <h4>Jak się tu dostać?</h4>
+  <ul>
+    <li><strong>Samolotem:</strong> Batumi ma swoje lotnisko, więc jeśli masz szczęście – wylądujesz od razu na miejscu. Jeśli nie – lecisz do Kutaisi, a potem... marszrutka.</li>
+    <li><strong>Marszrutką z Kutaisi:</strong> Około 2–3 godziny jazdy z muzyką w stylu „gruziński turbo folk disco remix 2008”. Widoki – 10/10. Komfort – zależy od tego, czy trafisz na marszrutkę z klimatyzacją, czy z zapachem kabaczka.</li>
+    <li><strong>Pociąg z Tbilisi:</strong> Ekspresowo i całkiem wygodnie. Polecane dla fanów krajobrazów i gruzińskich przekąsek jedzonych przez współpasażerów.</li>
+  </ul>
 
-  <p><strong>Współrzędne:</strong> 42.2650° N, 42.7178° E</p>
-
-  <p>
-    Katedra Bagrati to gruziński odpowiednik "świątyni, która przetrwała wszystko". Zbudowana w XI wieku, przetrwała najazdy, burze, a nawet modę na minimalizm w architekturze. I wiecie co? Nadal wygląda świetnie! Choć można by powiedzieć, że jej historia to trochę jak bajka – najpierw piękna, potem zniszczona przez najeźdźców, a teraz wciąż się regeneruje. Jakiś gruziński "superbohater", którego życie jest pełne przygód, zmagań i... remontów.
-  </p>
-
-  <p>
-    Wznosząca się na wzgórzu, jakby chciała mieć najlepszy widok na Kutaisi (bo czemu nie?), katedra robi wrażenie. Wysokie mury, ozdobne detale – naprawdę "wow" – możesz poczuć się, jakbyś wkraczał do średniowiecznego Disney Worldu, ale bez tłumów i plastikowych postaci. Wnętrze katedry jest równie zachwycające, z wieloma pięknymi elementami, które przypominają, że Gruzja ma talent do architektury… i przetrwania.
-  </p>
-
-  <p>
-    Ale co najlepsze? Bagrati to jedna z tych atrakcji, które mogłyby łatwo zostać gwiazdą reality show, bo została wpisana na listę UNESCO. Tak, dobrze przeczytaliście – ta katedra to już prawdziwa celebrytka w świecie zabytków! I wiecie co? Nadal ma to coś. Choć odbudowa wciąż trwa, to i tak zasługuje na aplauz za próbę powrotu do swojej świetności.
+  <h4>Podstawowe fakty (ale z przymrużeniem oka)</h4>
+  <ul>
+    <li><strong>Gdzie to leży?</strong> Na samym południowym zachodzie Gruzji, tuż przy Morzu Czarnym. Czyli jakby Gruzja miała plażę, to właśnie tu.</li>
+    <li><strong>Czy to Gruzja?</strong> Tak, ale Adżaria ma własny parlament, więc czujesz się jak w Gruzji, ale trochę jakby nie do końca.</li>
+    <li><strong>Jaka waluta?</strong> Lari. Albo jak mówią lokalsi: GEL. Brzmi jak żel, ale nie smaruj tym włosów.</li>
+    <li><strong>Jaki język?</strong> Gruziński. Alfabet wygląda jakby ktoś się bawił spaghetti, ale z czasem można rozpoznać literki. Albo przynajmniej udawać.</li>
+    <li><strong>Czas lokalny?</strong> Dwie godziny do przodu względem Polski. Idealnie, żeby wstawać później i nadal być na czasie.</li>
+  </ul>
+</details>
+  
+  e przeczytaliście – ta katedra to już prawdziwa celebrytka w świecie zabytków! I wiecie co? Nadal ma to coś. Choć odbudowa wciąż trwa, to i tak zasługuje na aplauz za próbę powrotu do swojej świetności.
   </p>
 
   <p>
