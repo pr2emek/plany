@@ -93,43 +93,33 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
   <h4>7. Meczet Orta Dżame</h4>
   <p>Maleńki meczet ukryty wśród domów, gdzie gruzińscy muzułmanie spotykają się od XIX wieku. Klimatyczne, ciche, spokojne. Zero tłumów i selfie-sticków – idealnie, żeby złapać oddech.</p>
 
-</details>
+  <details>
+    <summary><strong>Sekretne miejsca Batumi</strong></summary>
 
-<details>
-  <summary><strong>Sekretne miejsca Batumi</strong></summary>
-</details>
+ <h4>Uliczka rzeźb (ul. Zviad Gamsakhurdia)</h4>
+    <p>Mała, niepozorna uliczka w centrum, a na niej… rzeźby wszędzie. W oknach, na ścianach, nawet w bramach. Idealne miejsce na urban spotting. <br>
+    <strong>Współrzędne:</strong> 41.6514, 41.6378 </p>
 
-  <p>Każde miasto ma swoje tajemnice – Batumi też. Jeśli znudziło Ci się robienie selfie z rzeźbą Ali i Nino albo już wiesz, ile rodzajów sera może pomieścić jedno chaczapuri – czas na prawdziwą eksplorację. Oto Batumi poza pocztówką:</p>
-
-  <h4>Uliczka rzeźb (ul. Zviad Gamsakhurdia)</h4>
-  <p>Mała, niepozorna uliczka w centrum, a na niej… rzeźby wszędzie. W oknach, na ścianach, nawet w bramach. Idealne miejsce na urban spotting. <br>
-  <strong>Współrzędne:</strong> 41.6514, 41.6378 <br>
-  
   <h4>Stare molo i opuszczony wagon</h4>
-  <p>Za portem znajdziesz stare, zapomniane molo i porzucony wagon. Klimat postapo z widokiem na morze. <br>
-  <strong>Współrzędne:</strong> 41.6396, 41.6290 <br>
-  
+    <p>Za portem znajdziesz stare, zapomniane molo i porzucony wagon. Klimat postapo z widokiem na morze. <br>
+    <strong>Współrzędne:</strong> 41.6396, 41.6290 </p>
 
   <h4>Mini ogród botaniczny (przy parku Nuri Geli)</h4>
-  <p>Nieoficjalna zielona enklawa z palmami i spokojem. Niepozorne, a urocze. <br>
-  <strong>Współrzędne:</strong> 41.6502, 41.6383 <br>
- 
+    <p>Nieoficjalna zielona enklawa z palmami i spokojem. Niepozorne, a urocze. <br>
+    <strong>Współrzędne:</strong> 41.6502, 41.6383 </p>
 
-  <h4>Pasaż z mozaiką przy placu Europy</h4>
-  <p>Ukryte podwórko pełne kolorów, sztuki i prania. Szukaj otwartej bramy! <br>
-  <strong>Współrzędne:</strong> 41.6523, 41.6401 <br>
-  
+   <h4>Pasaż z mozaiką przy placu Europy</h4>
+    <p>Ukryte podwórko pełne kolorów, sztuki i prania. Szukaj otwartej bramy! <br>
+    <strong>Współrzędne:</strong> 41.6523, 41.6401 </p>
 
-  <h4>Opuszczona kolejka linowa</h4>
-  <p>Na zboczu wzgórza za miastem widać resztki dawnej kolejki. Dla fanów urbexu i ładnych kadrów. <br>
-  <strong>Współrzędne:</strong> 41.6360, 41.6435 <br>
-
+   <h4>Opuszczona kolejka linowa</h4>
+    <p>Na zboczu wzgórza za miastem widać resztki dawnej kolejki. Dla fanów urbexu i ładnych kadrów. <br>
+    <strong>Współrzędne:</strong> 41.6360, 41.6435 </p>
 
   <p>Batumi to nie tylko błysk świateł i deptak nad morzem. Jeśli dasz mu czas i zboczysz z mapy, pokaże Ci miejsca, o których przewodniki milczą – ale które zostają w głowie na długo.</p>
+ 
+  </details>
 
-</details>
-
-</details>
 </details>
 
 ---
