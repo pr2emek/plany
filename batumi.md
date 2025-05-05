@@ -27,7 +27,6 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
   <h4>Jak się tu dostać?</h4>
 
   <h5>Dojazd z lotniska w Batumi do centrum</h5>
-
   <p>Wylądowałeś w Batumi i zastanawiasz się, jak dostać się do centrum? Spokojnie, to prostsze niż zamówienie khinkali bez kolendry. Oto kilka sprawdzonych opcji:</p>
 
   <h5>🚌 Autobus miejski – linia 10</h5>
@@ -43,7 +42,6 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Planujesz dalsze podróże po Gruzji? Rozważ wynajem samochodu bezpośrednio na lotnisku. Pamiętaj tylko, że gruzińskie drogi potrafią zaskoczyć, a lokalni kierowcy mają własne interpretacje przepisów drogowych.</p>
 
   <h5>Dojazd z lotniska w Kutaisi do Batumi</h5>
-
   <p>Lotnisko w Kutaisi to ulubiona brama do Gruzji dla łowców tanich lotów. Tylko że… Kutaisi to nie Batumi. Trzeba jeszcze jakoś się dostać nad morze. Na szczęście opcji nie brakuje!</p>
 
   <h5>🚐 Shuttle bus (czyli busik dla turystów)</h5>
@@ -54,6 +52,9 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
   <h5>🚌 Marszrutka z centrum Kutaisi</h5>
   <p>Dla hardkorowców i backpackersów: z lotniska musisz najpierw dostać się do centrum Kutaisi (taksówka lub lokalny bus), a stamtąd łapiesz marszrutkę do Batumi. Tanio (20–25 GEL), ale czasochłonnie i z przesiadką. Styl lokalny, dużo emocji i zero przestrzeni na nogi.</p>
+
+  <h5>🚄 Pociąg z Tbilisi</h5>
+  <p>Ekspresowo i całkiem wygodnie. Polecane dla fanów krajobrazów i gruzińskich przekąsek jedzonych przez współpasażerów.</p>
 
   <h4>Podstawowe fakty (ale z przymrużeniem oka)</h4>
   <ul>
