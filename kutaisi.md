@@ -431,7 +431,6 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
     Zamiast tradycyjnych kwiatów czy abstrakcyjnych linii, mural wypełnia całą przestrzeń, dając ci poczucie, że wkraczasz do innego wymiaru. Każdy element ma swoją opowieść, jakby każdy kolor opowiadał ci historię, którą chciałbyś poznać. Jest to swego rodzaju podróż, której nie musisz opuścić, żeby poczuć się lepiej.
   </p>
 
-  <p><strong>🎟️ Bilety:</strong> Nadal za darmo! Po prostu wejdź i chłonąć ten kalejdoskop barw.</p>
 
   <p><strong>🚶‍♂️ Lokalizacja:</strong> Ten mural jest w pobliżu głównych ulic handlowych, więc po obejrzeniu go możesz udać się na zakupy albo po prostu kontemplować w nieskończoność, jak te kolory zmieniają twój nastrój.</p>
 </details>
@@ -439,7 +438,7 @@ Witaj w przewodniku po Kutaisi! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🚂 Tajemniczy Most Kolejowy – Kiedy tory spotykają się z magią</strong></summary>
 
-  <p><strong>Współrzędne:</strong> 42.2678° N, 42.6907° E</p>
+  <p><strong>Współrzędne:</strong> </p>
 
   <p>
     Tajemniczy Most Kolejowy w Kutaisi to jedno z tych miejsc, które po prostu musisz zobaczyć, nawet jeśli nie jesteś fanem pociągów (choć jeśli jesteś, to tym bardziej!). Most, który na pierwszy rzut oka może wydawać się tylko zwykłą konstrukcją, skrywa w sobie coś niezwykłego. Jeśli przejdziesz przez niego, poczujesz, jakbyś przeniósł się w czasie – nie tylko w sensie fizycznym, ale i emocjonalnym. Ktoś powiedziałby, że ten most ma „duszę” – coś, co czuje każdy podróżnik, gdy tylko zatrzyma się na chwilę i spojrzy na otaczający go krajobraz.
