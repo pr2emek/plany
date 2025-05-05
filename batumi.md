@@ -25,7 +25,7 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
   <h4>Jak się tu dostać?</h4>
 
-  <summary><strong>Dojazd z lotniska do centrum Batumi</strong></summary>
+  <strong>Dojazd z lotniska do centrum Batumi</strong>
 
   <p>Wylądowałeś w Batumi i zastanawiasz się, jak dostać się do centrum? Spokojnie, to prostsze niż zamówienie khinkali bez kolendry. Oto kilka sprawdzonych opcji:</p>
 
