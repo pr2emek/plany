@@ -97,6 +97,7 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>Sekretne miejsca Batumi</strong></summary>
+</details>
 
   <p>Każde miasto ma swoje tajemnice – Batumi też. Jeśli znudziło Ci się robienie selfie z rzeźbą Ali i Nino albo już wiesz, ile rodzajów sera może pomieścić jedno chaczapuri – czas na prawdziwą eksplorację. Oto Batumi poza pocztówką:</p>
 
