@@ -24,9 +24,43 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <h4>Jak się tu dostać?</h4>
-  <ul>
-    <li><strong>Samolotem:</strong> Batumi ma swoje lotnisko, więc jeśli masz szczęście – wylądujesz od razu na miejscu. Jeśli nie – lecisz do Kutaisi, a potem... marszrutka.</li>
-    <li><strong>Marszrutką z Kutaisi:</strong> Około 2–3 godziny jazdy z muzyką w stylu „gruziński turbo folk disco remix 2008”. Widoki – 10/10. Komfort – zależy od tego, czy trafisz na marszrutkę z klimatyzacją, czy z zapachem kabaczka.</li>
+
+  <summary><strong>Dojazd z lotniska do centrum Batumi</strong></summary>
+
+  <p>Wylądowałeś w Batumi i zastanawiasz się, jak dostać się do centrum? Spokojnie, to prostsze niż zamówienie khinkali bez kolendry. Oto kilka sprawdzonych opcji:</p>
+
+  <h4>🚌 Autobus miejski – linia 10</h4>
+  <p>Najtańsza i całkiem wygodna opcja. Autobus nr 10 kursuje z lotniska do centrum co około 10–15 minut. Przystanek znajduje się tuż przed terminalem. Przejazd trwa około 20 minut i kosztuje 0,30 GEL. Bilety można kupić u kierowcy – pamiętaj tylko, aby go skasować od razu po wejściu do pojazdu. <a href="https://batumiairport.com/en-EN/passenger-guide/to-from-the-airport/page/bus" target="_blank">Źródło</a></p>
+
+  <h4>🚖 Taksówka</h4>
+  <p>Jeśli wolisz komfort i brak tłoku, taksówki czekają tuż przy wyjściu z terminalu. Przejazd do centrum zajmuje około 10–15 minut i kosztuje 3–4 USD. Upewnij się, że ustalasz cenę z kierowcą przed rozpoczęciem kursu, ponieważ nie wszystkie taksówki mają taksometry. <a href="https://batumiairport.com/en-EN/to-from-the-airport/page/taxi" target="_blank">Źródło</a></p>
+
+  <h4>📱 Aplikacje przewozowe – Bolt i Yandex Go</h4>
+  <p>Preferujesz nowoczesne rozwiązania? Aplikacje takie jak Bolt czy Yandex Go działają w Batumi. Ceny są konkurencyjne, a zamówienie przejazdu to kwestia kilku kliknięć. Idealne, gdy nie masz ochoty na negocjacje z kierowcą.</p>
+
+  <h4>🚗 Wynajem samochodu</h4>
+  <p>Planujesz dalsze podróże po Gruzji? Rozważ wynajem samochodu bezpośrednio na lotnisku. Pamiętaj tylko, że gruzińskie drogi potrafią zaskoczyć, a lokalni kierowcy mają własne interpretacje przepisów drogowych.</p>
+
+  <p>Bez względu na wybraną opcję, dojazd z lotniska do centrum Batumi jest szybki i bezproblemowy. Wybierz, co Ci najbardziej odpowiada, i ciesz się pobytem w tym urokliwym mieście!</p>
+
+
+</details>
+    <li><strong>Dojazd z lotniska w Kutaisi do Batumi</strong>
+
+  <p>Lotnisko w Kutaisi to ulubiona brama do Gruzji dla łowców tanich lotów. Tylko że… Kutaisi to nie Batumi. Trzeba jeszcze jakoś się dostać nad morze. Na szczęście opcji nie brakuje!</p>
+
+  <h4>🚐 Shuttle bus (czyli busik dla turystów)</h4>
+  <p>Najprostsza opcja – bez kombinowania. Firma Georgian Bus jeździ zgodnie z rozkładem lotów i dowozi Cię z lotniska prosto do Batumi. Podchodzisz do stoiska w hali przylotów, płacisz (ok. 30–35 GEL), pakujesz się i już. Komfortowy, klimatyzowany, zero stresu. Można też zarezerwować wcześniej przez internet.</p>
+
+  <h4>🚖 Taksówka (dla wygodnych lub bardzo zmęczonych)</h4>
+  <p>Na parkingu czekają taksówkarze gotowi zabrać Cię do Batumi… za odpowiednią kwotę. Ceny są dość elastyczne (czytaj: zależą od Twojej miny), ale zwykle to 150–200 GEL. Możesz też skorzystać z aplikacji <strong>Bolt</strong>, jeśli chcesz uniknąć gruzińskiej szkoły negocjacji cen.</p>
+
+  <h4>🚌 Marszrutka z centrum Kutaisi</h4>
+  <p>Dla hardkorowców i backpackersów: z lotniska musisz najpierw dostać się do centrum Kutaisi (taksówka lub lokalny bus), a stamtąd łapiesz marszrutkę do Batumi. Tanio (20–25 GEL), ale czasochłonnie i z przesiadką. Styl lokalny, dużo emocji i zero przestrzeni na nogi.</p>
+
+  
+
+</details>
     <li><strong>Pociąg z Tbilisi:</strong> Ekspresowo i całkiem wygodnie. Polecane dla fanów krajobrazów i gruzińskich przekąsek jedzonych przez współpasażerów.</li>
   </ul>
 
