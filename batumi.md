@@ -26,41 +26,34 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 
   <h4>Jak się tu dostać?</h4>
 
-  <strong>Dojazd z lotniska do centrum Batumi</strong>
+  <h5>Dojazd z lotniska w Batumi do centrum</h5>
 
   <p>Wylądowałeś w Batumi i zastanawiasz się, jak dostać się do centrum? Spokojnie, to prostsze niż zamówienie khinkali bez kolendry. Oto kilka sprawdzonych opcji:</p>
 
-  <h4>🚌 Autobus miejski – linia 10</h4>
+  <h5>🚌 Autobus miejski – linia 10</h5>
   <p>Najtańsza i całkiem wygodna opcja. Autobus nr 10 kursuje z lotniska do centrum co około 10–15 minut. Przystanek znajduje się tuż przed terminalem. Przejazd trwa około 20 minut i kosztuje 0,30 GEL. Bilety można kupić u kierowcy – pamiętaj tylko, aby go skasować od razu po wejściu do pojazdu. <a href="https://batumiairport.com/en-EN/passenger-guide/to-from-the-airport/page/bus" target="_blank">Źródło</a></p>
 
-  <h4>🚖 Taksówka</h4>
+  <h5>🚖 Taksówka</h5>
   <p>Jeśli wolisz komfort i brak tłoku, taksówki czekają tuż przy wyjściu z terminalu. Przejazd do centrum zajmuje około 10–15 minut i kosztuje 3–4 USD. Upewnij się, że ustalasz cenę z kierowcą przed rozpoczęciem kursu, ponieważ nie wszystkie taksówki mają taksometry. <a href="https://batumiairport.com/en-EN/to-from-the-airport/page/taxi" target="_blank">Źródło</a></p>
 
-  <h4>📱 Aplikacje przewozowe – Bolt i Yandex Go</h4>
+  <h5>📱 Aplikacje przewozowe – Bolt i Yandex Go</h5>
   <p>Preferujesz nowoczesne rozwiązania? Aplikacje takie jak Bolt czy Yandex Go działają w Batumi. Ceny są konkurencyjne, a zamówienie przejazdu to kwestia kilku kliknięć. Idealne, gdy nie masz ochoty na negocjacje z kierowcą.</p>
 
-  <h4>🚗 Wynajem samochodu</h4>
+  <h5>🚗 Wynajem samochodu</h5>
   <p>Planujesz dalsze podróże po Gruzji? Rozważ wynajem samochodu bezpośrednio na lotnisku. Pamiętaj tylko, że gruzińskie drogi potrafią zaskoczyć, a lokalni kierowcy mają własne interpretacje przepisów drogowych.</p>
 
-  <p>Bez względu na wybraną opcję, dojazd z lotniska do centrum Batumi jest szybki i bezproblemowy. Wybierz, co Ci najbardziej odpowiada, i ciesz się pobytem w tym urokliwym mieście!</p>
-
-
-</details>
-    <li><strong>Dojazd z lotniska w Kutaisi do Batumi</strong>
+  <h5>Dojazd z lotniska w Kutaisi do Batumi</h5>
 
   <p>Lotnisko w Kutaisi to ulubiona brama do Gruzji dla łowców tanich lotów. Tylko że… Kutaisi to nie Batumi. Trzeba jeszcze jakoś się dostać nad morze. Na szczęście opcji nie brakuje!</p>
 
-  <h4>🚐 Shuttle bus (czyli busik dla turystów)</h4>
+  <h5>🚐 Shuttle bus (czyli busik dla turystów)</h5>
   <p>Najprostsza opcja – bez kombinowania. Firma Georgian Bus jeździ zgodnie z rozkładem lotów i dowozi Cię z lotniska prosto do Batumi. Podchodzisz do stoiska w hali przylotów, płacisz (ok. 30–35 GEL), pakujesz się i już. Komfortowy, klimatyzowany, zero stresu. Można też zarezerwować wcześniej przez internet.</p>
 
-  <h4>🚖 Taksówka (dla wygodnych lub bardzo zmęczonych)</h4>
+  <h5>🚖 Taksówka (dla wygodnych lub bardzo zmęczonych)</h5>
   <p>Na parkingu czekają taksówkarze gotowi zabrać Cię do Batumi… za odpowiednią kwotę. Ceny są dość elastyczne (czytaj: zależą od Twojej miny), ale zwykle to 150–200 GEL. Możesz też skorzystać z aplikacji <strong>Bolt</strong>, jeśli chcesz uniknąć gruzińskiej szkoły negocjacji cen.</p>
 
-  <h4>🚌 Marszrutka z centrum Kutaisi</h4>
+  <h5>🚌 Marszrutka z centrum Kutaisi</h5>
   <p>Dla hardkorowców i backpackersów: z lotniska musisz najpierw dostać się do centrum Kutaisi (taksówka lub lokalny bus), a stamtąd łapiesz marszrutkę do Batumi. Tanio (20–25 GEL), ale czasochłonnie i z przesiadką. Styl lokalny, dużo emocji i zero przestrzeni na nogi.</p>
-
-    <li><strong>Pociąg z Tbilisi:</strong> Ekspresowo i całkiem wygodnie. Polecane dla fanów krajobrazów i gruzińskich przekąsek jedzonych przez współpasażerów.</li>
-  
 
   <h4>Podstawowe fakty (ale z przymrużeniem oka)</h4>
   <ul>
@@ -70,6 +63,7 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
     <li><strong>Jaki język?</strong> Gruziński. Alfabet wygląda jakby ktoś się bawił spaghetti, ale z czasem można rozpoznać literki. Albo przynajmniej udawać.</li>
     <li><strong>Czas lokalny?</strong> Dwie godziny do przodu względem Polski. Idealnie, żeby wstawać później i nadal być na czasie.</li>
   </ul>
+
 </details>
 
 ---
@@ -101,13 +95,39 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 <details>
-    <summary><strong>🕵️‍♂️ Sekretne miejsca Kutaisi</strong></summary>
+  <summary><strong>Sekretne miejsca Batumi</strong></summary>
 
-<details>
-  <summary><strong>🎨 Mural z starszą 
+  <p>Każde miasto ma swoje tajemnice – Batumi też. Jeśli znudziło Ci się robienie selfie z rzeźbą Ali i Nino albo już wiesz, ile rodzajów sera może pomieścić jedno chaczapuri – czas na prawdziwą eksplorację. Oto Batumi poza pocztówką:</p>
+
+  <h4>Uliczka rzeźb (ul. Zviad Gamsakhurdia)</h4>
+  <p>Mała, niepozorna uliczka w centrum, a na niej… rzeźby wszędzie. W oknach, na ścianach, nawet w bramach. Idealne miejsce na urban spotting. <br>
+  <strong>Współrzędne:</strong> 41.6514, 41.6378 <br>
+  
+
+  <h4>Stare molo i opuszczony wagon</h4>
+  <p>Za portem znajdziesz stare, zapomniane molo i porzucony wagon. Klimat postapo z widokiem na morze. <br>
+  <strong>Współrzędne:</strong> 41.6396, 41.6290 <br>
+  
+
+  <h4>Mini ogród botaniczny (przy parku Nuri Geli)</h4>
+  <p>Nieoficjalna zielona enklawa z palmami i spokojem. Niepozorne, a urocze. <br>
+  <strong>Współrzędne:</strong> 41.6502, 41.6383 <br>
+ 
+
+  <h4>Pasaż z mozaiką przy placu Europy</h4>
+  <p>Ukryte podwórko pełne kolorów, sztuki i prania. Szukaj otwartej bramy! <br>
+  <strong>Współrzędne:</strong> 41.6523, 41.6401 <br>
+  
+
+  <h4>Opuszczona kolejka linowa</h4>
+  <p>Na zboczu wzgórza za miastem widać resztki dawnej kolejki. Dla fanów urbexu i ładnych kadrów. <br>
+  <strong>Współrzędne:</strong> 41.6360, 41.6435 <br>
+
+
+  <p>Batumi to nie tylko błysk świateł i deptak nad morzem. Jeśli dasz mu czas i zboczysz z mapy, pokaże Ci miejsca, o których przewodniki milczą – ale które zostają w głowie na długo.</p>
 
 </details>
-</details>
+
 </details>
       
 ---
