@@ -104,7 +104,6 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Mała, niepozorna uliczka w centrum, a na niej… rzeźby wszędzie. W oknach, na ścianach, nawet w bramach. Idealne miejsce na urban spotting. <br>
   <strong>Współrzędne:</strong> 41.6514, 41.6378 <br>
   
-
   <h4>Stare molo i opuszczony wagon</h4>
   <p>Za portem znajdziesz stare, zapomniane molo i porzucony wagon. Klimat postapo z widokiem na morze. <br>
   <strong>Współrzędne:</strong> 41.6396, 41.6290 <br>
@@ -130,7 +129,8 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 </details>
-      
+</details>
+
 ---
 
 <details>
