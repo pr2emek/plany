@@ -156,99 +156,39 @@ Witaj w przewodniku po Batumi! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
+
 <details>
-  <summary><strong>🗓 Dzień 1 – Pierwsze koty za płoty (i pierwszy chaczapuri na talerzu)</strong></summary>
+  <summary><strong>🗓️ Plan zwiedzania – Dzień 1</strong></summary>
+  <p><strong>Poranek – Romantyzm i alfabet:</strong></p>
+  <ul>
+    <li>➡️ <strong>Ruchomy pomnik Ali i Nino</strong> – <em>41.6486, 41.6365</em><br>
+    Zacznij dzień od złamanego serca – czyli tej rzeźby, co się łączy, przenika i rozdziela. Jak Twoje plany urlopowe i rzeczywistość. Rano nie ma tłumów, więc selfie z miłością gwarantowane.</li>
+    <li>➡️ <strong>Wieża alfabetu</strong> – <em>41.6481, 41.6369</em><br>
+    Skoro już się wzruszyłeś, czas na edukację. Gruzińskie litery na wieży wyglądają jak tajny kod obcych. Możesz wjechać na górę i udawać, że rozpoznajesz literki. Widoki wynagradzają wszystko (nawet kolejkę do windy).</li>
+  </ul>
 
-  <h3>🔹 Start: Plac Centralny i Fontanna Kolchidy</h3>
-  <p>
-    Zacznijmy tam, gdzie wszyscy zaczynają... nawet jeśli nie mają pojęcia, dokąd iść dalej. Fontanna Kolchidy to taki kutaiski odpowiednik Times Square, tylko zamiast neonów mamy złote (no, prawie) konie, barana i inne cuda, które wyglądają jakby zleciały z nieba – a może z mitologii. Zrób sobie selfie, udawaj, że znasz się na sztuce, i kieruj się dalej.
-  </p>
+  <p><strong>Południe – Deptak, lody i odrobina Włoch:</strong></p>
+  <ul>
+    <li>➡️ <strong>Bulwar nadmorski</strong> – <em>41.6505, 41.6362</em><br>
+    Czas się przejść! Palmy, zapach gofrów, rowery omijające Cię o milimetry. Możesz wypożyczyć hulajnogę, ale uważaj – nie wszyscy w Batumi hamują z wyczuciem.</li>
+    <li>➡️ <strong>Batumi Piazza</strong> – <em>41.6509, 41.6380</em><br>
+    Idealna pora na espresso i pizzę w gruzińskim „małym Rzymie”. Zrób zdjęcie na mozaice, udawaj, że jesteś we Florencji, i odpocznij chwilę od słońca (i kroków z aplikacji).</li>
+  </ul>
 
-  <h3>🔹 Biały Most (który jest biały, ale nie do końca)</h3>
-  <p>
-    Most jak most – można przejść, można się zatrzymać i popatrzeć na rzekę Rioni, która płynie tu od tysięcy lat i nadal się nie znudziła. Uwaga: nie patrz w dół, jeśli masz lęk wysokości, i nie patrz za długo w górę, bo zignorujesz piękne murale obok. Po prawej – kawiarnie, po lewej – nic nie ma. A w środku – Ty, zachwycony swoim życiem.
-  </p>
+  <p><strong>Popołudnie – Zieleń i wysokość:</strong></p>
+  <ul>
+    <li>➡️ <strong>Ogród botaniczny</strong> – <em>41.6910, 41.7239</em><br>
+    Podjedź taksówką (chyba że jesteś dzikim piechurem). Spacer wśród palm, egzotycznych krzaków i widoków jak z filmu o Tarzanie. Zdjęcia? Będą wyglądały jak z Bali – tylko bardziej legalne.</li>
+    <li>➡️ <strong>Kolejka linowa Argo</strong> – <em>41.6543, 41.6369</em><br>
+    Na koniec dnia – wysokość. Kolejką w górę, a potem lemoniada (lub coś mocniejszego) z panoramą Batumi. Idealne zakończenie dnia – i w ogóle życia, jeśli masz lęk wysokości.</li>
+  </ul>
 
-  <h3>🔹 Katedra Bagrati – czyli świętość z widokiem</h3>
-  <p>
-    Pora na trochę podniosłej atmosfery. Katedra Bagrati stoi sobie dumnie na wzgórzu, jakby chciała powiedzieć: „Patrzcie, jeszcze tu jestem!”. Widok z góry? Sztos. Historia? Tysiącletnia. Remont? Wieczny. Ale mimo wszystko warto – nie tylko dla selfie, ale też dla chwili refleksji, czy może jednak chcesz zostać mnichem z widokiem.
-  </p>
-
-  <h3>🔹 Obiadek czas start – Restauracja <em>Palaty</em> albo <em>Baraka</em></h3>
-  <p>
-    Chinkali, chaczapuri, lobiani – i to wszystko z widokiem na ulicę, którą co chwilę przejeżdża marszrutka trąbiąca jakby ogłaszała koniec świata. Ale to nie szkodzi. Jedzenie? Boskie. Obsługa? Miła, ale nie nachalna. A ceny? Zaskakująco ludzkie. Po takim posiłku będziesz gotów na dalsze eksploracje lub krótką drzemkę (która czasem zmienia się w długą).
-  </p>
-
-  <h3>🔹 Murale i sekretne przejścia przy ul. Tsereteli</h3>
-  <p>
-    Tu wchodzimy w klimaty street-artowo-detektywistyczne. Murale Kutaisi to nie tylko babcia z wielkim spojrzeniem i mural z samowarem – to całe mini-muzeum na świeżym powietrzu. Zajrzyj w bramy, podejdź do starych kamienic, powąchaj trochę historii (i kotów), i zobacz, co kryje się za niepozornymi drzwiami. Hint: czasem to kawiarnia, czasem warsztat, czasem... pustka.
-  </p>
-
-  <h3>🔹 Wieczór: Kawa w jednej z ukrytych kawiarni</h3>
-  <p>
-    Dzień kończymy w stylu bohemy – kawa, deser i koniecznie stolik z widokiem na nic konkretnego. Może to być <strong>Museum Cafe</strong> albo jakaś bezimienna kawiarnia, o której wiedzą tylko miejscowi i babcia, która tam codziennie szydełkuje. Zamów kawę, udawaj, że piszesz powieść i zakończ dzień z przekonaniem, że Kutaisi to całkiem niezłe miejsce do życia. Choćby przez trzy dni.
-  </p>
+  <p><em>Bonus:</em> Jeśli po wszystkim masz jeszcze siłę – wskocz na nocny spacer bulwarem. Batumi po zmroku świeci jak dyskoteka w latach 2000, a ludzie są jeszcze bardziej uśmiechnięci (czyt. wypili już swoje wino).</p>
 </details>
 
-  <details>
-  <summary><strong>🗓 Dzień 2 – W góry, do jaskiń i lekko poza zasięg Wi-Fi</strong></summary>
 
-  <h3>🔹 Start: Kanion Okatse – czyli natura robi pokaz</h3>
-  <p>
-    Zaczynamy z grubej rury. Kanion Okatse to taka naturalna wersja parku linowego, tylko zamiast linek masz mosty i ścieżki zawieszone nad przepaścią. Trochę adrenaliny, trochę potu, sporo „ooo” i „ło matko”. Uwaga: selfie z barierki tylko dla ludzi z dobrą równowagą i silnym Wi-Fi (bo zasięg tu to temat rzeka). Buty? Wygodne. Nastrój? Podziw plus zadyszka.
-  </p>
 
-  <h3>🔹 Prometeusz? Zobaczymy, co tam ukrywał – Jaskinie Prometeusza</h3>
-  <p>
-    Po kanionie czas na wnętrze ziemi. Jaskinie Prometeusza to nie tylko woda, stalaktyty i przewodnik, który mówi szybciej niż Google Translate – to też łódka! Tak, na końcu pływa się łódką w podziemnym klimacie jak z filmów przygodowych klasy B. Kolorowe światła? Są. Akustyka? Idealna do rozważań egzystencjalnych. Kask? Na szczęście nie trzeba.
-  </p>
 
-  <h3>🔹 Przerwa na lunch – Rustaveli Restaurant albo piknik z widokiem</h3>
-  <p>
-    Teraz czas coś zjeść. Jeśli wracasz do miasta – Rustaveli Restaurant. Jeśli zostałeś gdzieś w okolicach – polecamy lokalny market, trochę sera, chleb i pomidory większe niż Twoja dłoń. Zjeść to można gdziekolwiek, bo w Gruzji wszystko smakuje lepiej z widokiem i lekkim kurzem na spodniach.
-  </p>
-
-  <h3>🔹 Wieczór: Powrót do Kutaisi i relaks (czyt. wino i chinkali)</h3>
-  <p>
-    Dzień kończymy tradycyjnie: kieliszek wina, może dwa. Na stole coś lokalnego, rozmowy z przypadkowym Niemcem, który rzucił pracę w korporacji i teraz zbiera zioła w Swanetii. Kutaisi wie, jak zamykać dzień – bez pośpiechu, z humorem i lekko niechlujnym toastem: <em>gaumarjos!</em>
-  </p>
-</details>
-
-  <details>
-  <summary><strong>🗓 Dzień 3 – Ucieczka z miasta: tajemnicze monastyry i droga bez końca</strong></summary>
-
-  <h3>🔹 Start: Śniadanie w Kutaisi – czyli „jeszcze jedną chaczapuri, proszę”</h3>
-  <p>
-    Zaczynamy dzień na miękko. Śniadanie gdzieś przy ulicy Rustaveli – kawa, ciasto z orzechami i świadomość, że znów zjadasz 1500 kalorii jeszcze przed 10:00. Ale nie szkodzi – dziś spalisz je wśród mnichów, lasów i kamieni, które mają więcej historii niż niejeden doktorat.
-  </p>
-
-  <h3>🔹 Monastyr Motsameta – mistycznie, zielono i prawie jak w „Władcy Pierścieni”</h3>
-  <p>
-    Rzut kamieniem od Kutaisi (ok. 15 minut taksówką lub marszrutką, jeśli lubisz adrenalinkę), a nagle jesteś w zupełnie innym świecie. Czerwony dach, klif, rzeka pod spodem i cisza taka, że słychać własne myśli (albo bzyczenie komara). Podobno jeśli przeczołgasz się pod ołtarzem, spełni się Twoje życzenie. Nie mówimy, że sprawdzaliśmy... ale tak, sprawdzaliśmy.
-  </p>
-
-  <h3>🔹 Monastyr Gelati – średniowieczna szkoła z marmurowym klimatem</h3>
-  <p>
-    Kolejny punkt programu to Gelati – wpisany na listę UNESCO, czyli tłumacząc na nasze: „to ważne, nawet jeśli nie wygląda jak Disneyland”. Założony przez króla Dawida Budowniczego (tak, serio tak się nazywał), to miejsce było kiedyś centrum wiedzy i nauki. Teraz to doskonała okazja, żeby pospacerować między murami i zadać sobie pytanie: czemu nie zostałem mnichem?
-  </p>
-
-  <h3>🔹 Przerwa obiadowa na łonie natury – czyli piknik jak z reklamy, ale bez agencji</h3>
-  <p>
-    W drodze powrotnej zatrzymaj się gdzieś przy drodze. Dosłownie. Lokalne sklepy oferują wszystko – chleb lawasz, ser, pomidory i słodkości, które przypominają plastelinę, ale smakują jak niebo. Zrób sobie piknik z widokiem na dolinę i pogadaj z jakimś pasterzem. On powie coś po gruzińsku, Ty się uśmiechniesz – i to wystarczy.
-  </p>
-
-  <h3>🔹 Tajemniczy most kolejowy – nostalgia, rdza i urok w pakiecie</h3>
-  <p>
-    W drodze powrotnej do miasta odwiedź opuszczony most kolejowy, gdzie kiedyś pociągi śmigały z takim rozmachem, że aż śruby drżały. Dziś – tylko Ty, trochę grafitti i aura tajemniczości. Idealne miejsce na zdjęcia, przemyślenia i pytanie „czemu ten most wciąż tu stoi?”. Odpowiedź: bo Gruzja to stan ducha, nie logiki.
-  </p>
-
-  <h3>🔹 Kolacja z powrotem w Kutaisi – powrót do cywilizacji (czyli chinkali)</h3>
-  <p>
-    Wieczorem wracamy na znane rejony – ulica Tsereteli, trochę świateł, trochę chaosu, trochę muzyki z głośnika, który ma więcej basu niż jakości. Siadasz w jednej z ukrytych knajpek, zamawiasz coś, co nie do końca rozumiesz – i to właśnie jest sedno podróżowania. A jak kelner przyniesie litrową butelkę domowego wina „gratis” – nie pytaj, po prostu pij.
-  </p>
-
-  <p><strong>Tip z serca:</strong> Nie bój się skręcać w boczne ścieżki. Czasem najlepsze miejsca nie mają tabliczek. Ani zasięgu. Ani toalety. Ale mają duszę.</p>
-</details>
 
 <details>
   <summary><strong>🗓 Dzień 4 – Dinozaury, szkło i górskie westchnienia</strong></summary>
