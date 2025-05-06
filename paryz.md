@@ -50,158 +50,132 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
  
    <details>
-    <summary><strong>🏰 Città Alta – średniowieczna magia na wzgórzu</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7048° N, 9.6634° E</em></p>
-      <p>
-    Città Alta to taka włoska kapsuła czasu: średniowieczne mury, brukowane uliczki, pachnące focaccie i staruszki w oknach, które znają historię każdej kamienicy (i każdego sąsiada). To właśnie tu bije serce starego Bergamo – choć w praktyce bije nieco wolniej, bo wszyscy się zatrzymują, żeby zrobić zdjęcie, zjeść gelato albo westchnąć „mamooo, jakie to ładne”.
-  </p>
-
-  <p>
-    Można tam dotrzeć pieszo – jeśli lubisz wyzwania, pot i satysfakcję – albo wjechać słynną <strong>kolejką Funicolare</strong>, co jest wersją deluxe dla turystów i ludzi, którzy już dziś zrobili 4000 kroków. Sam przejazd to osobna atrakcja: wagonik skrzypi, ale dzielnie wspina się pod górę, jakby wiedział, że wozi ludzi do bajki.
-  </p>
-
-  <p>
-    Na miejscu znajdziesz wszystko, co włoskie dusze lubią najbardziej: <strong>Piazza Vecchia</strong>, czyli główny plac pełen kawiarenek i architektonicznej poezji, <strong>bazylikę Santa Maria Maggiore</strong>, która wygląda jakby ktoś rozrzucił w niej brokat i sztukaterię bez ograniczeń, a także <strong>Kaplicę Colleoniego</strong> – marmurowe marzenie egocentrycznego kondotiera (ale przyznajmy, gust miał świetny).
-  </p>
-
-  <p>
-    Jeśli chcesz poczuć się jak w filmie, weź espresso, usiądź na ławce i słuchaj dźwięków miasta: dzieci biegających po placu, przewodników opowiadających niestworzone historie i turystów próbujących wymówić „Colleoni” bez śmiechu. A potem zgub się w wąskich uliczkach, bo właśnie tam – za rogiem z suszącym się praniem – kryje się prawdziwy klimat Bergamo.
-  </p>
-
-  <p>
-    <strong>Wskazówka prosto z serca (i żołądka):</strong> nie opuszczaj Città Alta bez spróbowania <em>polenty z mięsnym sosem</em>. W miejscowej wersji jest tak dobra, że możesz na chwilę zapomnieć, jak się mówi „gluten”.
-  </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Spacer darmowy. Widoki – bezcenne.</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>⛪ Piazza Vecchia i Bazylika Santa Maria Maggiore – serce i dusza miasta</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7038° N, 9.6628° E</em></p>
-    
-   <p>
-    Gdyby place miały osobowość, <strong>Piazza Vecchia</strong> byłby starszym dżentelmenem w garniturze z epoki – z filiżanką espresso w jednej ręce i gazetą w drugiej. To serce Città Alta i obowiązkowy przystanek dla każdego turysty, który choć raz powiedział "kocham włoską architekturę", nie odróżniając renesansu od ricotty.
-  </p>
-
-  <p>
-    Plac otoczony jest perełkami – w tym <em>Palazzo della Ragione</em>, średniowiecznym ratuszem, i wieżą Torre Civica, z której dzwony przypominają mieszkańcom, że czas mija (i że kawa stygnie). Na środku placu stoi fontanna Contarinich, przy której codziennie robione są tysiące zdjęć, z czego połowa to selfie z miną „Właśnie znalazłem się w katalogu UNESCO”.
-  </p>
-
-  <p>
-    Idealne miejsce na chwilę kontemplacji, kawę za 4 euro i podsłuchiwanie przewodników tłumaczących, dlaczego ten plac „łączy ducha republikańskiego z architektoniczną czystością”. A Ty po prostu usiądź, zjedz rogalika i udawaj, że rozumiesz.
-  </p>
-
- <p>
-    Bazylika wygląda jak skromna sąsiadka Kaplicy Colleoniego, ale tylko dopóki nie wejdziesz do środka. A żeby było śmieszniej – wejście nie jest przez główne drzwi (bo po co byłoby łatwo), tylko z boku. Takie włoskie „szukaj, a znajdziesz” w wersji sakralnej.
-  </p>
-
-  <p>
-    Wnętrze to czysta barokowa ekstaza. Freski, złote stiuki, rzeźby i misternie rzeźbione drewniane stalle – czyli siedziska, na których chórzyści udają, że nie śpią. Tu naprawdę nie wiadomo, gdzie patrzeć – wszystko krzyczy „ZACHWYĆ SIĘ MNĄ”, a Ty, człowieku, tylko mrugasz oczami i próbujesz nie upuścić szczęki.
-  </p>
-
-  <p>
-    Bazylika powstała w podzięce za ocalenie miasta od zarazy. A patrząc na ten przepych, można podejrzewać, że miasto chciało podziękować naprawdę konkretnie. Co ciekawe, to właśnie tu pochowany jest Donizetti – tak, ten od oper. Gdyby dziś żył, pewnie nagrałby TikToka z wnętrza.
-  </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Bazylika – darmowy (darowizny mile widziane, nawet w drobniakach).</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>🧱 Mury weneckie – UNESCO z widokiem</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7043° N, 9.6645° E</em></p>
-    idna robota i darmowy taras widokowy</h2>
-
-  <p>
-    Gdyby te mury umiały mówić, pewnie westchnęłyby: „Znowu turyści z aparatem…”. Ale nie narzekają, bo od XVI wieku stoją jak stały – dumne, kamienne i wpisane na listę UNESCO (czyli międzynarodowy certyfikat „wow, ale fajne”). <strong>Mury Weneckie</strong> otaczają całą Città Alta i mają ponad 6 kilometrów długości. Idealne na spacer, randkę lub szybki detoks po tiramisu.
-  </p>
-
-  <p>
-    Zbudowane zostały przez Wenecjan – nie z miłości do Bergamo, ale z miłości do strategii wojskowej. Miały chronić miasto przed wrogami, no i chyba się udało, bo dziś jedynym zagrożeniem są turyści z kijkami do selfie i gołębie, które nie mają respektu przed zabytkami.
-  </p>
-
-  <p>
-    Co tu robić? Spacerować! Widoki są spektakularne: z jednej strony panorama Doliny Padu i nowoczesnej części Bergamo, z drugiej – średniowieczne dachy i wieże Città Alta. Idealne miejsce na zdjęcia w stylu „spontaniczne, ale stylizowane”. A jak już się zmęczysz, znajdziesz ławkę z widokiem i zadumasz się nad sensem życia (albo nad tym, gdzie zjeść kolację).
-  </p>
-
-  <p>
-    <strong>Pro tip:</strong> przy zachodzie słońca mury zamieniają się w romantyczny bulwar, który działa lepiej niż aplikacje randkowe. Jeśli tu nie padnie „kocham cię”, to chyba tylko dlatego, że ktoś zagapił się na widok.
-  </p>
-    <ul>
-      <li><strong>Wstęp:</strong> Bezpłatnie – idealne miejsce na spacer i selfie z historią w tle.</li>
-    </ul>
-  </details>
-
-  <details>
-  <summary><strong>🌳 Parco della Rocca – zieleń z widokiem na wieki</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>45.7064° N, 9.6606° E</em></p>
-
-  <p>
-    Jeśli spacerujesz po górnym Bergamo i nagle czujesz, że potrzebujesz oddechu od kamiennych uliczek i barokowych fasad – skieruj kroki do <strong>Parco della Rocca</strong>. To zielona enklawa w samym sercu Città Alta, idealna na piknik, zachwyt, chwilę ciszy albo... romantyczne wyznanie.
-  </p>
-
-  <p>
-    Park znajduje się wokół XIII-wiecznej <strong>Rocca di Bergamo</strong> – dawnej fortecy, która patrzy z góry na miasto z miną „widziałam już wszystko”. Dziś z jej murów rozciąga się jeden z najpiękniejszych widoków na okolicę: dolinę, niższe dzielnice Bergamo, a przy dobrej pogodzie – nawet aż po Alpy!
-  </p>
-
-  <p>
-    Ale Parco della Rocca to nie tylko widoki. To również alejki ocienione drzewami, stare mury, ławeczki (tu warto się zatrzymać), a także małe muzeum wojskowe (Museo Storico). Spacerując tutaj, czujesz się trochę jak w połączeniu ogrodu botanicznego z podręcznikiem historii – w najlepszym tego słowa znaczeniu.
-  </p>
-
-  <ul>
-    <li><strong>Idealne na:</strong> spacer z kawą, zdjęcia panoramiczne, randkę z widokiem lub ucieczkę od tłumu.</li>
-    <li><strong>Wejście:</strong> darmowe (Twój portfel też poczuje ulgę).</li>
-    <li><strong>Jak dojść:</strong> z Piazza Vecchia w górę ulicą Salita della Rocca – kilka minut wspinaczki, ale warto!</li>
-  </ul>
-
-  <p>
-    Parco della Rocca to jedno z tych miejsc, które nie krzyczą "turystyczna atrakcja", a jednak zostają w pamięci. I na zdjęciach. A jeśli usiądziesz tu z focaccią i popatrzysz na zachodzące słońce – istnieje spore ryzyko, że zakochasz się w Bergamo na dobre.
-  </p>
+  <summary><strong>🗼 Wieża Eiffla – czyli żelazna dama wśród atrakcji</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8584° N, 2.2945° E</em></p>
+  <p>Jest jak croissant z Lidla vs. ten z francuskiej piekarni – niby to samo, ale jak się zobaczy na żywo, to zapiera dech. Ma 330 metrów wysokości, wygląda jak kratownica, ale przez ponad 40 lat była najwyższą budowlą świata.</p>
+  <p>Możesz wjechać windą (od 11 € do 28 €, w zależności od piętra i wieku) albo wspiąć się po schodach – wtedy uznasz, że francuskie wino to dobre cardio. Widok? Kosmos. Kolejki? Czasem też.</p>
+  <p><strong>Tip:</strong> Najlepsze zdjęcia zrobisz z placu Trocadéro albo z mostu Bir-Hakeim – i bez tłumu selfie-sticków.</p>
 </details>
 
+<details>
+  <summary><strong>🖼️ Luwr – dom Mony Lisy i miliona selfie</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8606° N, 2.3376° E</em></p>
+  <p>Największe muzeum sztuki na świecie. Tak, większe niż Twoje postanowienie, że "tym razem obejrzę wszystko". Nie obejrzysz. Ale to nic – wystarczy Mona Lisa, Wenus z Milo, Nike z Samotraki i spacer pod szklanymi sufitami.</p>
+  <p>Bilety: ok. 17 € online (warto kupić z wyprzedzeniem). Wnętrze to labirynt, ale oznaczenia są dobre – a zgubienie się między Rembrandtem a mumiami egipskimi to wręcz przywilej.</p>
+  <p><strong>Pro tip:</strong> Wtorki zamknięte. Czwartki otwarte do 21:45 – idealne na nocną randkę ze sztuką.</p>
+</details>
 
-  <details>
-    <summary><strong>🖼️ Accademia Carrara – dla fanów sztuki i ram złoconych</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7070° N, 9.6750° E</em></p>
-    <p>
-      Galeria sztuki, która może nie jest tak znana jak Uffizi, ale zawstydza niejedne europejskie muzea. Botticelli, Raffaello, Bellini i inni klasycy zawieszeni na ścianach w pięknych salach. Nawet jeśli nie jesteś fanem malarstwa – tu docenisz ciszę, klimat i... klimatyzację.
-    </p>
-    <ul>
-      <li><strong>Wstęp:</strong> 10€ normalny</li>
-    </ul>
-  </details>
-  
- <details>
-    <summary><strong>🪦 Cappella Colleoni – grobowiec na bogato</strong></summary>
-    <p><strong>Współrzędne:</strong> 45.7036, 9.6619</p>
-      <p>
-    Kiedy Bartolomeo Colleoni – kondotier, wojownik i mistrz autopromocji – postanowił zbudować sobie grobowiec, nie poszedł w minimalizm. Zamiast prostego nagrobka, zamówił <strong>kaplicę z marmuru, złota i dumy</strong>, wciśniętą z gracją pomiędzy bazylikę a ratusz. Efekt? Jeden z najbardziej ekstrawaganckich grobowców renesansu – bo przecież jak już umierać, to z klasą.
-  </p>
+<details>
+  <summary><strong>⛪ Katedra Notre-Dame – ogień, duchowość i Quasimodo</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8530° N, 2.3499° E</em></p>
+  <p>Choć wciąż trwa odbudowa po pożarze z 2019 roku, fasada nadal robi ogromne wrażenie. Styl gotycki, rozety wielkości mieszkania i duch Wiktora Hugo unoszący się w powietrzu.</p>
+  <p>Wnętrze póki co niedostępne (stan na 2025), ale i tak warto podjechać, przejść się wokół, zrobić zdjęcie z Sekwaną i wyobrazić sobie dzwonnika z książki.</p>
+  <p><strong>Tip:</strong> Zaraz obok znajduje się <strong>Punkt Zero</strong> – symboliczny środek Paryża. Legenda mówi, że kto na nim stanie, ten kiedyś wróci. Albo przynajmniej będzie musiał tu jeszcze raz coś zgubić.</p>
+</details>
 
-  <p>
-    Fasada kaplicy to czysta poezja z różowego i białego marmuru, pełna kolumn, rzeźb i ornamentów – wygląda trochę jak deser lodowy dla architektów. Wnętrze? Nie mniej efektowne – z freskami, które bardziej przypominają pałac niż miejsce wiecznego spoczynku.
-  </p>
+<details>
+  <summary><strong>🎨 Montmartre i bazylika Sacré-Cœur – artyści, schody i widoki</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8867° N, 2.3431° E</em></p>
+  <p>Montmartre to dawna dzielnica bohemy: Picasso, Toulouse-Lautrec, a dziś – uliczni malarze, pamiątki i kręcone uliczki z duszą. Na szczycie czeka śnieżnobiała bazylika Sacré-Cœur, wyglądająca trochę jak tort weselny, ale za to z najlepszym widokiem na Paryż.</p>
+  <p>Wstęp do bazyliki – darmowy, ale wejście na kopułę to 7 € i 300+ schodów. Uwaga na kieszonkowców i naciągaczy z bransoletkami!</p>
+  <p><strong>Pro tip:</strong> Najlepszy klimat złapiesz wcześnie rano lub późnym wieczorem, gdy turyści śpią lub czekają na metro.</p>
+</details>
 
-  <p>
-    I teraz najlepsze: <strong>herb Colleoniego</strong> przedstawia... trzy kule. I tak, legenda głosi, że były to jego... „klejnoty”. Znajdziesz je wszędzie – na fasadzie, na posadzce, w herbach. Jeśli więc zobaczysz trzy kule obok siebie – to nie symbol olimpijski. To Colleoni.
-  </p>
+<details>
+  <summary><strong>🌳 Ogród Luksemburski – klasyczna sielanka z krzesełkiem</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3372° E</em></p>
+  <p>Francuski styl ogrodu spotyka paryski relaks. Studenci, poeci, emeryci i zakochani – wszyscy spotykają się wśród fontann, rzeźb i perfekcyjnie przyciętych żywopłotów.</p>
+  <p>Weź kawę, usiądź na zielonym krześle (wolno!) i przez godzinę udawaj, że czytasz „Egzystencjalizm to humanizm”. Idealne miejsce na reset i karmienie kaczuszek.</p>
+  <p><strong>Tip:</strong> W weekendy często grają muzycy – i to tacy bez autotune'a. Sprawdź!</p>
+</details>
 
-  <p>
-    Dla Włochów to ważne miejsce kultu sztuki. Dla turystów – najlepszy przykład, jak z pompy zrobić arcydzieło. Dla Ciebie – obowiązkowy punkt programu i idealne tło do żartobliwego selfie w stylu "To też bym sobie zrobił, gdybym miał armię i renesans".
-  </p>
- </details>
+<details>
+  <summary><strong>🧱 Łuk Triumfalny – Napoleon miał rozmach</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8738° N, 2.2950° E</em></p>
+  <p>Symbol zwycięstwa, megalomanii i najtrudniejszego ronda świata. Powstał z rozkazu Napoleona, żeby uczcić jego armie – i trochę siebie też. Ma 50 metrów wysokości i świetny taras widokowy, z którego Paryż wygląda jak geometryczna układanka.</p>
+  <p>Wstęp na górę: ok. 13 €. Wjazd windą lub (dla śmiałków) schodami. Pod spodem płonie Wieczny Płomień ku czci Nieznanego Żołnierza – idealny moment na chwilę zadumy między selfie.</p>
+  <p><strong>Tip:</strong> Nie próbuj przebiegać przez rondo. Serio. Użyj podziemnego przejścia!</p>
+</details>
 
-  <details>
-    <summary><strong>🏛️ GAMeC – nowoczesność w kontrze do renesansu</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7072° N, 9.6745° E</em></p>
-    <p>
-      Bergamo nie żyje tylko przeszłością! Tuż obok Carrary znajduje się <strong>Galleria d'Arte Moderna e Contemporanea</strong> – czyli GAMeC. Instalacje, performance’y, wideoart – to galeria, która mówi: „Zatrzymaj się i pomyśl”. Albo przynajmniej: „Zatrzymaj się i zdziw się”.
-    </p>
-    <ul>
-      <li><strong>Wstęp:</strong> 7€ normalny</li>
-    </ul>
-  </details>
+<details>
+  <summary><strong>📚 Dzielnica Łacińska – studencki klimat z kawą w tle</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8494° N, 2.3458° E</em></p>
+  <p>Kiedyś centrum intelektualne Europy, dziś raj dla bohemy, studentów i łowców tanich crêpes. Spaceruj po wąskich uliczkach, zrób przerwę w kawiarni z duszą i wpadnij do legendarnej księgarni Shakespeare & Company.</p>
+  <p>Znajdziesz tu też Sorbonę, Ogród Luksemburski (jeśli jeszcze nie byłeś) i masę knajpek, gdzie za 12 € zjesz coś, co wygląda jak danie z Michelin – przynajmniej na Instagramie.</p>
+  <p><strong>Tip:</strong> Wieczorami bywa tłoczno, ale magicznie. I nie bój się zbłądzić – tutaj każda uliczka to mini-przygoda.</p>
+</details>
+
+<details>
+  <summary><strong>🎨 Musée d'Orsay – impresjonizm na sterydach</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8599° N, 2.3266° E</em></p>
+  <p>Jeśli Luwr to szef wszystkich szefów, d'Orsay to jego bardziej zrelaksowany brat artysta. Mieści się w starej stacji kolejowej i wygląda jak filmowy plan. W środku: Van Gogh, Monet, Renoir, Degas, Gauguin… aż kręci się w głowie.</p>
+  <p>Wstęp: 16 € (online), pierwsza niedziela miesiąca – za darmo! A widok z wielkiego zegara na Montmartre? Bezcenny.</p>
+  <p><strong>Pro tip:</strong> Idealne muzeum, jeśli masz dość tłumów Luwru, ale nadal chcesz pokazać, że masz gust.</p>
+</details>
+
+<details>
+  <summary><strong>🪦 Cmentarz Père-Lachaise – śmierć nigdy nie była tak stylowa</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8614° N, 2.3933° E</em></p>
+  <p>Tak, to cmentarz. Ale nie byle jaki. Tu spoczywają m.in. Chopin, Jim Morrison, Édith Piaf, Oscar Wilde (jego grób to całe widowisko). Nagrobki jak z filmów Tima Burtona, cicha zaduma i zaskakująco romantyczny klimat.</p>
+  <p>Wstęp: darmowy. Mapa – obowiązkowa (albo dobra bateria i Google Maps). Idealne miejsce na spacer z refleksją i gotycką nutą.</p>
+  <p><strong>Tip:</strong> Nie całuj grobu Wilde’a – naprawdę. Postaw kwiatka albo zrób mema. XXI wiek.</p>
+</details>
+
+<details>
+  <summary><strong>🚤 Kanał Saint-Martin – hipsteriada nad wodą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8710° N, 2.3645° E</em></p>
+  <p>Jeśli chcesz zobaczyć Paryż poza pocztówką – oto on. Miejscowi piknikują tu nad wodą, popijają wino (w kartonie, ale z klasą) i grają na gitarze. Mostki, śluzy, graffiti i zero wieży Eiffla – czyli to, czego nie pokazuje się turystom z autokaru.</p>
+  <p>Latem panuje tu vibe berlińskiej dzielnicy Kreuzberg, zimą: trochę mniej ludzi, ale klimat nadal boho.</p>
+  <p><strong>Tip:</strong> Świetne miejsce na tanie śniadanie „na trawie” lub wieczorny chill bez zadęcia.</p>
+</details>
+
+<details>
+  <summary><strong🏛️> Panteon – świątynia francuskiej dumy</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3459° E</em></p>
+  <p>Wygląda jak rzymski oryginał, ale to paryski odpowiednik miejsca, gdzie chowa się słynnych Francuzów. Leżą tu m.in. Voltaire, Rousseau, Victor Hugo, Marie Curie, a nawet Alexandre Dumas – same literacko-naukowe tuzy.</p>
+  <p>W środku zobaczysz monumentalne malowidła, kryptę i… ogromne wahadło Foucaulta, które udowadnia, że Ziemia się kręci. (Zawsze warto to potwierdzić, zwłaszcza po winie).</p>
+  <p><strong>Wstęp:</strong> 13 € (albo darmowy pierwszy niedzielny w miesiącu, jak zawsze).</p>
+</details>
+
+<details>
+  <summary><strong>🏝️ Wyspa św. Ludwika – romantyzm na kamieniu</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8513° N, 2.3572° E</em></p>
+  <p>Mniejsza siostra Wyspy Cité, ale za to bardziej kameralna i z klasą. Idealna na spacer bez tłumów i lodowe szaleństwo w kultowej lodziarni Berthillon (serio, te sorbety mają własnych fanów).</p>
+  <p>Stare kamienice, brukowane uliczki, małe galerie i wrażenie, że nagle jesteś w innym stuleciu. Zero Wieży Eiffla, ale za to 100% klimatu.</p>
+  <p><strong>Tip:</strong> Weź kawę na wynos i znajdź miejsce z widokiem na Sekwanę. Zazdrość przechodniów gwarantowana.</p>
+</details>
+
+<details>
+  <summary><strong>⚔️ Pałac Inwalidów – marmur, wojna i Napoleon</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8566° N, 2.3126° E</em></p>
+  <p>Kiedyś szpital dla weteranów, dziś skarbnica militariów i mauzoleum Napoleona. Jego sarkofag to wielki czerwony monument, który mówi: "Zobaczcie, jak bardzo mnie trzeba było uczcić".</p>
+  <p>Muzeum Wojska ma wszystko – od średniowiecznych mieczy po rakiety (takie, co kiedyś leciały, nie odpalane w Fortnite). Dla fanów historii – raj.</p>
+  <p><strong>Wstęp:</strong> ok. 15 €. Ulgowy dla fanów Imperium.</p>
+</details>
+
+<details>
+  <summary><strong>🌀 Centre Pompidou – sztuka nowoczesna i rury na wierzchu</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8606° N, 2.3522° E</em></p>
+  <p>Wygląda jak fabryka – i to specjalnie. Rury, windy, instalacje – wszystko na zewnątrz. W środku? Jedna z najlepszych kolekcji sztuki nowoczesnej w Europie: Kandinsky, Duchamp, Picasso, i wielu "niezrozumiałych, ale ważnych".</p>
+  <p>Na dachu: panoramka na Paryż. W środku: czasem zachwyt, czasem konsternacja, ale zawsze temat do rozmowy.</p>
+  <p><strong>Wstęp:</strong> 15 €, ale widok z tarasu jest często wart więcej niż same instalacje (no offense, artyści).</p>
+</details>
+
+<details>
+  <summary><strong>💃 Moulin Rouge – kabaret, pióra i czerwony wiatrak</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8841° N, 2.3325° E</em></p>
+  <p>Ikona Montmartre’u i całej paryskiej nocy. Tu narodził się kankan i tu co wieczór występują panie (i panowie) w piórach, cekinach i zerowym poziomie wstydu. Bilety kosztują tyle, co weekend w hostelu – ale show to czysta rozrywka z nutą retro luksusu.</p>
+  <p>Nie musisz wchodzić – sam czerwony wiatrak to świetna fototapeta z epoki absurdu i kabaretu.</p>
+  <p><strong>Tip:</strong> W okolicy trochę „dorosłych” lokali – nie zgub się, jeśli szukasz crêpes, a trafisz na peep-show.</p>
+</details>
+
+<details>
+  <summary><strong>🌳 Pola Elizejskie – najdroższy spacer świata</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8688° N, 2.3075° E</em></p>
+  <p>Od Łuku Triumfalnego po Plac Zgody – 2 km elegancji, sklepów, luksusu i turystów z selfie-stickami. Możesz tu kupić garnitur za 5000 € albo frytki za 12 €. Twoja decyzja.</p>
+  <p>Najlepiej odwiedzić wieczorem, kiedy wszystko świeci jak choinka na sterydach. Mimo komercji – coś w tym deptaku jest magicznego.</p>
+  <p><strong>Tip:</strong> Nie wchodź do McDonald's. Tak, nawet jeśli ma pozłacane logo.</p>
+</details>
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
