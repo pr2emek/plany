@@ -325,161 +325,136 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
 <details>
-  <summary><strong>🗓 Dzień 1 – Pierwsze koty za płoty (i pierwszy chaczapuri na talerzu)</strong></summary>
+  <summary><strong>🗺️ Plan zwiedzania Tbilisi – 1 dzień intensywnej miłości</strong></summary>
+  <p>Masz tylko jeden dzień, a Tbilisi kusi każdą uliczką? Spokojnie – oto gotowy plan, który pozwoli Ci poczuć miasto, zrobić zdjęcia życia i jeszcze zdążyć na kolację z widokiem.</p>
 
-  <h3>🔹 Start: Plac Centralny i Fontanna Kolchidy</h3>
-  <p>
-    Zacznijmy tam, gdzie wszyscy zaczynają... nawet jeśli nie mają pojęcia, dokąd iść dalej. Fontanna Kolchidy to taki kutaiski odpowiednik Times Square, tylko zamiast neonów mamy złote (no, prawie) konie, barana i inne cuda, które wyglądają jakby zleciały z nieba – a może z mitologii. Zrób sobie selfie, udawaj, że znasz się na sztuce, i kieruj się dalej.
-  </p>
+  <ol>
+    <li><strong>☕ 9:00 – Śniadanie w okolicach Rustaveli</strong><br>
+      Zacznij dzień od dobrej kawy i chaczapuri – polecam np. <em>Entree</em> lub <em>Stamba Cafe</em>. Stylowo i smacznie, z lokalnym klimatem.
+    </li>
 
-  <h3>🔹 Biały Most (który jest biały, ale nie do końca)</h3>
-  <p>
-    Most jak most – można przejść, można się zatrzymać i popatrzeć na rzekę Rioni, która płynie tu od tysięcy lat i nadal się nie znudziła. Uwaga: nie patrz w dół, jeśli masz lęk wysokości, i nie patrz za długo w górę, bo zignorujesz piękne murale obok. Po prawej – kawiarnie, po lewej – nic nie ma. A w środku – Ty, zachwycony swoim życiem.
-  </p>
+    <li><strong>⛪ 10:00 – Katedra Świętej Trójcy (Sameba)</strong><br>
+      Przejdź (albo złap Bolt) na wzgórze z największą katedrą w Gruzji. Zrób wielkie oczy, potem zdjęcie, a potem znów wielkie oczy. Warto!
+    </li>
 
-  <h3>🔹 Katedra Bagrati – czyli świętość z widokiem</h3>
-  <p>
-    Pora na trochę podniosłej atmosfery. Katedra Bagrati stoi sobie dumnie na wzgórzu, jakby chciała powiedzieć: „Patrzcie, jeszcze tu jestem!”. Widok z góry? Sztos. Historia? Tysiącletnia. Remont? Wieczny. Ale mimo wszystko warto – nie tylko dla selfie, ale też dla chwili refleksji, czy może jednak chcesz zostać mnichem z widokiem.
-  </p>
+    <li><strong>🏰 11:30 – Spacer przez stare miasto</strong><br>
+      Ulica Shardeni, murale, koty, galerie, wąskie uliczki i ogólny poziom uroku ponad normę. To idealny moment, by zgubić się na chwilę z zachwytem.
+    </li>
 
-  <h3>🔹 Obiadek czas start – Restauracja <em>Palaty</em> albo <em>Baraka</em></h3>
-  <p>
-    Chinkali, chaczapuri, lobiani – i to wszystko z widokiem na ulicę, którą co chwilę przejeżdża marszrutka trąbiąca jakby ogłaszała koniec świata. Ale to nie szkodzi. Jedzenie? Boskie. Obsługa? Miła, ale nie nachalna. A ceny? Zaskakująco ludzkie. Po takim posiłku będziesz gotów na dalsze eksploracje lub krótką drzemkę (która czasem zmienia się w długą).
-  </p>
+    <li><strong>🧖 12:30 – Abanotubani – dzielnica łaźni</strong><br>
+      Przespaceruj się wśród kopuł łaźni siarkowych, wejdź do jednej (np. Orbeliani – najładniejsza!) albo po prostu usiądź na ławeczce i kontempluj zapach siarki i życie.
+    </li>
 
-  <h3>🔹 Murale i sekretne przejścia przy ul. Tsereteli</h3>
-  <p>
-    Tu wchodzimy w klimaty street-artowo-detektywistyczne. Murale Kutaisi to nie tylko babcia z wielkim spojrzeniem i mural z samowarem – to całe mini-muzeum na świeżym powietrzu. Zajrzyj w bramy, podejdź do starych kamienic, powąchaj trochę historii (i kotów), i zobacz, co kryje się za niepozornymi drzwiami. Hint: czasem to kawiarnia, czasem warsztat, czasem... pustka.
-  </p>
+    <li><strong>👁️ 13:30 – Narikala + Matka Gruzji</strong><br>
+      Wjazd kolejką linową z parku Rike (bilet śmiesznie tani), potem spacer do twierdzy i obowiązkowe selfie z Kartlis Deda – Matką Gruzji z winem i mieczem (czyli jak każda dobra impreza).
+    </li>
 
-  <h3>🔹 Wieczór: Kawa w jednej z ukrytych kawiarni</h3>
-  <p>
-    Dzień kończymy w stylu bohemy – kawa, deser i koniecznie stolik z widokiem na nic konkretnego. Może to być <strong>Museum Cafe</strong> albo jakaś bezimienna kawiarnia, o której wiedzą tylko miejscowi i babcia, która tam codziennie szydełkuje. Zamów kawę, udawaj, że piszesz powieść i zakończ dzień z przekonaniem, że Kutaisi to całkiem niezłe miejsce do życia. Choćby przez trzy dni.
-  </p>
+    <li><strong>🥙 14:30 – Obiad w starej dzielnicy</strong><br>
+      Polecam <em>Pasanauri</em> albo <em>Machakhela</em> – klasyczna kuchnia gruzińska: chinkali, chaczapuri, lobio i ewentualnie drzemka po jedzeniu (na chwilę!).
+    </li>
+
+    <li><strong>🎭 16:00 – Teatr Rezo Gabriadze i Zegarowa Wieża</strong><br>
+      Zobacz pokaz kukiełek (co godzinę) i zanurz się w bajkowy świat mistrza Rezo. Niezwykłe, klimatyczne i fotogeniczne miejsce.
+    </li>
+
+    <li><strong>🚠 17:00 – Funikular na Mtatsmindę</strong><br>
+      Wjedź kolejką na wzgórze, obejrzyj miasto z góry, przejdź się po lunaparku, a może nawet skusisz się na diabelski młyn? Widok – petarda.
+    </li>
+
+    <li><strong>🍽️ 19:00 – Kolacja z widokiem</strong><br>
+      Na górze Mtatsminda znajdziesz restaurację z tarasem i widokiem na całe miasto. Idealne miejsce na koniec dnia. Gruzińskie wino obowiązkowe!
+    </li>
+
+    <li><strong>🌉 21:00 – Spacer przez Most Pokoju</strong><br>
+      Wracając, przejdź przez futurystyczny most nad rzeką. Wieczorem świeci się jak choinka na dopalaczach – Instagram to doceni.
+    </li>
+  </ol>
+
+  <p><em>Ten plan łączy wszystko: historię, panoramy, jedzenie, klimatyczne zaułki i trochę śmiechu. Jeśli masz tylko jeden dzień – to naprawdę wystarczy, by się zakochać w Tbilisi. A jeśli masz dwa? Powtórz!</em></p>
 </details>
 
-  <details>
-  <summary><strong>🗓 Dzień 2 – W góry, do jaskiń i lekko poza zasięg Wi-Fi</strong></summary>
 
-  <h3>🔹 Start: Kanion Okatse – czyli natura robi pokaz</h3>
-  <p>
-    Zaczynamy z grubej rury. Kanion Okatse to taka naturalna wersja parku linowego, tylko zamiast linek masz mosty i ścieżki zawieszone nad przepaścią. Trochę adrenaliny, trochę potu, sporo „ooo” i „ło matko”. Uwaga: selfie z barierki tylko dla ludzi z dobrą równowagą i silnym Wi-Fi (bo zasięg tu to temat rzeka). Buty? Wygodne. Nastrój? Podziw plus zadyszka.
-  </p>
+<details>
+  <summary><strong>🌄 Plan zwiedzania Tbilisi – dzień 2: lokalnie, zielono i z twistem</strong></summary>
+  <p>Drugi dzień w Tbilisi? Doskonale! Teraz czas zejść z utartych szlaków i dać się ponieść... trochę bardziej <em>po gruzińsku</em>. Spokojniej, lokalniej, ale z równie wielkim „wow”.</p>
 
-  <h3>🔹 Prometeusz? Zobaczymy, co tam ukrywał – Jaskinie Prometeusza</h3>
-  <p>
-    Po kanionie czas na wnętrze ziemi. Jaskinie Prometeusza to nie tylko woda, stalaktyty i przewodnik, który mówi szybciej niż Google Translate – to też łódka! Tak, na końcu pływa się łódką w podziemnym klimacie jak z filmów przygodowych klasy B. Kolorowe światła? Są. Akustyka? Idealna do rozważań egzystencjalnych. Kask? Na szczęście nie trzeba.
-  </p>
+  <ol>
+    <li><strong>🥐 9:00 – Śniadanie w Vera District</strong><br>
+      Mniej turystów, więcej kawiarni z duszą. Zatrzymaj się w <em>Hurma</em> albo <em>Fabrika</em> na hipsterskie, ale pyszne śniadanie (tak, z awokado też się da!).
+    </li>
 
-  <h3>🔹 Przerwa na lunch – Rustaveli Restaurant albo piknik z widokiem</h3>
-  <p>
-    Teraz czas coś zjeść. Jeśli wracasz do miasta – Rustaveli Restaurant. Jeśli zostałeś gdzieś w okolicach – polecamy lokalny market, trochę sera, chleb i pomidory większe niż Twoja dłoń. Zjeść to można gdziekolwiek, bo w Gruzji wszystko smakuje lepiej z widokiem i lekkim kurzem na spodniach.
-  </p>
+    <li><strong>🖼️ 10:00 – Muzeum Etnograficzne na świeżym powietrzu</strong><br>
+      Spacer po miniaturach gruzińskich wiosek, domków, młynów i wież z całego kraju. Super spokojne miejsce, pełne zieleni i autentycznego klimatu. Idealne, jeśli lubisz etnografię lub... drewniane chałupy.
+    </li>
 
-  <h3>🔹 Wieczór: Powrót do Kutaisi i relaks (czyt. wino i chinkali)</h3>
-  <p>
-    Dzień kończymy tradycyjnie: kieliszek wina, może dwa. Na stole coś lokalnego, rozmowy z przypadkowym Niemcem, który rzucił pracę w korporacji i teraz zbiera zioła w Swanetii. Kutaisi wie, jak zamykać dzień – bez pośpiechu, z humorem i lekko niechlujnym toastem: <em>gaumarjos!</em>
-  </p>
-</details>
+    <li><strong>🏞️ 12:00 – Jezioro Żółwia (Turtle Lake)</strong><br>
+      Piękne miejsce na relaks – spacer wokół jeziora, kajaczek albo kawa z widokiem. Miejscowi tu biegają i czytają książki, Ty możesz się powłóczyć i odpocząć.
+    </li>
 
-  <details>
-  <summary><strong>🗓 Dzień 3 – Ucieczka z miasta: tajemnicze monastyry i droga bez końca</strong></summary>
+    <li><strong>🍛 13:30 – Obiad w okolicach Vake</strong><br>
+      Czas na gruziński street food z twistem! Spróbuj <em>Racha Dukhan</em> – klimatyczna, lokalna knajpka z konkretnym żarciem, jak u babci (jeśli babcia była z Kachetii).
+    </li>
 
-  <h3>🔹 Start: Śniadanie w Kutaisi – czyli „jeszcze jedną chaczapuri, proszę”</h3>
-  <p>
-    Zaczynamy dzień na miękko. Śniadanie gdzieś przy ulicy Rustaveli – kawa, ciasto z orzechami i świadomość, że znów zjadasz 1500 kalorii jeszcze przed 10:00. Ale nie szkodzi – dziś spalisz je wśród mnichów, lasów i kamieni, które mają więcej historii niż niejeden doktorat.
-  </p>
+    <li><strong>🛍️ 15:00 – Spacer po Fabrika</strong><br>
+      Dawna fabryka, dziś artystyczny kompleks z murami pokrytymi street-artem, butikami, second-handami, kawiarniami i klimatem typu "berliński loft spotyka Tbilisi". Można tu kupić coś autentycznego i nie-kiczowatego na pamiątkę.
+    </li>
 
-  <h3>🔹 Monastyr Motsameta – mistycznie, zielono i prawie jak w „Władcy Pierścieni”</h3>
-  <p>
-    Rzut kamieniem od Kutaisi (ok. 15 minut taksówką lub marszrutką, jeśli lubisz adrenalinkę), a nagle jesteś w zupełnie innym świecie. Czerwony dach, klif, rzeka pod spodem i cisza taka, że słychać własne myśli (albo bzyczenie komara). Podobno jeśli przeczołgasz się pod ołtarzem, spełni się Twoje życzenie. Nie mówimy, że sprawdzaliśmy... ale tak, sprawdzaliśmy.
-  </p>
+    <li><strong>🏛️ 16:00 – Pałac Prezydencki i okolice</strong><br>
+      Nie da się wejść do środka, ale warto zobaczyć nowoczesny budynek, szklane kopuły i okolice – trochę inne oblicze Tbilisi, futurystyczne i kontrastowe.
+    </li>
 
-  <h3>🔹 Monastyr Gelati – średniowieczna szkoła z marmurowym klimatem</h3>
-  <p>
-    Kolejny punkt programu to Gelati – wpisany na listę UNESCO, czyli tłumacząc na nasze: „to ważne, nawet jeśli nie wygląda jak Disneyland”. Założony przez króla Dawida Budowniczego (tak, serio tak się nazywał), to miejsce było kiedyś centrum wiedzy i nauki. Teraz to doskonała okazja, żeby pospacerować między murami i zadać sobie pytanie: czemu nie zostałem mnichem?
-  </p>
+    <li><strong>🌳 17:00 – Rike Park</strong><br>
+      Zielona oaza z fontannami, alejkami i futurystycznym budynkiem sali koncertowej (wygląda jak dwa ogromne tuby z kosmosu). Idealne miejsce na popołudniowe wylegiwanie się w cieniu.
+    </li>
 
-  <h3>🔹 Przerwa obiadowa na łonie natury – czyli piknik jak z reklamy, ale bez agencji</h3>
-  <p>
-    W drodze powrotnej zatrzymaj się gdzieś przy drodze. Dosłownie. Lokalne sklepy oferują wszystko – chleb lawasz, ser, pomidory i słodkości, które przypominają plastelinę, ale smakują jak niebo. Zrób sobie piknik z widokiem na dolinę i pogadaj z jakimś pasterzem. On powie coś po gruzińsku, Ty się uśmiechniesz – i to wystarczy.
-  </p>
+    <li><strong>🍷 18:30 – Degustacja wina gruzińskiego</strong><br>
+      Wpadnij do winiarni <em>8000 Vintages</em> lub <em>g.Vino</em> – poproś o coś z kwewri, zamów talerz serów i pozwól sobie na chwilę filozoficznego zamyślenia nad terroirem Kachetii.
+    </li>
 
-  <h3>🔹 Tajemniczy most kolejowy – nostalgia, rdza i urok w pakiecie</h3>
-  <p>
-    W drodze powrotnej do miasta odwiedź opuszczony most kolejowy, gdzie kiedyś pociągi śmigały z takim rozmachem, że aż śruby drżały. Dziś – tylko Ty, trochę grafitti i aura tajemniczości. Idealne miejsce na zdjęcia, przemyślenia i pytanie „czemu ten most wciąż tu stoi?”. Odpowiedź: bo Gruzja to stan ducha, nie logiki.
-  </p>
+    <li><strong>🎶 20:00 – Kolacja z muzyką na żywo</strong><br>
+      Tbilisi wieczorem brzmi i smakuje jeszcze lepiej. Poszukaj restauracji z lokalną muzyką – np. <em>Ethno Tsiskvili</em> lub <em>Azarphesha</em> – i pozwól, by dzień zakończył się tańcem albo przynajmniej kołysaniem w rytm panduri.
+    </li>
+  </ol>
 
-  <h3>🔹 Kolacja z powrotem w Kutaisi – powrót do cywilizacji (czyli chinkali)</h3>
-  <p>
-    Wieczorem wracamy na znane rejony – ulica Tsereteli, trochę świateł, trochę chaosu, trochę muzyki z głośnika, który ma więcej basu niż jakości. Siadasz w jednej z ukrytych knajpek, zamawiasz coś, co nie do końca rozumiesz – i to właśnie jest sedno podróżowania. A jak kelner przyniesie litrową butelkę domowego wina „gratis” – nie pytaj, po prostu pij.
-  </p>
-
-  <p><strong>Tip z serca:</strong> Nie bój się skręcać w boczne ścieżki. Czasem najlepsze miejsca nie mają tabliczek. Ani zasięgu. Ani toalety. Ale mają duszę.</p>
+  <p><em>Dzień 2 to Tbilisi z innej strony: bardziej artystyczne, bardziej zielone, z domieszką winnego relaksu. Mniej „must see”, więcej „must feel”. I oto chodzi!</em></p>
 </details>
 
 <details>
-  <summary><strong>🗓 Dzień 4 – Dinozaury, szkło i górskie westchnienia</strong></summary>
+  <summary><strong>🚌 Wycieczka do Mcchety – duchowość, widoki i chinkali</strong></summary>
+  <p>Jeśli masz trzeci dzień w Tbilisi i chcesz oderwać się od miejskiego zgiełku – <strong>Mccheta</strong> to idealna opcja. 20 km od stolicy, ale jakbyś przeniósł się w czasie. I to z widokiem na dwa spotykające się potężnie rzeki!</p>
 
-  <h3>🦕 Park Sataplia</h3>
-  <p>
-    Gdzie indziej możesz postawić stopę tam, gdzie miliony lat temu stąpał dinozaur? Park Sataplia to miks jaskiniowej tajemnicy, prehistorycznych śladów i przeszklonego tarasu widokowego, na którym nogi drżą nie tylko z wrażenia. W cenie biletu: ślady dino, jaskinia z dyskotekowym oświetleniem i panorama, która odbiera mowę nawet najbardziej wygadanemu turyście.
-  </p>
+  <h4>📍 Jak dojechać?</h4>
+  <ul>
+    <li><strong>🚖 Bolt/taksówka:</strong> Najszybszy sposób. Koszt ok. 20–30 GEL w jedną stronę. Warto dogadać się z kierowcą na kurs w obie strony z czekaniem.</li>
+    <li><strong>🚐 Marszrutka:</strong> Odjeżdża z <em>Didube Station</em>, koszt: 1 GEL. Klimat lekko PRL, ale działa.</li>
+    <li><strong>🚗 Wynajem auta:</strong> Jeśli chcesz połączyć Mcchetę z innymi atrakcjami, jak np. klasztor Shio-Mgvime – warto.</li>
+  </ul>
 
-  <h3>🥾 Spacer po rezerwacie Sataplia</h3>
-  <p>
-    Po zejściu z tarasu warto się nie spieszyć. Rezerwat otaczający park to gęsty las z pachnącymi drzewami, śpiewem ptaków i trasami spacerowymi, które są tak spokojne, że aż podejrzane. Co jakiś czas trafiasz na tabliczkę informacyjną, z której dowiadujesz się, że ten mech jest starszy niż Twoja babcia.
-  </p>
+  <h4>🕍 Co zobaczyć w Mcchecie?</h4>
+  <ol>
+    <li><strong>⛪ Katedra Sweti Cchoweli (⚲ 41.8426° N, 44.7203° E)</strong><br>
+      Monumentalna świątynia z XI wieku, miejsce koronacji i pochówku gruzińskich królów. Podobno pod nią znajduje się Szata Chrystusa. Mistycznie i monumentalnie – nie zapomnij długiej spódnicy lub chusty (na miejscu można pożyczyć).</li>
 
-  <h3>🍽️ Lunch w lokalnej restauracji w pobliżu Sataplii</h3>
-  <p>
-    Gdzieś po drodze – czasem przy głównej, czasem za płotem – znajdziesz knajpkę, gdzie serwują chaczapuri większe niż Twoja głowa i lemoniadę tak naturalną, że sokowirówka powinna dostać za nią Oscara. Miejsce zależy od tego, gdzie zboczysz – ale zasada prosta: im bardziej niepozorne, tym smaczniejsze.
-  </p>
+    <li><strong>🏞️ Monastyr Dżwari (⚲ 41.8445° N, 44.7188° E)</strong><br>
+      Położony na wzgórzu nad zbiegiem rzek Aragwi i Mtkwari – panorama jak z pocztówki. Nazwa „Dżwari” oznacza „Krzyż” – i rzeczywiście, duchowość czuć tu na kilometr. Dojazd: pieszo z Mcchety (dość pod górę!) albo podjazd autem.</li>
 
-  <h3>🏛️ Niko Berdzenishvili Kutaisi State Historical Museum</h3>
-  <p>
-    Wracając do miasta, zajrzyj do muzeum, w którym zgromadzono więcej artefaktów niż w piwnicy Twojej babci. Starożytne monety, ceramika, ubrania, a nawet ikony, które pamiętają jeszcze czasy, gdy selfie robiło się dłutem na kamieniu. Idealne miejsce, żeby odpocząć w klimatyzacji i udawać, że znasz się na historii.
-  </p>
+    <li><strong>🚶 Spacer po starym mieście</strong><br>
+      Kolorowe domki, rękodzieło, domowe przetwory i… mnóstwo miejscowych babć handlujących orzechami w winogronowym soku. Trochę kiczu, ale uroku nie da się odmówić.</li>
+  </ol>
 
-  <h3>🍦 Chwila relaksu w parku przy fontannie Kolchidy</h3>
-  <p>
-    Po takiej dawce wiedzy – należna nagroda. Weź lody (albo lokalne ciastko z nazwą, której nie umiesz wymówić) i usiądź przy fontannie Kolchidy. Złote posągi błyszczą jak biżuteria w tureckim serialu, a dzieci ganiają się między ławkami, jakby grawitacja była tylko sugestią. To miejsce ma klimat małego kurortu – tylko bez tłumów.
-  </p>
+  <h4>🍴 Gdzie zjeść?</h4>
+  <p>W samym centrum znajdziesz kilka świetnych restauracji – polecam:</p>
+  <ul>
+    <li><strong>Salobie:</strong> tanio, lokalnie, <em>lobio w glinianym garnku</em> i chleb z pieca toné – poezja.</li>
+    <li><strong>Old Capital:</strong> bardziej "turystycznie", ale solidnie – świetne chinkali i widok na katedrę.</li>
+  </ul>
 
-  <p><strong>Tip z serca:</strong> Weź wygodne buty, zapas wody i trochę gotówki – w okolicach Sataplii kartą zapłacisz co najwyżej za dobre intencje.</p>
+  <h4>⏱️ Ile czasu zarezerwować?</h4>
+  <p>Cała wycieczka zajmie Ci ok. 5–6 godzin, czyli idealnie na pół dnia. Można wrócić do Tbilisi na kolację… albo zostać na zachód słońca na wzgórzu przy Dżwari i mieć widok jak z filmu przyrodniczego z narracją Davida Attenborougha.</p>
+
+  <p><em>Mccheta to nie tylko historia i duchowość – to miejsce, które pokazuje, czym Gruzja była i nadal jest. I chociaż to tylko 20 kilometrów od Tbilisi, mentalnie jesteś 2000 lat wstecz. W najlepszym możliwym sensie.</em></p>
 </details>
 
-
- <details>
-  <summary><strong>🗓 Dzień 5 – Plusk, chlup, och i ach: wodna strona Kutaisi</strong></summary>
-
-  <h3>🔹 Start: kawa z widokiem na Rioni</h3>
-  <p>
-    Zaczynamy leniwie – kawa z widokiem na rzekę Rioni. To ta, która dzieli Kutaisi na dwie części i próbuje udawać Sekwanę, tylko z mniejszą ilością mostów i większą ilością prania suszącego się na balkonie. Idealne tło do porannego „nicnierobienia”.
-  </p>
-
-  <h3>🔹 Wypad nad jezioro Lajlashi – czyli gruzińskie Malediwy (z mniejszą ilością kokosów)</h3>
-  <p>
-    Lajlashi to perła ukryta w górach Raczy, oddalona od Kutaisi o jakieś 2–2,5 godziny jazdy autem (więc najlepiej wypożyczyć furę albo złapać kierowcę z chęcią przygody). Co w tym jeziorze takiego szczególnego? Turkusowa woda, mini-wyspy i klimat „rajskiego końca świata”, który wynagradza każdą minutę drogi. Miejscowi kąpią się tu, grillują i zapraszają do stołu ludzi, których znają od 3 minut. Czyli Ciebie.
-  </p>
-
-  <h3>🔹 Alternatywa bliżej: wodospady Kinchkha i okoliczne kąpieliska</h3>
-  <p>
-    Jeśli nie chcesz się bujać tak daleko, to kierunek: wodospad Kinchkha. Około godzina drogi, a widoki – jak z reklamy dezodorantu „dla mężczyzn aktywnych”. Woda spada z 70 metrów, otacza Cię las, śpiewają ptaki i komary próbują dołączyć do obiadu. Plus bonus – naturalne zbiorniki wodne, w których możesz się wykąpać (zimno? Pewnie. Ale jakże instagramowo).
-  </p>
-
-  <h3>🔹 Obiad po drodze – chinkali na świeżym powietrzu</h3>
-  <p>
-    Po takich atrakcjach czas na nagrodę. Znajdziesz lokalne knajpki przy drodze – takie z plastikowymi stołami i babcią w kuchni. To te najlepsze. Zamawiasz chinkali, grillowaną rybę (jeśli mają) i wodę… znaczy wino. I nie, nie pytaj, co to za ryba. Po prostu jedz.
-  </p>
-
-  <h3>🔹 Powrót przez zachód słońca – obowiązkowo!</h3>
-  <p>
-    Nieważne, czy wracasz z jeziora czy spod wodospadu – złap zachód słońca nad Rioni. Niebo robi się tu różowo-fioletowe jak waty cukrowe na festynie, a miasto na chwilę wygląda jak z bajki. Idealne na zakończenie dnia, zanim znów wpadniesz w objęcia gruzińskiej kuchni i nieplanowanej supry.
-  </p>
-
-  <p><strong>Tip z serca:</strong> Weź klapki, ręcznik i luz. Dzień nad wodą nie wymaga perfekcji – tylko odrobiny słońca i odwagi do kąpieli w czymś, co przypomina topniejący lodowiec.</p>
-</details>
 
 
 
