@@ -54,27 +54,88 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🔍 Co zobaczyć w Tibilisi</strong></summary>
 
 <details>
-     <summary><strong>⛪ Katedra Świętej Trójcy (Sameba)</strong></summary>
-  <p>Największa cerkiew w Gruzji i jedna z największych w całym prawosławnym świecie. Gigantyczna, błyszcząca i widoczna z każdego wzgórza. Miejsce modlitwy, zdjęć i „wow, ale duża!”.</p>
+  <summary><strong>🛕 Katedra Świętej Trójcy (Sameba)</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6946° N, 44.8014° E</em></p>
+  <p>Jeśli myślisz, że widziałeś już duże kościoły, przygotuj się na to, że <strong>Sameba</strong> zrobi z Twojego pojęcia "duży" chrześcijański placek. Ta monumentalna katedra to największa cerkiew w Gruzji i jedna z największych prawosławnych świątyń na świecie. Nie żartujemy – wygląda jakby ktoś zaprojektował ją w symulatorze budowlanym, a potem kliknął „maksymalna skala”.</p>
+  
+  <p>Sameba to prawdziwy kolos – <strong>84 metry wysokości</strong> (czyli prawie 30-piętrowy wieżowiec!) i rozpościera się na wzgórzu Elia, dumnie górując nad Tbilisi jak złocisty strażnik wiary i… dobrych widoków na miasto. Złota kopuła błyszczy w słońcu jak biżuteria babci na niedzielnej mszy, a sama bryła świątyni łączy w sobie klasykę gruzińskiej architektury cerkiewnej z nowoczesnym rozmachem.</p>
+
+  <p>Budowę rozpoczęto w 1995 roku i ukończono w 2004 – więc jak na świątynię, to jest raczej nowość, niemalże „świeżynka z piekarni Pana Boga”. Ale nie daj się zwieść jej młodemu wiekowi – duchowość tego miejsca czuć tu równie mocno jak zapach kadzidła w święto Trójcy.</p>
+
+  <p>W środku – cisza, półmrok, ikony, święci patrzący z murów, złote żyrandole niczym z bajki o tysiącu i jednej modlitwie. Wnętrze jest proste, ale monumentalne – żadnych barokowych zawijasów, tylko majestatyczna przestrzeń i poczucie, że to miejsce nie zostało stworzone dla turystów z selfie-stickiem, tylko dla duchowej zadumy (albo przynajmniej spokojnego „wow”).</p>
+
+  <p>Wokół katedry znajduje się rozległy teren z ogrodami, fontannami i – jak to w Gruzji – obowiązkową dawką kotów, które okupują schody i wyglądają, jakby były tu dłużej niż sama świątynia.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Wstęp:</strong> za darmo. Duchowość nie kosztuje, ale jeśli chcesz kupić świeczkę, wrzuć coś do puszki.<br>
+  • <strong>Ubiór:</strong> kobiety proszone są o zakrycie głowy i ramion. Faceci – może nie krótkie spodenki do połowy uda, chyba że chcesz zostać źle potraktowany przez babuszki-strażniczki tradycji.<br>
+  • <strong>Dojazd:</strong> z centrum Tbilisi najlepiej złapać Bolt albo podejść spacerem, jeśli chcesz po drodze zgubić trochę gruzińskich chinkali.<br>
+  • <strong>Czas zwiedzania:</strong> 30 minut duchowego spaceru + 20 minut gapienia się na widok z tarasu + 10 minut robienia zdjęć, które i tak nie oddadzą skali.</p>
+
+  <p><em>Katedra Sameba to jedno z tych miejsc, które trzeba zobaczyć nie tylko „bo przewodnik każe”, ale żeby poczuć, że Tbilisi to coś więcej niż ulice i restauracje – to miasto, które wierzy. Głośno, złoto i z rozmachem.</em></p>
 </details>
 
-<details>
-    <summary><strong>🌉 Most Pokoju</strong></summary>
-   
-  <p>Szklany most w futurystycznym stylu, który wygląda jak ogromny, przezroczysty robal. Łączy stare z nowym i idealnie nadaje się na zdjęcie z zachodem słońca w tle.</p>
-</details>
 
 <details>
-    <summary><strong>🏰 Twierdza Narikala</strong></summary>
-   
-  <p>Starówka z widokiem! Wdrap się (albo wjedź kolejką linową) i podziwiaj panoramę miasta. Sama twierdza to ruiny, ale jakie klimatyczne. Uwaga: śliskie kamienie i brak barierek – adrenalina gratis.</p>
+  <summary><strong>🌉 Most Pokoju – szklany smok nad Kurą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6928° N, 44.8093° E</em></p>
+  <p>Jeśli Gruzini mieliby mieć własnego smoka, to wyglądałby właśnie tak – cały w szkle i stali, wijący się nad rzeką Kurą niczym cybernetyczna jaszczurka z futurystycznej baśni. <strong>Most Pokoju</strong> to jeden z najbardziej charakterystycznych symboli nowoczesnego Tbilisi – błyszczący, odważny, kontrowersyjny. Jedni mówią: „wow, jak z Dubaju”, inni: „co to za suszarka do włosów?!”. Ale nikt nie przechodzi obojętnie.</p>
+
+  <p>Zaprojektowany przez włoskiego architekta Michele De Lucchi (czyli: “robimy coś efektownego, niech się świeci!”), most został otwarty w 2010 roku i od razu stał się ulubionym miejscem spacerów, randek i... fotek na Instagram. Ma 156 metrów długości i łączy starą część miasta z nową – czyli dosłownie spina tradycję z nowoczesnością. Symbolicznie i praktycznie, bo bez niego trzeba by chodzić naokoło.</p>
+
+  <p>Po zmroku konstrukcja naprawdę ożywa: tysiące LED-ów migoczą w zaprogramowanych sekwencjach, niby przekazując wiadomość w Morse’ie (ponoć koduje DNA – no cóż, nie pytaj). Ale wygląda to zjawiskowo, szczególnie z poziomu rzeki, więc jeśli chcesz poczuć się jak bohater romantycznego filmu science fiction, wieczorny spacer obowiązkowy.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Wstęp:</strong> oczywiście darmowy – to most, nie teatr.<br>
+  • <strong>Najlepszy czas na wizytę:</strong> tuż przed zachodem słońca, kiedy słońce odbija się w szkle, a potem można zostać na świetlne show.<br>
+  • <strong>Ostrożnie:</strong> w wietrzne dni most trochę buja – nie polecany dla osób z lękiem wysokości i niechęcią do przezroczystych podłóg.<br>
+  • <strong>Zdjęcia:</strong> idealne miejsce na widokówki z Tbilisi. Po obu stronach rzeki znajdziesz punkty z idealną kompozycją „most + rzeka + stare miasto + góry”. Fotografowie, szykujcie obiektywy.</p>
+
+  <p><em>Most Pokoju to jeden z tych projektów, które albo się kocha, albo nie rozumie. Ale i tak się idzie, robi zdjęcie, wrzuca na relację i mówi: „Tbilisi mnie zaskoczyło”.</em></p>
 </details>
 
+
 <details>
-    <summary><strong>🛁 Abanotubani – dzielnica łaźni</strong></summary>
-   
-  <p>Tu wszystko pachnie siarką, ale tak ma być! Tradycyjne gruzińskie łaźnie są rajem dla fanów pary, masażu i zanurzenia się w cieple. Można wziąć pokój prywatny albo poimprezować z lokalnymi dziadkami.</p>
+  <summary><strong>🏰 Twierdza Narikala – strażniczka Tbilisi z widokiem marzeń</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6864° N, 44.8089° E</em></p>
+  <p>Jeśli Tbilisi miałoby swoje Westeros, to <strong>Narikala</strong> byłaby Żelaznym Tronem – dumnie góruje nad miastem, widoczna z prawie każdego miejsca i otoczona aurą tajemniczości (oraz niezliczonymi turystami z kijami do selfie). To średniowieczna forteca, która nie tylko widziała więcej niż niejeden podręcznik historii, ale też <em>wciąż</em> robi wrażenie, choć ząb czasu podgryza ją od wieków.</p>
+
+  <p>Zbudowana już w IV wieku przez Persów (tak, Persów!), później rozbudowywana przez Arabów, Gruzinów, Mongołów i wszystko, co przeszło przez Kaukaz z mieczem w dłoni. Dziś z oryginalnych murów zostało to, co nie spłonęło, nie osunęło się ani nie wyleciało w powietrze – ale to właśnie te ruiny mają duszę. Tu nie chodzi o wypolerowane cegły, tylko o klimat.</p>
+
+  <p>Wejście na twierdzę to mała przygoda: można się wspiąć pieszo krętymi uliczkami z dzielnicy Abanotubani (polecam – cardio gratis), albo wjechać wygodną kolejką linową, która startuje z Rike Park. Z góry rozpościera się panorama całego Tbilisi: dachy, rzeka, nowoczesne mosty, kopuły łaźni, góry w tle... Idealne miejsce, żeby usiąść, odpocząć i powiedzieć sobie: „warto było się pocić”.</p>
+
+  <p>Na terenie twierdzy znajdziesz też <strong>cerkiew św. Mikołaja</strong> (odbudowaną, ale stylową), kilka schodków donikąd, fragmenty murów i – rzecz jasna – wszechobecne koty. Uwaga: nie ma tu barier ani siatek ochronnych, więc selfie na krawędzi to sport ekstremalny. Szanuj życie – nie wszystko dla Instagrama!</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Wstęp:</strong> darmowy, bo historia nie ma bileterki.<br>
+  • <strong>Dojście:</strong> pieszo lub kolejką linową – jeśli boisz się wysokości, to pieszo; jeśli boisz się zmęczyć – to kolejką.<br>
+  • <strong>Czas zwiedzania:</strong> ok. 1 godzina z przerwą na podziwianie widoków i dramatyczne zdjęcia z włosami rozwiewanymi przez wiatr.<br>
+  • <strong>Uwaga:</strong> weź wodę! To wzgórze, nie Starbucks.</p>
+
+  <p><em>Narikala to miejsce, gdzie historia spotyka horyzont. Idealne, żeby przypomnieć sobie, że Gruzja to coś więcej niż wino i chinkali (choć te też są ważne).</em></p>
 </details>
+
+
+<details>
+  <summary><strong>♨️ Abanotubani – gdzie Tbilisi pachnie siarką i legendą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6886° N, 44.8085° E</em></p>
+  <p>Jeśli poczujesz w Tbilisi zapach gotowanych jajek, nie panikuj – to nie awaria kanalizacji, tylko <strong>Abanotubani</strong>, czyli legendarna dzielnica łaźni siarkowych. Tak, SIARKOWYCH. Tak, nadal działają. Tak, to pachnie dokładnie tak, jak się domyślasz – ale w dobrym tego słowa znaczeniu (prawie).</p>
+
+  <p>Według miejskiej legendy, to właśnie tutaj król Wachtang Gorgasali (ten z mieczem i ptakiem w herbie) upolował bażanta, który – ranny – wpadł do gorącego źródła i... się ugotował. Król uznał, że skoro źródła są tak gorące, to warto tu zbudować miasto. I tak powstało Tbilisi – od gruzińskiego <em>„tbili”</em>, czyli „ciepły”. Tak, stolica nazwana na cześć gorącej kąpieli. Genialne, prawda?</p>
+
+  <p>Dziś Abanotubani to prawdziwy mikrokosmos: ceglane kopuły łaźni wyrastają z ziemi niczym grzyby, a z każdej bucha para i historia. Niektóre łaźnie są publiczne, inne bardziej „VIP”. Można wybrać kąpiel w siarce, masaż (czasem <em>bardzo intensywny</em>), szorowanie rękawicą typu rzeźnik deluxe, a na koniec kubek gorącej herbaty. Po wszystkim czujesz się jak nowonarodzony, tylko trochę śmierdzący minerałami.</p>
+
+  <p>Najsłynniejsze łaźnie to: <strong>Orbeliani</strong> (ta z bajecznie błękitną fasadą w stylu perskim – prawie jak mini-meczet), <strong>Royal</strong> i <strong>Chreli Abano</strong>. Można wejść bez rezerwacji, ale wieczorami lepiej mieć miejscówkę, bo Gruzini też lubią się odmoczyć.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Ceny:</strong> od kilku do kilkudziesięciu GEL – zależnie od opcji i poziomu luksusu (lub siarczystości).<br>
+  • <strong>Co zabrać:</strong> ręcznik, klapki, duma do zostawienia na zewnątrz.<br>
+  • <strong>Czas trwania:</strong> około godziny, chyba że zasiedzisz się jak suszona śliwka.<br>
+  • <strong>Efekty uboczne:</strong> poprawa krążenia, gładsza skóra i... aromat jak z wulkanu. Ale naturalny!</p>
+
+  <p><em>Abanotubani to miejsce, które pokazuje, że Tbilisi nie boi się pachnieć tak, jak wygląda – dziko, gorąco i z charakterem.</em></p>
+</details>
+
 
 <details>
     <summary><strong>🤖 Rike Park + futurystyczna sala koncertowa</strong></summary>
@@ -83,22 +144,65 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 <details>
-    <summary><strong>🧱 Ulica Shardeni i okolice</strong></summary>
-  
-  <p>Hipstersko, turystycznie, ale pięknie. Kolorowe bary, galerie sztuki, kawiarnie z winem, co gra na emocjach i portfelu. Idealne miejsce na spacer bez celu.</p>
+  <summary><strong>🌳 Rike Park – futurystyczna dżungla w centrum Tbilisi</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6935° N, 44.8108° E</em></p>
+  <p>Witaj w <strong>Rike Park</strong>, czyli najbardziej „co tu się wydarzyło?” miejscu w całym Tbilisi. To zielona przestrzeń tuż nad rzeką Kurą, idealna na spacer, drzemkę w cieniu, puszczanie baniek mydlanych lub... rozkminianie dziwnej architektury, która wygląda jakby ktoś zostawił render z programu 3D i zapomniał anulować projekt.</p>
+
+  <p>Znajdziesz tu m.in. <strong>dwa srebrne tuby</strong>, oficjalnie mające być „nowoczesnym centrum kultury”. Niewykluczone, że są też stacją dokującą dla statków kosmicznych albo stylizowaną repliką nosa Terminatora. Jedno jest pewne – obok nie da się przejść obojętnie. Obok parku znajduje się również <strong>Pałac Prezydencki</strong>, który przypomina krzyżówkę Kapitolu z pałacem ślubów z lat 90. – widocznie ktoś miał rozmach i budżet.</p>
+
+  <p>To właśnie stąd odjeżdża <strong>kolejka linowa na Narikalę</strong>, więc miejsce jest pełne turystów, dzieci na hulajnogach i gołębi z kompleksami. W pogodne dni można tu złapać pokaz fontann (czasem nawet z muzyką!) i po prostu usiąść na trawie, żeby podumać nad tym, jak Tbilisi potrafi łączyć bajkowe ruiny z futurystycznymi tubami bez cienia skrępowania.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Wstęp:</strong> darmowy – jak każdy dobry park.<br>
+  • <strong>Atrakcje:</strong> place zabaw, fontanny, szachownice, dmuchane zamki, przypadkowi performerzy, i nieprzypadkowa kolejka linowa.<br>
+  • <strong>Idealny czas:</strong> popołudnie lub wieczór – można się zrelaksować po zwiedzaniu Starego Miasta lub rozciągnąć przed wspinaczką na Narikalę.<br>
+  • <strong>Uwaga:</strong> latem bywa gorąco i mało cienia – weź kapelusz, wodę i dużo ironii dla otaczającej architektury.</p>
+
+  <p><em>Rike Park to nie tylko zielona oaza, ale też architektoniczny eksperyment na żywym organizmie miasta. Tbilisi w pigułce: trochę szaleństwa, trochę betonu, dużo uroku.</em></p>
 </details>
 
 <details>
-    <summary><strong>🕍 Meczet i kościół ramię w ramię</strong></summary>
-   
-  <p>Tbilisi to miasto tolerancji – w jednej dzielnicy znajdziesz meczet, cerkiew, synagogę i katolicki kościół. Przykład prawdziwej sąsiedzkiej zgody.</p>
+  <summary><strong>🍷 Ulica Shardeni – najmodniejszy chaos Starego Miasta</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6912° N, 44.8081° E</em></p>
+  <p>Jeśli Tbilisi miałoby własne Montmartre, tylko z winem zamiast absyntu, to byłaby to <strong>ulica Shardeni</strong>. Oficjalnie: historyczna uliczka nazwą nawiązująca do XVIII-wiecznego francuskiego misjonarza. W praktyce: deptak pełen kawiarenek, winotek, galerii sztuki, barów z różnym poziomem głośności i muzyki, która niekoniecznie musi pasować do gruzińskiego folkloru.</p>
+
+  <p>Shardeni to miejsce, gdzie nowoczesność przesiaduje na kolanach historii – fasady wyglądają jakby pamiętały cara, ale w środku znajdziesz espresso z mlekiem owsianym, sushi albo wystawę neonowej sztuki abstrakcyjnej. Ulica jest krótka, ale intensywna: zaczyna się spokojnie, a kończy – zależnie od pory dnia – albo rozmową przy lamparciej lampce wina, albo tańcem z nieznajomymi w podziemnym klubie.</p>
+
+  <p>W okolicy warto też zagubić się w bocznych uliczkach – tu co chwilę coś się dzieje: stary balkon ze świeżym praniem, sklep z rękodziełem, galeria pod gołym niebem, a za rogiem... łaźnie siarkowe i wejście do twierdzy Narikala. Shardeni to nie tylko ulica – to stan ducha, lekko zamroczonego duchem gruzińskiej gościnności.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Godziny szczytu:</strong> wieczór – kiedy miasto zamienia się w plenerową restaurację z muzyką na żywo.<br>
+  • <strong>Dla kogo:</strong> dla każdego, kto lubi być tu, gdzie coś się dzieje – ale też wie, kiedy odejść z godnością.<br>
+  • <strong>Co zjeść/wypić:</strong> lokalne wino, chaczapuri z twistem, khinkali w wersji fusion (serio), albo po prostu klasyczną kawę z widokiem na kolorową ulicę.<br>
+  • <strong>Uwaga:</strong> wieczorami tłoczno – i głośno. Ale kto do Shardeni idzie po ciszę, ten się przeliczył.</p>
+
+  <p><em>Ulica Shardeni to gruzińska odpowiedź na pytanie: „A może by tak coś zjeść, wypić i jeszcze się zakochać – choćby w architekturze?”</em></p>
 </details>
 
+
 <details>
-    <summary><strong>🧗 Matka Gruzja (Kartlis Deda)</strong></summary>
-   
-  <p> Monumentalna kobieta z mieczem i winem. Symbol Gruzji: waleczna, ale gościnna. Położona wysoko, więc wymaga wspinaczki (albo kolejki linowej z Rike).</p>
+  <summary><strong>🗽 Matka Gruzji – uśmiechnięta, ale z mieczem</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6875° N, 44.8096° E</em></p>
+  <p>Jeśli Tbilisi miałoby jednego przedstawiciela, który mógłby stanąć do walki w gruzińskim <em>„Mam Talent”</em>, to byłaby to bez wątpienia <strong>Matka Gruzji</strong>. Z mieczem w jednej ręce i kielichem w drugiej, to jakby statua zrobiona z <em>„przytulnej siły”</em>. Uśmiecha się do gości, ale z lekkim ostrzeżeniem – „Chcesz wina? Proszę bardzo. Ale jeśli przyjdziesz z niechcianymi zamiarami, poczujesz to na własnej skórze”.</p>
+
+  <p>Ten majestatyczny pomnik powstał w 1958 roku, a jego autor, <strong>Elguja Amashukeli</strong>, postanowił upamiętnić 1500-lecie Tbilisi. Jest tu wszystko, co charakteryzuje Gruzję: gościnność i duma narodowa, które jednocześnie są trochę jak wino – im starsze, tym mocniejsze. Matka Gruzji, w pełnym gruzińskim stroju, patrzy z 20 metrów w dół na całe miasto, jakby stąd miała na oku wszystkich przechodniów. Miecz w ręce prawej to symbol siły i gotowości do obrony kraju, a kielich w lewej – to oznaka serdeczności i zaproszenie do kieliszka wina (w końcu, kto mógłby odmówić?).</p>
+
+  <p>Pomnik znajduje się na wzgórzu Sololaki, więc warto się przygotować na odrobinę wspinaczki, chyba że wolisz skorzystać z <strong>kolejki linowej</strong>, która zabierze cię na sam szczyt. Mimo że droga piesza nie jest najłatwiejsza (i może poczuć się trochę jak trening na Everest), to cała wędrówka wynagradza się pięknym widokiem na miasto. W szczególności, gdy zbliżasz się do szczytu, możesz poczuć się jak zdobywca, a Tbilisi leży u twoich stóp. Czysta magia.</p>
+
+  <p>Po drodze warto zwrócić uwagę na nieoczywiste detale – same wzgórze, z którego Matka Gruzji spogląda na Tbilisi, jest pełne tajemnic. A z samej góry, gdzie znajduje się posąg, rozpościera się niesamowita panorama – od starożytnych ruin po nowoczesne, szklane budynki. Idealne miejsce na sesję zdjęciową albo po prostu chwilę ciszy, by odpocząć i podziwiać miasto w pełnej krasie.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Wstęp:</strong> darmowy – bo kto miałby zażyczyć sobie opłatę za popatrzenie na matkę z takiego dystansu?<br>
+  • <strong>Godziny otwarcia:</strong> pomnik jest dostępny całą dobę, choć wieczorem zyskuje nieco więcej magii – zwłaszcza, gdy oświetlenie rozświetli Tbilisi, a pomnik zyskuje niesamowity klimat.<br>
+  • <strong>Najlepszy czas:</strong> wieczór – panorama miasta w blasku zachodzącego słońca i światła nocnych uliczek sprawia, że Matka Gruzji wygląda jak bohaterka jakiegoś filmowego epickiego zakończenia.<br>
+  • <strong>Dojazd:</strong> można dojść pieszo od strony Abanotubani lub skorzystać z <strong>kolejki linowej</strong> z Rike Parku. Piesza wędrówka to już trochę wspinaczka, więc jeśli masz zamiar ruszyć na górę, upewnij się, że masz wygodne buty (i zapas wody, bo latem bywa gorąco!).</p>
+
+  <p><strong>Co zabrać:</strong> najlepszy zestaw to aparat (bo widok zapiera dech w piersiach), woda (jeśli idziesz pieszo), a także kapelusz lub czapkę (bo na górze bywa wietrznie i słonecznie).<br>
+  • <strong>Uwaga:</strong> Na górze może być wietrznie, a także niektóre dni są bardziej turystyczne niż inne, więc warto odwiedzić to miejsce wcześnie rano lub późnym wieczorem, kiedy jest mniej ludzi.</p>
+
+  <p><em>Matka Gruzji to pomnik, który przekazuje jednocześnie dwie wiadomości: "Witaj, gościu, w moich progach!" oraz "Lepiej nie próbuj mnie zignorować". Tak czy siak – do Tbilisi wrócisz nie tylko z widokami, ale z pełnym sercem Gruzji.</em></p>
 </details>
+
 
 <details>
     <summary><strong>🎭 Teatr Rezo Gabriadze i Zegarowa Wieża</strong></summary>
