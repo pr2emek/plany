@@ -52,44 +52,58 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🔍 Co zobaczyć w Tibilisi</strong></summary>
-<section>
- 
-  <p><strong>⛪ Katedra Świętej Trójcy (Sameba)</strong>  
-  – Największa cerkiew w Gruzji i jedna z największych w całym prawosławnym świecie. Gigantyczna, błyszcząca i widoczna z każdego wzgórza. Miejsce modlitwy, zdjęć i „wow, ale duża!”.</p>
 
-  <p><strong>🌉 Most Pokoju</strong>  
-  – Szklany most w futurystycznym stylu, który wygląda jak ogromny, przezroczysty robal. Łączy stare z nowym i idealnie nadaje się na zdjęcie z zachodem słońca w tle.</p>
+ <details>
+     <summary><strong>⛪ Katedra Świętej Trójcy (Sameba)</strong></summary>
 
-  <p><strong>🏰 Twierdza Narikala</strong>  
-  – Starówka z widokiem! Wdrap się (albo wjedź kolejką linową) i podziwiaj panoramę miasta. Sama twierdza to ruiny, ale jakie klimatyczne. Uwaga: śliskie kamienie i brak barierek – adrenalina gratis.</p>
+  <p>Największa cerkiew w Gruzji i jedna z największych w całym prawosławnym świecie. Gigantyczna, błyszcząca i widoczna z każdego wzgórza. Miejsce modlitwy, zdjęć i „wow, ale duża!”.</p>
 
-  <p><strong>🛁 Abanotubani – dzielnica łaźni</strong>  
-  – Tu wszystko pachnie siarką, ale tak ma być! Tradycyjne gruzińskie łaźnie są rajem dla fanów pary, masażu i zanurzenia się w cieple. Można wziąć pokój prywatny albo poimprezować z lokalnymi dziadkami.</p>
-
-  <p><strong>🤖 Rike Park + futurystyczna sala koncertowa</strong>  
-  – Park z widokiem na rzekę i przedziwnym budynkiem, który wygląda jak wydech sportowego auta. Często zamknięte, ale wygląda efektownie nawet z zewnątrz.</p>
-
-  <p><strong>🧱 Ulica Shardeni i okolice</strong>  
-  – Hipstersko, turystycznie, ale pięknie. Kolorowe bary, galerie sztuki, kawiarnie z winem, co gra na emocjach i portfelu. Idealne miejsce na spacer bez celu.</p>
-
-  <p><strong>🕍 Meczet i kościół ramię w ramię</strong>  
-  – Tbilisi to miasto tolerancji – w jednej dzielnicy znajdziesz meczet, cerkiew, synagogę i katolicki kościół. Przykład prawdziwej sąsiedzkiej zgody.</p>
-
-  <p><strong>🧗 Matka Gruzja (Kartlis Deda)</strong>  
-  – Monumentalna kobieta z mieczem i winem. Symbol Gruzji: waleczna, ale gościnna. Położona wysoko, więc wymaga wspinaczki (albo kolejki linowej z Rike).</p>
-
-  <p><strong>🎭 Teatr Rezo Gabriadze i Zegarowa Wieża</strong>  
-  – Magiczna, krzywa wieża jak z bajki o Pinokiu. Co godzinę pojawia się aniołek. Plus: teatr lalkowy dla dorosłych – cudowny i trochę dziwaczny.</p>
-
-  <p><strong>🌇 Mtatsminda – wzgórze z lunaparkiem</strong>  
-  – Dojedziesz zabytkową kolejką. Na górze: młyńskie koło, karuzele, fast food i najlepszy widok na miasto. Raj dla dzieci i fotografów z dronem.</p>
-
-</section>
-
-
- 
+<details>
+    <summary><strong>🌉 Most Pokoju</strong></summary>
+   
+  <p>Szklany most w futurystycznym stylu, który wygląda jak ogromny, przezroczysty robal. Łączy stare z nowym i idealnie nadaje się na zdjęcie z zachodem słońca w tle.</p>
 </details>
+<details>
+    <summary><strong>🏰 Twierdza Narikala</strong></summary>
+   
+  <p>Starówka z widokiem! Wdrap się (albo wjedź kolejką linową) i podziwiaj panoramę miasta. Sama twierdza to ruiny, ale jakie klimatyczne. Uwaga: śliskie kamienie i brak barierek – adrenalina gratis.</p>
+</details>
+<details>
+    <summary><strong>🛁 Abanotubani – dzielnica łaźni</strong></summary>
+   
+  <p>Tu wszystko pachnie siarką, ale tak ma być! Tradycyjne gruzińskie łaźnie są rajem dla fanów pary, masażu i zanurzenia się w cieple. Można wziąć pokój prywatny albo poimprezować z lokalnymi dziadkami.</p>
+</details>
+<details>
+    <summary><strong>🤖 Rike Park + futurystyczna sala koncertowa</strong></summary>
+   
+  <p>Park z widokiem na rzekę i przedziwnym budynkiem, który wygląda jak wydech sportowego auta. Często zamknięte, ale wygląda efektownie nawet z zewnątrz.</p>
+</details>
+<details>
+    <summary><strong>🧱 Ulica Shardeni i okolice</strong></summary>
+  
+  <p>Hipstersko, turystycznie, ale pięknie. Kolorowe bary, galerie sztuki, kawiarnie z winem, co gra na emocjach i portfelu. Idealne miejsce na spacer bez celu.</p>
+</details>
+<details>
+    <summary><strong>🕍 Meczet i kościół ramię w ramię</strong></summary>
+   
+  <p>Tbilisi to miasto tolerancji – w jednej dzielnicy znajdziesz meczet, cerkiew, synagogę i katolicki kościół. Przykład prawdziwej sąsiedzkiej zgody.</p>
+</details>
+<details>
+    <summary><strong>🧗 Matka Gruzja (Kartlis Deda)</strong></summary>
+   
+  <p> Monumentalna kobieta z mieczem i winem. Symbol Gruzji: waleczna, ale gościnna. Położona wysoko, więc wymaga wspinaczki (albo kolejki linowej z Rike).</p>
+</details>
+<details>
+    <summary><strong>🎭 Teatr Rezo Gabriadze i Zegarowa Wieża</strong></summary>
+ 
+ <p> Magiczna, krzywa wieża jak z bajki o Pinokiu. Co godzinę pojawia się aniołek. Plus: teatr lalkowy dla dorosłych – cudowny i trochę dziwaczny.</p>
+</details>
+<details>
+    <summary><strong>🌇 Mtatsminda – wzgórze z lunaparkiem</strong></summary>
+ 
+ <p>Dojedziesz zabytkową kolejką. Na górze: młyńskie koło, karuzele, fast food i najlepszy widok na miasto. Raj dla dzieci i fotografów z dronem.</p>
 
+</details>
 
 
 <details>
