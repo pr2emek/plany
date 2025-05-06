@@ -485,50 +485,66 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🧳 Praktyczne porady w Bergamo</strong></summary>
 
-  <h3>💶 Coperto – czyli „za co ja właściwie płacę?”</h3>
-  <p>
-    W większości restauracji doliczana jest opłata za tzw. <em>coperto</em> – to nie napiwek, tylko opłata za chleb, wodę, sztućce i... siedzenie. Wynosi zwykle 1–3€, niezależnie od tego, czy zjesz pizzę, czy tylko popijesz wodę. Nie dyskutuj – to norma.
-  </p>
-
-  <h3>💰 Napiwki – czy zostawiać?</h3>
-  <p>
-    Włosi nie są maniakami napiwków jak Amerykanie. Jeśli jesteś zadowolony z obsługi, zostaw drobne (np. 5–10% rachunku albo zaokrąglij w górę). W barze za espresso można zostawić kilkadziesiąt centów – ale nikt nie patrzy krzywo, jeśli tego nie zrobisz.
-  </p>
-
-  <h3>🧀 Co warto kupić?</h3>
+ <details>
+  <summary><strong>🛍️ Co warto kupić w Paryżu – czyli pamiątki z klasą (i bez plastiku)</strong></summary>
   <ul>
-    <li><strong>Ser Taleggio</strong> – pachnie jak walka, smakuje jak zwycięstwo.</li>
-    <li><strong>Polenta e osei</strong> – słodka wersja klasycznego dania z ptakiem (bez ptaka).</li>
-    <li><strong>Tip:</strong> kupuj w lokalnych sklepach, a nie w turystycznych pułapkach – portfel ci podziękuje.</li>
+    <li><strong>🧴 Perfumy z niszowych perfumerii</strong> – zamiast duty-free, zajrzyj do <em>Fragonard, Serge Lutens, Diptyque</em> lub <em>Maison Francis Kurkdjian</em>. Możesz też stworzyć własny zapach!</li>
+    <li><strong>🍷 Francuskie wino i sery (vacuum!)</strong> – wina z małych sklepów są często lepsze i tańsze niż w markecie. Ser kupuj zapakowany próżniowo – celnik będzie wdzięczny.</li>
+    <li><strong>🥐 Makaroniki (ale z dobrych cukierni)</strong> – zapomnij o lotniskowych! Celuj w <em>Ladurée, Pierre Hermé</em> lub lokalne patisseries. A potem chroń jak skarb w podręcznym.</li>
+    <li><strong>📓 Notatniki z Paryża</strong> – kultowe <em>papiernicze cuda z Papier Tigre, Rhodia</em> lub <em>Merci</em>. Idealne dla fanów pisania, szkicowania i estetyki w stylu „Paryż to stan umysłu”.</li>
+    <li><strong>🎨 Grafiki i plakaty z Montmartre</strong> – ręcznie robione szkice, akwarele albo oldschoolowe plakaty z wystaw i kin. Tanie, lekkie i piękne.</li>
+    <li><strong>🥖 Kuchenne klasyki</strong> – foremki do madelinek, przyprawy z targu, musztarda z Dijon w słoiku retro… czyli Paryż do zjedzenia po powrocie.</li>
+    <li><strong>👗 Ubrania z second-handów i concept store'ów</strong> – szukaj perełek w dzielnicy Le Marais, na pchlich targach (np. <em>Puces de Saint-Ouen</em>) lub w butikach z modą z recyklingu.</li>
+    <li><strong>🎭 Coś z muzeum, ale z głową</strong> – np. zakładka z Luwru, skarpetki z Wieżą Eiffla (tak, serio) albo notatnik z Claude Monetem. Sztuka w wersji użytkowej.</li>
   </ul>
+  <p><strong>Uwaga na pułapki:</strong> breloczki 5 za 1€ przy Sacré-Cœur są urocze, ale raczej nie przetrwają tygodnia. No i nie kupuj "oryginalnych" torebek Diora z metra – chyba że lubisz rozczarowania.</p>
+</details>
 
-  <h3>🚫 Czego unikać?</h3>
+<details>
+  <summary><strong>🥖 Jedzenie – jak nie zbankrutować i dobrze zjeść</strong></summary>
+  <p>Francuska kuchnia to sztuka, ale ceny bywają jak z opery – dramatyczne. Szukaj bistro z tabliczką <em>plat du jour</em>, omijaj knajpy z widokiem na Wieżę Eiffla (chyba że lubisz spaghetti za 26€).</p>
+  <p><strong>Boulangerie</strong> to Twoi najlepsi przyjaciele – bagietki, quiche i desery ratują dzień. A <strong>supermarkety Monoprix, Franprix i Carrefour City</strong> to zbawienie dla budżetowego podróżnika.</p>
+  <p><strong>Tip:</strong> Zamawiaj wodę z kranu – <em>une carafe d’eau</em>. Jest za darmo i legalna. Serio.</p>
+</details>
+
+<details>
+  <summary><strong>🕰️ Godziny otwarcia – czyli kiedy nie odbić się od drzwi</strong></summary>
+  <p>Paryż lubi odpoczywać. Większość muzeów zamknięta w <strong>poniedziałki lub wtorki</strong>. Restauracje też miewają przerwy między 15:00 a 19:00 – bo czemu nie.</p>
+  <p><strong>Tip:</strong> Zawsze sprawdź godziny online przed wizytą, zwłaszcza w mniejszych muzeach. Google nie zawsze mówi prawdę, ale strony oficjalne – raczej tak.</p>
+</details>
+
+<details>
+  <summary><strong>📶 Internet – jak nie zjeść całego pakietu w roamingu</strong></summary>
+  <p>We Francji roaming z UE działa, ale jeśli potrzebujesz dużo internetu, rozważ kartę SIM lokalną (np. Free, Orange). Wiele kawiarni i fast foodów ma Wi-Fi, ale trzeba się zalogować (czasem podając e-mail z kosmosu).</p>
+  <p><strong>Tip:</strong> Paryż ma też darmowe Wi-Fi miejskie – np. w parkach, muzeach, bibliotekach. Działa różnie, ale działa!</p>
+</details>
+
+<details>
+  <summary><strong>🎫 Bilety do atrakcji – jak nie stać godzinę w kolejce</strong></summary>
+  <p>Kupuj online z wyprzedzeniem – szczególnie do Wieży Eiffla, Luwru i Sainte-Chapelle. Kolejki potrafią być legendarne, a internet to Twój rycerz na białym koniu.</p>
+  <p><strong>Paris Museum Pass</strong> daje dostęp do ponad 50 atrakcji – jeśli planujesz zwiedzać intensywnie, zwraca się szybko. A do wielu miejsc (np. muzea) osoby <strong>do 26. roku życia z UE</strong> wchodzą za darmo!</p>
+</details>
+
+<details>
+  <summary><strong>🧻 Toalety – temat wstydliwy, ale ważny</strong></summary>
+  <p>Paryż ma darmowe toalety publiczne (automatyczne kabiny – futurystyczne, ale czasem przerażające). Szukaj ich na mapach jako „Sanisette”.</p>
+  <p>Alternatywa: kawiarnie, galerie handlowe lub McDonald's (ale często z kodem z paragonu). Zawsze miej ze sobą chusteczki. I cierpliwość.</p>
+</details>
+
+<details>
+  <summary><strong>🧥 Styl i ubiór – jak nie wyglądać jak turysta</strong></summary>
+  <p>Paryżanie są stylowi, ale nie przesadzaj – nie musisz mieć beretu i bagietki pod pachą. Postaw na klasykę, neutralne kolory, wygodne buty i… parasolkę. Zawsze parasolkę.</p>
+  <p><strong>Tip:</strong> Jeśli masz zamiar wchodzić do kościołów lub muzeów – zakryj ramiona. Niektóre miejsca tego pilnują (albo przynajmniej robią srogie miny).</p>
+</details>
+
+<details>
+  <summary><strong>💡 Pro tipy last minute</strong></summary>
   <ul>
-    <li>Restauracji z menu w 10 językach i zdjęciami dań – czerwony alarm.</li>
-    <li>Picia kawy przy stoliku, jeśli nie chcesz dopłacać „za widok”.</li>
-    <li>Bliskich kontaktów z gołębiami – są odważniejsze niż wyglądają.</li>
+    <li><strong>Uwaga na kieszonkowców!</strong> Zwłaszcza w metrze, na Montmartre i pod Wieżą Eiffla. Plecak z przodu, telefon schowany, uśmiech gotowy.</li>
+    <li><strong>Nie daj się naciągnąć na "bransoletki przyjaźni"</strong> – to klasyk pod Sacré-Cœur.</li>
+    <li><strong>Sprawdź, czy nie ma strajku</strong>. To nie żart – strajki to francuski sport narodowy. Info znajdziesz na stronie <em>ratp.fr</em> lub <em>sncf.com</em>.</li>
   </ul>
+</details>
 
-  <h3>🗣️ Podstawowe zwroty po włosku</h3>
-  <ul>
-    <li><strong>Buongiorno</strong> – dzień dobry</li>
-    <li><strong>Buonasera</strong> – dobry wieczór</li>
-    <li><strong>Grazie</strong> – dziękuję</li>
-    <li><strong>Vorrei...</strong> – poproszę...</li>
-    <li><strong>Scusi</strong> – przepraszam</li>
-    <li><strong>Il conto, per favore</strong> – rachunek proszę</li>
-    <li><strong>Era delizioso!</strong> – było pyszne!</li>
-    <li><strong>Dov’è la pizzeria più vicina?</strong> – gdzie jest najbliższa pizzeria?</li>
-  </ul>
-
-  <h3>💳 Gotówka vs. karta</h3>
-  <p>
-    W większości miejsc zapłacisz kartą, ale miej przy sobie trochę gotówki – szczególnie w barach, lokalnych targach i autobusach. Niektóre miejsca nie lubią kart przy małych kwotach (poniżej 5€).
-  </p>
-
-  <h3>😴 Siesta istnieje</h3>
-  <p>
-    Między 13:00 a 15:30 niektóre sklepy i lokale zamykają się „na życie”. Nie panikuj – wrócą. Ty w tym czasie zjedz <em>gelato</em> i udawaj, że też jesteś Włochem.
-  </p>
 
 </details>
