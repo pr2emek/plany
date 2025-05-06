@@ -179,71 +179,93 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
-
 <details>
-    <summary><strong> 🪑 Sekretna ławeczka z widokiem</strong></summary>
-  <p><strong>Współrzędne:</strong> 45.7030, 9.6645</p>
-
-  <p>
-    Jeśli Bergamo było grą w chowanego, to <strong>sekretna ławeczka z widokiem</strong> byłaby jednym z najbardziej skrywanych skarbów. Ukryta w jednym z zakamarków Città Alta, tuż przy starych murach, wygląda jak zwykła ławka – ale po chwili odpoczynku zaczynasz się zastanawiać, dlaczego jeszcze nikt nie napisał o niej książki. I to najlepiej z serii „W poszukiwaniu perfekcyjnego widoku”.
-  </p>
-
-  <p>
-    Po pierwsze: widok. Mimo że na pierwszy rzut oka może wyglądać jak zwykły kącik z widokiem na dolinę, zaraz odkrywasz, że na horyzoncie widać całą panoramę Bergamo, z jeziorem Iseo w tle. Idealne na chwile, kiedy potrzebujesz oddechu po tym, jak przeszedłeś wszystkie turystyczne „must-see”. Możesz patrzeć na to przez godzinę, a wciąż nie być pewnym, czy jesteś w raju, czy po prostu świetnie spędzasz czas.
-  </p>
-
-  <p>
-    A teraz najważniejsze: <strong>ta ławeczka nie jest łatwa do znalezienia</strong>. To nie jest miejsce, które ktoś wskaże Ci w przewodniku turystycznym. Musisz nieco zbłądzić, pomylić drogę, a potem pozwolić swojemu instynktowi turysty (czyli... byle jak się zgubić i nie panikować) doprowadzić cię do celu. Wówczas, jeśli masz szczęście, usiądziesz na tej ławce, patrząc na świat, który spowalnia, jakby chciał powiedzieć: „Nie martw się, tu nie ma pośpiechu”.
-  </p>
-
-  <p>
-    Jeśli chcesz uciec od tłumów i poczuć się, jakbyś odkrył Bergamo na nowo, ta ławeczka jest dla Ciebie. W razie potrzeby włącz styl retro i poczuj się jak bohater w starym filmie – "Człowiek, który znalazł najpiękniejsze miejsce w Bergamo".
-  </p>
-
+  <summary><strong>🌈 Rue Crémieux – najbardziej instagramowa ulica Paryża</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8474° N, 2.3708° E</em></p>
+  <p>Kolorowe fasady, pastelowe drzwi, doniczki i zero samochodów. Ulica wygląda jak Notting Hill po francusku – i niestety wiedzą o tym wszyscy influencerzy w promieniu 300 km.</p>
+  <p>Mieszkańcy mają już dość zdjęć i proszą o ciszę, więc selfie zrób szybko – i z szacunkiem.</p>
+  <p><strong>Tip:</strong> Najlepsze światło rano. I nie siadaj ludziom na schodach – to nie plan sesji Vogue.</p>
 </details>
 
-  <details>
-    <summary><strong>🪞 Vicolo della Neve – Ulica Ciszy i Cieni</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7041° N, 9.6639° E</em></p>
-    <p>
-      Ta wąska uliczka w Città Alta to jak teleport do innego czasu. Cisza, stare mury, lekkie zawinięcie drogi i światło wpadające pod dziwnym kątem. Spacer nią wczesnym rankiem daje wrażenie, że zaraz zza rogu wyskoczy mnich albo renesansowy poeta. Albo duch. Ale spokojny!
-    </p>
-  </details>
+<details>
+  <summary><strong>🕳️ Kanały i śluzy Canal de l’Ourcq – industrialny romantyzm</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8897° N, 2.3845° E</em></p>
+  <p>Jeśli Centre Pompidou to sztuka nowoczesna, to te kanały to sztuka życia codziennego. Zero turystów, za to lokalni z winem na kocu, deskorolki, śluzy i mostki jak z filmów Jeuneta.</p>
+  <p>Połącz spacer z piknikiem – i zobacz Paryż z zupełnie innej strony. Takiej, która pachnie bagietką i lekkim hipsterstwem.</p>
+</details>
 
-  <details>
-    <summary><strong>🔔 Torre del Gombito – wieża, której nikt nie szuka… a szkoda</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7046° N, 9.6642° E</em></p>
-    <p>
-      W centrum Città Alta stoi średniowieczna wieża, którą mijają wszyscy – ale mało kto na nią wchodzi. A szkoda! Latem można się na nią wdrapać (po wcześniejszej rezerwacji) i zobaczyć panoramę miasta z zupełnie innej perspektywy. W gratisie dostajesz mięśnie nóg i brak tłumów.
-    </p>
-  </details>
+<details>
+  <summary><strong>⚰️ Cmentarz Montmartre – gotyk z krukiem na ramieniu</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8853° N, 2.3284° E</em></p>
+  <p>Zapomniany przez turystów, ale pełen nastroju. Leżą tu m.in. Dalida, Stendhal, Alexandre Dumas (junior) i kilku muzyków, których znasz, ale nie wiesz, że tu są.</p>
+  <p>Większość nagrobków wygląda jak mini-katedry, a koty snują się jak lokalni przewodnicy. Klimat? Jakby Edgar Allan Poe dostał stypendium w Paryżu.</p>
+</details>
 
-  <details>
-    <summary><strong>🌳 Scaletta dello Scorlazzone – schody donikąd (a jednak gdzieś)</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7028° N, 9.6621° E</em></p>
-    <p>
-      Urocze, kamienne schody łączące Città Alta z niższym miastem. Prawie nikt ich nie zna, więc masz duże szanse być tam sam. Po drodze – dzikie ogrody, mury, i widoki idealne na melancholijny spacer z muzyką filmową w słuchawkach. Ewentualnie pizzą w ręku. Bo czemu nie.
-    </p>
-  </details>
+<details>
+  <summary><strong>🖼️ Passages Couverts – kryte galerie z XIX wieku</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8681° N, 2.3417° E</em></p>
+  <p>Małe arkady pełne księgarni, antykwariatów, sklepów z dziwacznymi zegarami i kawiarni jak z Belle Époque. Idealne, gdy pada, lub gdy chcesz poczuć się jak bohater Woody’ego Allena bez uciążliwości Allena.</p>
+  <p>Najładniejsze: Passage des Panoramas, Passage Jouffroy i Galerie Vivienne. Autentyczny klimat i mniej ludzi niż w Galeries Lafayette.</p>
+</details>
 
-  <details>
-    <summary><strong>🕳️ Il Lavatoio – średniowieczna pralnia</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7040° N, 9.6625° E</em></p>
-    <p>
-      Tu kiedyś kobiety prały ubrania i plotkowały o całym mieście. Dziś to spokojna altanka z wodą, ukryta przy Piazza Mercato delle Scarpe. Świetne miejsce na chwilę wytchnienia, zdjęcie w stylu „mniej znane perełki” i pogadankę o historii z kimś lokalnym (albo samym sobą).
-    </p>
-  </details>
+<details>
+  <summary><strong>🕳️ Musée des Égouts – paryskie kanały od środka</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8589° N, 2.3133° E</em></p>
+  <p>Tak, dobrze czytasz. To muzeum kanałów. Zejdź pod ziemię i poznaj Paryż od strony, której nie pokazują w katalogach. Trochę śmierdzi, ale za to dowiesz się, jak funkcjonuje miasto od środka.</p>
+  <p>Dla fanów techniki, klimatu „Les Misérables” i nietypowych wrażeń. Tylko buty weź solidne.</p>
+  <p><strong>Tip:</strong> To też świetna alternatywa na upał – w kanałach zawsze chłodno!</p>
+</details>
 
-  <details>
-    <summary><strong>🏺 Museo Donizettiano – dla fanów muzycznych duchów</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>45.7053° N, 9.6649° E</em></p>
-    <p>
-      Gaetano Donizetti, słynny kompozytor operowy, urodził się w Bergamo. I chociaż jego muzeum to nie gigantyczna atrakcja, to właśnie dzięki temu jest idealnym sekretnym miejscem. Stare nuty, instrumenty, listy, biografia jak z filmu. W sam raz na chwilę ciszy i muzycznej refleksji.
-    </p>
-    <ul>
-      <li><strong>Wstęp:</strong> 5€</li>
-    </ul>
-  </details>
+<details>
+  <summary><strong>🌿 Park Buttes-Chaumont – Paryż bez filtra</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8809° N, 2.3817° E</em></p>
+  <p>Park jak z bajki – pagórki, mosty, wodospady, grota i świątynia Sybilli na wzgórzu. Brzmi jak romantyczna sceneria i dokładnie tak wygląda. Mało turystów, dużo paryżan z jogą i bagietką pod pachą.</p>
+  <p>Miejsce idealne na reset, piknik albo popołudniową drzemkę z widokiem na dachy miasta.</p>
+</details>
+
+<details>
+  <summary><strong>📚 Shakespeare and Company – księgarnia z duszą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8526° N, 2.3470° E</em></p>
+  <p>Najbardziej literacka księgarnia Paryża – działa od 1951 r., ale nawiązuje do legendarnego miejsca, gdzie bywali Hemingway i Joyce. Angielskie książki, skrzypiące schody, koty, pianino i… łóżka dla pisarzy. Serio.</p>
+  <p>Możesz tu wejść, poczytać, popłakać nad poezją i kupić książkę z pieczątką, która udowodni, że jesteś prawdziwym intelektualistą. Albo przynajmniej bardzo dobrze udajesz.</p>
+</details>
+
+<details>
+  <summary><strong>🖌️ Rue Dénoyez – mekka street artu</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8720° N, 2.3765° E</em></p>
+  <p>Ulica w dzielnicy Belleville, którą pokochają fani graffiti, murali i kolorowego chaosu. Co tydzień inne malunki, inne przesłania – trochę polityki, trochę żartu, dużo sprayu.</p>
+  <p>W bonusie: lokalne galerie, kawiarnie i klimat "Paryż nie z pocztówki, ale z życia". Idealne miejsce na zdjęcie, które nie wygląda jak klon miliona innych z Trocadéro.</p>
+</details>
+
+<details>
+  <summary><strong>🧙 Musée de la Magie – muzeum magii i iluzji</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8546° N, 2.3579° E</em></p>
+  <p>Ukryte w piwnicach Le Marais, to muzeum to raj dla fanów trików, optycznych iluzji i starych automatów magicznych. Zobaczysz tu rekwizyty z epoki Houdiniego i pokaz magii na żywo.</p>
+  <p>Dzieci będą zachwycone, dorośli zdziwieni, a niektórzy podejrzliwi ("czy on naprawdę zjadł tę monetę?").</p>
+</details>
+
+<details>
+  <summary><strong>🍃 Promenade Plantée – zielona trasa na wysokości</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8464° N, 2.3853° E</em></p>
+  <p>To High Line z Nowego Jorku… zanim to było modne. Zielona promenada biegnąca po dawnych torach kolejowych. Idealna na spacer wśród roślin, kwiatów i widoków na dachy Paryża.</p>
+  <p>Cicho, spokojnie i romantycznie – bez tłumów i z bardzo paryskim klimatem. Startuje przy Bastille, a potem sunie ponad ulicami jak tajna ścieżka dla elfów z espresso.</p>
+</details>
+
+<details>
+  <summary><strong>⛪ Kościół Saint-Étienne-du-Mont – duchowy detour</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8448° N, 2.3482° E</em></p>
+  <p>Obok Panteonu, ale rzadko odwiedzany – a szkoda. W środku unikalna kamienna galeria (jubé), cudowne witraże i relikwie św. Genowefy, patronki miasta.</p>
+  <p>To właśnie tutaj bohater "O północy w Paryżu" siada na schodach i przenosi się w czasie. Możesz spróbować – kto wie, może i Ty spotkasz Hemingwaya?</p>
+</details>
+
+<details>
+  <summary><strong>⚙️ Musée des Arts et Métiers – technika z duszą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8667° N, 2.3563° E</em></p>
+  <p>Zabytkowe wynalazki, stare samochody, globusy, mechanizmy i maszyny, które zmieniły świat. Dla każdego, kto choć raz rozkręcił budzik albo majstrował przy rowerze – to technologiczny raj.</p>
+  <p>Największe wow? Samolot wiszący w dawnej kaplicy. Magia inżynierii i estetyki w jednym.</p>
+</details>
+
+  
 
 </details>
 </details>
