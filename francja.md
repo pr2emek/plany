@@ -19,11 +19,6 @@ permalink: /francja.html
     <li><strong>Strefa czasowa:</strong> CET (czyli jak w Polsce, ale z winem do obiadu)</li>
   </ul>
 
-  <h4><strong>🧳 Dlaczego warto tu przyjechać?</strong></h4>
-  <p>
-    Bo nie ma drugiego kraju, który tak pięknie łączy sztukę, historię, kuchnię i styl życia. Możesz przechadzać się w sandałach po polach lawendy, śmigać na nartach w Alpach, zagubić się w średniowiecznym zamku albo... jeść camembert pod Wieżą Eiffla. Francja potrafi być romantyczna, chaotyczna, elegancka i sielska – zależnie od regionu i Twojego nastroju.
-  </p>
-
   <h4><strong>✈️ Jak się dostać?</strong></h4>
   <ul>
     <li><strong>Samolotem:</strong> Do Paryża (CDG, Orly) latają tanie i regularne linie z wielu miast. Na południe – loty do Nicei, Marsylii czy Lyonu. Do Beauvais dolecisz tanio, ale potem bujasz się busem do centrum Paryża (patrz: "transport z lotniska").</li>
