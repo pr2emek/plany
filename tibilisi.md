@@ -450,7 +450,7 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <h4>⏱️ Ile czasu zarezerwować?</h4>
-  <p>Cała wycieczka zajmie Ci ok. 5–6 godzin, czyli idealnie na pół dnia. Można wrócić do Tbilisi na kolację… albo zostać na zachód słońca na wzgórzu przy Dżwari i mieć widok jak z filmu przyrodniczego z narracją Davida Attenborougha.</p>
+  <p>Cała wycieczka zajmie Ci ok. 5–6 godzin, czyli idealnie na pół dnia. Można wrócić do Tbilisi na kolację… albo zostać na zachód słońca na wzgórzu przy Dżwari i mieć widok jak z filmu przyrodniczego.</p>
 
   <p><em>Mccheta to nie tylko historia i duchowość – to miejsce, które pokazuje, czym Gruzja była i nadal jest. I chociaż to tylko 20 kilometrów od Tbilisi, mentalnie jesteś 2000 lat wstecz. W najlepszym możliwym sensie.</em></p>
 </details>
