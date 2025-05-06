@@ -26,8 +26,6 @@ permalink: /francja.html
     <li><strong>Samochodem:</strong> Jeśli lubisz piękne widoki i jeszcze piękniejsze mandaty – autostrady są płatne i szybkie, ale tanio nie będzie.</li>
   </ul>
 
-  <p><strong>Francja to miejsce, gdzie nawet zwykła bagietka smakuje jak poezja. I za to się ją kocha – nawet jeśli czasem kelner patrzy na ciebie z politowaniem.</strong></p>
-
   <summary><strong>🥐 Zwyczaje i kultura Francji – savoir-vivre po francusku</strong></summary>
   <p>
     Francuzi mają swój styl. Jedzą późno, nie spieszą się z rozmowami, są dumni ze swojego języka i kultury – i mają do tego powody. Jeśli chcesz nie wyglądać jak turysta z plecakiem wielkości wieży Eiffla, rzuć okiem na kilka wskazówek:
