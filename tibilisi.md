@@ -51,294 +51,43 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🔍 Co zobaczyć w Kutaisi</strong></summary>
+  <summary><strong>🔍 Co zobaczyć w Tibilisi</strong></summary>
+<section>
+ 
+  <p><strong>⛪ Katedra Świętej Trójcy (Sameba)</strong>  
+  – Największa cerkiew w Gruzji i jedna z największych w całym prawosławnym świecie. Gigantyczna, błyszcząca i widoczna z każdego wzgórza. Miejsce modlitwy, zdjęć i „wow, ale duża!”.</p>
 
-  <p>
-    Kutaisi to nie metropolia z tysiącem atrakcji, tylko kumpel z sąsiedztwa, który zna kilka genialnych miejsc, ale nie będzie się nimi chwalił, dopóki sam nie zapytasz. To miasto nie krzyczy – ono mruga do ciebie porozumiewawczo. Zobaczmy, co warto tu odkryć!
-  </p>
+  <p><strong>🌉 Most Pokoju</strong>  
+  – Szklany most w futurystycznym stylu, który wygląda jak ogromny, przezroczysty robal. Łączy stare z nowym i idealnie nadaje się na zdjęcie z zachodem słońca w tle.</p>
 
-  <details>
-  <summary><strong>⛪ Katedra Bagrati – Bo każda katedra zasługuje na uwagę!</strong></summary>
+  <p><strong>🏰 Twierdza Narikala</strong>  
+  – Starówka z widokiem! Wdrap się (albo wjedź kolejką linową) i podziwiaj panoramę miasta. Sama twierdza to ruiny, ale jakie klimatyczne. Uwaga: śliskie kamienie i brak barierek – adrenalina gratis.</p>
 
-  <p><strong>Współrzędne:</strong> 42.2650° N, 42.7178° E</p>
+  <p><strong>🛁 Abanotubani – dzielnica łaźni</strong>  
+  – Tu wszystko pachnie siarką, ale tak ma być! Tradycyjne gruzińskie łaźnie są rajem dla fanów pary, masażu i zanurzenia się w cieple. Można wziąć pokój prywatny albo poimprezować z lokalnymi dziadkami.</p>
 
-  <p>
-    Katedra Bagrati to gruziński odpowiednik "świątyni, która przetrwała wszystko". Zbudowana w XI wieku, przetrwała najazdy, burze, a nawet modę na minimalizm w architekturze. I wiecie co? Nadal wygląda świetnie! Choć można by powiedzieć, że jej historia to trochę jak bajka – najpierw piękna, potem zniszczona przez najeźdźców, a teraz wciąż się regeneruje. Jakiś gruziński "superbohater", którego życie jest pełne przygód, zmagań i... remontów.
-  </p>
+  <p><strong>🤖 Rike Park + futurystyczna sala koncertowa</strong>  
+  – Park z widokiem na rzekę i przedziwnym budynkiem, który wygląda jak wydech sportowego auta. Często zamknięte, ale wygląda efektownie nawet z zewnątrz.</p>
 
-  <p>
-    Wznosząca się na wzgórzu, jakby chciała mieć najlepszy widok na Kutaisi (bo czemu nie?), katedra robi wrażenie. Wysokie mury, ozdobne detale – naprawdę "wow" – możesz poczuć się, jakbyś wkraczał do średniowiecznego Disney Worldu, ale bez tłumów i plastikowych postaci. Wnętrze katedry jest równie zachwycające, z wieloma pięknymi elementami, które przypominają, że Gruzja ma talent do architektury… i przetrwania.
-  </p>
+  <p><strong>🧱 Ulica Shardeni i okolice</strong>  
+  – Hipstersko, turystycznie, ale pięknie. Kolorowe bary, galerie sztuki, kawiarnie z winem, co gra na emocjach i portfelu. Idealne miejsce na spacer bez celu.</p>
 
-  <p>
-    Ale co najlepsze? Bagrati to jedna z tych atrakcji, które mogłyby łatwo zostać gwiazdą reality show, bo została wpisana na listę UNESCO. Tak, dobrze przeczytaliście – ta katedra to już prawdziwa celebrytka w świecie zabytków! I wiecie co? Nadal ma to coś. Choć odbudowa wciąż trwa, to i tak zasługuje na aplauz za próbę powrotu do swojej świetności.
-  </p>
+  <p><strong>🕍 Meczet i kościół ramię w ramię</strong>  
+  – Tbilisi to miasto tolerancji – w jednej dzielnicy znajdziesz meczet, cerkiew, synagogę i katolicki kościół. Przykład prawdziwej sąsiedzkiej zgody.</p>
 
-  <p>
-    Chociaż nie jest to "złota katedra", ma coś, czego nie znajdziesz w żadnym luksusowym hotelu – naprawdę gruzińskiego ducha! Idealne miejsce na selfie z panoramą Kutaisi w tle (żadne filtry na Instagramie nie dorównają temu widokowi). A jeśli trafisz na nabożeństwo, to poczujesz się jak w gruzińskim filmie – pełnym śpiewów, religijnego klimatu i jednocześnie tej niepowtarzalnej atmosfery, która sprawia, że każdy chce być częścią tej gruzińskiej opowieści.
-  </p>
+  <p><strong>🧗 Matka Gruzja (Kartlis Deda)</strong>  
+  – Monumentalna kobieta z mieczem i winem. Symbol Gruzji: waleczna, ale gościnna. Położona wysoko, więc wymaga wspinaczki (albo kolejki linowej z Rike).</p>
 
-  <p>
-    Więc jeśli myślisz, że „katedra to tylko katedra”, to może Bagrati przekona cię, że w każdej historii może być coś więcej. A może po prostu ma ładny widok. Któż to wie? W każdym razie – warto zobaczyć!
-  </p>
+  <p><strong>🎭 Teatr Rezo Gabriadze i Zegarowa Wieża</strong>  
+  – Magiczna, krzywa wieża jak z bajki o Pinokiu. Co godzinę pojawia się aniołek. Plus: teatr lalkowy dla dorosłych – cudowny i trochę dziwaczny.</p>
 
-  <p><strong>Wskazówka:</strong> Chcesz najlepsze zdjęcia? Rano lub późnym popołudniem, kiedy światło jest magiczne i nie musisz walczyć z turystami w kadrze. Nie zapomnij zabrać aparat, chyba że masz już idealny telefon z aparatem!</p>
-</details>
+  <p><strong>🌇 Mtatsminda – wzgórze z lunaparkiem</strong>  
+  – Dojedziesz zabytkową kolejką. Na górze: młyńskie koło, karuzele, fast food i najlepszy widok na miasto. Raj dla dzieci i fotografów z dronem.</p>
 
-<details>
-  <summary><strong>🌉 Biały Most – most z charakterem</strong></summary>
+</section>
 
-  <p><strong>Współrzędne:</strong> 42.2701° N, 42.7108° E</p>
 
-  <p>
-    Biały Most to nie tylko przeprawa przez rzekę Rioni – to punkt obowiązkowy dla każdego, kto chce powiedzieć: „Byłem w Kutaisi i widziałem coś więcej niż tylko chinkali.” Choć wygląda niepozornie, ma w sobie urok starego miasta – trochę skrzypi, trochę się chwieje, ale za to ma duszę. I bardzo ładny widok.
-  </p>
-
-  <p>
-    Zbudowany pod koniec XIX wieku, most łączył dawniej dzielnicę mieszkalną z tętniącym handlem centrum Kutaisi. W czasach, gdy samochody jeszcze nie warczały po ulicach, przez ten most przechodzili kupcy, pielgrzymi i wszyscy ci, którzy mieli do załatwienia sprawy po drugiej stronie rzeki. Przez lata był świadkiem powodzi, remontów i niejednej deklaracji miłości. Swoją nazwę zawdzięcza białemu kolorowi barierek – które obecnie są... no cóż, mniej białe, bardziej „jasnoszare z charakterem”.
-  </p>
-
-  <p>
-    Po jednej stronie mostu – centrum Kutaisi, z kawiarniami, straganami i gwarem dnia codziennego. Po drugiej – spokojniejsze zaułki i ścieżki prowadzące do kolejnych odkryć. A sam most? Pokryty białą farbą, z której co nieco już zeszło, bo słońce i czas robią swoje. Ale właśnie to dodaje mu uroku – jakby mówił: „Trochę się już nażyłem, ale nadal wiem, jak być ładnym tłem do Twojego zdjęcia.”
-  </p>
-
-  <p>
-    Most zdobi też charakterystyczna rzeźba balansującego mężczyzny – symbol artystycznej duszy miasta i okazja do zrobienia fotki, która nie wymaga filtra. No i te widoki: rzeka Rioni płynąca pod spodem, domy zawieszone na skarpach i śpiew ptaków, który chwilami przebija się przez szum miasta.
-  </p>
-
-  <p>
-    To dobre miejsce, żeby zwolnić tempo, usiąść na chwilę i po prostu popatrzeć. W końcu nie każda atrakcja musi być monumentalna – czasem wystarczy stary most, który zna więcej historii niż niejeden przewodnik.
-  </p>
-
-  <p><strong>Pro tip:</strong> Najlepsze światło do zdjęć jest tu rano i tuż przed zachodem słońca. A jeśli masz lornetkę – spójrz na rzekę. Czasem widać żółwie!</p>
-</details>
-
-
-  
-  <details>
-  <summary><strong>🏛️ Muzeum Historii Kutaisi – czyli jak to wszystko się zaczęło</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2705° N, 42.7082° E</p>
-
-  <p>
-    Jeśli chcesz poczuć się jak podróżnik w czasie, ale bez konieczności budowania wehikułu z części po pralce – to właśnie tu. Muzeum Historii Kutaisi mieści się w eleganckim XIX-wiecznym budynku, który sam mógłby być eksponatem. Kiedyś było tu seminarium duchowne, a teraz? Teraz jest to miejsce pełne skarbów, które pokazują, że Kutaisi to nie tylko chinkali i chaczapuri, ale też kawał fascynującej przeszłości.
-  </p>
-
-  <p>
-    W środku znajdziesz ponad 200 000 (!) eksponatów – od starożytnych artefaktów, przez broń, ceramikę, po gruzińskie korony i ubrania, które dzisiaj mogłyby trafić na wybieg mody etno-retro. Są tu przedmioty z czasów Kolchidy (tak, tej Kolchidy od Złotego Runa), z epoki greckiej, rzymskiej, bizantyjskiej i radzieckiej. To trochę jak przegląd rodzinnego albumu, tylko że rodzina jest ogromna i ma jakieś 3 tysiące lat historii.
-  </p>
-
-  <p>
-    Możesz zobaczyć, jak wyglądała Gruzja przed i po chrystianizacji, jakie monety używano w średniowieczu i jak uzbrojeni byli dawni wojownicy (spoiler: noszenie ich pancerza wymagało siłowni i trzech porannych kaw). A jeśli interesuje Cię kultura ludowa – są też stroje, hafty i instrumenty muzyczne, które wyglądają jakby miały duszę.
-  </p>
-
-  <p>
-    Samo muzeum jest dość kompaktowe, więc nie grozi Ci muzealne zmęczenie. Ale za to ilość wiedzy i ciekawostek może lekko nadwyrężyć pamięć w telefonie, jeśli robisz zdjęcia wszystkiemu, co błyszczy (a trochę tego tu jest).
-  </p>
-
-  <p><strong>Ciekawostka:</strong> W jednej z sal można zobaczyć rekonstrukcję dawnego wnętrza mieszczańskiego domu z Kutaisi – w tym meble, które wyglądają jakby tylko czekały na powrót właściciela z balu w Tbilisi.</p>
-
-  <p><strong>Tip turysty:</strong> Warto zapytać o angielskie opisy lub przewodnika – nie wszystko jest przetłumaczone, ale uśmiech i gesty robią robotę. A po wyjściu – skocz do kawiarni obok i traw spokojnie tę podróż przez wieki.</p>
-
-  <p><strong>🎟️ Ceny biletów:</strong></p>
-  <ul>
-    <li>Dorośli: 3 GEL</li>
-    <li>Studenci: 2 GEL</li>
-    <li>Uczniowie: 1 GEL</li>
-    <li>Dzieci do 6 lat: wstęp bezpłatny</li>
-    <li>Usługa przewodnika (różne języki): 10 GEL</li>
-  </ul>
-  <p><em>Uwaga: Ceny mogą ulec zmianie. Warto sprawdzić aktualne informacje przed wizytą.</em></p>
-</details>
-
-<details>
-  <summary><strong>🌿 Ogród Botaniczny w Kutaisi – zielona oaza z historią</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2705° N, 42.7082° E</p>
-
-  <p>
-    Jeśli myślisz, że ogrody botaniczne to tylko nudne spacery między krzakami, to Kutaisi ma dla Ciebie niespodziankę. Ten ogród to nie tylko miejsce dla miłośników flory, ale także dla tych, którzy cenią sobie spokój, historię i... kapliczki w drzewach.
-  </p>
-
-  <p>
-    Założony w 1969 roku na bazie parku z XIX wieku, Ogród Botaniczny w Kutaisi rozciąga się na 7 hektarach i gości ponad 700 gatunków roślin z różnych zakątków świata. To jak podróż dookoła globu bez potrzeby pakowania walizek.
-  </p>
-
-  <p>
-    Największą atrakcją jest 400-letni dąb, w którego wnętrzu znajduje się mała kapliczka. Tak, dobrze przeczytałeś – kapliczka w drzewie! To miejsce, gdzie natura spotyka się z duchowością w najbardziej dosłowny sposób.
-  </p>
-
-  <p>
-    Spacerując po ogrodzie, natkniesz się na amfiteatr, fontanny, sercowatą rzeźbę i stawy pełne żab. Idealne miejsce na piknik, sesję zdjęciową lub po prostu chwilę relaksu z dala od miejskiego zgiełku.
-  </p>
-
-  <p><strong>🕒 Godziny otwarcia:</strong> codziennie od 9:00 do 20:00</p>
-
-  <p><strong>🎟️ Ceny biletów:</strong></p>
-  <ul>
-    <li>Dorośli: 1 GEL</li>
-    <li>Dzieci do 6 lat: wstęp bezpłatny</li>
-  </ul>
-
-  <p><em>Uwaga: Ceny mogą ulec zmianie. Warto sprawdzić aktualne informacje przed wizytą.</em></p>
-
-  <p><strong>📍 Adres:</strong> 2 Konstantine Leselidze Street, Kutaisi, Gruzja</p>
-
-  <p><strong>💡 Wskazówka:</strong> Wiosną ogród rozkwita feerią barw, a jesienią zachwyca złotymi liśćmi. Niezależnie od pory roku, to miejsce warte odwiedzenia!</p>
-</details>
-
-<details>
-  <summary><strong>⛲ Fontanna Kolchidy – złoto, konie i mitologia</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2713° N, 42.7066° E</p>
-
-  <p>
-    Witamy w centrum Kutaisi, gdzie mitologia gruzińska łączy się z miejskim przepychem, a złoto leje się... no, przynajmniej wizualnie. Fontanna Kolchidy wygląda, jakby ktoś zapytał: „Jakby wyglądała fontanna, gdyby robiła ją antyczna bogini z kontem na Instagramie?”
-  </p>
-
-  <p>
-    Na placu centralnym, tuż przy gmachu dawnego parlamentu, stoi duma Kutaisi: ogromna, błyszcząca fontanna z pozłacanymi figurami zwierząt i postaci inspirowanych starożytną Kolchidą – legendarnym królestwem, z którego pochodziło Złote Runo (tak, to to z opowieści o Jazonie i Argonautach). 
-  </p>
-
-  <p>
-    Woda tryska tu z rozmachem, a konie, byki i mityczne stworzenia wyglądają, jakby za chwilę miały wskoczyć do akcji. Fontanna ma w sobie coś z bajki, coś z opery i coś z... centrum handlowego. Ale właśnie za ten miks ją kochamy.
-  </p>
-
-  <p>
-    Wieczorem fontanna rozświetla się setkami świateł, a otaczający ją plac staje się miejscem spotkań, randek, dziecięcych hulajnóg i dorosłych na ławkach z kebabem. Krótko mówiąc – idealne miejsce na przerwę w zwiedzaniu.
-  </p>
-
-  <p><strong>💡 Wskazówka:</strong> Jeśli podróżujesz z dziećmi, pozwól im pobiegać wokół fontanny – ale uważaj, bo konie potrafią być bardziej fotogeniczne niż Ty.</p>
-
-</details>
-
-
-  <details>
-  <summary><strong>🕳️ Jaskinie Prometeusza – podziemna bajka z mitologicznym twistem</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.3966° N, 42.6026° E</p>
-
-  <p>
-    Wyobraź sobie, że schodzisz do wnętrza Ziemi, a tam... nie piekło, nie metro, ale korytarze jak z innej planety. Jaskinie Prometeusza to jedna z największych atrakcji naturalnych w całej Gruzji – i nie bez powodu.
-  </p>
-
-  <p>
-    W środku czeka na Ciebie 1,5 kilometra trasy turystycznej (z ogólnej długości ponad 11 km!), pełnej stalaktytów, stalagmitów, podziemnych jezior i sal, które wyglądają jakby miały zaraz posłużyć za plan filmowy „Gwiezdnych Wojen: Gruzińska Odyseja”.
-  </p>
-
-  <p>
-    Nazwa jaskini nawiązuje do mitu o Prometeuszu, który – według lokalnej wersji – miał być przykuty nie w Kaukazie ogólnie, a właśnie tu. Czy to prawda? Może. Czy robi klimat? Zdecydowanie. 
-  </p>
-
-  <p>
-    Wnętrze jaskini oświetlone jest kolorowymi światłami, co sprawia, że czujesz się trochę jak na dyskotece dla geologów. Można tu nawet popłynąć łódką po podziemnej rzece, jeśli poziom wody pozwala – romantycznie jak w Wenecji, tylko chłodniej i z większą szansą spotkania nietoperza.
-  </p>
-
-  <p><strong>🎟️ Bilety:</strong> Około 23 GEL (8 EUR) za wejście z przewodnikiem. Rejs łódką dodatkowo płatny – ok. 17 GEL (6 EUR). Dzieci płacą mniej, studenci też.</p>
-
-  <p><strong>🚗 Dojazd:</strong> Z Kutaisi można dojechać marszrutką, taksówką lub zorganizowaną wycieczką. Jaskinie leżą ok. 20 km od miasta, w okolicy Tskaltubo.</p>
-
-  <p><em>Tip: Weź bluzę! W środku jest magicznie, ale chłodnawo – około 14 stopni. Idealne miejsce, by schłodzić emocje po upalnym dniu.</em></p>
-</details>
-
-  <details>
-  <summary><strong>🌄 Kanion Okatse – przygoda z widokiem (i zawrotami głowy gratis)</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.5296° N, 42.5891° E</p>
-
-  <p>
-    Jeśli kiedykolwiek marzyłeś, by zawisnąć nad przepaścią i krzyknąć „życie jest piękne!” – Kanion Okatse czeka właśnie na Ciebie. Ten spektakularny wąwóz wyrzeźbiony przez rzekę w wapiennych skałach to jedno z tych miejsc, gdzie Matka Natura pokazała pełnię swoich zdolności... a potem ktoś dołożył metalową kładkę, żebyś mógł się tym wszystkim pozachwycać (i trochę pobać).
-  </p>
-
-  <p>
-    Główną atrakcją jest <strong>wisząca kładka widokowa</strong> – długa na ponad kilometr i miejscami zawieszona 100 metrów nad ziemią. Spacer nią to test odwagi i siły łydek, ale nagroda w postaci panoramicznych widoków na gruzińską dżunglę absolutnie to wynagradza. Serio – zdjęcia stamtąd wyglądają jak z drona, tylko że jesteś na nich Ty, lekko spocony.
-  </p>
-
-  <p>
-    Na końcu trasy czeka <strong>platforma widokowa</strong>, która wygląda jak balkon Jamesa Bonda – szklana podłoga, nic pod tobą, tylko 100 metrów wolnego lotu. Idealne miejsce na selfie, jeśli ręce nie trzęsą Ci się z emocji.
-  </p>
-
-  <p><strong>🎟️ Bilety:</strong> Około 25 GEL (ok. 9 EUR) za osobę dorosłą. Dzieci, studenci i emeryci – zniżka. Można kupić online lub na miejscu (uwaga na kolejki w sezonie).</p>
-
-  <p><strong>🚗 Dojazd:</strong> Z Kutaisi to około 50 minut jazdy samochodem (35 km). Można też zorganizować wycieczkę grupową, połączyć z wizytą w kanionie Martvili lub jaskini Prometeusza. W pobliżu znajduje się wioska Gordi – idealna baza wypadowa.</p>
-
-  <p><em>Tip: Załóż wygodne buty i weź coś przeciwdeszczowego – pogoda w górach bywa zmienna jak ceny biletów lotniczych.</em></p>
-</details>
-
-<details>
-  <summary><strong>🚣 Kanion Martvili – rzeka przygód w sercu Gruzji</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.6899° N, 42.6417° E</p>
-
-  <p>
-    Jeśli kiedykolwiek zastanawiałeś się, jakby to było dryfować przez wąski kanion otoczony zielenią, to Kanion Martvili jest Twoim nowym celem. To miejsce to jak scena z filmu przygodowego – rzeka Abasha płynie przez wąwóz, tworząc wodospady i naturalne baseny. Przejażdżka łódką wśród tych cudów natury to niemal jak wyprawa do „Królestwa Wody”. Z tą różnicą, że nie musisz być Indiana Jonesem, by się tu dostać.
-  </p>
-
-  <p>
-    Kanion jest znany z <strong>spływów łodziami</strong>, które oferują niezapomniane wrażenia. Z wody oglądasz wodospady spadające wprost do rzeki, a otaczająca cię zieleń sprawia, że czujesz się jak w dżungli, z tym że z wifi i możliwościami do zrobienia zdjęć na Instagramie.
-  </p>
-
-  <p>
-    A jeśli wolisz chodzić, to nie martw się – jest też <strong>ścieżka spacerowa</strong>, która prowadzi wzdłuż brzegu. Wtedy masz czas, by podziwiać widoki, pomyśleć, czy nie powinieneś zainwestować w lustrzankę, i szukać kamieni w kształcie serca, które – według legendy – zapewniają szczęście w miłości (albo po prostu pasują do zdjęć).
-  </p>
-
-  <p><strong>🎟️ Bilety:</strong> Około 20 GEL (ok. 7 EUR) za osobę. W cenie masz zarówno spacer, jak i spływ łódką. Dzieci, studenci i emeryci – zniżki. Można kupić bilet na miejscu.</p>
-
-  <p><strong>🚗 Dojazd:</strong> Z Kutaisi to około 40 minut (30 km). Warto połączyć to z wizytą w Kanionie Okatse, bo oba miejsca są do siebie stosunkowo blisko. Jeśli nie masz samochodu, można zorganizować transport przez lokalne biura turystyczne.</p>
-
-  <p><em>Tip: Zabierz coś na przekąskę, bo po spływie poczujesz się jak bohater wodnej epopei. Tylko nie zapomnij o aparacie – widoki naprawdę zasługują na selfie!</em></p>
-</details>
-
-  <details>
-  <summary><strong>⛪ Monastyr Motsameta – ukryty skarb Gruzji</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.3442° N, 42.5493° E</p>
-
-  <p>
-    Jeśli kiedykolwiek poczułeś, że Gruzja ma w swojej ofercie zbyt mało spektakularnych monastyrów, to Monastyr Motsameta jest idealnym miejscem, by przekonać cię, jak bardzo się myliłeś. Ten malowniczy klasztor jest niczym wyjęty z bajki – umiejscowiony na klifie, tuż nad rzeką, otoczony zielonymi wzgórzami, które wyglądają, jakby cały czas chciały cię zaprosić na popołudniową kawę.
-  </p>
-
-  <p>
-    Motsameta ma swoją własną, pełną dramatyzmu historię – legendy o męczennikach i o cudach sprawiają, że to miejsce czuje się wyjątkowe. Mówi się, że bracia Dawit i Konstantyn, którzy zostali tu pochowani, byli naprawdę wyjątkowi – nie tylko w kwestii duchowości, ale również w sztuce przeżywania strasznych wydarzeń. W każdym razie, wchodząc do monastyru, poczujesz, jak historia otacza cię na każdym kroku.
-  </p>
-
-  <p>
-    Chociaż nie musisz być superfanem historii, by czuć się tu jak bohater średniowiecznej powieści, to warto zrobić krok w stronę przeszłości. Monastyr, z jego urzekającymi freskami i spokojem, to świetne miejsce do medytacji – albo po prostu na chwilę odpoczynku od codziennego zgiełku. Możesz też spróbować przejść przez bramę i dotknąć jej, co według legendy ma przynieść szczęście.
-  </p>
-
-  <p><strong>🎟️ Bilety:</strong> Zazwyczaj darmowe, ale niewielka opłata za wejście lub darowizna w formie serca (a może raczej w formie waluty). Warto wspomóc utrzymanie tego cudownego miejsca.</p>
-
-  <p><strong>🚗 Dojazd:</strong> Monastyr Motsameta znajduje się tylko 10 km od Kutaisi, co sprawia, że jest to świetna opcja na wycieczkę po mieście. Dojazd samochodem to około 15-20 minut, a na miejscu znajdziesz parking. Warto pamiętać, że niektóre drogi prowadzące do monastyru są dość wąskie, więc jazda przez malownicze wzgórza może przyprawić o lekki zawrót głowy (ale widoki – bezcenne!).</p>
-
-  <p><em>Tip: Pamiętaj, że nie wszystko, co jest związane z historią i duchowością, musi być nudne! Zatrzymaj się na chwilę i poczuj magię tego miejsca. I tak, miejsce jest doskonałe do robienia zdjęć, więc nie zapomnij o aparacie!</em></p>
-</details>
-
-  <details>
-  <summary><strong>⛪ Monastyr Gelati – duchowa podróż w czasie</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2980° N, 42.6885° E</p>
-
-  <p>
-    Monastyr Gelati to nie tylko miejsce, w którym historia, religia i sztuka spotykają się w najbardziej elegancki sposób. To także prawdziwa perła Gruzji, która, jak wiele innych, może cię oczarować w moment. Urok tej świątyni polega na tym, że nie musisz być wielkim entuzjastą religii, żeby poczuć magię tego miejsca. Wystarczy, że jesteś fanem wspaniałych widoków, mistycznej atmosfery i odrobiny historii, by poczuć się, jakbyś przeniósł się w czasie do średniowiecza.
-  </p>
-
-  <p>
-    Zbudowany w XI wieku, monastyr Gelati to przykład architektonicznego geniuszu – pełen przepychu i finezji, ale zarazem niezwykle skromny i spokojny. Znajdziesz tu nie tylko świątynie, ale także szkołę, która była jednym z najważniejszych ośrodków naukowych średniowiecznej Gruzji. Warto zatrzymać się przy tym miejscu na chwilę, by poczuć, jak historia przepływa przez kamienne mury.
-  </p>
-
-  <p>
-    Wnętrze monastyru to prawdziwa uczta dla oczu. Malowidła na ścianach, pełne barw i szczegółów, opowiadają historie z Biblii, a freski są tak piękne, że czasem zastanawiasz się, czy nie wyszły od jakiegoś genialnego średniowiecznego artysty, który zdecydowanie znał się na rzeczy. Możesz tu z łatwością poczuć się, jak w muzeum, tylko że z duszą.
-  </p>
-
-  <p>
-    Zanim przejdziesz przez drzwi monastyru, upewnij się, że zatrzymasz się na chwilę, by podziwiać widok. Gelati to jakby ukryty punkt widokowy na okoliczne wzgórza i doliny, więc idealne miejsce na robienie zdjęć (żeby później zaimponować znajomym). W okolicy możesz poczuć się jak prawdziwy podróżnik w czasie.
-  </p>
-
-  <p><strong>🎟️ Bilety:</strong> Wstęp jest płatny, ale cena jest symboliczna. Zdecydowanie warto zapłacić, żeby zobaczyć to miejsce na własne oczy. Ceny są zazwyczaj dość przystępne, ale i tak najlepiej zabrać ze sobą trochę drobnych. Warto wspierać takie skarby.</p>
-
-  <p><strong>🚗 Dojazd:</strong> Monastyr Gelati znajduje się około 10 km na północny zachód od Kutaisi, więc dotarcie tam to kwestia kilku minut jazdy samochodowej. Droga prowadząca do monastyru jest dość wygodna, a miejsce jest dobrze oznakowane, więc nie musisz się martwić, że zabłądzisz wśród górskich szlaków.</p>
-
-  <p><em>Tip: Gelati to miejsce, w którym warto poczuć się jak średniowieczny uczony. A jeśli nie czujesz się jak uczony, to po prostu skorzystaj z okazji, by zrobić zdjęcie na tle niesamowitego widoku – i podziwiaj, jak historia otacza cię z każdej strony.</em></p>
+ 
 </details>
 
 
