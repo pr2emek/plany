@@ -4,7 +4,7 @@ title: Paryż
 permalink: /paryz.html
 ---
 
-# Paryż 🇮🇹
+# Paryż 🇫🇷
 
 Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
