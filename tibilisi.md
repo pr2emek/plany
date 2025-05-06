@@ -344,172 +344,75 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 <details>
-    <summary><strong>🕵️‍♂️ Sekretne miejsca Kutaisi</strong></summary>
+    <summary><strong>🕵️‍♂️ Sekretne miejsca Tibilisi</strong></summary>
 
 <details>
-  <summary><strong>🎨 Mural z starszą kobietą – sztuka, która mówi więcej niż tysiąc słów</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2645° N, 42.6904° E</p>
-
+  <summary><strong>🔮 Ukryta kawiarnia w zegarowej wieży Rezo Gabriadze</strong></summary>
   <p>
-    Kutaisi to nie tylko miasto pełne historii, ale także miejsc, które zaskakują na każdym kroku. Jednym z nich jest mural, który znajdziesz w centrum miasta – dzieło sztuki przedstawiające starszą kobietę, która patrzy na ciebie z okładki... no właśnie, z okładki życia. Wzrok tej kobiety, pełen mądrości i doświadczenia, sprawia, że czujesz, jakby miała ci coś bardzo ważnego do powiedzenia – a jednocześnie zdaje się mówić: „Jestem starsza, ale wciąż pełna energii, więc podążaj za swoją pasją”.
-  </p>
-
-  <p>
-    Mural jest jak kawałek magicznego kolażu, który łączy tradycyjną gruzińską estetykę z nowoczesnym podejściem do sztuki ulicznej. Zdecydowanie przyciąga wzrok, i to nie tylko turystów. Jest pełen kolorów i detali, które sprawiają, że czujesz się jakbyś wpadł do świata z innego wymiaru. To idealne miejsce na zrobienie zdjęcia, które potem będziesz pokazywać wszystkim znajomym, mówiąc: „Tak, widziałem tę kobietę. Ma niesamowite spojrzenie”.
-  </p>
-
-  <p>
-    Co ciekawe, mural ten jest nie tylko atrakcją wizualną, ale i symbolem kultury miejskiej, która w Kutaisi zaczyna zyskiwać na znaczeniu. Artysta, który stworzył ten obraz, postanowił pokazać coś więcej niż tylko zwykłą postać – starsza kobieta to prawdziwa mądrość tego miasta. Z pewnością zatrzymasz się, by przyjrzeć się szczegółom tego dzieła, a przy okazji poczujesz, jak sztuka wciąga cię w życie lokalnej społeczności.
-  </p>
-
-  <p><strong>🎟️ Bilety:</strong> Wstęp do świata sztuki jest darmowy. Możesz po prostu stanąć i kontemplować, co ta kobieta chce ci powiedzieć, nie wydając ani grosza. Co więcej, nie musisz się martwić o tłumy turystów – mural jest umieszczony w takiej okolicy, że możesz spokojnie zrobić zdjęcie bez większego pośpiechu. Dobre miejsce na chwilę zadumy!</p>
-
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Mural znajduje się w samym centrum Kutaisi, więc nie ma potrzeby specjalnego planowania wycieczki, aby go zobaczyć. Wystarczy, że będziesz spacerować po mieście i z pewnością go znajdziesz – kiedy tylko zobaczysz kolorowe ściany, wiesz, że jesteś blisko.</p>
-
-  <p><em>Tip: Pamiętaj, żeby zrobić zdjęcie, ale też daj się pochłonąć chwilą. Być może mural ma coś do powiedzenia nie tylko o Kutaisi, ale także o tobie.</em></p>
+  – Z tyłu bajkowej wieży mieści się maleńka kawiarnia, która wygląda jak nora czarodzieja. Serwują kawę, wino i inspirację – trudno trafić, ale warto!</p>
 </details>
+
+<details>
+  <summary><strong>🌊 Wodospad w centrum miasta</strong></summary>
+ <p>
+  – Tak, w samym sercu Tbilisi – w Ogrodzie Botanicznym lub przy łaźniach siarkowych – znajdziesz prawdziwy wodospad. Można się schłodzić lub zrobić zdjęcie jak z Bali, ale bez filtrów.</p>
+</details>
+
+ <details>
+    <summary><strong>🌿 Ukryte łaźnie siarkowe pod mostem</strong></summary>
+    <p>Wszyscy idą do głównej Abanotubani, a Ty skręć pod most i znajdź niewielkie, lokalne łaźnie, gdzie nie ma turystów ani cenników po angielsku. Prawdziwe gruzińskie doświadczenie!</p>
+  </details>
 
   <details>
-  <summary><strong>💖 Mural „Kochająca Mama” – Uścisk artystycznej miłości</strong></summary>
+    <summary><strong>🎨 Podwórka z mozaikami przy Betlemi Street</strong></summary>
+    <p>Spacerując w stronę kościoła Betlemi, zerkaj za bramki – znajdziesz podwórka z kolorowymi mozaikami i niesamowitymi schodami, które wyglądają jak mural na żywo.</p>
+  </details>
 
-  <p><strong>Współrzędne:</strong> 42.2623° N, 42.6901° E</p>
+  <details>
+    <summary><strong>🍷 Winiarnia w piwnicy bez szyldu</strong></summary>
+    <p>Na ulicy Galaktion Tabidze znajduje się nieoznakowana piwnica z domowym winem. Wejdź przez ciężkie drzwi z metalowym dzwonkiem. Jeśli masz szczęście – zostaniesz na toast z właścicielem.</p>
+  </details>
 
-  <p>
-    W Kutaisi nie brakuje ulicznych dzieł, które potrafią poruszyć serce – i ten mural jest tego najlepszym przykładem. „Kochająca Mama” to obraz przedstawiający kobietę z pełnym ciepła spojrzeniem, jakby mówiła: „Nie martw się, wszystko będzie dobrze”. Z taką postacią na ścianie miasto od razu staje się bardziej przytulne, jakby cała okolica była objęta rodzicielskim uściskiem.
-  </p>
+  <details>
+    <summary><strong>🧿 Ściana z czarną magią</strong></summary>
+    <p>Za Rezo Gabriadze Theatre, na tyłach kawiarni, znajdziesz ścianę z tajemniczymi napisami i symbolami. Legenda mówi, że powstała po zjeździe gruzińskich poetów-okultystów w latach 70.</p>
+  </details>
 
-  <p>
-    Mural ukazuje matkę z dzieckiem, a ich twarze są pełne spokoju i miłości. To jakby wizyta w domu, gdzie poczujesz się jak u swojej babci – tylko zamiast ciasta, dostajesz prawdziwą sztukę uliczną. Kolorystyka obrazu jest ciepła, a obraz jest tak realistyczny, że aż masz ochotę powiedzieć „Dziękuję, mamo!” i podziękować artystom za taki kawałek emocji na murze.
-  </p>
+  <details>
+    <summary><strong>🐾 Koci zaułek w Sololaki</strong></summary>
+    <p>W dzielnicy Sololaki, przy ukrytej uliczce Ietim-Gurji, mieszka kilkadziesiąt kotów – dokarmianych przez sąsiadów, fotografowanych przez wtajemniczonych. Kocia enklawa ciszy.</p>
+  </details>
 
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Ten mural znajduje się w małej, ale klimatycznej uliczce tuż obok głównego placu miasta. Znajdziesz go, idąc w stronę rzeki, więc najlepiej przy okazji zrobić mały spacer wzdłuż ulicy i rozkoszować się tym wyjątkowym widokiem.</p>
+<details>
+    <summary><strong>🚪 Dziwne drzwi z magicznym widokiem (ul. Betlemi</strong></summary>
+  
+ <p> Wchodząc na punkt widokowy obok kościoła Betlemi, znajdziesz tajemnicze, stare drzwi, które prowadzą donikąd. Ale obok nich: najpiękniejszy widok na stare miasto.</p>
 </details>
 
 <details>
-  <summary><strong>🎈 Mural „Dziecięca Radość” – Kolorowe marzenia na ścianie</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2639° N, 42.6912° E</p>
-
-  <p>
-    Chcesz poczuć się jak dziecko z powrotem? Ten mural to doskonała okazja, żeby ponownie odkryć radość życia. „Dziecięca Radość” ukazuje grupkę maluchów w akcji – biegnących, śmiejących się, bawiących się, po prostu przeżywających chwilę. To jakbyś przypadkiem znalazł się w parku zabaw, ale zamiast huśtawek – masz pełen energii mural na ścianie.
-  </p>
-
-  <p>
-    Jeśli czujesz się zmęczony po zwiedzaniu miasta, ten obraz na pewno poprawi ci humor. Każda twarz na tym muralu to czysta niewinność i pasja do życia – coś, czego nie znajdziesz w żadnym muzeum. A dla wszystkich dorosłych, którzy zapomnieli, jak to jest być dzieckiem, to świetna przypomnienie – bo kto nie kocha skakać po kałużach (albo chociaż patrzeć na dzieci, które to robią)?
-  </p>
-
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Znajdziesz ten mural przy jednej z głównych ulic w Kutaisi. Jest to dość zatłoczona okolica, więc nie będziesz musiał go szukać zbyt długo. I pamiętaj, aby patrzeć na twarze dzieci – z pewnością zainspirują cię do robienia czegoś szalonego!</p>
+    <summary><strong>🎨 Muralowe podwórka na Avlabari</strong></summary>
+   
+  <p>Blokowiska? Tak, ale z duszą. Tutejsze podwórka ozdobione są gigantycznymi muralami i graffiti – street art w gruzińskim wydaniu. Można się zgubić i zakochać.</p>
 </details>
 
 <details>
-  <summary><strong>😊 Mural „Uśmiech Gruzji” – Bo każdemu trzeba przypomnieć, jak ważny jest uśmiech</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2651° N, 42.6933° E</p>
-
-  <p>
-    Ten mural to coś dla każdego, kto kocha energię i optymizm. „Uśmiech Gruzji” to obraz przedstawiający twarze, na których widnieje szeroki uśmiech. Wydaje się, że cała Gruzja mówi ci: „Przestań się martwić, życie jest piękne!”. To jakby cały naród powiedział ci w jednym obrazie: „Chłopie, idź do przodu i się nie przejmuj!”.
-  </p>
-
-  <p>
-    Kolory są jasne i żywe, a kształty dynamiczne, co daje poczucie ruchu i energii. Będziesz chciał zrobić zdjęcie nie tylko dla siebie, ale także dla wszystkich swoich znajomych, żeby pokazać im, jak radosne jest życie. Właściwie to ten mural jest niczym pocztówka z wakacji – tylko zamiast pocztówki, masz kawałek betonu w pełnym kolorze.
-  </p>
-
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Znajdziesz go w tętniącej życiem dzielnicy, więc po drodze do tego muralu będziesz miał szansę natknąć się na innych artystów, którzy również chcą przypomnieć ci o pięknie życia.</p>
+    <summary><strong>🍷 Miniwinnice w podziemiach</strong></summary>
+   
+  <p>Niektóre restauracje mają miniaturowe piwniczki z własnym winem – nie zawsze są oznaczone, więc trzeba zapytać kelnera. Czasem dostaniesz kieliszek „od babci z Kachetii”.</p>
 </details>
 
 <details>
-  <summary><strong>🌈 Mural „Festiwal Kolorów” – Ściana pełna radości!</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2673° N, 42.6925° E</p>
-
-  <p>
-    Jeśli masz dość nudnych, szarych ścian i chcesz poczuć, że życie jest pełne kolorów, to „Festiwal Kolorów” w Kutaisi to twój punkt obowiązkowy. To mural, który wygląda, jakby ktoś dosłownie wlał całą tęczę na ścianę. Płynące barwy, zawiłe kształty i odcienie – wszystko to sprawia, że czujesz się jak na wielkim festiwalu kolorów, choć wiesz, że nie będziesz musiał wymachiwać rękami w rytm muzyki.
-  </p>
-
-  <p>
-    Zamiast tradycyjnych kwiatów czy abstrakcyjnych linii, mural wypełnia całą przestrzeń, dając ci poczucie, że wkraczasz do innego wymiaru. Każdy element ma swoją opowieść, jakby każdy kolor opowiadał ci historię, którą chciałbyś poznać. Jest to swego rodzaju podróż, której nie musisz opuścić, żeby poczuć się lepiej.
-  </p>
-
-
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Ten mural jest w pobliżu głównych ulic handlowych, więc po obejrzeniu go możesz udać się na zakupy albo po prostu kontemplować w nieskończoność, jak te kolory zmieniają twój nastrój.</p>
+    <summary><strong>🦉 Dom z sową</strong></summary>
+    
+  <p>Przy jednej z bocznych ulic znajdziesz dom z dziwną, ceramiczną sową nad drzwiami. Nikt nie wie po co, ale każdy robi zdjęcie. Takie tylko w Tbilisi.</p>
 </details>
 
 <details>
-  <summary><strong>🚂 Tajemniczy Most Kolejowy – Kiedy tory spotykają się z magią</strong></summary>
-
-  <p><strong>Współrzędne:</strong> </p>
-
-  <p>
-    Tajemniczy Most Kolejowy w Kutaisi to jedno z tych miejsc, które po prostu musisz zobaczyć, nawet jeśli nie jesteś fanem pociągów (choć jeśli jesteś, to tym bardziej!). Most, który na pierwszy rzut oka może wydawać się tylko zwykłą konstrukcją, skrywa w sobie coś niezwykłego. Jeśli przejdziesz przez niego, poczujesz, jakbyś przeniósł się w czasie – nie tylko w sensie fizycznym, ale i emocjonalnym. Ktoś powiedziałby, że ten most ma „duszę” – coś, co czuje każdy podróżnik, gdy tylko zatrzyma się na chwilę i spojrzy na otaczający go krajobraz.
-  </p>
-
-  <p>
-    Historia tego mostu jest równie fascynująca, co jego wygląd. Zbudowany w XIX wieku, przez lata stał się częścią lokalnego folkloru. Istnieją legendy, które mówią, że most był świadkiem niejednej tajnej podróży, a także miał swoje chwile chwały podczas wielkich zmagań wojennych. Kiedy przechodzi się obok, łatwo wyobrazić sobie pociągi sprzed lat, które przetaczały się przez ten most z hukiem, niosąc ze sobą historie, które dziś już zatarły się w mroku czasu.
-  </p>
-
-  <p>
-    Dzisiaj most stanowi miejsce spotkań dla turystów, którzy lubią odkrywać „nieoczywiste” atrakcje. Zdecydowanie warto zatrzymać się na chwilę, zejść na torowisko i poczuć tę specyficzną atmosferę. Często można tam spotkać lokalnych artystów, którzy dodają temu miejscu jeszcze więcej uroku, tworząc wspaniałe graffiti, które zdobią most. Słowem, Tajemniczy Most Kolejowy to jedno z tych miejsc, które jest pełne tajemnic – po prostu trzeba je odkryć na własną rękę.
-  </p>
-
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Most znajduje się w pobliżu rzeki Rioni, więc idealnym pomysłem jest spacer wzdłuż niej, by w końcu natrafić na ten niezwykły most. Znajdziesz go nieopodal jednej z lokalnych dzielnic Kutaisi, a śledzenie torów na pewno będzie fascynującą przygodą!</p>
+    <summary><strong>🕯️ Kapliczka w skale za twierdzą Narikala</strong></summary>
+  
+  <p>Jeśli zejdziesz z murów po cichym, kamiennym szlaku – trafisz do ukrytej kapliczki z ikonami. Miejsce na chwilę ciszy, zapalenie świeczki… albo zrobienie klimatycznej foty.</p>
 </details>
 
-<details>
-  <summary><strong>🚉 Opuszczona Stacja Kolejowa – Miejsce, gdzie czas się zatrzymał</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2531° N, 42.7117° E</p>
-
-  <p>
-    Jeśli kiedykolwiek marzyłeś o znalezieniu się w jednym z tych miejsc, które wyglądają, jakby zostały wyrwane prosto z filmu o post-apokalipsie, Opuszczona Stacja Kolejowa w Kutaisi jest dla Ciebie! To miejsce ma w sobie coś wyjątkowego – poczucie, jakby zatrzymał się tutaj czas. Stacja, niegdyś pełna zgiełku podróżnych, teraz czeka na swoje drugie życie. Cichy szum wiatrów przez zapomniane perony i niskie światło, które przenika przez zrujnowane okna budynku, nadają temu miejscu niemal magiczny charakter.
-  </p>
-
-  <p>
-    Kiedyś była to tętniąca życiem stacja, gdzie każdego dnia przejeżdżały pociągi pełne ludzi. Dziś pozostaje tylko wspomnieniem. Oczywiście, nie znajdziesz tu żadnych pasażerów czekających na swój pociąg (no, może oprócz kilku turystów i przypadkowych artystów), ale to właśnie sprawia, że miejsce jest tak fascynujące. Budynek z zewnątrz wygląda jak z obrazów malowanych przez nostalgicznych marzycieli, a z jego wnętrza wydobywa się echo przeszłości, które tylko czeka, by opowiedzieć swoją historię.
-  </p>
-
-  <p>
-    Jeżeli szukasz miejsca do zrobienia zdjęć, które wzbudzą zachwyt, to zdecydowanie powinieneś odwiedzić tę opuszczoną stację. Zrujnowane, pokryte graffiti ściany, porośnięte przez roślinność perony i puste tory mają w sobie urok, który przypomina o minionych czasach, kiedy ta stacja była jednym z najważniejszych punktów transportowych w regionie.
-  </p>
-
-  <p>
-    Poza tym, jeśli masz trochę wyobraźni, możesz poczuć się jak bohater jakiegoś filmu o podróżnikach w czasie – przecież nigdy nie wiadomo, co kryje się za zakurzoną tablicą z nazwą stacji, prawda? Możliwości są nieograniczone!
-  </p>
-
-  <p><strong>🚶‍♂️ Lokalizacja:</strong> Stacja znajduje się w pobliżu jednej z głównych dróg w Kutaisi, więc łatwo do niej dotrzeć pieszo lub lokalnym transportem. Choć budynek nie jest czynny, to wciąż stanowi ciekawą atrakcję turystyczną dla poszukiwaczy nietypowych miejsc.</p>
-</details>
-
-<details>
-  <summary><strong>☕ Sekretne Kawiarnie w Podwórkach – Smak ukryty w sercu miasta</strong></summary>
-
-  <p><strong>Współrzędne:</strong> 42.2671° N, 42.7030° E</p>
-
-  <p>
-    Kutaisi, jak na miasto pełne kontrastów przystało, ma coś, czego nie znajdziesz w żadnym przewodniku turystycznym – kawiarnie schowane w najciemniejszych zakamarkach, pośród podwórek i ukrytych zaułków. Znajdziesz je na ulicy Tsereteli oraz w jej najbliższej okolicy – zupełnie niewidoczne z głównych szlaków turystycznych, ale warte każdej wędrówki, jaką trzeba odbyć, by je odkryć.
-  </p>
-
-  <p>
-    W tej części Kutaisi kawa smakuje inaczej. Tutaj nie znajdziesz ogromnych, nowoczesnych sieci, ale prawdziwą, lokalną atmosferę – miejsce, gdzie czas zwalnia, a rozmowy przy filiżance espresso są pełne pasji i entuzjazmu. Większość z tych kawiarni znajduje się w urokliwych, nieco zapomnianych podwórkach, które aż proszą się o odkrycie. Wchodzisz przez wąskie drzwi, a za nimi… magiczny świat w klimatycznym wnętrzu.
-  </p>
-
-  <p>
-    Niektóre z tych kawiarni wyglądają jak tajemne ogrody, inne przypominają klimatyczne mieszkania zamienione w przytulne kawiarnie, a jeszcze inne to małe, rustykalne knajpki, które oferują tradycyjne gruzińskie napoje, takie jak „tarkhuna” (zielona herbata) czy domowy „chacha”. Wszystkie mają jeden wspólny element – nastrojowy klimat, który wciąga na długie godziny. 
-  </p>
-
-  <p>
-    Chciałbyś napić się kawy w miejscu, które przypomina filmową scenę z lat 60. lub 70., z drewnianymi stolikami, lamparcikami na stole i porozrzucanymi książkami? Takie kawiarnie znajdziesz właśnie tutaj. Możesz cieszyć się filiżanką gruzińskiej kawy, a do tego – być świadkiem rozmów mieszkańców, którzy zatrzymali się na chwilę, by złapać oddech w tej skrytej enklawie.
-  </p>
-
-  <p>
-    Najciekawsze w tych kawiarniach jest to, że każda ma swój własny charakter – jedna to lokalne centrum kultury, druga to oaza dla artystów i pisarzy, a jeszcze inna to idealne miejsce na wczesne poranki w towarzystwie książki i filiżanki świeżo zaparzonej kawy. Warto się zgubić w tych zaułkach i poczuć się jak lokalny, odkrywca tajemniczego Kutaisi.
-  </p>
-
-  <p>
-    Jeśli kiedykolwiek będziesz w okolicy, polecam zagubić się w tej części miasta i dać się ponieść tajemnicy ukrytych kawiarni. Gwarantuję, że po kilku filiżankach kawy znajdziesz się w miejscu, gdzie czas płynie wolniej, a magiczny nastrój podwórkowych kafejek wciągnie Cię na długie godziny.
-  </p>
-
-  <p><strong>🎟️ Wstęp:</strong> Wstęp wolny, ale warto zabrać ze sobą gotówkę na kawę (i ciastko, bo naprawdę warto!).</p>
-</details>
 
 </details>
 </details>
@@ -714,212 +617,123 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
     Jeśli chcesz w pełni poczuć się jak władca drogi, wynajem samochodu to opcja, którą warto rozważyć. W Kutaisi działa wiele firm wynajmujących pojazdy, a ceny są bardzo przystępne w porównaniu do zachodnich standardów. Dzięki wynajętemu samochodowi możesz bez problemu zwiedzić okolice Kutaisi, w tym górzyste regiony i piękne krajobrazy. Ważne jest jednak, żeby pamiętać o specyfice gruzińskiego ruchu drogowego, który może różnić się od tego, do czego jesteś przyzwyczajony.
   </p>
 
+</details>**
+
+---
+
+<details>
+  <summary><strong>🦄 Lokalne legendy Tbilisi</strong></summary>
+
+  <p><strong>🔥 Legenda o gorącym źródle i założeniu miasta</strong><br>
+  Dawno, dawno temu (czyli ok. V wieku), król Wachtang Gorgasali polował sobie na bażanta. Strzelił, ptak spadł… prosto do gorącego źródła! Królowi tak się spodobało ciepło i para, że postanowił założyć miasto – i nazwał je Tbilisi, od „tbili” czyli „ciepły”. Gdyby nie ten bażant, kto wie – może dziś byłaby tu tylko sauna i winnica?</p>
+
+  <p><strong>🦅 Wieża króla i porwana miłość</strong><br>
+  Na szczycie wzgórza stała niegdyś wieża, gdzie król przetrzymywał swoją córkę, zakochaną w biednym chłopaku z Doliny. Ona pisała wiersze, on grał na duduku, ale miłość była zakazana. Legenda głosi, że duch dziewczyny nadal spaceruje w okolicach twierdzy Narikala – czasem słychać szepty i muzykę o świcie.</p>
+
+  <p><strong>👣 Kamienne schody grzechu</strong><br>
+  W okolicach Abanotubani (dzielnicy łaźni) podobno znajdują się schody, po których w nocy nie wolno schodzić, jeśli masz złe intencje. Według mieszkańców, grzesznicy potykają się tam „sami z siebie”, a uczciwi turyści schodzą bez problemu. Sprawdź, ale nie kłam!</p>
+
+  <p><strong>🧙‍♂️ Stary szeptuch i mur niespełnionych życzeń</strong><br>
+  Obok jednej z cerkwi, podobno wisi mur, do którego dawniej przychodzili zakochani. Jeśli szepty ich życzeń się pokrywały – z muru odpadała cegła. Kiedyś był tam też szeptuch – starzec, który „czytał” z echa. Dziś cegieł już mniej, ale echo zostało…</p>
+
+  <p><strong>🪞 Lustro z ulicy Rustaveli</strong><br>
+  W jednej z bram na alei Rustaveli podobno wisiało kiedyś zaklęte lustro – kto w nie spojrzał i pomyślał życzenie, miał dostać odpowiedź… ale tylko jeśli był trzeźwy. Lustro zniknęło – ale lokalni twierdzą, że „czasem wraca na chwilę”.</p>
 </details>
 
 ---
 
 <details>
-  <summary><strong>👻 Legendy i miejskie opowieści Kutaisi</strong></summary>
+ <summary><strong>🎈 Co robić z dziećmi w Tbilisi</strong></summary>
+  
+  <p>Gruzińska stolica może nie brzmi jak raj dla najmłodszych, ale... pozory mylą! Tbilisi ma mnóstwo miejsc, które zachwycą dzieci i pozwolą dorosłym odpocząć z kawą (lub winem) w ręku.</p>
 
-  <p>
-    Kutaisi to jedno z tych miast, gdzie każdy kamień coś pamięta, a każda starsza pani mogłaby opowiedzieć ci historię, po której boisz się iść sam do piwnicy. Tu mit miesza się z rzeczywistością, duchy mają swoje ulubione zaułki, a opowieści są tak barwne, że Netflix mógłby je kręcić bez scenariusza.
-  </p>
+  <ul>
+    <li><strong>🦁 Ogród Zoologiczny (Tbilisi Zoo)</strong><br>
+    Odnowiony po powodzi, niewielki, ale przyjemny – idealny na spokojne popołudnie. Obok znajduje się park z fontannami i strefa gastronomiczna.</li>
 
-  <h4>🧙‍♂️ Dawid Budowniczy i kamień zaklęć (Katedra Bagrati – 42.2722, 42.7099)</h4>
-  <p>
-    Mówią, że król Dawid IV zbudował katedrę Bagrati nie tylko z cegieł, ale i... zaklęć. Według lokalnej legendy, w jednej z kolumn ukryto runy chroniące miasto przed najazdami. Jeśli pocałujesz ten kamień (nie polecamy w sezonie grypowym), spełni się jedno życzenie – choć zazwyczaj kończy się na selfie i nadziei.
-  </p>
+    <li><strong>🎡 Mtatsminda Park</strong><br>
+    Park rozrywki na szczycie wzgórza – z diabelskim młynem, zjeżdżalniami, karuzelami i zapierającym dech w piersiach widokiem na całe miasto. Można dojechać <em>funikularem</em> – samo to już frajda!</li>
 
-  <h4>🧤 Ręka Tamary (Monastyr Gelati – 42.3043, 42.6683)</h4>
-  <p>
-    W klasztorze Gelati znajdziesz grób królowej Tamary – a raczej... podobno znajdziesz. Legenda mówi, że jej prawa ręka została pochowana osobno, by chronić Gruzję nawet po śmierci. Wierzący twierdzą, że czujesz ciepło, gdy staniesz w odpowiednim miejscu. Sceptycy twierdzą, że to tylko słońce. A może to jedno i to samo?
-  </p>
+    <li><strong>🚂 Tbilisi Railway Museum</strong><br>
+    Dla dzieciaków z obsesją na punkcie pociągów – stare lokomotywy, które można dotknąć, obfotografować i... powspinać się (mimo że niby nie wolno).</li>
 
-  <h4>👣 Schody do nikąd (Park Besik Gabashvili – 42.2690, 42.7107)</h4>
-  <p>
-    W jednym z parków miejskich znajdują się stare kamienne schody, które kończą się... niczym. Nikt nie wie, dokąd kiedyś prowadziły, ale dzieci z sąsiedztwa mówią, że jeśli po nich zejdziesz po zmroku, możesz usłyszeć głosy z przeszłości. Albo śmiech sąsiada. Różnie bywa.
-  </p>
+    <li><strong>🚠 Kolejka linowa do twierdzy Narikala</strong><br>
+    Podniebna podróż nad dachami Starego Miasta – krótka, tania i bardzo efektowna. Widok + zjazd z góry = dziecięce „WOW”.</li>
 
-  <h4>🧒 Duch chłopca z nabrzeża (Rioni Riverside – 42.2713, 42.7122)</h4>
-  <p>
-    Starsi mieszkańcy wspominają o małym chłopcu, który pojawia się o zmroku na brzegu Rioni. Zawsze sam, zawsze patrzy w wodę. Nie mówi nic, ale kiedy próbujesz podejść – znika. Mówią, że czeka na ojca, który nigdy nie wrócił z frontu. Inni mówią, że to tylko złudzenie. Ale każdy, kto go widział, wychodzi z drżeniem w głosie.
-  </p>
+    <li><strong>🌿 Tbilisi Botanical Garden</strong><br>
+    Ogromny ogród z wodospadem, mostami, trasami spacerowymi i miejscem na piknik. Idealny na relaksujący dzień w zieleni.</li>
 
-  <h4>🏚️ Przeklęty balkon (ul. Paliashvili – 42.2684, 42.7101)</h4>
-  <p>
-    W jednej z opuszczonych kamienic przy ulicy Paliashvili wisi balkon, z którego – według legendy – nikt nigdy nie spadł, ale każdy coś... zgubił. Czas. Rozsądek. Telefon. Podobno balkon ma moc przyciągania tych, którzy nie potrafią się zdecydować. Zanim podejdziesz – upewnij się, że masz baterię w telefonie i klarowny plan na życie.
-  </p>
+    <li><strong>🧃 Karcze i place zabaw</strong><br>
+    Tbilisi jest pełne małych skwerków i osiedlowych placów zabaw. Weź sok winogronowy (dla dziecka) i gruzińską lemoniadę (dla siebie) i odpocznij, patrząc jak dzieci ganiają za gołębiami.</li>
+  </ul>
 
-  <p><strong>Ostrzeżenie podróżnika:</strong> Legendy to nie fakty, ale czy warto ryzykować? Najlepiej posłuchać, zanotować... i trzymać się z daleka od dziwnych schodów po zmroku.</p>
-
+  <p><strong>Praktyczna rada:</strong> weź ze sobą chusteczki i cierpliwość – toalety publiczne bywają przygodą. Ale uśmiech gruzińskich babć wynagrodzi wszystko!</p>
 </details>
 
 
 ---
 
 <details>
-  <summary><strong>🐾 Co robić z dziećmi w Kutaisi</strong></summary>
+ <summary><strong>🍽️ Gdzie zjeść w Tbilisi</strong></summary>
+  
+  <p>Tbilisi to kulinarna petarda – nawet najprostsza piekarnia serwuje dania, które rozkochają Cię w Gruzji. Tylko uwaga: tu się nie je, tu się ucztuje!</p>
 
-  <p>
-    Kutaisi z dziećmi? Brzmi jak wyzwanie? Spokojnie – miasto ma w zanadrzu nie tylko cerkwie i historię, ale też sporo frajdy dla małych podróżników. A Ty? Ty też się nie będziesz nudzić (chociaż może trochę zazdrościć, że nie masz już tyle energii).
-  </p>
+  <ul>
+    <li><strong>🥟 Pasanauri</strong><br>
+    Miejsce na chinkali – gruzińskie pierogi wielkości pięści. Jedz rękami, zasysaj rosół i nie przejmuj się, że poleje się po brodzie – tak ma być!</li>
 
-  <h4>🦖 Dinozaury w Parku Sataplia (42.3144, 42.6145)</h4>
-  <p>
-    Tak, dobrze czytasz – dinozaury! A konkretnie: ślady prawdziwych prehistorycznych gigantów i pawilon z rekonstrukcjami, które sprawią, że dzieci oszaleją z radości. A Ty? Ty będziesz próbować udawać, że wszystko wiesz o triasie. Na dodatek jest tam jaskinia, szklany taras widokowy i świeże powietrze. Pakuj przekąski i ruszaj!
-  </p>
+    <li><strong>🍕 Machakhela & Samikitno</strong><br>
+    Dwa klasyczne lokale z tanim, domowym jedzeniem. Sery, chaczapuri, sałatki – raj za grosze. A do tego widok na Plac Wolności lub Stare Miasto.</li>
 
-  <h4>🐵 Kutaiskie Zoo (42.2658, 42.7077)</h4>
-  <p>
-    Niewielkie, ale urocze. Małpki, ptaki, jelenie – i wszystko w otoczeniu parkowej zieleni. Idealne na spokojny spacer z lodem w ręku. Dzieci będą piszczeć z zachwytu, a Ty z ulgą, że nie musisz się wspinać na żadną górę.
-  </p>
+    <li><strong>🍳 Klike's Khinkali</strong><br>
+    Małe, niepozorne miejsce, które robi najlepsze mini chinkali w mieście. Zajadają się nimi studenci i turyści z TikToka – i dobrze wiedzą, co robią.</li>
 
-  <h4>🎡 Wesołe Miasteczko przy parku (42.2693, 42.7105)</h4>
-  <p>
-    Małe, lokalne lunaparkowe szaleństwo! Karuzele, diabelski młyn, dmuchańce i wata cukrowa większa niż głowa Twojego dziecka. Może nie dorównuje Disneylandowi, ale radość jest tak samo autentyczna. A Ty? Ty przypomnisz sobie, jak to było mieć 8 lat i kręcić się do zawrotów głowy.
-  </p>
+    <li><strong>🧀 Sofia Melnikova’s Fantastic Douqan</strong><br>
+    Ukryty ogródek pod drzewami z fantastycznym jedzeniem fusion – tradycja z twistem. I ten klimat – jak z bajki.</li>
 
-  <h4>🌳 Park Besik Gabashvili (42.2690, 42.7107)</h4>
-  <p>
-    To coś więcej niż tylko park – to plac zabaw, minikolejka, zieleń i fontanny. Miejsce idealne, jeśli dzieci mają dość zwiedzania, a Ty marzysz o kawie i chwilowym wyłączeniu mózgu. Czasem są tu też mini festyny i koncerty – dzieci tańczą, dorośli udają, że też mają energię.
-  </p>
+    <li><strong>🍷 Wine Factory N1</strong><br>
+    Industrialna przestrzeń z winem z kvevri, rzemieślniczym piwem i food courtowym klimatem. Idealne na wieczór z przyjaciółmi i lokalną muzyką.</li>
 
-  <h4>⛴️ Rejs po rzece Rioni</h4>
-  <p>
-    Króciutka, ale widowiskowa atrakcja. W Kutaisi można popłynąć łódką po rzece Rioni i zobaczyć miasto z nieco innej perspektywy – tej dziecięcej: „ooooo, wodaaa!”. Poziom adrenaliny? Mały. Poziom frajdy? Duży. I nie trzeba nosić plecaka!
-  </p>
+    <li><strong>🥖 Piekarnie z ulicy</strong><br>
+    Spróbuj gorącego puri prosto z pieca! W każdej dzielnicy znajdziesz babcię z chlebem, który smakuje jak dzieciństwo (tylko gruzińskie).</li>
+  </ul>
 
-  <h4>🎨 Mural Starszej Pani i graffiti hunting (42.2704, 42.7089)</h4>
-  <p>
-    Co powiecie na spacer szlakiem murali? Dzieciaki pokochają gigantyczną babcię z muralu, a Ty zrobisz sobie artystyczne zdjęcie jak z Berlina, ale bez tłumów. Kutaisi ma kilka fajnych miejsc street artowych – zamieńcie zwiedzanie w grę miejską!
-  </p>
-
-  <p><strong>Rodzicielski pro tip:</strong> W Gruzji dzieci traktuje się jak małych VIP-ów. W restauracjach zawsze znajdzie się dodatkowy sok, a babcie z sąsiedztwa będą je głaskać po głowie, zanim się obejrzysz. Luz, relaks i... plecak pełen chrupek!</p>
+  <p><strong>Protip:</strong> W Gruzji obowiązkowo zamów winogronową lemoniadę, <em>lobio</em> w glinianym garnku i nie bój się spytać o „coś lokalnego” – kelnerzy się rozpromienią i przyniosą coś, czego nawet Google nie zna.</p>
 </details>
+
 
 ---
 
 <details>
-  <summary><strong>🍴 Gdzie zjeść w Kutaisi</strong></summary>
+ <summary><strong>🛠️ Praktyczne porady w Tbilisi</strong></summary>
 
-  <p>
-    W Kutaisi można jeść nieprzyzwoicie dobrze za śmieszne pieniądze. Kuchnia gruzińska to nie tylko chaczapuri i wino (choć mogłaby być), ale cały festiwal smaków – od czebureków po lobio. Głodny? Zaufaj nosowi i… naszym podpowiedziom.
-  </p>
+  <ul>
+    <li><strong>💸 Płatności:</strong> Gruzja to kraj gotówki. Karta działa, ale w małych knajpkach i marszrutkach płacisz tylko lari. Bankomaty są wszędzie – najlepiej wybierać Bank of Georgia lub TBC Bank.</li>
 
-  <h4>🥟 El Depo (42.2711, 42.7047)</h4>
-  <p>
-    Legenda Kutaisi. Wystroju tu nie uświadczysz (chyba że zaliczysz plastikowe obrusy do stylu retro), ale chinkali są jak złoto – parujące, pełne bulionu i mięsa, z idealnym zawinięciem. Do tego tanio jak barszcz (gruziński oczywiście). Lokalsi przychodzą tu tłumnie – i to mówi samo za siebie.
-  </p>
+    <li><strong>🚕 Taksówki:</strong> Zapomnij o łapaniu z ulicy. Ściągnij <em>Bolt</em> lub <em>Yandex Go</em> – tanio, szybko i bez negocjacji w stylu „skąd jesteś, to zapłacisz więcej”.</li>
 
-<h4>🍽️ Baraqa (42.2693, 42.7048)</h4>
-<p>
-    Baraqa to takie miejsce, gdzie zjesz jak u gruzińskiej babci, ale w lokalu z klimatem. Ceny przyjazne, porcje godne budowniczego katedry Bagrati, a smaki – prosto z serca. Ich chinkali są jak miękkie poduszki szczęścia, a zupa z soczewicy może doprowadzić do łez (ze wzruszenia, oczywiście). Lokal bywa pełny – i nic dziwnego. Domowa atmosfera, uśmiechnięta obsługa i zero zbędnych udziwnień. Tak właśnie smakuje Gruzja!
-</p>
+    <li><strong>🥖 Jedzenie na ulicy:</strong> Spróbuj piekarni z puri, lokalnych warzywniaków i ulicznych lemoniad. Tanie i pyszne – idealne na szybki głód.</li>
 
-<h4>🥘 Palaty (42.2696, 42.7075)</h4>
-<p>
-    Palaty to restauracja-legenda – miejsce, które pojawia się w każdym przewodniku, ale wciąż nie traci duszy. Wchodzisz, a tu: drewniane belki, lampy z przeszłości i jazz w tle. Menu? Fusion gruzińsko-międzynarodowe – klasyki jak lobio czy chaczapuri sąsiadują z risotto i stekiem, jakby nigdy nic. A ich lemoniada domowej roboty powinna dostać status dziedzictwa UNESCO. Warto przyjść choć raz – nawet tylko po to, by powiedzieć „Byłem. Przeżyłem. Zamówiłem dokładkę.”
-</p>
+    <li><strong>💬 Język:</strong> Gruziński to czarna magia. Ale spokojnie – młodzi mówią po angielsku, a starsi dogadają się na migi (lub rosyjski). Warto znać parę słówek:
+      <ul>
+        <li><em>Gmadlobt</em> – dziękuję</li>
+        <li><em>Gamardżoba</em> – dzień dobry</li>
+        <li><em>Ar minda</em> – nie chcę</li>
+        <li><em>Dzalian gemrielia!</em> – bardzo smaczne!</li>
+      </ul>
+    </li>
 
-<h4>🥂 Sisters (42.2678, 42.7052)</h4>
-<p>
-    Małe, urocze, artystyczne i przytulne – jakby ktoś postanowił otworzyć kawiarnię w gruzińskim Wes Andersonie. W Sisters wypijesz najlepszą kawę w Kutaisi (serio), zagryziesz ją domowym ciastem lub quichem, a potem jeszcze zostaniesz na winie. Miejsce idealne na leniwe popołudnie, randkę, pisanie dziennika albo plotki z przyjaciółką. I choć czas płynie tu wolniej, nikt nie będzie Cię poganiać – wręcz przeciwnie, zostaniesz na deser.
-</p>
+    <li><strong>💁 Napiwki:</strong> Nie są obowiązkowe, ale mile widziane – zostaw 10% w restauracji. Czasem doliczone są do rachunku.</li>
 
-<h4>🌸 Magnolia (42.2715, 42.7078)</h4>
-<p>
-    Jeśli Kutaisi to symfonia smaków, Magnolia to jej elegancka finałowa nuta. Restauracja dla tych, którzy chcą odetchnąć od ulicznych knajpek i zjeść coś wyjątkowego. Menu łączy klasykę z nutą eksperymentu – chaczapuri podane jak arcydzieło, sałatki z dodatkami, których nie znajdziesz w typowym supra, i wino, które samo opowiada historię. Obsługa? Profesjonalna i nienachalna. A klimat? Taki, że nawet Twoja mama powie: „No dobra, było warto.”
-</p>
+    <li><strong>🥵 Pogoda:</strong> Latem gorąco jak w piekarniku. Klimatyzacja to luksus, nie standard. Zimą śniegu raczej brak, ale wieje lodowaty wiatr od Kaukazu.</li>
 
-  <h4>🍕 Legenda Bonusowa: Chaczapuri z piekarni za rogiem</h4>
-  <p>
-    W Kutaisi nie lekceważ zwykłych piekarni. Za rogiem, w cieniu, w budce wielkości kiosku może kryć się najlepsze chaczapuri twojego życia. Ciepłe, chrupiące, z serem, który jeszcze ciągnie się jak włoskie kino. Cena? Czasem niższa niż woda butelkowana. Szanuj te miejsca.
-  </p>
+    <li><strong>🧻 Papier do WC:</strong> Nie wrzucamy do muszli! Kosz obok toalety – to lokalny standard.</li>
 
-  <p><strong>Smaczna rada:</strong> Gruzini nie żałują czosnku ani gościnności. Po kolacji możesz pachnieć jak kuchnia w pełni obrotów – ale za to z uśmiechem do rana.</p>
+    <li><strong>🥴 Alkohol:</strong> Wino i czacza leją się strumieniami. Ale czacza to nie żart – kieliszek działa jak teleport. Uważaj przy toastach!</li>
+
+    <li><strong>📱 Internet:</strong> Szybki i tani. Karta SIM? Kup w Magti lub Geocell – za kilka lari masz pakiet jak marzenie.</li>
+  </ul>
+
+  <p><strong>Podsumowując:</strong> Tbilisi to miks chaosu, gościnności i fantastycznego jedzenia. Przygotuj się na spacery, zdziwienia i lokalne absurdy – będzie pięknie!</p>
 </details>
 
----
-
-<details>
-  <summary><strong>📝 Praktyczne porady</strong></summary>
-
-  <h4>💶 Gotówka czy karta?</h4>
-  <p>
-    W Gruzji nie wszyscy mają jeszcze bezproblemowy dostęp do płatności kartą, więc warto mieć przy sobie trochę gotówki. W Kutaisi bez problemu znajdziesz bankomaty, a lokalne sklepiki, restauracje i knajpki często preferują gotówkę. Karta sprawdzi się w większych miejscach, ale na pewno nie ryzykuj zapomnieć portfela, zwłaszcza podczas zakupów na targu, bo tam "plastik" nie przejdzie. A gotówka – przyda się na chinkali, chaczapuri i inne pyszności.
-  </p>
-
-  <h4>🧳 Co warto kupić?</h4>
-  <p>
-    W Kutaisi znajdziesz naprawdę fajne pamiątki – od ręcznie robionych wyrobów z drewna, przez tradycyjne gruzińskie tkaniny, aż po lokalne wino i przyprawy. Jeśli chcesz poczuć się jak prawdziwy Gruzin, kup trochę przypraw do kuchni, może jakieś oliwki w słodkim syropie (tylko uważaj, nie zjesz ich na raz!). A jeśli mówimy o winie – zabierz ze sobą butelkę i chwal się znajomym, że masz coś z najwyższej półki. Bo przecież każdy Gruzin będzie ci mówił, że to najlepsze wino na świecie. Więc zaufaj im.
-  </p>
-
-  <h4>⚠️ Na co uważać?</h4>
-  <p>
-    W Kutaisi (i ogólnie w Gruzji) warto uważać na... drogi. Gruzińska droga to prawdziwa gra w „kto ma większe jaja” – tam kierowcy wiedzą, co to adrenalina. Więc jeśli planujesz poruszać się komunikacją publiczną lub wynajmujesz samochód, przygotuj się na przygodę. No i pamiętaj – Gruzja to kraj, gdzie alkohol leje się strumieniami, więc bądź czujny, ale bez przesady. W końcu, jeśli ktoś ci zaproponuje toasty, to wiesz, że nie będziesz miał szansy wyjść z tego w trzeźwości!
-  </p>
-
-  <h4>🇬🇪 Lokalne zwyczaje</h4>
-  <p>
-    Gruzini to naród pełen gościnności i serdeczności. Zawsze będą cię zapraszać na filiżankę herbaty, lampkę wina, a nawet do domu na obiad. Jeśli ktoś ci zaproponuje "ghvino" (wino), nie odmawiaj! To część tradycji, a także sposób na zawarcie nowych przyjaźni. Pamiętaj, że podczas toastów w Gruzji to gospodarze rządzą – to oni prowadzą rozmowę, a goście raczej nie powinni przerywać. Warto także wiedzieć, że gruzińska gościnność nie zna granic – przygotuj się, że w każdym miejscu, w którym się pojawisz, poczujesz się jak część rodziny.
-  </p>
-
-  <h4>📱 Karty SIM i internet</h4>
-  <p>
-    Karty SIM w Gruzji to żadna filozofia – łatwo je kupić, a ceny są bardzo przystępne. Warto zaopatrzyć się w kartę, jeśli chcesz mieć pewność, że będziesz w kontakcie. Najpopularniejsze sieci to Magti, Geocell i Beeline. Możesz je kupić w sklepach, kioskach czy na lotnisku. Internet w miastach działa sprawnie, ale na obrzeżach może być już mniej stabilnie. Mimo to, masz szansę na połączenie prawie wszędzie. A jeśli potrzebujesz internetu, zapytaj lokalnych – najpewniej podzielą się hasłem do Wi-Fi (serio, w Gruzji wszyscy mają Wi-Fi).
-  </p>
-
-<details>
-  <summary><strong>💬 Podstawowe zwroty po gruzińsku</strong></summary>
-
-  <h4>👋 Cześć</h4>
-  <p>
-    <strong>გამარჯობა (Gamarjoba)</strong> – najpopularniejszy sposób na powitanie. Można go używać w każdym momencie dnia.
-  </p>
-
-  <h4>🖐 Do widzenia</h4>
-  <p>
-    <strong>ნახვამდის (Nakhvamdis)</strong> – pożegnanie, które pozwoli ci rozstać się z każdym w stylu.
-  </p>
-
-  <h4>🙏 Dziękuję</h4>
-  <p>
-    <strong>დიდი მადლობა (Didi madloba)</strong> – podstawowy zwrot, który sprawi, że zyskasz uznanie u Gruzinów za uprzednią grzeczność.
-  </p>
-
-  <h4>🤲 Proszę</h4>
-  <p>
-    <strong>გთხოვთ (Gt'khovt)</strong> – użyj tego zwrotu, gdy chcesz o coś poprosić. Jest to grzeczna forma.
-  </p>
-
-  <h4>👍 Tak</h4>
-  <p>
-    <strong>დიახ (Diakh)</strong> – wyrażenie zgody lub odpowiedź na pytanie.
-  </p>
-
-  <h4>👎 Nie</h4>
-  <p>
-    <strong>არა (Ara)</strong> – po prostu, kiedy nie zgadzasz się z czymś.
-  </p>
-
-  <h4>🍷 Wino</h4>
-  <p>
-    <strong>ღვინო (Gvino)</strong> – gruzińskie wino to absolutny must-have, więc warto znać ten zwrot!
-  </p>
-
-  <h4>😋 Smacznego!</h4>
-  <p>
-    <strong>ბონაპარტი (Bonaparti)</strong> – bardzo przydatne, gdy siadasz do stołu w Gruzji.
-  </p>
-
-  <h4>⛔ Przepraszam</h4>
-  <p>
-    <strong>ბოდიში (Bodishi)</strong> – użyj tego zwrotu, gdy chcesz przeprosić za coś lub zwrócić uwagę na coś.
-  </p>
-
-  <h4>📍Gdzie to jest?</h4>
-  <p>
-    <strong>სად არის? (Sad aris?)</strong> – przydatne pytanie, gdy szukasz jakiegoś miejsca w mieście.
-  </p>
-
-</details>
