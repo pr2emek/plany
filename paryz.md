@@ -483,10 +483,10 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🧳 Praktyczne porady w Bergamo</strong></summary>
+  <summary><strong>🧳 Praktyczne porady w Paryżu</strong></summary>
 
- <details>
-  <summary><strong>🛍️ Co warto kupić w Paryżu – czyli pamiątki z klasą (i bez plastiku)</strong></summary>
+ 
+  <h4><strong>🛍️ Co warto kupić w Paryżu – czyli pamiątki z klasą (i bez plastiku)</strong></h4>
   <ul>
     <li><strong>🧴 Perfumy z niszowych perfumerii</strong> – zamiast duty-free, zajrzyj do <em>Fragonard, Serge Lutens, Diptyque</em> lub <em>Maison Francis Kurkdjian</em>. Możesz też stworzyć własny zapach!</li>
     <li><strong>🍷 Francuskie wino i sery (vacuum!)</strong> – wina z małych sklepów są często lepsze i tańsze niż w markecie. Ser kupuj zapakowany próżniowo – celnik będzie wdzięczny.</li>
@@ -498,53 +498,37 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
     <li><strong>🎭 Coś z muzeum, ale z głową</strong> – np. zakładka z Luwru, skarpetki z Wieżą Eiffla (tak, serio) albo notatnik z Claude Monetem. Sztuka w wersji użytkowej.</li>
   </ul>
   <p><strong>Uwaga na pułapki:</strong> breloczki 5 za 1€ przy Sacré-Cœur są urocze, ale raczej nie przetrwają tygodnia. No i nie kupuj "oryginalnych" torebek Diora z metra – chyba że lubisz rozczarowania.</p>
-</details>
 
-<details>
-  <summary><strong>🥖 Jedzenie – jak nie zbankrutować i dobrze zjeść</strong></summary>
+  <h4><strong>🥖 Jedzenie – jak nie zbankrutować i dobrze zjeść</strong></h4>
   <p>Francuska kuchnia to sztuka, ale ceny bywają jak z opery – dramatyczne. Szukaj bistro z tabliczką <em>plat du jour</em>, omijaj knajpy z widokiem na Wieżę Eiffla (chyba że lubisz spaghetti za 26€).</p>
   <p><strong>Boulangerie</strong> to Twoi najlepsi przyjaciele – bagietki, quiche i desery ratują dzień. A <strong>supermarkety Monoprix, Franprix i Carrefour City</strong> to zbawienie dla budżetowego podróżnika.</p>
   <p><strong>Tip:</strong> Zamawiaj wodę z kranu – <em>une carafe d’eau</em>. Jest za darmo i legalna. Serio.</p>
-</details>
 
-<details>
-  <summary><strong>🕰️ Godziny otwarcia – czyli kiedy nie odbić się od drzwi</strong></summary>
+  <h4><strong>🕰️ Godziny otwarcia – czyli kiedy nie odbić się od drzwi</strong></h4>
   <p>Paryż lubi odpoczywać. Większość muzeów zamknięta w <strong>poniedziałki lub wtorki</strong>. Restauracje też miewają przerwy między 15:00 a 19:00 – bo czemu nie.</p>
   <p><strong>Tip:</strong> Zawsze sprawdź godziny online przed wizytą, zwłaszcza w mniejszych muzeach. Google nie zawsze mówi prawdę, ale strony oficjalne – raczej tak.</p>
-</details>
 
-<details>
-  <summary><strong>📶 Internet – jak nie zjeść całego pakietu w roamingu</strong></summary>
+  <h4><strong>📶 Internet – jak nie zjeść całego pakietu w roamingu</strong></h4>
   <p>We Francji roaming z UE działa, ale jeśli potrzebujesz dużo internetu, rozważ kartę SIM lokalną (np. Free, Orange). Wiele kawiarni i fast foodów ma Wi-Fi, ale trzeba się zalogować (czasem podając e-mail z kosmosu).</p>
   <p><strong>Tip:</strong> Paryż ma też darmowe Wi-Fi miejskie – np. w parkach, muzeach, bibliotekach. Działa różnie, ale działa!</p>
-</details>
 
-<details>
-  <summary><strong>🎫 Bilety do atrakcji – jak nie stać godzinę w kolejce</strong></summary>
+  <h4><strong>🎫 Bilety do atrakcji – jak nie stać godzinę w kolejce</strong></h4>
   <p>Kupuj online z wyprzedzeniem – szczególnie do Wieży Eiffla, Luwru i Sainte-Chapelle. Kolejki potrafią być legendarne, a internet to Twój rycerz na białym koniu.</p>
   <p><strong>Paris Museum Pass</strong> daje dostęp do ponad 50 atrakcji – jeśli planujesz zwiedzać intensywnie, zwraca się szybko. A do wielu miejsc (np. muzea) osoby <strong>do 26. roku życia z UE</strong> wchodzą za darmo!</p>
-</details>
 
-<details>
-  <summary><strong>🧻 Toalety – temat wstydliwy, ale ważny</strong></summary>
+  <h4><strong>🧻 Toalety – temat wstydliwy, ale ważny</strong></h4>
   <p>Paryż ma darmowe toalety publiczne (automatyczne kabiny – futurystyczne, ale czasem przerażające). Szukaj ich na mapach jako „Sanisette”.</p>
   <p>Alternatywa: kawiarnie, galerie handlowe lub McDonald's (ale często z kodem z paragonu). Zawsze miej ze sobą chusteczki. I cierpliwość.</p>
-</details>
 
-<details>
-  <summary><strong>🧥 Styl i ubiór – jak nie wyglądać jak turysta</strong></summary>
+  <h4><strong>🧥 Styl i ubiór – jak nie wyglądać jak turysta</strong></h4>
   <p>Paryżanie są stylowi, ale nie przesadzaj – nie musisz mieć beretu i bagietki pod pachą. Postaw na klasykę, neutralne kolory, wygodne buty i… parasolkę. Zawsze parasolkę.</p>
   <p><strong>Tip:</strong> Jeśli masz zamiar wchodzić do kościołów lub muzeów – zakryj ramiona. Niektóre miejsca tego pilnują (albo przynajmniej robią srogie miny).</p>
-</details>
 
-<details>
-  <summary><strong>💡 Pro tipy last minute</strong></summary>
+  <h4><strong>💡 Pro tipy last minute</strong></h4>
   <ul>
     <li><strong>Uwaga na kieszonkowców!</strong> Zwłaszcza w metrze, na Montmartre i pod Wieżą Eiffla. Plecak z przodu, telefon schowany, uśmiech gotowy.</li>
     <li><strong>Nie daj się naciągnąć na "bransoletki przyjaźni"</strong> – to klasyk pod Sacré-Cœur.</li>
     <li><strong>Sprawdź, czy nie ma strajku</strong>. To nie żart – strajki to francuski sport narodowy. Info znajdziesz na stronie <em>ratp.fr</em> lub <em>sncf.com</em>.</li>
   </ul>
-</details>
-
 
 </details>
