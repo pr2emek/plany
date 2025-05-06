@@ -1,7 +1,7 @@
 ---
-layout: layoutgruzja
-title: Gruzja
-permalink: /gruzja.html
+layout: layoutfrancja
+title: Francja
+permalink: /francja.html
 ---
 
 <section>
