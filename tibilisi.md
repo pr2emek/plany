@@ -199,17 +199,50 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 <details>
-    <summary><strong>🎭 Teatr Rezo Gabriadze i Zegarowa Wieża</strong></summary>
- 
- <p> Magiczna, krzywa wieża jak z bajki o Pinokiu. Co godzinę pojawia się aniołek. Plus: teatr lalkowy dla dorosłych – cudowny i trochę dziwaczny.</p>
+  <summary><strong>🎭 Teatr Rezo Gabriadze i Zegarowa Wieża – bajka dla dorosłych</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.6933° N, 44.8039° E</em></p>
+  <p>Gdyby <em>Alice in Wonderland</em> i <em>Salvador Dalí</em> wspólnie zaprojektowali wieżę zegarową, wyglądałaby właśnie tak. Oto jedno z najbardziej fotogenicznych (i absurdalnych w najlepszym sensie) miejsc w Tbilisi: <strong>Zegarowa Wieża przy Teatrze Rezo Gabriadze</strong>.</p>
+
+  <p>Sam teatr to niepozorna przestrzeń, ale pełna duszy i magii. Za wszystkim stoi <strong>Rezo Gabriadze</strong> – gruziński artysta totalny: scenarzysta, lalkarz, reżyser, malarz, poeta, marzyciel. Jego teatr lalek to nie Disney dla dzieci, tylko <strong>kulturalny LSD trip dla dorosłych</strong>, gdzie głębia emocji i czar abstrakcji spotykają się w ciasnej sali pełnej drewna, tkanin i nostalgii.</p>
+
+  <p>A teraz crème de la crème – <strong>Zegarowa Wieża</strong>. Krzywa jak budowla stworzona przez pijanych elfów po trzęsieniu ziemi. Składa się z przypadkowych kawałków cegieł, kolumn, dachówek i... magii. Co godzinę z wieży wychyla się mała laleczka i odgrywa scenkę „Krąg życia” – anioł, śmierć, miłość, przemijanie. Wszystko to w stylu: „Hej, mamy teatr, ale podnieśmy poprzeczkę, niech będzie też filozofia!”</p>
+
+  <p><strong>Na zewnątrz:</strong> Wieża wygląda jak z bajki, w której architekt zapomniał poziomicy. Fotograficzne złoto, a obok niej urocza kawiarenka – idealna na espresso z widokiem na surrealizm.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Spektakle:</strong> warto wcześniej zarezerwować bilet – teatr jest malutki, więc wejść można tylko z biletem, a miejsc jest niewiele (ale klimat – bezcenny).<br>
+  • <strong>Pokaz zegara:</strong> codziennie, o pełnych godzinach – mała kukiełkowa animacja trwa kilkadziesiąt sekund, ale to obowiązkowy przystanek.<br>
+  • <strong>Dojazd:</strong> z centrum starówki to kilka minut piechotą – idziesz za turystami z aparatami, nie da się nie zauważyć.<br>
+  • <strong>Pro tip:</strong> wieczorem wieża wygląda jeszcze lepiej – oświetlenie dodaje jej jeszcze więcej bajkowej aury (i mniej ludzi wokół!).<br>
+  • <strong>Uwaga na szyje:</strong> żeby dobrze obejrzeć kukiełkowy spektakl, trzeba zadrzeć głowę jak przy obserwacji UFO – rozgrzewka karku mile widziana.</p>
+
+  <p><em>Teatr Gabriadze to miejsce, gdzie wszystko jest trochę krzywe, trochę smutne, bardzo piękne i absolutnie wyjątkowe. Przychodzisz tam dla bajki, wychodzisz z refleksją. A zdjęcia z zegarową wieżą? Gwarantowane tysiące lajków.</em></p>
 </details>
+
 
 <details>
-    <summary><strong>🌇 Mtatsminda – wzgórze z lunaparkiem</strong></summary>
- 
- <p>Dojedziesz zabytkową kolejką. Na górze: młyńskie koło, karuzele, fast food i najlepszy widok na miasto. Raj dla dzieci i fotografów z dronem.</p>
+  <summary><strong🎡> Mtatsminda – wzgórze z widokiem, rollercoasterem i nostalgią</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>41.7076° N, 44.7858° E</em></p>
 
+  <p>Jeśli chcesz spojrzeć na Tbilisi z góry, zjeść watę cukrową, przejechać się diabelskim młynem, a potem rozważać sens życia przy zachodzie słońca – <strong>Mtatsminda</strong> to właśnie Twoje miejsce.</p>
+
+  <p>To wzgórze to klasyk. Miejscowi przychodzą tu na randki, spacery i rodzinne niedziele, a turyści... no cóż, zakochują się w panoramie miasta i w tej dziwnej mieszance <strong>postradzieckiego lunaparku</strong> z romantyczną atmosferą. Na szczycie czeka <strong>Mtatsminda Park</strong> – wesołe miasteczko, które zatrzymało się trochę w czasie, ale właśnie to czyni je uroczym. Są tu karuzele, rollercoaster, strzelnice, a nawet <strong>mini-domki duchów</strong>. To trochę jak wejście do wspomnień z dzieciństwa – ale z widokiem na całe Tbilisi.</p>
+
+  <p>Największy hit? Oczywiście <strong>diabelski młyn</strong> – powolny, gigantyczny, idealny do zdjęć i momentów „wow”. Z najwyższego punktu widać całe miasto, Kaukaz w oddali, a przy dobrej pogodzie nawet własne myśli. Idealny moment na oświadczyny albo przynajmniej selfie z głębszym podpisem.</p>
+
+  <p>Na wzgórzu znajduje się także <strong>cmentarz panteon</strong> z grobami znanych Gruzinów, restauracje z tarasami, a nieco niżej – stara, drewniana cerkiew i kultowy budynek dawnego nadajnika telewizyjnego (ten wielki, czerwono-biały maszt, którego nie da się przeoczyć). To taka gruzińska wersja wieży Eiffla – tylko bardziej industrialna.</p>
+
+  <p><strong>📝 Praktycznie:</strong><br>
+  • <strong>Wstęp:</strong> sam park jest darmowy, za atrakcje płacisz osobno – ceny przystępne, nawet jeśli chcesz przejechać się wszystkim jak 10-latek na cukrze.<br>
+  • <strong>Godziny otwarcia:</strong> codziennie, zazwyczaj od rana do wieczora, ale najładniej jest tu o zachodzie – miasto zaczyna wtedy błyszczeć jak reklama biura podróży.<br>
+  • <strong>Dojazd:</strong> <strong>kolejka torowa (funikular)</strong> z centrum Tbilisi – przejażdżka sama w sobie jest atrakcją. Można też dojść pieszo (jeśli masz kondycję maratończyka) albo dojechać taksówką (dla miłośników wygody).<br>
+  • <strong>Na miejscu:</strong> są kawiarnie, restauracje, toalety i dużo miejsc do siedzenia. Można tu spędzić pół dnia – albo cały wieczór, jeśli się zasiedzisz.</p>
+
+  <p><strong>Co zabrać:</strong> aparat (to must-have), kurtkę (na górze bywa chłodniej), gotówkę (czasem nie wszędzie działa karta), i trochę dziecięcej radości – przyda się na karuzelach.</p>
+
+  <p><em>Mtatsminda to takie miejsce, gdzie bajka spotyka się z betonem, a nostalgia z watą cukrową. Nie jest może najnowocześniejsze, ale ma klimat, którego nie da się podrobić. I ten widok? Bezcenny.</em></p>
 </details>
+
 
 
 <details>
