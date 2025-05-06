@@ -388,7 +388,7 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
     Jeśli chcesz w pełni poczuć się jak władca drogi, wynajem samochodu to opcja, którą warto rozważyć. W Kutaisi działa wiele firm wynajmujących pojazdy, a ceny są bardzo przystępne w porównaniu do zachodnich standardów. Dzięki wynajętemu samochodowi możesz bez problemu zwiedzić okolice Kutaisi, w tym górzyste regiony i piękne krajobrazy. Ważne jest jednak, żeby pamiętać o specyfice gruzińskiego ruchu drogowego, który może różnić się od tego, do czego jesteś przyzwyczajony.
   </p>
 
-</details>**
+</details>
 
 ---
 
