@@ -308,45 +308,68 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚌 Transport publiczny w Bergamo</strong></summary>
-  <p>
-    Transport publiczny w Bergamo to jak szwajcarski zegarek… tylko włoski. Czyli działa dobrze, ale z nutką temperamentu. Miasto jest kompaktowe, więc większość rzeczy da się zrobić pieszo – ale jeśli chcesz zaoszczędzić siły (albo zobaczyć więcej), skorzystaj z lokalnych autobusów i kolejki górskiej.
-  </p>
+  <summary><strong>🚇 Transport publiczny w Paryżu – jak nie zgubić się w metrze i dojechać z klasą</strong></summary>
+  <p>Paryż to raj (albo koszmar) komunikacyjny – zależy, czy złapiesz dobrą aplikację i bilet, czy utkniesz między linią 13 a panem grającym na akordeonie.</p>
 
-  <h3>🚍 Autobusy – ATB rządzi (i wozi)</h3>
-  <p>
-    Miejski przewoźnik ATB obsługuje większość linii w Bergamo – zarówno w Città Bassa (dolnym mieście), jak i górnym. Autobusy są nowoczesne, klimatyzowane i (o dziwo) dość punktualne. Dojedziesz nimi m.in. na lotnisko, do stacji kolejowej i pod samą kolejkę do Città Alta.
-  </p>
+  <h4><strong>🚉 Metro, RER, autobusy i tramwaje – co, gdzie i jak:</strong></h4>
   <ul>
-    <li><strong>Bilet jednorazowy:</strong> 1,50€ (ważny przez 75 minut)</li>
-    <li><strong>Gdzie kupić:</strong> w automatach, kioskach, aplikacji ATB Mobile</li>
+    <li><strong>Metro (Métro)</strong> – 16 linii, kolory, numery, zawijasy jak spaghetti. Działa szybko i często, ale nie zawsze ma windy (uwaga na wózki!).</li>
+    <li><strong>RER (A, B, C, D, E)</strong> – szybsze pociągi, dojeżdżają na przedmieścia i lotniska. Uwaga: bilety muszą pasować do strefy!</li>
+    <li><strong>Autobusy</strong> – świetne widoki, ale często korki. Za to można podziwiać miasto z wygodnego siedzenia (o ile znajdziesz wolne).</li>
+    <li><strong>Tramwaje</strong> – obrzeża miasta, przydatne, gdy nocujesz „nieco dalej od centrum”. Czyste, nowoczesne, spokojne.</li>
   </ul>
 
-  <h3>🚠 Funicolare – kolejka górska z charakterem</h3>
-  <p>
-    Ikona Bergamo! Łączy dolne miasto z Città Alta. Podróż trwa dosłownie 2 minuty, ale frajda? 100%. Przejażdżka starym wagonikiem po stromym zboczu to obowiązkowy punkt każdej wycieczki. A jeśli masz szczęście – trafisz na wagon z widokiem przez całą szybę.
-  </p>
+  <h4><strong>🎫 Bilety i karty – nie daj się zaskoczyć</strong></h4>
   <ul>
-    <li><strong>Cena:</strong> wliczona w zwykły bilet ATB</li>
-    <li><strong>Druga linia:</strong> Jest też osobna kolejka z Città Alta na wzgórze San Vigilio. Widok? Insta-ready.</li>
+    <li><strong>Ticket t+</strong> – klasyczny bilet jednorazowy (2,15 €), działa przez 90 minut na metro, RER (w granicach miasta), autobus i tramwaj.</li>
+    <li><strong>Carnet (pakiet 10 biletów)</strong> – teraz w wersji elektronicznej na kartę <em>Navigo Easy</em>. Taniej i bez papieru!</li>
+    <li><strong>Karta Navigo</strong> – jeśli jesteś w Paryżu na tydzień, karta <strong>Navigo Semaine</strong> to złoto: nielimitowane przejazdy za ~30€ (ważne: tydzień liczony od poniedziałku do niedzieli!).</li>
+    <li><strong>Dzieciaki</strong> – do 4. roku życia za darmo, 4–10 lat – zniżki.</li>
   </ul>
 
-  <h3>✈️ Dojazd z lotniska Orio al Serio</h3>
-  <p>
-    Lotnisko Bergamo-Orio al Serio leży tylko 5 km od centrum miasta – można by dojść pieszo, ale po co? Złap autobus linii <strong>1</strong>, który jedzie do centrum i stacji kolejowej. Podróż trwa ok. 15–20 minut, a bilety kupisz w hali przylotów, automacie lub przez aplikację.
-  </p>
-
-  <h3>🧭 Wskazówki lokalne</h3>
+  <h4><strong>📱 Aplikacje, które Cię uratują:</strong></h4>
   <ul>
-    <li>Nie zapomnij skasować biletu (albo aktywować w aplikacji) – kontrolerzy mają dobre wyczucie czasu!</li>
-    <li>Bilet 24-godzinny kosztuje tylko 5€, a obejmuje także obie kolejki</li>
-    <li>W niedziele i wieczorami kursy są rzadsze – planuj z wyprzedzeniem</li>
+    <li><strong>Bonjour RATP</strong> – oficjalna appka paryskiego transportu. Pokazuje trasy, opóźnienia, planuje dojazdy.</li>
+    <li><strong>Citymapper</strong> – najlepszy przyjaciel turysty. Pokazuje każdą możliwą kombinację dojazdu (łącznie z hulajnogą i teleportacją).</li>
+    <li><strong>Google Maps</strong> – działa, ale czasem pokazuje zbyt ambitne kombinacje.</li>
   </ul>
 
-  <p>
-    Transport publiczny w Bergamo jest wygodny, estetyczny i nieprzesadnie drogi. A jazda kolejką? To taka lokalna wersja rollercoastera – tylko spokojniejsza i z lepszym widokiem.
-  </p>
+  <p><strong>Tip:</strong> Metro działa od ok. 5:30 do 1:15 (piątek i sobota dłużej). RER do lotnisk ma swoje humory – sprawdzaj odjazdy!</p>
+  <p><strong>Uwaga:</strong> Zawsze trzymaj bilet aż do końca – kontrola może być niespodziewana i kosztowna (mandat: ~50€).</p>
+  <p><strong>Dla odważnych:</strong> Paryskie rowery (Vélib’) i hulajnogi – są wszędzie. Ale ruch uliczny bywa jak z Mad Maxa, więc kask, refleks i silne nerwy wskazane.</p>
+
+<h4><strong>✈️ Jak dostać się z lotniska do centrum Paryża – bez bankructwa i łez</strong></h4>
+  
+  <h4><strong>🛫 Lotnisko Charles de Gaulle (CDG) – największy kolos</strong></h4>
+  <ul>
+    <li><strong>🚆 RER B</strong> – najszybsza i najtańsza opcja: ok. 35 min do centrum (Gare du Nord, Châtelet). Cena: 11,80 €. Uwaga na kieszonkowców i czasem brudne wagony.</li>
+    <li><strong>🚌 RoissyBus</strong> – jedzie do Opéra, wygodny, klimatyzowany. Cena: ok. 16,50 €, czas: 60–75 min.</li>
+    <li><strong>🚖 Taksówka</strong> – oficjalna, ryczałtowa cena: 56 € do Lewego Brzegu, 53 € do Prawego Brzegu. Pamiętaj: tylko z postoju, nie daj się złapać „panu z bagażnikiem”!</li>
+  </ul>
+
+  <h4><strong>🛫 Lotnisko Orly (ORY) – mniejsze, ale też konkretne</strong></h4>
+  <ul>
+    <li><strong>🚆 Orlyval + RER B</strong> – szybka kolejka do stacji Antony, dalej RER B do centrum. Cena łączna: ok. 12,10 €.</li>
+    <li><strong>🚌 OrlyBus</strong> – dojeżdża do Denfert-Rochereau (metro 4 i 6). Czas: 30–40 min, cena: ok. 11 €.</li>
+    <li><strong>🚖 Taksówka</strong> – 37 € (Lewy Brzeg), 32 € (Prawy Brzeg). Jak wyżej – tylko z oficjalnego postoju.</li>
+  </ul>
+
+  <h4><strong>🛬 Lotnisko Beauvais (BVA) – czyli „niby Paryż”, ale 85 km dalej</strong></h4>
+  <ul>
+    <li><strong>🚌 Shuttle bus Beauvais – Porte Maillot</strong> – jedyna sensowna opcja. Cena: 18,90 € (online), 20,90 € (na miejscu), czas: ok. 1h 15 min. Potem metro 1 i dalej.</li>
+    <li><strong>🚖 Taksówka?</strong> – tylko jeśli wygrałeś w Eurojackpot. Cena: ponad 170 €, więc raczej: nie polecamy.</li>
+  </ul>
+
+  <h4><strong>📱 Tipy na dobry start</strong></h4>
+  <ul>
+    <li><strong>Pobierz aplikację Citymapper</strong> – poda Ci najlepszą opcję na żywo.</li>
+    <li><strong>Kup bilet wcześniej online</strong> (np. na RER lub shuttle) – oszczędzasz czas i stres.</li>
+    <li><strong>Unikaj „taksówkarzy” bez licencji</strong> – jeśli ktoś Cię nagabuje w hali przylotów, uciekaj szybciej niż przed ślimakiem w sosie czosnkowym.</li>
+  </ul>
+
+  <p><strong>Bonus:</strong> Weź ze sobą euro w gotówce – nie każdy automat kartę lubi, a na lotniskach kapryszą szczególnie!</p>
 </details>
+
 
 ---
 
@@ -379,67 +402,83 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>👨‍👩‍👧‍👦 Co robić z dziećmi w Bergamo</strong></summary>
+  <summary><strong>🎠 Co robić z dziećmi w Paryżu – czyli jak uniknąć histerii pod Wieżą Eiffla</strong></summary>
+  <ul>
+    <li><strong>🦕 Muzeum Historii Naturalnej (Muséum national d’Histoire naturelle)</strong> – gigantyczne szkielety dinozaurów, dzikie zwierzęta w wersji wypchanej i całe mnóstwo „wow”. Raj dla młodych odkrywców.</li>
+    
+    <li><strong>🧪 Cité des Sciences et de l’Industrie</strong> – interaktywne centrum nauki z działem tylko dla dzieci (<em>Cité des Enfants</em>). Można dotykać, klikać, testować – i nikt nie krzyczy „nie ruszaj!”.</li>
+    
+    <li><strong>🎢 Disneyland Paris</strong> – klasyka. Dojazd RER A z centrum, cały dzień magii, kolejek i… czekania. Ale dzieciaki będą wspominać latami. Portfel – trochę krócej.</li>
+    
+    <li><strong>🌳 Ogród Luksemburski</strong> – karuzela retro, teatrzyk marionetek (<em>Guignol!</em>), mini żaglówki na stawie i ogromny plac zabaw. Idealne miejsce na piknik + reset dla rodziców.</li>
+    
+    <li><strong>🦓 Zoo de Vincennes (Parc Zoologique de Paris)</strong> – nowoczesne, przestronne, ze zwierzakami w ładnych warunkach. Słonie, żyrafy i pingwiny czekają.</li>
+    
+    <li><strong>🐟 Akwarium de Paris</strong> – niepozorne, ale świetne. Z rekinami, interaktywnym dotykaniem rybek i pokazami. Plus: widok na Wieżę Eiffla z parku obok!</li>
+    
+    <li><strong>🚂 Kolejka Montmartre (Funiculaire)</strong> – niby banalne, ale dzieciaki KOCHAJĄ jeździć w górę i w dół. A potem można karmić gołębie pod Sacré-Cœur.</li>
+    
+    <li><strong>🎨 Warsztaty i animacje w Luwrze</strong> – tak, serio! Luwr ma specjalne trasy dla rodzin z dziećmi i weekendowe zajęcia. Mona Lisa + zabawa = sukces.</li>
+  </ul>
+  <p><strong>Tip:</strong> Dzieci do 18 lat wchodzą za darmo do wielu muzeów i atrakcji. Zabierz paszport lub legitymację!</p>
+  <p><strong>Plan B:</strong> Kiedy wszystko zawiedzie – lody z Berthillon na Wyspie św. Ludwika i bąbelki w parku. Sprawdzone, działa.</p>
 
-  <p><em>Bergamo z dziećmi? Tak! To nie tylko kościoły i renesansowe malowidła – miasto (i okolica) oferuje też sporo atrakcji dla młodszych turystów. A Ty w końcu odpoczniesz – przynajmniej przez 15 minut.</em></p>
 
-  <h3>🚠 Funicolare – kolejka linowa = radość gwarantowana</h3>
-  <p>Dla dzieci to atrakcja sama w sobie. Wjeżdżając z dolnego miasta do Città Alta, maluchy czują się jak w parku rozrywki – a Ty zyskujesz parę chwil ciszy i piękne widoki. Działa też druga linia – z Città Alta na San Vigilio!</p>
+  <h4><strong>📱 Aplikacje mobilne, które uratują Ci dzień z dziećmi w Paryżu</strong></h4>
+  <ul>
+    <li><strong>🗺️ Paris Mômes</strong> – francuska aplikacja (i strona) z aktualnymi wydarzeniami, warsztatami i atrakcjami dla dzieci. Działa jak magiczny kalendarz rozrywki – tylko po francusku, więc Google Translate idzie w ruch!</li>
 
-  <h3>🏰 Castello di San Vigilio – zamek z widokiem (i tunelem!)</h3>
-  <p>Ruiny zamku, ścieżki wśród drzew, tajemnicze korytarze i miejsce na piknik. Dzieci mogą bawić się w rycerzy, a dorośli podziwiać panoramę Bergamo i okolic. I tak – wózek lepiej zostawić na dole.</p>
+    <li><strong>🎨 Le Louvre – Kids Tour</strong> – oficjalna aplikacja do zwiedzania Luwru z dziećmi. Zadania, quizy i trasy rodzinne. Mona Lisa staje się bohaterką przygody!</li>
 
-  <h3>🐄 Parco Faunistico Le Cornelle (ok. 20 min autem)</h3>
-  <p>Zoo pod Bergamo, które wygląda jak mini safari. Znajdziesz tu żyrafy, zebry, flamingi, tygrysy, a nawet panda czerwoną. Przestrzeń, plac zabaw i miejsce na piknik. Idealne na pół dnia. Dojazd autobusem z przesiadką albo autem.</p>
+    <li><strong>🎧 GuidiGO</strong> – aplikacja z interaktywnymi audio-przewodnikami dla dzieci (i dorosłych). Są trasy po muzeach, dzielnicach i parkach. Wybierasz wiek dziecka i gotowe.</li>
 
-  <h3>🌳 Parco della Trucca – zielona przestrzeń w mieście</h3>
-  <p>Jeśli dzieci mają dosyć kamieni i katedr – tu znajdziesz duży park z alejkami, placem zabaw i jeziorkiem. Można biegać, jeździć na hulajnodze, puszczać kaczki i... zjeść lody. Czyli: odpoczynek na 5+.</p>
+    <li><strong>🧚 Paris ci la Sortie</strong> – aplikacja z mapą atrakcji z windą, rampą i dostępem dla wózków. Brzmi nudno? Dopóki nie staniesz przed schodami z dzieckiem w wózku i trzema walizkami.</li>
 
-  <h3>🧺 Piknik na murach (Le Mura Veneziane)</h3>
-  <p>Zabierz przekąski, kocyk i znajdź spokojny zakątek przy murach otaczających Città Alta. Widoki cudne, trawa miękka, dzieci zajęte. Ty możesz na chwilę przymknąć oko – tylko nie oddychaj za głośno, bo usłyszą i przybiegną!</p>
+    <li><strong>🧩 GeoMagique Paris</strong> – rozszerzona rzeczywistość (AR) z zagadkami i zadaniami w różnych punktach Paryża. Dziecko łapie Pokemony 2.0, a Ty pijesz kawę. Win-win.</li>
 
-  <h3>🍦 Gelato w La Marianna – lody z historią</h3>
-  <p>To tu powstała legendarna stracciatella. Czy dzieci docenią historię? Nie. Ale zjedzą wszystko – i poproszą o dokładkę. A Ty też się skusisz, bo nie wypada nie spróbować lodów z rodowodem.</p>
-
-  <p><em>Bergamo z dziećmi to przygoda pełna kolejek, lodów, zamków i... świętego spokoju (czasami). A jeśli będzie deszcz – zawsze zostaje pizzeria i rysowanie pizzą po talerzu!</em></p>
-
+    <li><strong>🎲 TFOU Aventure</strong> – francuska aplikacja pełna mini-gier i misji miejskich. Idealna na przystanki, kolejki i metro. Działa offline = zbawienie w podziemiu.</li>
+  </ul>
+  <p><strong>Tip:</strong> Pamiętaj, żeby pobrać mapy offline (np. Google Maps, Maps.me), bo paryskie metro + roaming to czasem czarna dziura zasięgu.</p>
+  <p><strong>Plan awaryjny:</strong> YouTube Kids + słuchawki. Czasem po prostu trzeba przetrwać do kolacji.</p>
 </details>
+
 
 
 ---
 
 
 <details>
-  <summary><strong>🍽️ Gdzie zjeść w Bergamo</strong></summary>
+  <summary><strong>🍽️ Gdzie zjeść w Paryżu – od bagietki za 2€ po foie gras z widokiem</strong></summary>
 
-  <p><em>Bergamo to nie tylko eleganckie trattorie, ale też tanie perełki, które karmią lepiej niż babcia w święta. Chcesz zjeść dobrze, lokalnie i nie wydać fortuny? Da się zrobić!</em></p>
+  <h4><strong>🥖 Tanie, ale pyszne – budżetowy smak Paryża</strong></h4>
+  <ul>
+    <li><strong>Chez Gladines</strong> – bistro z kuchnią baskijską. Porcje jak u babci, ceny jak z lat 2000. Adres: 30 Rue des cinq Diamants.</li>
+    <li><strong>L’As du Fallafel</strong> – słynny falafel na Marais. Tanio, szybko, obłędnie. Kolejki, ale warto! Adres: 34 Rue des Rosiers.</li>
+    <li><strong>Bouillon Pigalle</strong> – kultowa paryska jadłodajnia: klasyki kuchni francuskiej za 10–15 €. Smacznie, tłoczno, autentycznie. Adres: 22 Boulevard de Clichy.</li>
+    <li><strong>Crêperie Genia</strong> – tanie naleśniki słodkie i wytrawne przy Sorbonie. Adres: 7 Rue de la Harpe.</li>
+    <li><strong>Boulangerie Utopie</strong> – piekarnia, która potrafi odmienić poranek. Croissant z czarnym sezamem? Tak, poproszę. Adres: 20 Rue Jean-Pierre Timbaud.</li>
+  </ul>
 
-  <h3>🍕 <strong>Da Mimmo</strong> – pizza z widokiem</h3>
-  <p>W Città Alta. Pizza pieczona na cienkim cieście, klasyka wśród mieszkańców i turystów. Taras z widokiem gratis.</p>
+  <h4><strong>🥂 Coś bardziej fancy – wyższy poziom Paryża</strong></h4>
+  <ul>
+    <li><strong>Septime (★ Michelin)</strong> – nowoczesna francuska kuchnia, elegancko, ale nie nadęcie. Rezerwacje z wyprzedzeniem! Adres: 80 Rue de Charonne.</li>
+    <li><strong>Le Train Bleu</strong> – restauracja jak z filmu: w starym dworcu Gare de Lyon. Jedzenie dobre, ale wnętrze kradnie show. Adres: Place Louis-Armand.</li>
+    <li><strong>Le Procope</strong> – najstarsza kawiarnia w Paryżu (działa od 1686!). Historyczny klimat + klasyczne dania. Adres: 13 Rue de l’Ancienne Comédie.</li>
+    <li><strong>Girafe</strong> – stylowy lokal z widokiem na wieżę Eiffla. Idealny na romantyczną kolację lub pokaz "Patrz, mam na Insta!". Adres: 1 Place du Trocadéro.</li>
+    <li><strong>Lapérouse</strong> – salonki, kandelabry, atmosfera XIX w. Nie najtaniej, ale warto choć raz. Adres: 51 Quai des Grands Augustins.</li>
+  </ul>
 
-  <h3>🍷 <strong>Il Circolino</strong> – lokalna dusza Bergamo</h3>
-  <p>Lokal prowadzony przez społeczność – taniej, smaczniej i z sercem. Ogródek, klimat, dobre jedzenie.</p>
+  <h4><strong>🍷 Tipy kulinarne:</strong></h4>
+  <ul>
+    <li><strong>Menu formule</strong> w porze lunchu (12:00–14:00) to okazja – przystawka + danie + deser za 15–20 €.</li>
+    <li><strong>Woda z kranu</strong> w restauracji to norma – poproś o "une carafe d’eau". Nie daj sobie wcisnąć butelki za 6 €.</li>
+    <li><strong>Napiwki</strong> – wliczone w cenę (service compris), ale za wyjątkową obsługę można zostawić 1–2 € na stole.</li>
+    <li><strong>Rezerwacje</strong> – w popularnych miejscach konieczne, szczególnie wieczorem i w weekendy.</li>
+  </ul>
 
-  <h3>🍋 <strong>La Marianna</strong> – lody prosto z legendy</h3>
-  <p>Tu wymyślono lody stracciatella. Świetne miejsce na słodką przerwę, ale mają też dobre risotto i makarony.</p>
-
-  <h3>🥪 <strong>PolentOne</strong> – street food po góralsku</h3>
-  <p>Polenta na wynos w każdej formie – z gorgonzolą, z ragù, z grzybami. Tanio, sycąco, lokalnie. I zaskakująco dobre!</p>
-
-  <h3>🍞 <strong>Panificio Tresoldi</strong> – pieczywo i focaccia za grosze</h3>
-  <p>Mini piekarnia z gorącymi pizzettami, focaccią i słodkościami. Idealne na budżetowy piknik z widokiem.</p>
-
-  <h3>🍔 <strong>Rustico</strong> – panini i burgery z włoskim twistem</h3>
-  <p>Mała knajpka, w której dostaniesz świeże buły z lokalnymi dodatkami – pancetta, ser, rukola. Tanie i dobre!</p>
-
-  <h3>🥗 <strong>Bar Il Circolino – lunch bar w Città Alta</strong></h3>
-  <p>Menu dnia z pierwszym i drugim daniem za niewielkie pieniądze. Często jedzą tu lokalsi i pracownicy okolicy.</p>
-
-  <h3>🍕 <strong>Pizzeria Capri</strong> – pizza dla każdego</h3>
-  <p>Niepozorna pizzeria z klasykami włoskiego street foodu. Margherita smakuje tu jak we włoskim filmie, tylko taniej.</p>
-
-  <p><em>Bergamo wie, jak nakarmić dobrze i tanio. I za to je kochamy!</em></p>
+  <p><strong>Bonus:</strong> Masz mało czasu? Wpadnij do <em>Monoprix</em> lub <em>Franprix</em> po gotowe kanapki, sałatki i croissanty – piknik w parku z widokiem na Sekwanę to klasyk!</p>
 </details>
+
 
 ---
 
