@@ -53,10 +53,10 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🔍 Co zobaczyć w Tibilisi</strong></summary>
 
- <details>
+<details>
      <summary><strong>⛪ Katedra Świętej Trójcy (Sameba)</strong></summary>
-
   <p>Największa cerkiew w Gruzji i jedna z największych w całym prawosławnym świecie. Gigantyczna, błyszcząca i widoczna z każdego wzgórza. Miejsce modlitwy, zdjęć i „wow, ale duża!”.</p>
+</details>
 
 <details>
     <summary><strong>🌉 Most Pokoju</strong></summary>
