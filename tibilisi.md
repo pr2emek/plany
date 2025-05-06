@@ -136,15 +136,9 @@ Witaj w przewodniku po Tibilisi! Kliknij sekcję, aby ją rozwinąć 👇
   <p><em>Abanotubani to miejsce, które pokazuje, że Tbilisi nie boi się pachnieć tak, jak wygląda – dziko, gorąco i z charakterem.</em></p>
 </details>
 
-
+ 
 <details>
-    <summary><strong>🤖 Rike Park + futurystyczna sala koncertowa</strong></summary>
-   
-  <p>Park z widokiem na rzekę i przedziwnym budynkiem, który wygląda jak wydech sportowego auta. Często zamknięte, ale wygląda efektownie nawet z zewnątrz.</p>
-</details>
-
-<details>
-  <summary><strong>🌳 Rike Park – futurystyczna dżungla w centrum Tbilisi</strong></summary>
+  <summary><strong>🤖 Rike Park – futurystyczna dżungla w centrum Tbilisi</strong></summary>
   <p><strong>Współrzędne:</strong> <em>41.6935° N, 44.8108° E</em></p>
   <p>Witaj w <strong>Rike Park</strong>, czyli najbardziej „co tu się wydarzyło?” miejscu w całym Tbilisi. To zielona przestrzeń tuż nad rzeką Kurą, idealna na spacer, drzemkę w cieniu, puszczanie baniek mydlanych lub... rozkminianie dziwnej architektury, która wygląda jakby ktoś zostawił render z programu 3D i zapomniał anulować projekt.</p>
 
