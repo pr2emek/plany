@@ -178,7 +178,7 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
    
 <details>
-  <summary><strong>🕵️ Sekretne miejsca Bergamo</strong></summary>
+  <summary><strong>🕵️ Sekretne miejsca Paryża</strong></summary>
 <details>
   <summary><strong>🌈 Rue Crémieux – najbardziej instagramowa ulica Paryża</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8474° N, 2.3708° E</em></p>
@@ -269,7 +269,6 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 </details>
-
 
 
 ---
