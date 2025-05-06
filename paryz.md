@@ -484,9 +484,9 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🧳 Praktyczne porady w Paryżu</strong></summary>
-
  
   <h4><strong>🛍️ Co warto kupić w Paryżu – czyli pamiątki z klasą (i bez plastiku)</strong></h4>
+  
   <ul>
     <li><strong>🧴 Perfumy z niszowych perfumerii</strong> – zamiast duty-free, zajrzyj do <em>Fragonard, Serge Lutens, Diptyque</em> lub <em>Maison Francis Kurkdjian</em>. Możesz też stworzyć własny zapach!</li>
     <li><strong>🍷 Francuskie wino i sery (vacuum!)</strong> – wina z małych sklepów są często lepsze i tańsze niż w markecie. Ser kupuj zapakowany próżniowo – celnik będzie wdzięczny.</li>
