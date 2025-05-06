@@ -11,20 +11,37 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-   <summary><strong>📌 Podstawowe informacje</strong></summary> 
-  <h3>🏔️ Bergamo – miasto, które ma dwie twarze (i obie piękne)</h3> 
-    <p> Bergamo to nie jest „kolejne włoskie miasteczko”. To scenariusz z filmu, który zaczyna się w średniowieczu, a kończy przy kieliszku wina. Znajdziesz tu nie jedno, a dwa miasta: <strong>Città Alta</strong> – zabytkowe, otoczone murami, gdzie czas się zatrzymał (ale cappuccino dalej kosztuje swoje), i <strong>Città Bassa</strong> – nowoczesne, tętniące życiem, z tramwajami, sklepami i pizzą na wynos. </p> 
-    <p> Bergamo jest jak włoski kuzyn z północy – elegancki, z klasą, ale potrafi się zabawić. To idealna baza wypadowa: rzut beretem do Mediolanu, rzut kamykiem do jeziora Como, a samolotem – z Bergamo lata pół Europy. Bo tak, tutejsze lotnisko (Orio al Serio) to prawdziwa mekka tanich linii. Przyjeżdżasz tanio, wyjeżdżasz bogatszy w zdjęcia, kalorie i wspomnienia. </p> 
-    <h3>✈️ Jak się dostać do Bergamo?</h3> 
-    <ul> 
-      <li><strong>Samolotem:</strong> Lotnisko <em>Orio al Serio</em> (BGY) obsługuje mnóstwo połączeń z Polski i całej Europy – Ryanair, Wizzair i reszta ekipy low-cost. Do centrum miasta dojedziesz autobusem miejskim w 15–20 minut.</li>
-      <li><strong>Pociągiem:</strong> Z Mediolanu do Bergamo – szybciutko i wygodnie, około godziny jazdy. Widoki po drodze: gratis.</li> 
-    </ul> 
-    <h3>🚠 Bergamo górą… dosłownie!</h3> 
-    <p> Bergamo to jedyne miasto, gdzie komunikacja miejska obejmuje również... kolejkę linową. <strong>Funicolare</strong> łączy dolną i górną część miasta i daje Ci bonusowy widok z góry. Albo pretekst, żeby nie wchodzić po schodach. Jedno i drugie cenne. </p> 
-    <h3>🍽️ Co się je w Bergamo?</h3> 
-    <p> Jeśli lubisz polentę – jesteś w raju. Jeśli nie... to się przyzwyczaisz. Bo tutaj podają ją ze wszystkim: z mięsem, z grzybami, z serem, a pewnie jakby się uprzeć, to i z lodami. Do tego lokalne wino, sery z gór i desery tak słodkie, że cukrzyca aż się uśmiecha. 
-  </p> 
+  <summary><strong>🗼 Paryż – podstawowe informacje, zanim zakochasz się po uszy</strong></summary>
+
+  <p><strong>Paryż</strong> to nie tylko wieża Eiffla i croissanty. To stan umysłu. Miejsce, gdzie każdy kąt wygląda jak kadr z filmu, a każda bagietka smakuje jak nagroda za przetrwanie lotu tanimi liniami.</p>
+
+  <p>To stolica Francji, miasto świateł, sztuki, miłości, no i korków. Leży nad Sekwaną, liczy ponad 2 miliony mieszkańców i ma więcej muzeów niż ty zdjęć z wakacji. Kultura wylewa się z każdego zaułka, a kalorie – z każdego rogalika.</p>
+
+  <h4>✨ Dlaczego warto pojechać?</h4>
+  <ul>
+    <li>Bo chcesz w końcu zobaczyć Mona Lisę, a nie tylko memy z jej twarzą.</li>
+    <li>Bo spacer po Montmartre o zachodzie słońca naprawdę działa lepiej niż aplikacje randkowe.</li>
+    <li>Bo fontanny, pałace, ogrody i wino za 3 euro to połączenie nie do odrzucenia.</li>
+    <li>Bo to jedno z niewielu miejsc, gdzie możesz wyglądać jak turysta i jak artysta jednocześnie – w tym samym kapeluszu.</li>
+  </ul>
+
+  <h4>✈️ Lotniska i jak się dostać do centrum</h4>
+
+  <p><strong>📍Paryż ma trzy lotniska:</strong></p>
+  <ul>
+    <li><strong>Charles de Gaulle (CDG)</strong> – największe, często chaotyczne, ale dobrze skomunikowane.</li>
+    <li><strong>Orly (ORY)</strong> – mniejsze, bardziej kompaktowe, idealne przy locie z tanimi liniami.</li>
+    <li><strong>Beauvais (BVA)</strong> – technicznie „Paryż”, praktycznie: pół godziny od Belgii 😉. Obsługuje głównie Ryanaira.</li>
+  </ul>
+
+  <h4>🚇 Jak dojechać z lotniska do centrum?</h4>
+  <ul>
+    <li><strong>Z CDG:</strong> RER B (kolej podmiejska) – ok. 35 minut do centrum. Koszt: ok. 11,80 €. Szybko, wygodnie, z odrobiną paryskiego znużenia.</li>
+    <li><strong>Z ORY:</strong> OrlyBus do Denfert-Rochereau lub tramwaj T7 + metro. Koszt: ok. 9–12 €. Nieco kombinowania, ale działa.</li>
+    <li><strong>Z BVA:</strong> Shuttle bus do Porte Maillot – trwa 1h15 min, kosztuje ok. 16–17 € w jedną stronę. W gratisie: szansa na mały jetlag i poznanie innych zagubionych dusz.</li>
+  </ul>
+
+  <p><em>Paryż nie jest najtańszy, ale też nie musi być. Jest za to piękny, różnorodny i nie do podrobienia – a w dodatku całkiem dobrze działa tu metro, więc nawet wieża Eiffla z Montmartre’em mogą być „po drodze”.</em></p>
 </details>
 
 ---
