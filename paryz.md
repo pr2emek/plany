@@ -50,28 +50,121 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏛️ Co zobaczyć</strong></summary>
  
    <details>
-  <summary><strong>🗼 Wieża Eiffla – czyli żelazna dama wśród atrakcji</strong></summary>
+  <summary><strong>🗼 Wieża Eiffla – żelazna dama Paryża</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8584° N, 2.2945° E</em></p>
-  <p>Jest jak croissant z Lidla vs. ten z francuskiej piekarni – niby to samo, ale jak się zobaczy na żywo, to zapiera dech. Ma 330 metrów wysokości, wygląda jak kratownica, ale przez ponad 40 lat była najwyższą budowlą świata.</p>
-  <p>Możesz wjechać windą (od 11 € do 28 €, w zależności od piętra i wieku) albo wspiąć się po schodach – wtedy uznasz, że francuskie wino to dobre cardio. Widok? Kosmos. Kolejki? Czasem też.</p>
-  <p><strong>Tip:</strong> Najlepsze zdjęcia zrobisz z placu Trocadéro albo z mostu Bir-Hakeim – i bez tłumu selfie-sticków.</p>
+
+  <p>Nie ma Paryża bez Wieży Eiffla. Serio, spróbuj zrobić zdjęcie stolicy Francji bez tej wielkiej kratownicy – nie da się. To symbol romantyzmu, inżynieryjnego geniuszu i cierpliwości w kolejkach do windy.</p>
+
+  <h4>📜 Krótkie tło historyczne</h4>
+  <p>Zbudowana w 1889 roku na Wystawę Światową, miała być tymczasowa. Paryżanie ją znienawidzili, ale po kilku dekadach stwierdzili: „ech, jednak fajna”. Gustave Eiffel musiał się cieszyć, że jego żelazna konstrukcja zyskała takie uznanie – i miliony selfie.</p>
+
+  <h4>🚶 Co warto wiedzieć</h4>
+  <ul>
+    <li>Ma 330 metrów wysokości – kiedyś była najwyższą budowlą świata.</li>
+    <li>Ma trzy poziomy – możesz wjechać windą lub wejść pieszo (do 2. poziomu – potem i tak tylko winda).</li>
+    <li>Widoki? Takie, że nawet ludzie z lękiem wysokości mówią „no dobra, warto było”.</li>
+    <li>Na szczycie działa <strong>bar z szampanem</strong>, bo czemu nie.</li>
+  </ul>
+
+  <h4>🎟️ Bilety i godziny</h4>
+  <ul>
+    <li><strong>Kup bilety online</strong> z wyprzedzeniem. Możesz wybrać:
+      <ul>
+        <li>🎫 Wjazd windą na 2. poziom</li>
+        <li>🚶 Wejście schodami (taniej, sportowo)</li>
+        <li>🚀 Wjazd na sam szczyt – top atrakcji (dosłownie)</li>
+      </ul>
+    </li>
+    <li>Ceny zależą od poziomu i opcji – od ok. 12 do 30 €.</li>
+    <li><strong>Godziny otwarcia:</strong> codziennie, zazwyczaj 9:00–23:45, ale sprawdź aktualności przed wyjazdem.</li>
+  </ul>
+
+  <h4>📸 Tipy turystyczne</h4>
+  <ul>
+    <li>Najlepsze zdjęcie zrobisz z placu Trocadéro (szczególnie o wschodzie słońca).</li>
+    <li>Wieczorem wieża świeci i co godzinę <strong>miga tysiącem świateł</strong> przez 5 minut – o 21:00, 22:00 itd.</li>
+    <li>Nie kupuj pamiątek od panów z kocami – miniaturowa wieża za 1 € może rdzewieć szybciej niż zniknie ci z walizki.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Wieża Eiffla to must-see z kategorii „nawet jak widziałeś ją na milionie zdjęć, i tak robi wrażenie”. Po wizycie idź na spacer nad Sekwaną albo zasłużonego croissanta.</p>
 </details>
 
+
 <details>
-  <summary><strong>🖼️ Luwr – dom Mony Lisy i miliona selfie</strong></summary>
+  <summary><strong>🎨 Luwr – muzealny gigant z Mona Lisą w środku</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8606° N, 2.3376° E</em></p>
-  <p>Największe muzeum sztuki na świecie. Tak, większe niż Twoje postanowienie, że "tym razem obejrzę wszystko". Nie obejrzysz. Ale to nic – wystarczy Mona Lisa, Wenus z Milo, Nike z Samotraki i spacer pod szklanymi sufitami.</p>
-  <p>Bilety: ok. 17 € online (warto kupić z wyprzedzeniem). Wnętrze to labirynt, ale oznaczenia są dobre – a zgubienie się między Rembrandtem a mumiami egipskimi to wręcz przywilej.</p>
-  <p><strong>Pro tip:</strong> Wtorki zamknięte. Czwartki otwarte do 21:45 – idealne na nocną randkę ze sztuką.</p>
+
+  <p>Powiedzmy sobie szczerze: jeśli chcesz „szybko zobaczyć Luwr”, to jakbyś chciał obejrzeć całą „Grę o Tron” w jedno popołudnie – niby da się, ale po co? To <strong>największe muzeum sztuki na świecie</strong>, więc dobrze zapnij sandały (lub inne wygodne buty).</p>
+
+  <h4>🏛️ Krótkie tło historyczne</h4>
+  <p>Luwr to dawny pałac królewski, który w 1793 roku zamieniono w muzeum – pewnie dlatego, że ktoś wpadł na pomysł: „a może zamiast kolejnego króla, postawmy tu sztukę?”</p>
+  <p>Dziś to ponad <strong>35 000 eksponatów</strong>, 400 sal, 14 km korytarzy i tłum ludzi szukających jednej uśmiechniętej kobiety...</p>
+
+  <h4>🎟️ Bilety i godziny</h4>
+  <ul>
+    <li><strong>Bilet normalny:</strong> 17 € online (zalecane!), 15 € na miejscu – o ile się dostaniesz.</li>
+    <li><strong>Godziny otwarcia:</strong> 9:00–18:00 (środy i piątki do 21:45), wtorki zamknięte.</li>
+    <li><strong>Wstęp darmowy:</strong> dla młodzieży z UE do 26 r.ż. i w pierwszą niedzielę miesiąca (od października do marca).</li>
+  </ul>
+
+  <h4>🖼️ Co zobaczyć (i nie zginąć)</h4>
+  <ul>
+    <li>🖌️ <strong>Mona Lisa</strong> – mała, ale zawsze otoczona tłumem. Selfie obowiązkowe.</li>
+    <li>🗿 <strong>Wenus z Milo</strong> – wygląda całkiem nieźle, jak na osobę bez rąk.</li>
+    <li>🏛️ <strong>Nike z Samotraki</strong> – skrzydlata bogini i perfekcyjny przykład „dramatycznego wejścia po schodach”.</li>
+    <li>👑 <strong>Klejnoty Koronne i apartamenty Napoleona III</strong> – luksus w wersji „złoto wszędzie”.</li>
+    <li>🇪🇬 <strong>Dział Egipski</strong> – mumie, sarkofagi i koty sprzed kilku tysięcy lat.</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Wejście główne: przez <strong>szklaną piramidę</strong>, ale szybciej wejdziecie przez wejście Carrousel (od metra).</li>
+    <li>Pobierz oficjalną <strong>apkę Luwru</strong> – pozwoli się nie zgubić i posłuchać czegoś mądrzejszego niż „o, jaki ładny obraz”.</li>
+    <li>Unikaj godzin szczytu: najlepiej przyjść rano lub późnym popołudniem.</li>
+    <li>Zrób sobie plan – „wszystko” i tak nie obejrzysz. Nawet Leonardo da Vinci by nie dał rady w jeden dzień.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Luwr to muzeum-maraton. Ale nawet jeśli nie jesteś fanem sztuki, to i tak docenisz ten rozmach. A jeśli zgubisz się wśród obrazów – nie panikuj, tam każdy się kiedyś gubił.</p>
 </details>
 
+
 <details>
-  <summary><strong>⛪ Katedra Notre-Dame – ogień, duchowość i Quasimodo</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8530° N, 2.3499° E</em></p>
-  <p>Choć wciąż trwa odbudowa po pożarze z 2019 roku, fasada nadal robi ogromne wrażenie. Styl gotycki, rozety wielkości mieszkania i duch Wiktora Hugo unoszący się w powietrzu.</p>
-  <p>Wnętrze póki co niedostępne (stan na 2025), ale i tak warto podjechać, przejść się wokół, zrobić zdjęcie z Sekwaną i wyobrazić sobie dzwonnika z książki.</p>
-  <p><strong>Tip:</strong> Zaraz obok znajduje się <strong>Punkt Zero</strong> – symboliczny środek Paryża. Legenda mówi, że kto na nim stanie, ten kiedyś wróci. Albo przynajmniej będzie musiał tu jeszcze raz coś zgubić.</p>
+  <summary><strong>⛪ Katedra Notre-Dame – gotycka perła Paryża</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8529° N, 2.3500° E</em></p>
+
+  <p>Kiedy mówimy „Notre-Dame”, myślimy o gotyckim cudzie, który stał się jednym z najbardziej rozpoznawalnych symboli Paryża. <strong>Wzniesiona w XII wieku</strong> i przez wieki inspirowała artystów, pisarzy i turystów. Dziś, choć nieco uszkodzona w wyniku pożaru w 2019 roku, nadal budzi podziw swoją monumentalnością. A jak będzie po renowacji? O, to dopiero będzie magia!</p>
+
+  <h4>🏰 Krótkie tło historyczne</h4>
+  <p>Notre-Dame de Paris to przykład klasycznego gotyku: pełna witraży, smukłych kolumn, strzelistych wież i monumentalnej fasady. Zbudowana przez prawie 200 lat (1163-1345), stała się miejscem koronacji, ślubów królewskich i innych ważnych wydarzeń historycznych. Nawet Victor Hugo, pisząc „Katedrę Najświętszej Panny Marii”, uczynił ją bohaterką literatury.</p>
+
+  <h4>🎟️ Bilety i godziny</h4>
+  <ul>
+    <li><strong>Wstęp do katedry:</strong> Jest bezpłatny, ale warto sprawdzić, czy katedra jest otwarta po renowacji. W międzyczasie możesz podziwiać ją z zewnątrz.</li>
+    <li><strong>Wstęp na wieżę:</strong> Zwykle kosztuje około 10 € (sprawdź aktualne ceny na stronie).</li>
+    <li><strong>Godziny otwarcia:</strong> 8:00–18:45 codziennie. Warto jednak zwrócić uwagę na prace renowacyjne, które mogą wpłynąć na dostępność.</li>
+  </ul>
+
+  <h4>⛪ Co zobaczyć</h4>
+  <ul>
+    <li>⛪ <strong>Wnętrze katedry:</strong> Zdecydowanie warto zobaczyć witraże, zwłaszcza te w okolicach ołtarza. Możesz poczuć się jak bohater średniowiecznego romansu!</li>
+    <li>🌟 <strong>Róża okienna:</strong> Jedna z najsłynniejszych witraży gotyckich, której piękno jest wręcz ponadczasowe.</li>
+    <li>🏰 <strong>Wieże katedry:</strong> Wspinaczka na wieżę daje ci niesamowite widoki na Paryż i na Sekwanę. Zanim się zdecydujesz, upewnij się, że jesteś gotów na kilka schodów!</li>
+    <li>🕊️ <strong>Wzgórze Notre-Dame:</strong> Widok na miasto z tego punktu sprawi, że poczujesz się jak część paryskiej panoramy.</li>
+  </ul>
+
+  <h4>📸 Tipy turystyczne</h4>
+  <ul>
+    <li>Chcesz zrobić idealne zdjęcie? Stań na moście Pont de l'Archevêché. Z tego miejsca widać katedrę w całej okazałości.</li>
+    <li>W sezonie turystycznym przygotuj się na kolejki, zwłaszcza w okolicach wakacji. Warto przyjść rano lub późnym popołudniem.</li>
+    <li>Pamiętaj o zachowaniu ciszy w środku, szczególnie w czasie mszy. Katedra to w końcu także miejsce modlitwy.</li>
+  </ul>
+
+  <h4>🔨 Pożar w 2019 roku i renowacja</h4>
+  <p>Po tragicznym pożarze w 2019 roku Notre-Dame została zamknięta dla turystów. Na szczęście rozpoczęły się prace renowacyjne, więc wkrótce będziemy mogli podziwiać ją w pełnej krasie. Choć obecnie nie jest możliwe wejście do środka, to okolica wokół katedry wciąż jest jednym z najpiękniejszych miejsc w Paryżu.</p>
+
+  <p><strong>Podsumowanie:</strong> Katedra Notre-Dame to miejsce, które zapiera dech w piersiach – zarówno swoim monumentalnym wyglądem, jak i historią. Zdecydowanie warto je odwiedzić, kiedy jesteś w Paryżu, bo to więcej niż tylko zabytkowy budynek – to część paryskiego ducha i historii.</p>
 </details>
+
 
 <details>
   <summary><strong>🎨 Montmartre i bazylika Sacré-Cœur – artyści, schody i widoki</strong></summary>
@@ -176,6 +269,37 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Najlepiej odwiedzić wieczorem, kiedy wszystko świeci jak choinka na sterydach. Mimo komercji – coś w tym deptaku jest magicznego.</p>
   <p><strong>Tip:</strong> Nie wchodź do McDonald's. Tak, nawet jeśli ma pozłacane logo.</p>
 </details>
+
+<details>
+  <summary><strong>👑 Wersal – pałac, który powiedział: „zróbcie miejsce, idę błyszczeć”</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8049° N, 2.1204° E</em></p>
+
+  <p>Wersal to nie pałac. To PAŁAC – taki z wielkich liter, złotych bram, nieprzyzwoicie rozległych ogrodów i wnętrz, które wyglądają, jakby ktoś wziął barok i powiedział mu: „przesadź mocniej”.</p>
+
+  <p>Wybudowany przez Ludwika XIV, który miał chyba osobisty problem z minimalizmem, Wersal miał pokazać, kto tu rządzi. A że rządził Słońce, to wiadomo – wszystko musiało się błyszczeć. Zresztą do dziś lśni – zwłaszcza <strong>Galeria Zwierciadlana</strong>, gdzie nawet najwięksi przeciwnicy selfie wyciągają telefon.</p>
+
+  <p>Pałac to jednak dopiero początek. <strong>Ogrody Wersalu</strong> to ponad 800 hektarów perfekcyjnie przystrzyżonych żywopłotów, fontann, alejek i miejsc na udawanie, że jesteś w ekranizacji „Niebezpiecznych związków”. Można je przejść, przejechać kolejką, rowerem albo łódką (tak, serio – na Grand Canal pływają łódki!).</p>
+
+  <p>Na deser warto odwiedzić <strong>Dwór Marii Antoniny</strong> – sztuczną wioskę, którą zbudowano, żeby królowej nie nudziło się w pałacu i mogła bawić się w pasterkę. Kiedy lud miał dość i piekł bagietki z powietrza, ona doiła kózki w swoim prywatnym Disneylandzie XVIII wieku.</p>
+
+  <h4>🛫 Jak się dostać:</h4>
+  <ul>
+    <li>Z Paryża pociągiem RER C (ok. 30–40 min). Wysiądź na stacji <strong>Versailles Château Rive Gauche</strong>.</li>
+    <li>Uwaga – w dni wolne może być tłoczno. Bardzo tłoczno. Jak „Luwr w sobotę o 11:00” tłoczno.</li>
+  </ul>
+
+  <h4>🎟️ Bilety i porady:</h4>
+  <ul>
+    <li>Zarezerwuj bilety online z wyprzedzeniem – unikniesz kolejki dłuższej niż Wielki Kanał.</li>
+    <li>Wybierz bilet z dostępem do pałacu, ogrodów i Grand Trianon – warto zobaczyć wszystko, choćby dla samego kontrastu między złotem a sielanką.</li>
+    <li>Latem w weekendy odbywają się <strong>pokazy fontann i muzyki klasycznej</strong> – i to nie żart, tylko fontanny naprawdę tańczą do Bacha.</li>
+  </ul>
+
+  <p><strong>Pro tip:</strong> Weź coś do jedzenia – jedzenie na miejscu jest drogie i przeciętne. Piknik w ogrodach? O, tak.</p>
+
+  <p>Wersal to idealna wycieczka jednodniowa z Paryża – niezależnie, czy kochasz historię, złoto, ogrody, czy po prostu chcesz zobaczyć, gdzie rozbuchany przepych spotkał rewolucję. Dosłownie.</p>
+</details>
+
    
 <details>
   <summary><strong>🕵️ Sekretne miejsca Paryża</strong></summary>
@@ -275,46 +399,241 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
+<details>
+  <summary><strong>📅 Dzień 1: Klasyka Paryża – od gotyku po wieżę z żelaza</strong></summary>
 
-  <details>
-  <summary><strong>📅 Plan zwiedzania Bergamo – 1 dzień</strong></summary>
+  <p>Gotowi na klasykę? Dziś zaczynamy od serca Paryża i idziemy w stronę zachodzącego słońca. Trasa idealna na pierwszy raz w Mieście Świateł – zero nudy, maksimum „łał”. Całość do ogarnięcia na pieszo!</p>
 
-  <p><em>Masz tylko jeden dzień? Spokojnie. Bergamo da się pokochać od pierwszego kroku – szczególnie, jeśli krok prowadzi po brukowanych uliczkach Città Alta i kończy się widokiem z górskiej twierdzy.</em></p>
-
-  <h3>🥐 Poranek – klasyka w Città Alta</h3>
+  <h4>🕘 Start – Wyspa Cité i Katedra Notre-Dame</h4>
   <ul>
-    <li><strong>Start: Funicolare z dolnego miasta (Città Bassa)</strong> – pierwszy punkt programu to... kolejka linowa! Wjeżdżasz z gwarnego centrum na wzgórze Città Alta – czyli do serca średniowiecznego Bergamo. Widoki już teraz robią wrażenie.</li>
-    <li><strong>Piazza Vecchia</strong> – centralny plac górnego miasta. Tu znajdziesz kawę, croissanta i atmosferę jak z filmu kostiumowego. Po lewej – fontanna Contarinich, po prawej – wieża Torre Civica. W środku? Ty z aparatem i espresso.</li>
-    <li><strong>Santa Maria Maggiore & Cappella Colleoni</strong> – barokowo-romańskie arcydzieła. Rzeźby, freski i złoto. Dużo złota. A jeśli trafisz na grę organową – masz szczęście jak w lotto.</li>
+    <li><strong>Współrzędne:</strong> <em>48.8530° N, 2.3499° E</em></li>
+    <li>Choć sama katedra nadal się odbudowuje po pożarze, plac przed nią i okolice to klasyk.</li>
+    <li>Warto zajrzeć do sąsiedniej <strong>Sainte-Chapelle</strong> – gotycki kosmos ze szkła.</li>
   </ul>
 
-  <h3>🏰 Przedpołudnie – widoki, mury i spacer wśród historii</h3>
+  <h4>🚶 Mosty, gołębie i zdjęcia: Pont Neuf i Luwr</h4>
   <ul>
-    <li><strong>Torre del Gombito</strong> – średniowieczna wieża, przy której można złapać lokalną legendę i... schować się przed turystami. Uwaga: czasem otwarta do wspinaczki!</li>
-    <li><strong>Spacer wzdłuż murów (Le Mura Veneziane)</strong> – wpisane na listę UNESCO mury obronne, z których roztacza się bajkowa panorama dolnego miasta i Alp. Idealne miejsce na selfie z wiaterkiem we włosach.</li>
-    <li><strong>Castello di San Vigilio</strong> – jeśli masz jeszcze siły (i dobre buty), wejdź lub wjedź kolejką na wzgórze. Ruiny zamku, widoki aż po Mediolanie i... odrobina legendy o duchu króla Teodoryka gratis.</li>
+    <li><strong>Współrzędne:</strong> <em>48.8606° N, 2.3376° E</em></li>
+    <li>Spacer przez najstarszy most Paryża prowadzi prosto do Pałacu Luwru.</li>
+    <li>Można wejść (polecam rezerwację online), ale jeśli nie masz siły na 3 godziny z Mona Lisą – przejdź przez dziedziniec i pod szklaną piramidę.</li>
   </ul>
 
-  <h3>🍝 Obiad – smakuj lokalnie!</h3>
-  <p>
-    Bergamo to stolica <strong>casoncelli</strong> – lokalnych pierożków z mięsem, masłem i szałwią. Zatrzymaj się w jednej z restauracji w Città Alta (np. <em>La Tana</em> albo <em>Trattoria Tre Torri</em>) i pozwól sobie na dłuższą przerwę. A po obiedzie – <strong>polenta e osei</strong>, czyli słodki deser, który wygląda jak ptaszek na żółtym cieście.
-  </p>
-
-  <h3>🖼️ Popołudnie – sztuka, zakamarki i chill</h3>
+  <h4>🌳 Odpoczynek w Jardin des Tuileries</h4>
   <ul>
-    <li><strong>Accademia Carrara</strong> (dla fanów sztuki) – jedno z najlepszych muzeów malarstwa we Włoszech, z dziełami Botticellego, Belliniego i nie tylko.</li>
-    <li><strong>Via Colleoni</strong> – główny deptak górnego miasta. Kawiarnie, lodziarnie, małe sklepiki – i dźwięk kroków na kamieniu.</li>
-    <li><strong>Mała dygresja: Gelato!</strong> – obowiązkowo spróbuj lodów z <em>La Marianna</em> – to tu podobno powstały lody stracciatella.</li>
+    <li><strong>Współrzędne:</strong> <em>48.8635° N, 2.3270° E</em></li>
+    <li>Siądź przy fontannie, zjedz croissanta, popatrz na ludzi i przypomnij sobie, że jesteś w Paryżu.</li>
   </ul>
 
-  <h3>🌇 Wieczór – Bergamo jak z bajki</h3>
+  <h4>🍽️ Lunch</h4>
   <ul>
-    <li><strong>Kolacja z widokiem</strong> – zarezerwuj stolik w restauracji z tarasem (np. <em>Ristorante Da Mimmo</em>) i delektuj się widokiem Città Bassa przy winie i ostatnim kęsie casoncelli.</li>
-    <li><strong>Powrót funicolare</strong> – po zmroku kolejka zjeżdża z górskiego miasta jak wehikuł czasu. Światła miasta poniżej, światło księżyca nad głową. Idealne zakończenie idealnego dnia.</li>
+    <li>W okolicy Tuileries lub Rue de Rivoli – znajdziesz sporo bistro i piekarni.</li>
+    <li>Opcja budżetowa: bagietka z serem + wino z marketu = paryski piknik na ławeczce.</li>
   </ul>
 
-  <p><em>1 dzień w Bergamo? Starczy, by się zakochać. Ale zostawi Cię z myślą: „muszę tu wrócić”.</em></p>
+  <h4>🏛️ Place de la Concorde → Pola Elizejskie</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8656° N, 2.3211° E</em></li>
+    <li>Podziwiamy obelisk, święty chaos uliczny i kierujemy się w stronę Champs-Élysées.</li>
+    <li>Po drodze możesz wpaść do Ladurée po makaroniki albo tylko popatrzeć na wystawy.</li>
+  </ul>
+
+  <h4>🧱 Łuk Triumfalny</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8738° N, 2.2950° E</em></li>
+    <li>Wejdź na górę, jeśli masz siłę – panorama Pól Elizejskich i Wieży Eiffla gratis.</li>
+  </ul>
+
+  <h4>🗼 Spacer na Wieżę Eiffla przez Sekwanę</h4>
+  <ul>
+    <li>Trasa przez most <strong>Pont d’Iéna</strong>, widok na wieżę z placu Trocadéro – klasyczne „pocztówkowe” zdjęcie.</li>
+  </ul>
+
+  <h4>🌇 Wieża Eiffla</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8584° N, 2.2945° E</em></li>
+    <li>Wjazd najlepiej rezerwować wcześniej online – wieczorne światła robią klimat.</li>
+    <li>Można też piknikować pod wieżą – z widokiem i bagietką w dłoni.</li>
+  </ul>
+
+  <h4>🌃 Wieczór: Sekwana nocą</h4>
+  <ul>
+    <li>Statek po Sekwanie? Romantycznie i klasycznie. Start przy Pont d’Alma lub Bateaux-Mouches.</li>
+    <li>Lub wróć do centrum metrem i zakończ dzień winem w Marais.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Pierwszy dzień z przytupem – wszystkie największe hity w jednej, przemyślanej trasie. Spacerowy Paryż to najlepszy Paryż.</p>
 </details>
+
+<details>
+  <summary><strong>📅 Dzień 2: Artystyczny Paryż – wzgórze Montmartre i okolice</strong></summary>
+
+  <p>Dziś odpoczywamy od turystycznych tłumów i zaglądamy do Paryża, który pachnie kawą, farbą olejną i pieczonym serem. Trochę romantyzmu, trochę hipsterki i dużo chodzenia po schodach. Zaczynamy!</p>
+
+  <h4>🕘 Start – Bazylika Sacré-Cœur</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8867° N, 2.3431° E</em></li>
+    <li>Wejdź po schodach albo wjedź funikularem – widok z góry wart każdego wysiłku.</li>
+    <li>W środku – cisza, spokój i mozaika, która wygląda jak nie z tego świata.</li>
+  </ul>
+
+  <h4>🎨 Plac Tertre i okolice</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8860° N, 2.3408° E</em></li>
+    <li>To tu malowali Picasso, Dali, Utrillo... dziś znajdziesz tu portrecistów, którzy zrobią cię węglem w 10 minut.</li>
+    <li>Możesz usiąść w kawiarni z widokiem na ulicznych artystów i zamówić crème brûlée.</li>
+  </ul>
+
+  <h4>🎭 Muzeum Montmartre i ogród Renoira</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8870° N, 2.3373° E</em></li>
+    <li>Urocze muzeum pełne historii dzielnicy i piękny ogród, w którym Renoir malował swoje obrazy. Cicho i klimatycznie.</li>
+  </ul>
+
+  <h4>🍷 Winorośle i ściana miłości</h4>
+  <ul>
+    <li>Przejdź obok jedynej miejskiej winnicy w Paryżu – <strong>Clos Montmartre</strong>.</li>
+    <li>Potem obowiązkowy przystanek przy <strong>Murze Miłości</strong> – „Kocham cię” w 250 językach!</li>
+  </ul>
+
+  <h4>🍽️ Lunch w stylu Montmartre</h4>
+  <ul>
+    <li>Knajpki wokół Placu Tertre albo Rue Lepic – tu znajdziesz tradycyjne francuskie jedzenie i zero McDonalda.</li>
+    <li>Opcja klimatyczna: „Le Consulat” – historyczna knajpka z duszą (i turystami, ale wybaczamy).</li>
+  </ul>
+
+  <h4>🎠 Schodzimy na dół – Moulin Rouge i Pigalle</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8841° N, 2.3324° E</em></li>
+    <li>Czerwony wiatrak wciąż kręci się jak dawniej. W dzień – do zdjęć, w nocy – na spektakl z szampanem (lub bez).</li>
+    <li>Potem szybki rzut okiem na Place Pigalle – trochę kicz, trochę historia bohemy.</li>
+  </ul>
+
+  <h4>🎨 Centrum Pompidou lub spacer po Marais</h4>
+  <ul>
+    <li>Masz siłę? Przesiadka do metra (lub Ubera) i kierunek: <strong>Centre Pompidou</strong> – industrialna architektura + nowoczesna sztuka.</li>
+    <li>Lub zostajesz w okolicy i schodzisz w dół do <strong>Marais</strong> – dzielnica pełna butików, galerii, vintage shopów i falafeli.</li>
+  </ul>
+
+  <h4>☕ Kawa i odpoczynek</h4>
+  <ul>
+    <li>W Marais – kawiarnia z widokiem na plac des Vosges.</li>
+    <li>W Montmartre – ostatni rzut oka na dachy Paryża z kawą w dłoni.</li>
+  </ul>
+
+  <h4>🌃 Wieczór: romantyczna kolacja lub wino na schodach Sacré-Cœur</h4>
+  <ul>
+    <li>Możesz zostać w Montmartre i zjeść kolację z widokiem na miasto.</li>
+    <li>Albo kupić camemberta i butelkę wina i wrócić na schody pod bazyliką, żeby zakończyć dzień po parysku – bez spiny, ale z klimatem.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Artystyczny Paryż, lekki chaos Montmartre i sztuka nowoczesna. Spacerowy, klimatyczny dzień, który pokaże ci duszę miasta.</p>
+</details>
+
+<details>
+  <summary><strong>📅 Dzień 3: Paryż muzealny i zielony – sztuka, historia i odpoczynek</strong></summary>
+
+  <p>Gotowi na klasykę z klasą? Dziś główną atrakcją będzie sztuka, ale nie bój się – damy ci też chwilę na croissanta w parku i zdjęcia na Instagram. Zaczynamy od ikony, ale potem robimy skręt w mniej tłoczne alejki.</p>
+
+  <h4>🕘 Start – Luwr</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8606° N, 2.3376° E</em></li>
+    <li>Tak, to tu jest Mona Lisa. Ale też Wenus z Milo, Nike z Samotraki i egipskie sarkofagi. Wybierz sobie jedną sekcję, bo całe muzeum to temat na tydzień.</li>
+    <li><strong>Tip:</strong> Zarezerwuj bilet online – ominiesz kolejki i nie zemdlejesz z nudów jeszcze przed wejściem.</li>
+  </ul>
+
+  <h4>🌳 Odpoczynek w Ogrodach Tuileries</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8635° N, 2.3272° E</em></li>
+    <li>Po Luwrze należy się chill. Rozsiądź się na zielonym krześle przy fontannie i zjedz pain au chocolat. Nie krępuj się – tak robią lokalsi.</li>
+  </ul>
+
+  <h4>🖼️ Musée de l'Orangerie</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8638° N, 2.3225° E</em></li>
+    <li>Wielkie, panoramiczne Nenufary Moneta – robią wrażenie, nawet jeśli nie jesteś fanem impresjonizmu.</li>
+    <li>Małe, kameralne, szybkie do zwiedzenia – idealne jako przystanek w środku dnia.</li>
+  </ul>
+
+  <h4>🍽️ Lunch w okolicy</h4>
+  <ul>
+    <li>Okolice Placu Zgody to pełno restauracji. Można coś klasycznego (np. quiche i sałatka w „Café Marly”) albo piknik w parku z bagietką i serem.</li>
+  </ul>
+
+  <h4>🎨 Musée d'Orsay</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8599° N, 2.3266° E</em></li>
+    <li>Tu mieszkają Van Gogh, Degas, Renoir, Gauguin i Toulouse-Lautrec. Stara stacja kolejowa zamieniona w muzeum – wow zarówno wewnątrz, jak i na zewnątrz.</li>
+    <li>Nie przegap wielkiego zegara z widokiem na Sekwanę. Zdjęcie obowiązkowe.</li>
+  </ul>
+
+  <h4>🌿 Spacer nad Sekwaną i Pont Alexandre III</h4>
+  <ul>
+    <li>Po tylu wrażeniach – pora na spacer. Idź w stronę mostu Alexandre III – złoty, bogaty, przesadzony i bardzo fotogeniczny.</li>
+    <li>Możesz usiąść nad brzegiem Sekwany z kawą na wynos albo wejść na barce do kawiarni.</li>
+  </ul>
+
+  <h4>🌇 Wieczór: kolacja w Saint-Germain-des-Prés</h4>
+  <ul>
+    <li>Jeśli masz siłę – idź pieszo do dzielnicy artystów i intelektualistów. Kawiarnie jak „Les Deux Magots” albo „Café de Flore” kuszą legendą (i cenami, ale raz można!).</li>
+    <li>Albo coś bardziej swojskiego i tańszego – np. małe bistro z menu dnia (plat du jour).</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Dziś spotykasz się z mistrzami pędzla i dłuta. Ale bez stresu – między obrazami są fontanny, parki, bagietki i widoki. Kulturalny Paryż bez presji.</p>
+</details>
+
+<details>
+  <summary><strong>👑 Dzień 4: Wersal – dzień jak z życia Ludwika XIV</strong></summary>
+
+  <p>Jeśli myślisz, że widziałeś już wszystko – Wersal z przyjemnością powie „trzymaj mi perukę”. Ten pałac to definicja królewskiego rozmachu. Dziś uciekamy z Paryża na cały dzień, ale spokojnie – dojazd to bułka z bagietką.</p>
+
+  <h4>🚆 Jak dojechać?</h4>
+  <ul>
+    <li>Z Paryża jedź <strong>pociągiem RER C</strong> do stacji <strong>Versailles Château Rive Gauche</strong> – to najbliżej wejścia do pałacu.</li>
+    <li>Podróż trwa ok. 35–40 minut. Pamiętaj, że potrzebujesz biletu <strong>na strefy 1–4</strong> (zwykły bilet paryski nie wystarczy).</li>
+    <li><strong>Tip:</strong> W weekendy może być tłoczno – im wcześniej ruszysz, tym lepiej.</li>
+  </ul>
+
+  <h4>🎫 Bilety do Wersalu</h4>
+  <ul>
+    <li>Zarezerwuj <strong>bilet online</strong> z wyprzedzeniem. Możesz wybrać:
+      <ul>
+        <li>🎟️ Pałac (samo wnętrze)</li>
+        <li>🌳 Ogrody (darmowe w niektóre dni, płatne w dni fontann)</li>
+        <li>👸 Kompletny bilet z Trianon i wioską Marii Antoniny – warto!</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h4>🏰 Zwiedzanie Pałacu Wersalskiego</h4>
+  <ul>
+    <li><strong>Współrzędne:</strong> <em>48.8049° N, 2.1204° E</em></li>
+    <li>Tu wszystko jest „naj”: największy, najbardziej błyszczący, najbardziej „o mój Boże”. Zobacz Salę Lustrzaną, Apartamenty Króla i Królowej.</li>
+    <li>Nie próbuj robić tego „na szybko” – złocenia trzeba kontemplować powoli i z godnością.</li>
+    <li><strong>Tip:</strong> Weź własne słuchawki – audioprzewodnik działa przez aplikację.</li>
+  </ul>
+
+  <h4>🌺 Spacer po ogrodach</h4>
+  <ul>
+    <li>Wersalskie ogrody to nie tylko zielone ścieżki. To labirynty, fontanny (w określonych godzinach grające!) i bajkowe alejki.</li>
+    <li>Jeśli masz więcej czasu – wypożycz rower albo mały pojazd elektryczny (serio, istnieje „Wersalmobil”).</li>
+  </ul>
+
+  <h4>🏡 Trianon i Wioska Marii Antoniny</h4>
+  <ul>
+    <li>Nie wszyscy tu docierają – a szkoda! To uroczy, spokojniejszy zakątek – różowe marmury, stawy, i wiejskie chatki królowej.</li>
+    <li>Idealne na <strong>piknik</strong> – weź coś z piekarni w mieście Wersal przed wejściem.</li>
+  </ul>
+
+  <h4>☕ Powrót do miasta</h4>
+  <ul>
+    <li>Do Paryża wrócisz tą samą trasą – RER C. Jeśli zostanie ci siła, możesz jeszcze wyskoczyć wieczorem na krótki spacer po dzielnicy Saint-Michel lub nad Sekwaną.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Dzień w Wersalu to jak wejście do bajki o królu, który nie znał słowa „skromność”. Zadbaj o wygodne buty, zapas wody i miejsce na telefonie – zdjęcia robi się tu co 3 minuty.</p>
+</details>
+
+
+  
 </details>
 
 ---
