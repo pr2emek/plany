@@ -1122,6 +1122,21 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
+details>
+  <summary><strong>🕯️ Legendy Paryża – mroczna strona Miasta Świateł</strong></summary>
+
+<p>
+Paryż to nie tylko kawiarenki, croissanty i selfie z Wieżą Eiffla. To miasto, które ma również swoją <strong>ciemną, tajemniczą duszę</strong>. Pod brukiem eleganckich bulwarów kryją się stare opowieści o duchach, klątwach i zjawach, które ponoć do dziś spacerują nocą po zaułkach Montmartre czy podziemiach katakumb.
+</p>
+
+<p>
+Jeśli lubisz dreszczyk emocji, a wycieczki po muzeach są dla Ciebie zbyt... żywe, to dobrze trafiłeś. Oto <strong>miejsca w Paryżu, gdzie historia i legenda splatają się w jedno</strong> – a Ty możesz je odwiedzić i zdecydować, czy to tylko miejska legenda... czy coś więcej.
+</p>
+
+<p>
+Zabierz latarkę, odrobinę wyobraźni i nie zostawiaj nikogo w tyle – bo jak głosi jeden z paryskich mitów: <em>„Ten, kto zapomni o przeszłości miasta, może sam się w niej zgubić.”</em>
+</p>
+
 <details>
   <summary><strong>👻 Katakumby – miasto zmarłych pod miastem żywych</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8338° N, 2.3324° E</em></p>
@@ -1157,13 +1172,10 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>Współrzędne:</strong> <em>48.8515° N, 2.3575° E</em></p>
   <p>Na Wyspie św. Ludwika znajduje się studnia, z którą związana jest smutna legenda. Młoda para wrzuciła tam pierścionek jako symbol wiecznej miłości. On zginął na wojnie, a ona wracała codziennie przez lata. Mówią, że czasem słychać szepty miłości przy studni – szczególnie po wypiciu butelki czerwonego wina.</p>
 </details>
+</details>
 
 ---
 
-Chcesz dorzucić do tego mapkę z zaznaczonymi legendarnymi punktami albo stworzyć podstronę „Paryż magiczny i nawiedzony”?
-
-
----
 
 <details>
   <summary><strong>🎠 Co robić z dziećmi w Paryżu – czyli jak uniknąć histerii pod Wieżą Eiffla</strong></summary>
