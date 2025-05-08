@@ -1123,30 +1123,45 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🤔 Legendy Bergamo</strong></summary>
-
-  <h3>👑 Duch króla Teodoryka – wzgórze San Vigilio</h3>
-  <p>
-    Na wzgórzu San Vigilio, gdzie dziś rozciągają się ruiny średniowiecznego zamku i jeden z najpiękniejszych widoków na miasto, miejscowi opowiadają o duchu króla Teodoryka Wielkiego. Podobno nocą pojawia się tam jeździec na czarnym koniu – w milczeniu patrolujący wzgórze. Czy to legenda, czy tylko gra światła i cienia – jedno jest pewne: to idealne miejsce na tajemniczy spacer przy zachodzie słońca.
-  </p>
-
-  <h3>🪙 Cudowna moneta św. Grzegorza – plac przy kościele San Michele al Pozzo Bianco</h3>
-  <p>
-    W czasach zarazy jeden z zakonników, św. Grzegorz, wrzucił do misy z jałmużną srebrną monetę, która każdego dnia się odnawiała. Miejsce, gdzie miał rzekomo przebywać, to okolice <strong>kościoła San Michele al Pozzo Bianco</strong> – znanego z wyjątkowych fresków i mistycznej atmosfery. Mówi się, że kto znajdzie tam monetę, będzie miał szczęście przez cały rok.
-  </p>
-
-  <h3>🦅 Orzeł z herbu miasta – Porta San Giacomo</h3>
-  <p>
-    Herb Bergamo przedstawia złotego orła – a jego legenda związana jest z bramą <strong>Porta San Giacomo</strong>. Według opowieści, właśnie nad tą bramą orzeł krążył przez trzy dni, zanim zniknął w chmurach. Znak uznano za boską ochronę nad miastem, a Porta San Giacomo do dziś zachowała wyjątkowy, niemal magiczny charakter – szczególnie po zmroku.
-  </p>
-  
-  <h3>🌕 Tajemnicze źródło pod Torre del Gombito</h3>
-  <p>
-    Tuż obok wieży <strong>Torre del Gombito</strong> w sercu Città Alta (górnego miasta) znajduje się niepozorne przejście prowadzące do starego źródła. Mówi się, że woda z niego miała kiedyś właściwości uzdrawiające – a kto pił z niego po północy, ten miał śnić prorocze sny. Dziś dostęp jest ograniczony, ale niektórzy nadal próbują dostać się tam... dla klimatu i nuty magii.
-  </p>
-
-  <p><em>Bergamo skrywa swoje sekrety w zaułkach, bramach i starych murach. Jeśli chcesz naprawdę poznać duszę miasta – daj się poprowadzić legendom i opowieściom. A może sam odkryjesz kolejną?</em></p>
+  <summary><strong>👻 Katakumby – miasto zmarłych pod miastem żywych</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8338° N, 2.3324° E</em></p>
+  <p>Setki kilometrów korytarzy pod Paryżem, miliony ludzkich kości i... legenda o duchach, które wyprowadzają z katakumb ludzi, by nigdy nie wrócili. Podobno kto zabłądzi po północy, już nie wychodzi. Brzmi jak marketing, ale czy na pewno? Katakumby można zwiedzać oficjalnie, ale tylko malutki kawałek. Reszta to raj dla urban explorerów i... królestwo legend.</p>
 </details>
+
+<details>
+  <summary><strong>🧛 Wampir z Paryża – Saint Innocents</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8627° N, 2.3469° E</em> (okolice Les Halles)</p>
+  <p>Cmentarz Świętych Niewinnych już nie istnieje (został przeniesiony do katakumb), ale według miejskiej legendy w XVIII wieku grasował tu wampir, który żywił się krwią zmarłych. Brzmi jak z horroru klasy B, ale w Paryżu wszystko jest możliwe. Dziś miejsce to to spokojny plac – chyba że dobrze się wsłuchasz...</p>
+</details>
+
+<details>
+  <summary><strong>🗡️ Czerwona Dama z Conciergerie</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8553° N, 2.3451° E</em></p>
+  <p>W dawnym więzieniu Conciergerie (gdzie ostatnie dni spędziła Maria Antonina), widziano ducha kobiety w czerwonej sukni. Podobno to duch hrabiny skazanej na śmierć przez pomyłkę. Jej obecność zwiastuje nieszczęście – jeśli ją zobaczysz, uciekaj szybciej niż kolejka do Luwru.</p>
+</details>
+
+<details>
+  <summary><strong>⚔️ Duch Templariusza z Temple</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8663° N, 2.3621° E</em></p>
+  <p>W dzielnicy Le Marais znajdowała się niegdyś forteca Templariuszy. Gdy ostatni wielki mistrz, Jacques de Molay, został spalony na stosie w 1314 roku, rzucił klątwę na króla i papieża – obaj zmarli w ciągu roku. Dziś na miejscu twierdzy stoi park i stacja metra, ale niektórzy przysięgają, że wciąż czuć tam chłód przeszłości.</p>
+</details>
+
+<details>
+  <summary><strong>🐈 Koty z Montmartre</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8867° N, 2.3431° E</em></p>
+  <p>Legenda głosi, że dusze artystów z Montmartre przybierają postać kotów, które po zmroku przechadzają się uliczkami dzielnicy. Jeśli jakiś kot będzie cię uporczywie obserwował w okolicach Sacré-Cœur – być może to nie jest zwykły kot, tylko Toulouse-Lautrec patrzy, czy nie pstrykasz zdjęcia bez duszy.</p>
+</details>
+
+<details>
+  <summary><strong>💔 Studnia Zakochanych na Wyspie św. Ludwika</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8515° N, 2.3575° E</em></p>
+  <p>Na Wyspie św. Ludwika znajduje się studnia, z którą związana jest smutna legenda. Młoda para wrzuciła tam pierścionek jako symbol wiecznej miłości. On zginął na wojnie, a ona wracała codziennie przez lata. Mówią, że czasem słychać szepty miłości przy studni – szczególnie po wypiciu butelki czerwonego wina.</p>
+</details>
+
+---
+
+Chcesz dorzucić do tego mapkę z zaznaczonymi legendarnymi punktami albo stworzyć podstronę „Paryż magiczny i nawiedzony”?
+
 
 ---
 
