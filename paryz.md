@@ -1122,7 +1122,7 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
 ---
 
-details>
+<details>
   <summary><strong>🕯️ Legendy Paryża – mroczna strona Miasta Świateł</strong></summary>
 
 <p>
