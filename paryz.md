@@ -167,108 +167,526 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 <details>
-  <summary><strong>🎨 Montmartre i bazylika Sacré-Cœur – artyści, schody i widoki</strong></summary>
+  <summary><strong>⛰️ Montmartre i bazylika Sacré-Cœur – artystyczna dusza Paryża</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8867° N, 2.3431° E</em></p>
-  <p>Montmartre to dawna dzielnica bohemy: Picasso, Toulouse-Lautrec, a dziś – uliczni malarze, pamiątki i kręcone uliczki z duszą. Na szczycie czeka śnieżnobiała bazylika Sacré-Cœur, wyglądająca trochę jak tort weselny, ale za to z najlepszym widokiem na Paryż.</p>
-  <p>Wstęp do bazyliki – darmowy, ale wejście na kopułę to 7 € i 300+ schodów. Uwaga na kieszonkowców i naciągaczy z bransoletkami!</p>
-  <p><strong>Pro tip:</strong> Najlepszy klimat złapiesz wcześnie rano lub późnym wieczorem, gdy turyści śpią lub czekają na metro.</p>
+
+  <p>Witamy na <strong>najbardziej romantycznym wzgórzu Paryża</strong>, gdzie bohema artystyczna spotyka pielgrzymów, a każdy zakręt wygląda jak kadr z francuskiego filmu. Montmartre to dzielnica, która z miłością przyjęła Picassa, Moneta, Toulouse-Lautreca i setki turystów dziennie, którzy chcą poczuć „ten klimat”.</p>
+
+  <h4>⛪ Sacré-Cœur – biały punkt na horyzoncie</h4>
+  <p>Na szczycie wzgórza Montmartre dumnie stoi <strong>Bazylika Najświętszego Serca</strong> – symbol pokoju, nadziei i... świetnego widoku. Zbudowana z białego kamienia, który nie żółknie (serio, to taka specjalna skała), błyszczy jak duchowa latarnia nad Paryżem.</p>
+
+  <ul>
+    <li><strong>Wejście:</strong> Darmowe, ale warto dorzucić coś do puszki – to chyba najładniejszy widok za darmo w całym mieście.</li>
+    <li><strong>Wieża:</strong> 7 € (i kilkaset schodów – bez windy!). Nagroda: <em>panorama 360°</em>.</li>
+    <li><strong>Uwaga:</strong> zdjęcia w środku zabronione – ale mentalna fotka zawsze w sercu.</li>
+  </ul>
+
+  <h4>🎨 Montmartre – królestwo artystów i kawiarni</h4>
+  <p>Po zejściu (lub wspięciu się) dookoła bazyliki warto pobłądzić po brukowanych uliczkach Montmartre. Znajdziesz tu:</p>
+  <ul>
+    <li>🎨 <strong>Plac du Tertre</strong> – pełen malarzy i portrecistów (i paru naciągaczy – bądź czujny!).</li>
+    <li>☕ <strong>Le Consulat</strong> – kultowa kawiarnia, do której <em>wszyscy</em> robią zdjęcie, ale tylko nieliczni tam siadają.</li>
+    <li>🎭 <strong>Place Émile-Goudeau i Bateau-Lavoir</strong> – dom narodzin kubizmu, a kiedyś miejsce zamieszkania Picassa.</li>
+    <li>💔 <strong>Mur „Je t’aime”</strong> – 311 razy „Kocham Cię” w 250 językach – obowiązkowe dla zakochanych (lub sceptycznych cyników).</li>
+    <li>🌿 <strong>Winnica Montmartre</strong> – tak, naprawdę mają tu własne winorośle. Wino? Symboliczne. Cena? Artystyczna.</li>
+  </ul>
+
+  <h4>🚶 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: najlepiej wysiąść na <strong>Anvers (linia 2)</strong> i przejść pieszo lub wjechać kolejką linową (funiculaire – w cenie biletu!).</li>
+    <li>🚶 Uwaga: dużo schodów, więc nie bierz wózka dziecięcego, walizki ani szpilek. Serio.</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Najlepsze zdjęcia bazyliki – z placu Louise-Michel (czyli z dołu), najlepiej o zachodzie słońca.</li>
+    <li>Unikaj „bransoleciarzy” przy schodach – próbują Ci coś założyć na rękę, a potem skasować jak za lot balonem.</li>
+    <li>Montmartre najlepiej zwiedzać wcześnie rano – zanim dotrą tłumy.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Montmartre to esencja paryskiej nostalgii. Gdziekolwiek spojrzysz – sztuka, kawiarenki, muzyka na żywo i to nieuchwytne „coś”. A na szczycie – bazylika, która przypomina, że nawet w hałaśliwym mieście można znaleźć odrobinę ciszy i zachwytu.</p>
 </details>
 
+
 <details>
-  <summary><strong>🌳 Ogród Luksemburski – klasyczna sielanka z krzesełkiem</strong></summary>
+  <summary><strong>🌳 Ogród Luksemburski – zielona duma lewego brzegu</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3372° E</em></p>
-  <p>Francuski styl ogrodu spotyka paryski relaks. Studenci, poeci, emeryci i zakochani – wszyscy spotykają się wśród fontann, rzeźb i perfekcyjnie przyciętych żywopłotów.</p>
-  <p>Weź kawę, usiądź na zielonym krześle (wolno!) i przez godzinę udawaj, że czytasz „Egzystencjalizm to humanizm”. Idealne miejsce na reset i karmienie kaczuszek.</p>
-  <p><strong>Tip:</strong> W weekendy często grają muzycy – i to tacy bez autotune'a. Sprawdź!</p>
+
+  <p>Jeśli Paryż czasem męczy Cię zgiełkiem, korkami i kolejką do Luwru, <strong>Ogród Luksemburski</strong> jest jak łagodna herbata ziołowa dla duszy. Znajdziesz tu wszystko: równo przycięte żywopłoty, fontanny, kaczki, dzieci bawiące się miniaturowymi żaglówkami, emerytów czytających gazetę i studentów filozofii zastanawiających się, czy życie ma sens.</p>
+
+  <p>Ogród powstał na zlecenie <strong>królowej Marii Medycejskiej</strong> w XVII wieku i do dziś wygląda jak połączenie włoskiego splendoru z francuską precyzją. Otacza go pałac (dziś siedziba Senatu), a cały teren liczy ponad 20 hektarów wypielęgnowanego szczęścia.</p>
+
+  <h4>🛝 Co zobaczyć i co robić?</h4>
+  <ul>
+    <li>🪑 Usiąść na kultowym zielonym krześle i kontemplować życie – lub ludzi.</li>
+    <li>⛵ Wynająć miniaturową łódeczkę dla dzieci (lub dorosłych z dziecięcą duszą) i puścić ją po stawie.</li>
+    <li>⛲ Fontanna Medyceuszy – romantyczna, tajemnicza i idealna na Insta.</li>
+    <li>🗿 Spacer wśród 100+ posągów i rzeźb (jest nawet Statua Wolności – mini wersja, ale nadal cool).</li>
+    <li>⚽ Boiska, korty, place zabaw – dla tych, co nie usiedzą na miejscu.</li>
+    <li>☕ Stoiska z kawą i lodami – bo przecież trzeba uzupełnić poziom cukru.</li>
+  </ul>
+
+  <h4>🕰️ Godziny i dostępność</h4>
+  <ul>
+    <li>Otwarte codziennie od <strong>wczesnego rana do zmierzchu</strong>.</li>
+    <li>Wstęp <strong>darmowy</strong> (czyli możesz chodzić codziennie i się nie znudzi!).</li>
+    <li>Dostępny również dla wózków i rowerków biegowych (przynajmniej do pewnych stref).</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Odéon (linia 4 i 10)</strong>, <strong>Luxembourg (RER B)</strong>.</li>
+    <li>🚶 Spacer: 10 minut piechotą z Panteonu lub Sorbony – bo edukacja i zieleń idą w parze.</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Najlepsze światło do zdjęć: <strong>ranek lub złota godzina</strong>.</li>
+    <li>Unikaj sobotnich popołudni – wtedy każdy paryżanin przypomina sobie, że kocha naturę.</li>
+    <li>Weź książkę, bagietkę i termos – i udawaj lokalnego intelektualistę.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Jardin du Luxembourg to miejsce, gdzie paryska elegancja spotyka chillout. Idealny na piknik, romantyczny spacer, drzemkę w cieniu lub mały reset między atrakcjami. Bez pośpiechu. W stylu francuskim.</p>
 </details>
 
+
 <details>
-  <summary><strong>🧱 Łuk Triumfalny – Napoleon miał rozmach</strong></summary>
+  <summary><strong>🧱 Łuk Triumfalny – wielka brama francuskiej dumy</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8738° N, 2.2950° E</em></p>
-  <p>Symbol zwycięstwa, megalomanii i najtrudniejszego ronda świata. Powstał z rozkazu Napoleona, żeby uczcić jego armie – i trochę siebie też. Ma 50 metrów wysokości i świetny taras widokowy, z którego Paryż wygląda jak geometryczna układanka.</p>
-  <p>Wstęp na górę: ok. 13 €. Wjazd windą lub (dla śmiałków) schodami. Pod spodem płonie Wieczny Płomień ku czci Nieznanego Żołnierza – idealny moment na chwilę zadumy między selfie.</p>
-  <p><strong>Tip:</strong> Nie próbuj przebiegać przez rondo. Serio. Użyj podziemnego przejścia!</p>
+
+  <p>Łuk Triumfalny to taki pomnik, który mówi: „Patrzcie, jesteśmy wielcy!” – i trudno się z tym nie zgodzić. Powstał z rozkazu <strong>Napoleona Bonapartego</strong>, który chciał uhonorować swoich żołnierzy walczących „za ojczyznę i cesarza” (czyli głównie za niego). Budowa trwała <strong>30 lat</strong> – Napoleon jej nawet nie doczekał, ale jego zwłoki paradowały pod łukiem pośmiertnie. Jak się bawić, to z rozmachem.</p>
+
+  <h4>🏛️ Monumentalna bryła i detale</h4>
+  <p>Łuk ma <strong>50 metrów wysokości</strong>, a na jego ścianach wyryto nazwiska bitew i generałów (nie szukaj swojego – chyba że jesteś Napoleonem). Pod łukiem znajduje się <strong>Grób Nieznanego Żołnierza</strong> z wiecznie płonącym ogniem – codziennie o 18:30 odbywa się tam ceremonia zapalenia ognia, co robi wrażenie nawet na zatwardziałych realistach.</p>
+
+  <h4>🪜 Widok z góry</h4>
+  <ul>
+    <li>Tak, na szczyt można wejść! <strong>284 schody</strong> (ale jest też winda – nie pytaj, czemu nie dla wszystkich).</li>
+    <li>Ze szczytu rozpościera się <strong>jedna z najlepszych panoram Paryża</strong> – prosto w kierunku Wieży Eiffla, Pól Elizejskich i La Défense.</li>
+    <li>Bonus: mniej tłumów niż pod wieżą, a zdjęcia wychodzą bardziej „filmowo”.</li>
+  </ul>
+
+  <h4>🎟️ Informacje praktyczne</h4>
+  <ul>
+    <li><strong>Wejście:</strong> 13 € (darmowe dla młodzieży z UE do 26 lat – viva Erasmus!).</li>
+    <li><strong>Godziny otwarcia:</strong> codziennie od 10:00 do 22:30 (ostatnie wejście 45 min wcześniej).</li>
+    <li><strong>Wskazówka:</strong> nie próbuj przechodzić przez ulicę! Skorzystaj z <strong>podziemnego przejścia</strong> przy Avenue de la Grande-Armée.</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Charles de Gaulle – Étoile</strong> (linie 1, 2, 6 + RER A).</li>
+    <li>🚶 Jeśli idziesz z Pól Elizejskich – przygotuj aparat, bo ta perspektywa to klasyka paryskiego zdjęcia.</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Najlepsze zdjęcia z dołu – ze środka ronda (przez tunel!), najlepiej wieczorem, gdy monument jest podświetlony.</li>
+    <li>Nie planuj wizyty w dniu maratonu, parady czy protestu – bo wtedy cały plac Étoile zamienia się w festiwal chaosu.</li>
+    <li>Przy wejściu kontrola bezpieczeństwa – nie bierz noża do bagietki ani butelki Bordeaux.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Łuk Triumfalny to monumentalny symbol francuskiej historii i dumy narodowej. Z jednej strony pomnik przeszłości, z drugiej – idealny punkt widokowy i fotograficzna perełka. Bo Paryż kocha spektakularne gesty. Nawet z granitu.</p>
 </details>
 
-<details>
-  <summary><strong>📚 Dzielnica Łacińska – studencki klimat z kawą w tle</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8494° N, 2.3458° E</em></p>
-  <p>Kiedyś centrum intelektualne Europy, dziś raj dla bohemy, studentów i łowców tanich crêpes. Spaceruj po wąskich uliczkach, zrób przerwę w kawiarni z duszą i wpadnij do legendarnej księgarni Shakespeare & Company.</p>
-  <p>Znajdziesz tu też Sorbonę, Ogród Luksemburski (jeśli jeszcze nie byłeś) i masę knajpek, gdzie za 12 € zjesz coś, co wygląda jak danie z Michelin – przynajmniej na Instagramie.</p>
-  <p><strong>Tip:</strong> Wieczorami bywa tłoczno, ale magicznie. I nie bój się zbłądzić – tutaj każda uliczka to mini-przygoda.</p>
-</details>
 
 <details>
-  <summary><strong>🎨 Musée d'Orsay – impresjonizm na sterydach</strong></summary>
+  <summary><strong>📚 Dzielnica Łacińska – intelekt, historia i crêpe z Nutellą</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8494° N, 2.3440° E</em></p>
+
+  <p>Jeśli marzysz o spacerze wśród paryskich intelektualistów, z kawą w jednej dłoni i książką w drugiej (albo z kebabem, jak większość studentów), to <strong>Quartier Latin</strong> jest Twoim miejscem. Ta kultowa dzielnica na lewym brzegu Sekwany od wieków jest centrum nauki, buntu, poezji i... dobrej zabawy.</p>
+
+  <p>Nazwa pochodzi nie od kuchni meksykańsko-hiszpańskiej, lecz od <strong>łaciny</strong> – języka, którym mówili tu profesorowie i studenci Uniwersytetu Sorbony od XIII wieku. Dziś nadal czuć tu ducha nauki, ale równie mocno – zapach naleśników z ulicznych budek.</p>
+
+  <h4>📍 Co warto zobaczyć?</h4>
+  <ul>
+    <li>🏛️ <strong>Sorbona</strong> – historyczny uniwersytet, gdzie myśleli mądrzejsi od nas.</li>
+    <li>📚 <strong>Shakespeare and Company</strong> – najbardziej instagramowa księgarnia świata.</li>
+    <li>⛪ <strong>Kościół Saint-Étienne-du-Mont</strong> – z grobem św. Genowefy, patronki Paryża.</li>
+    <li>🎭 <strong>Teatry, kina i bary jazzowe</strong> – idealne po całym dniu muzeów.</li>
+    <li>🍽️ <strong>Rue Mouffetard</strong> – kulinarna mekka z tanimi knajpkami i klimatem „Paryż bez turystów”.</li>
+  </ul>
+
+  <h4>🧭 Klimat i atmosfera</h4>
+  <p>Dzielnica Łacińska to mieszanka średniowiecznych uliczek, kolorowych fasad, studenckiego chaosu i akademickiego spokoju. Możesz tu zarówno zagłębić się w filozofię Sartre’a, jak i zjeść falafel za 5 euro. Wszystko pasuje. Nawet jeśli nie jesteś studentem, możesz poudawać, że jesteś – nikt nie sprawdza legitymacji.</p>
+
+  <h4>🕰️ Kiedy się wybrać?</h4>
+  <ul>
+    <li><strong>Dzień:</strong> Idealny na spacery, księgarnie i kawę przy Sorbonie.</li>
+    <li><strong>Wieczór:</strong> Knajpki, wino, muzyka na żywo i sporo życia nocnego (kulturalnego i mniej kulturalnego).</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Cluny – La Sorbonne (linia 10)</strong>, <strong>Saint-Michel (linia 4, RER B i C)</strong>.</li>
+    <li>🚶 Można dojść pieszo ze Świętego Michała, Panteonu czy Ogrodu Luksemburskiego.</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Warto mieć gotówkę – nie wszystkie budki z naleśnikami przyjmują kartę.</li>
+    <li>Zajrzyj w boczne uliczki – to tam kryją się najciekawsze kawiarnie i sklepiki z duszą.</li>
+    <li>Jeśli chcesz poczuć się jak Owen Wilson w „O północy w Paryżu” – to tu właśnie!</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Quartier Latin to serce starego Paryża – pełne książek, muzyki, zapachu kawy i ludzi, którzy wiedzą, że życie to coś więcej niż lista atrakcji. To miejsce, gdzie warto się zgubić i... niczego nie żałować.</p>
+</details>
+
+
+<details>
+  <summary><strong>⏱️ Musée d'Orsay – dworzec, który został świątynią impresjonizmu</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8599° N, 2.3266° E</em></p>
-  <p>Jeśli Luwr to szef wszystkich szefów, d'Orsay to jego bardziej zrelaksowany brat artysta. Mieści się w starej stacji kolejowej i wygląda jak filmowy plan. W środku: Van Gogh, Monet, Renoir, Degas, Gauguin… aż kręci się w głowie.</p>
-  <p>Wstęp: 16 € (online), pierwsza niedziela miesiąca – za darmo! A widok z wielkiego zegara na Montmartre? Bezcenny.</p>
-  <p><strong>Pro tip:</strong> Idealne muzeum, jeśli masz dość tłumów Luwru, ale nadal chcesz pokazać, że masz gust.</p>
+
+  <p>Musée d'Orsay to prawdopodobnie jedyne muzeum na świecie, w którym możesz zachwycać się obrazami Moneta, stojąc pod gigantycznym zegarem... w byłym <strong>dworcu kolejowym</strong>. Brzmi dziwnie? Witamy w Paryżu, gdzie nawet pociągi przeszły na sztukę.</p>
+
+  <h4>🎨 Co tu znajdziesz?</h4>
+  <p>To <strong>mekka impresjonizmu</strong> i sztuki XIX wieku. Jeśli nazwiska takie jak <em>Monet, Degas, Renoir, Van Gogh, Cézanne, Toulouse-Lautrec</em> powodują u Ciebie szybsze bicie serca – lepiej weź defibrylator.</p>
+  <ul>
+    <li>Obrazy pełne światła, mgły i tańczących baletnic.</li>
+    <li>Rzeźby, które wyglądają, jakby miały zaraz zejść z postumentu i poprosić o espresso.</li>
+    <li>Wnętrze budynku – olśniewające, pełne detali, światła i magicznego klimatu retro.</li>
+  </ul>
+
+  <h4>🕰️ Od dworca do muzeum</h4>
+  <p>Musée d'Orsay mieści się w budynku dawnego dworca <strong>Gare d'Orsay</strong>, wybudowanego na Wystawę Światową w 1900 roku. Gdy pociągi przestały się mieścić (dosłownie), budynek przez lata niszczał, aż w latach 80. zamienił się w jedną z najpiękniejszych galerii świata. Dobre drugie życie, co?</p>
+
+  <h4>🎟️ Informacje praktyczne</h4>
+  <ul>
+    <li><strong>Wstęp:</strong> 16 € (darmowy dla mieszkańców UE poniżej 26 lat – czyli kolejny plus bycia młodym i europejskim).</li>
+    <li><strong>Godziny otwarcia:</strong> od wtorku do niedzieli, 9:30–18:00 (w czwartek do 21:45).</li>
+    <li><strong>Zamknięte w poniedziałki</strong> – nie próbuj wcisnąć się siłą, to muzeum, nie metro.</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Solférino (linia 12)</strong>.</li>
+    <li>🚆 RER C – przystanek: <strong>Musée d'Orsay</strong> (jakbyś jeszcze miał wątpliwości).</li>
+    <li>🚶 10 minut spacerem z Luwru przez Sekwanę – mostem Léopolda Sédara Senghora (polecam, widok bajka!).</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Najlepsze selfie? Pod zegarem na górnym piętrze – romantycznie i lekko surrealistycznie.</li>
+    <li>Nie próbuj „zaliczyć” muzeum w 30 minut – to nie sklep spożywczy. Daj sobie czas (albo wróć kolejnego dnia).</li>
+    <li>Kawiarnia na piętrze jest trochę droga, ale ma taki klimat, że poczujesz się jak francuski poeta na emeryturze.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Musée d'Orsay to złoty środek między Luwrem a Centre Pompidou – mniej tłumów, więcej kolorów i sztuka, która chwyta za serce (albo przynajmniej za Instagrama). Idealne miejsce na pierwszy raz z impresjonizmem lub ucieczkę od paryskiego zgiełku. Zdecydowanie warto!</p>
 </details>
 
+
 <details>
-  <summary><strong>🪦 Cmentarz Père-Lachaise – śmierć nigdy nie była tak stylowa</strong></summary>
+  <summary><strong>⚰️ Cmentarz Père-Lachaise – spacer wśród sław... po tamtej stronie</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8614° N, 2.3933° E</em></p>
-  <p>Tak, to cmentarz. Ale nie byle jaki. Tu spoczywają m.in. Chopin, Jim Morrison, Édith Piaf, Oscar Wilde (jego grób to całe widowisko). Nagrobki jak z filmów Tima Burtona, cicha zaduma i zaskakująco romantyczny klimat.</p>
-  <p>Wstęp: darmowy. Mapa – obowiązkowa (albo dobra bateria i Google Maps). Idealne miejsce na spacer z refleksją i gotycką nutą.</p>
-  <p><strong>Tip:</strong> Nie całuj grobu Wilde’a – naprawdę. Postaw kwiatka albo zrób mema. XXI wiek.</p>
+
+  <p>Nie brzmi to może jak klasyczny punkt wycieczki, ale w Paryżu nawet cmentarz to atrakcja. <strong>Père-Lachaise</strong> to nie tylko miejsce wiecznego spoczynku, ale też gigantyczne muzeum pod gołym niebem – tylko z mniejszą liczbą selfie i większą zadumą.</p>
+
+  <p>Założony w 1804 roku, dziś jest największym paryskim cmentarzem (ponad 40 hektarów!) i najbardziej znanym na świecie. Miejsce wiecznego spoczynku dla artystów, pisarzy, muzyków, polityków i... wielu turystów, którzy po prostu źle skręcili z metra.</p>
+
+  <h4>🌟 Kogo tu znajdziesz?</h4>
+  <ul>
+    <li>🎤 <strong>Jim Morrison</strong> – grób lidera The Doors jest celem pielgrzymek fanów rocka i graffiti.</li>
+    <li>✍️ <strong>Oscar Wilde</strong> – jego nowoczesny pomnik z aniołem i... śladami szminek od wielbicieli.</li>
+    <li>🎼 <strong>Frédéric Chopin</strong> – tak, nasz rodak! Grób otoczony kwiatami i patriotyczną dumą.</li>
+    <li>🎭 <strong>Molière, Balzac, Proust, Edith Piaf</strong> – cała śmietanka francuskiej kultury.</li>
+    <li>👨‍🚀 <strong>Marcel Marceau</strong> – na grobie mima jest cicho, jak przystało na mistrza ciszy.</li>
+  </ul>
+
+  <h4>🕰️ Co warto wiedzieć?</h4>
+  <ul>
+    <li>To nie jest zwykły cmentarz – to <strong>miasto w mieście</strong>, z alejkami, dzielnicami i własną mapą.</li>
+    <li>Wstęp jest darmowy, ale warto pobrać plan lub aplikację, bo można się tu nieźle... zadumać nad mapą.</li>
+    <li>Wiele grobów to prawdziwe dzieła sztuki – rzeźby, mauzolea, anioły, egipskie piramidki i nowoczesne nagrobki.</li>
+  </ul>
+
+  <h4>📅 Godziny otwarcia</h4>
+  <ul>
+    <li>🔓 Otwarte codziennie, zazwyczaj od <strong>8:00 do 18:00</strong> (w weekendy od 9:00).</li>
+    <li>Zimą krócej, ale i tak warto – melancholia + liście = klimat jak z filmu francuskiego.</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Père Lachaise (linie 2 i 3)</strong> lub <strong>Philippe Auguste (linia 2)</strong>.</li>
+    <li>🚶 Wejście główne znajduje się przy bulwarze Ménilmontant – i tu zaczynają się emocje.</li>
+  </ul>
+
+  <h4>📸 Tipy praktyczne</h4>
+  <ul>
+    <li>Załóż wygodne buty – cmentarz jest duży i miejscami stromo. Niektóre alejki to bruk z czasów Napoleona.</li>
+    <li>Uszanuj ciszę i spokój – to wciąż miejsce pochówku, choć bardzo... towarzyskie.</li>
+    <li>Weź aparat – zdjęcia wychodzą niesamowicie klimatyczne, szczególnie przy zachodzącym słońcu.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Père-Lachaise to niezwykłe połączenie sztuki, historii i refleksji – spacer, który niekoniecznie wprowadzi w depresję, ale na pewno skłoni do zadumy (i zachwytu). Jeśli lubisz atmosferę gotycką, literaturę, muzykę lub po prostu ciszę – nie pomiń tego miejsca.</p>
+</details>
+
+
+<details>
+  <summary><strong>🚤 Kanał Saint-Martin – paryski chill z wodą w tle</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8722° N, 2.3654° E</em></p>
+
+  <p>Jeśli masz już dość muzeów, tłumów przy Wieży Eiffla i zastanawiasz się, gdzie w Paryżu oddychać spokojnie i popatrzeć, jak życie płynie... dosłownie, to <strong>Kanał Saint-Martin</strong> jest właśnie dla Ciebie.</p>
+
+  <p>Zbudowany w XIX wieku z myślą o zaopatrzeniu Paryża w wodę pitną, dziś jest to miejsce absolutnie urocze i <strong>zaskakująco hipsterskie</strong>. Nad kanałem przesiadują lokalsi, grający w bule, pijący kawę z termosu i patrzący z politowaniem na turystów z selfie-stickami. Ale spokojnie, nikt tu nikogo nie ocenia.</p>
+
+  <h4>🌿 Co tu robić?</h4>
+  <ul>
+    <li>🌉 Spacerować wzdłuż kanału, podziwiając romantyczne, żeliwne mostki i stare śluzy.</li>
+    <li>☕ Wpaść na kawę lub bagietkę do jednej z klimatycznych kawiarni lub piekarni przy Quai de Jemmapes.</li>
+    <li>⛴️ Obejrzeć, jak statki przechodzą przez śluzy – powoli, majestatycznie, jakby miały na wszystko czas.</li>
+    <li>📸 Zrobić zdjęcie jak z filmu „Amelia” – tak, część scen kręcono właśnie tutaj!</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Jacques Bonsergent (linia 5)</strong>, <strong>République (linie 3, 5, 8, 9, 11)</strong> lub <strong>Goncourt (linia 11)</strong>.</li>
+    <li>🚶 Spacer z placu République wzdłuż kanału to czysta przyjemność.</li>
+  </ul>
+
+  <h4>🎒 Porady praktyczne</h4>
+  <ul>
+    <li>Najlepiej przyjść rano lub późnym popołudniem – światło robi wtedy robotę.</li>
+    <li>Nie bój się zjeść tu śniadania „na murku” – jak paryżanin.</li>
+    <li>Uwaga: w weekendy może być tłoczno, ale atmosfera zawsze chillowa.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Kanał Saint-Martin to nie kolejny obowiązkowy punkt z przewodnika, tylko miejsce, gdzie można naprawdę poczuć <em>lokalny Paryż</em>. Trochę bohemy, trochę relaksu, dużo uroku. A przy okazji – świetne tło do zdjęć.</p>
+</details>
+
+
+<details>
+  <summary><strong>🏛️ Panteon – miejsce, gdzie Francja chowa swoich ulubieńców</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3450° E</em></p>
+
+  <p><strong>Panteon</strong> to takie miejsce, które wygląda jak rzymska świątynia, brzmi jak grecki dramat, a w rzeczywistości jest francuskie do szpiku kości. Położony w samym sercu <strong>Dzielnicy Łacińskiej</strong>, na wzgórzu Sainte-Geneviève, wznosi się dumnie nad Paryżem i daje znać, że tu spoczywają najwięksi z wielkich. I to dosłownie.</p>
+
+  <p>Powstał w XVIII wieku jako kościół ku czci św. Genowefy (patronki miasta), ale Rewolucja Francuska stwierdziła: "Zostawmy kolumny, ale zróbmy z tego mauzoleum". I tak oto mamy miejsce pochówku takich gigantów jak Voltaire, Rousseau, Victor Hugo, Zola, Curie (Marie, nie Pierre – chociaż on też tu leży).</p>
+
+  <h4>🕵️‍♀️ Co zobaczyć w środku?</h4>
+  <ul>
+    <li>🔬 <strong>Wahadło Foucaulta</strong> – dowód na to, że Ziemia się kręci, ale nie po francusku.</li>
+    <li>⚰️ <strong>Krypta</strong> – miejsce wiecznego spoczynku ludzi, którzy mieli coś do powiedzenia... i zapisali to w historii.</li>
+    <li>🎨 <strong>Freski i malowidła</strong> – opowiadają historię Francji i świętej Genowefy, z rozmachem godnym Luwru.</li>
+    <li>👀 <strong>Punkt widokowy</strong> (w sezonie) – jeden z najbardziej niedocenianych widoków na Paryż. Bez tłumów!</li>
+  </ul>
+
+  <h4>🕰️ Godziny otwarcia i bilety</h4>
+  <ul>
+    <li>⏰ Otwarte codziennie od <strong>10:00 do 18:00</strong>, ostatnie wejście 45 min przed zamknięciem.</li>
+    <li>🎟️ Bilet: ok. 13 €, młodzież z UE do 26 lat – <strong>za darmo</strong> (merci, République).</li>
+    <li>🎫 Punkt widokowy (góra kopuły) – dodatkowa opłata i tylko od kwietnia do października.</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Cardinal Lemoine (linia 10)</strong> lub <strong>Luxembourg (RER B)</strong>.</li>
+    <li>🚶 Z Ogrodu Luksemburskiego można dojść spacerem w 5–10 minut – idealna trasa przez Dzielnicę Łacińską.</li>
+  </ul>
+
+  <h4>🧭 Pro tipy</h4>
+  <ul>
+    <li>Nie zapomnij zajrzeć do krypty – trochę jak podziemia Luwru, tylko z większą ciszą i większą powagą.</li>
+    <li>Jeśli masz lęk wysokości, punkt widokowy może nie być dla Ciebie... ale widok wynagradza wszystko.</li>
+    <li>Panteon łączy sztukę, historię i naukę – jak Netflix, tylko bez Wi-Fi.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Panteon to monumentalna dawka historii i patriotyzmu. Warto tu zajrzeć, żeby zrozumieć, co dla Francuzów znaczy słowo „wielkość” – i dlaczego nie boją się chować pisarzy obok naukowców i polityków. Plus: jest naprawdę piękny.</p>
 </details>
 
 <details>
-  <summary><strong>🚤 Kanał Saint-Martin – hipsteriada nad wodą</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8710° N, 2.3645° E</em></p>
-  <p>Jeśli chcesz zobaczyć Paryż poza pocztówką – oto on. Miejscowi piknikują tu nad wodą, popijają wino (w kartonie, ale z klasą) i grają na gitarze. Mostki, śluzy, graffiti i zero wieży Eiffla – czyli to, czego nie pokazuje się turystom z autokaru.</p>
-  <p>Latem panuje tu vibe berlińskiej dzielnicy Kreuzberg, zimą: trochę mniej ludzi, ale klimat nadal boho.</p>
-  <p><strong>Tip:</strong> Świetne miejsce na tanie śniadanie „na trawie” lub wieczorny chill bez zadęcia.</p>
+  <summary><strong>🏝️ Wyspa św. Ludwika – paryski luksus z nutą nostalgii</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8514° N, 2.3560° E</em></p>
+
+  <p>Mała, elegancka, nieco tajemnicza – oto <strong>Île Saint-Louis</strong>, czyli młodsza, bardziej introwertyczna siostra wyspy, na której stoi Notre-Dame. Tutaj nie ma tłumów turystów ani selfie z kijem. Są za to: XVIII-wieczne kamienice, małe galerie sztuki, klimatyczne kawiarenki i aura absolutnego spokoju.</p>
+
+  <p>To właśnie na tej wyspie znajdziesz <strong>prawdziwy paryski styl życia</strong> – bez zadęcia, ale z dużą ilością klasy i lodów o smaku lawendy (nie żartuję). Kiedy Paryż Cię przytłoczy – to miejsce jest jak kojący kubek herbaty… albo kieliszek dobrego wina.</p>
+
+  <h4>🧭 Co zobaczyć, co robić?</h4>
+  <ul>
+    <li>🍦 Spróbuj słynnych lodów <strong>Berthillon</strong> – działają tu od lat 50. i są powodem, dla którego ludzie robią pielgrzymki na tę wyspę (serio).</li>
+    <li>🏛️ Spójrz na fasady kamienic – to jedne z najlepiej zachowanych zabytków mieszkalnych Paryża. Rzut oka na XVIII wiek, bez wehikułu czasu.</li>
+    <li>🖼️ Zajrzyj do małych galerii sztuki – często prowadzone przez samych artystów, których można złapać w trakcie malowania lub kłótni o ceny.</li>
+    <li>☕ Siądź w jednej z kawiarni z widokiem na Sekwanę – zwłaszcza o zachodzie słońca. I nic więcej nie rób. Serio.</li>
+  </ul>
+
+  <h4>🗺️ Jak się dostać?</h4>
+  <ul>
+    <li>🚶 Najlepiej pieszo z katedry Notre-Dame – wyspa jest połączona mostem <strong>Pont Saint-Louis</strong>.</li>
+    <li>🚇 Metro: <strong>Saint-Paul (linia 1)</strong> lub <strong>Cité (linia 4)</strong>.</li>
+  </ul>
+
+  <h4>🎒 Porady praktyczne</h4>
+  <ul>
+    <li>Wyspa jest mała – spacer wzdłuż całego brzegu zajmie Ci mniej niż 30 minut. Ale warto zatrzymać się i chłonąć klimat.</li>
+    <li>Nie jedz lodów przy samym Berthillonie – są kolejki. Wybierz jedną z kawiarni obok, które też je serwują.</li>
+    <li>Nie pytaj o klub nocny – to miejsce idealne dla zakochanych, spacerowiczów i introwertyków. DJ tu nie pasuje.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Île Saint-Louis to Paryż w wersji cichej i poetyckiej. Zero hałasu, maksimum klimatu. Jeśli masz ochotę na <em>slow travel</em> z nutką lodowej ekstazy – jesteś w idealnym miejscu.</p>
 </details>
 
-<details>
-  <summary><strong🏛️> Panteon – świątynia francuskiej dumy</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3459° E</em></p>
-  <p>Wygląda jak rzymski oryginał, ale to paryski odpowiednik miejsca, gdzie chowa się słynnych Francuzów. Leżą tu m.in. Voltaire, Rousseau, Victor Hugo, Marie Curie, a nawet Alexandre Dumas – same literacko-naukowe tuzy.</p>
-  <p>W środku zobaczysz monumentalne malowidła, kryptę i… ogromne wahadło Foucaulta, które udowadnia, że Ziemia się kręci. (Zawsze warto to potwierdzić, zwłaszcza po winie).</p>
-  <p><strong>Wstęp:</strong> 13 € (albo darmowy pierwszy niedzielny w miesiącu, jak zawsze).</p>
-</details>
 
 <details>
-  <summary><strong>🏝️ Wyspa św. Ludwika – romantyzm na kamieniu</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8513° N, 2.3572° E</em></p>
-  <p>Mniejsza siostra Wyspy Cité, ale za to bardziej kameralna i z klasą. Idealna na spacer bez tłumów i lodowe szaleństwo w kultowej lodziarni Berthillon (serio, te sorbety mają własnych fanów).</p>
-  <p>Stare kamienice, brukowane uliczki, małe galerie i wrażenie, że nagle jesteś w innym stuleciu. Zero Wieży Eiffla, ale za to 100% klimatu.</p>
-  <p><strong>Tip:</strong> Weź kawę na wynos i znajdź miejsce z widokiem na Sekwanę. Zazdrość przechodniów gwarantowana.</p>
+  <summary><strong>⚔️ Pałac Inwalidów – Napoleon ma tu swoją „małą” miejscówkę</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8569° N, 2.3125° E</em></p>
+
+  <p>Jeśli myślisz, że „pałac inwalidów” to dom opieki z historią – to nie do końca. <strong>Les Invalides</strong> to gigantyczny kompleks z XVII wieku, który Ludwik XIV stworzył dla swoich weteranów wojennych, by nie musieli spać pod mostem po powrocie z frontu. Bo jak wiadomo, „Król Słońce” lubił robić rzeczy z rozmachem.</p>
+
+  <p>Dziś to jedno z najciekawszych miejsc w Paryżu, łączące funkcję muzeum, mauzoleum i architektonicznego cacka z kopułą jak z Watykanu (serio – inspirowana Św. Piotrem). A w środku? <strong>Grób Napoleona</strong>. Tak, tego Napoleona. I tak, jest większy niż Twoje mieszkanie.</p>
+
+  <h4>🔍 Co warto zobaczyć?</h4>
+  <ul>
+    <li>⚰️ <strong>Grobowiec Napoleona</strong> – sarkofag wielki jak ego Cesarza. Otoczony marmurem, złotem i cytatami, które brzmią jak CV.</li>
+    <li>🏛️ <strong>Kościół św. Ludwika</strong> – oryginalna część kompleksu, z flagami wojennymi i monumentalnym wnętrzem.</li>
+    <li>🪖 <strong>Muzeum Armii (Musée de l’Armée)</strong> – zbroje, miecze, hełmy, armaty i dużo więcej militariów. Raj dla fanów historii (i gier strategicznych).</li>
+    <li>📜 <strong>Eksponaty z I i II wojny światowej</strong> – interaktywne wystawy i sporo autentycznych pamiątek.</li>
+    <li>🌿 <strong>Dziedziniec honorowy</strong> – idealne miejsce na fotkę z armatą (albo dwoma).</li>
+  </ul>
+
+  <h4>🕰️ Godziny i bilety</h4>
+  <ul>
+    <li>⏰ Otwarte codziennie od <strong>10:00 do 18:00</strong> (latem dłużej).</li>
+    <li>🎟️ Bilet normalny: ok. 15 € – obejmuje muzeum, kryptę, grobowiec i dziedziniec.</li>
+    <li>👶 Młodzież do 26 r.ż. z UE – za darmo (vive la France!).</li>
+  </ul>
+
+  <h4>🚇 Jak dojechać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Invalides (linia 8 i 13)</strong>, <strong>La Tour-Maubourg</strong> lub <strong>Varenne</strong>.</li>
+    <li>🚶 Dojście od Mostu Aleksandra III – romantyczny spacer z widokiem jak z pocztówki.</li>
+  </ul>
+
+  <h4>💡 Porady praktyczne</h4>
+  <ul>
+    <li>Jeśli lubisz historię wojenną – zarezerwuj minimum 2–3 godziny. To nie jest „szybka wystawa” z plakatami.</li>
+    <li>Kopuła z grobem Napoleona to hit – robi wrażenie nawet na tych, którzy przesypiali lekcje historii.</li>
+    <li>Na miejscu są toalety, automat z kawą i klimatyzacja – luksus, gdy z zewnątrz bije lipcowy upał lub styczniowy chłód.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Pałac Inwalidów to więcej niż grób Napoleona – to cała opowieść o francuskich wojnach, honorze i gustach w wystroju wnętrz. A jeśli szukasz miejsca, które łączy historię, architekturę i nutkę patosu – jesteś we właściwym miejscu.</p>
 </details>
 
-<details>
-  <summary><strong>⚔️ Pałac Inwalidów – marmur, wojna i Napoleon</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8566° N, 2.3126° E</em></p>
-  <p>Kiedyś szpital dla weteranów, dziś skarbnica militariów i mauzoleum Napoleona. Jego sarkofag to wielki czerwony monument, który mówi: "Zobaczcie, jak bardzo mnie trzeba było uczcić".</p>
-  <p>Muzeum Wojska ma wszystko – od średniowiecznych mieczy po rakiety (takie, co kiedyś leciały, nie odpalane w Fortnite). Dla fanów historii – raj.</p>
-  <p><strong>Wstęp:</strong> ok. 15 €. Ulgowy dla fanów Imperium.</p>
-</details>
 
 <details>
-  <summary><strong>🌀 Centre Pompidou – sztuka nowoczesna i rury na wierzchu</strong></summary>
+  <summary><strong>🎨 Centre Pompidou – rury, kolory i sztuka nowoczesna</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8606° N, 2.3522° E</em></p>
-  <p>Wygląda jak fabryka – i to specjalnie. Rury, windy, instalacje – wszystko na zewnątrz. W środku? Jedna z najlepszych kolekcji sztuki nowoczesnej w Europie: Kandinsky, Duchamp, Picasso, i wielu "niezrozumiałych, ale ważnych".</p>
-  <p>Na dachu: panoramka na Paryż. W środku: czasem zachwyt, czasem konsternacja, ale zawsze temat do rozmowy.</p>
-  <p><strong>Wstęp:</strong> 15 €, ale widok z tarasu jest często wart więcej niż same instalacje (no offense, artyści).</p>
+
+  <p>Wyobraź sobie muzeum, które wygląda jakby było zbudowane... na opak. Wszystkie rury, przewody i konstrukcje – na zewnątrz. A w środku? Sztuka współczesna, która potrafi zaskoczyć, zachwycić albo wywołać zdziwione „serio?”. Tak właśnie działa <strong>Centre Pompidou</strong>, czyli mekka nowoczesności w sercu Paryża.</p>
+
+  <p>Projekt Jeana Nouvela i Renzo Piano z lat 70. to coś, co nadal dzieli opinię publiczną: „arcydzieło czy plac budowy?”. Ale niezależnie od gustów – nikt nie przechodzi obok obojętnie. A jeśli sztuka współczesna to dla Ciebie nie tylko „biała plama na płótnie” – koniecznie wejdź do środka.</p>
+
+  <h4>🖼️ Co zobaczyć?</h4>
+  <ul>
+    <li>🖌️ <strong>Muzeum Sztuki Nowoczesnej</strong> – od Picassa, przez Duchampa, po wystawy czasowe, które potrafią zaskoczyć (np. instalacja z bananem i taśmą – nie żartuję).</li>
+    <li>📚 <strong>Ogromna biblioteka publiczna</strong> – dla tych, którzy chcą zanurzyć się w książkach, a nie tylko w obrazach.</li>
+    <li>🌀 <strong>Zewnętrzne ruchome schody w tubach</strong> – futurystyczna przejażdżka na dach z widokiem na Paryż. Instagram alert!</li>
+    <li>🎭 <strong>Teatr, kino i sale performatywne</strong> – często są tu wydarzenia, pokazy i spotkania z artystami.</li>
+  </ul>
+
+  <h4>🕰️ Godziny i bilety</h4>
+  <ul>
+    <li>⏰ Otwarte codziennie (oprócz wtorku) od <strong>11:00 do 21:00</strong>.</li>
+    <li>🎟️ Bilet normalny: ok. <strong>15 €</strong> – obejmuje wszystkie wystawy.</li>
+    <li>👶 Młodzież do 26 r.ż. z UE – wchodzi za darmo.</li>
+  </ul>
+
+  <h4>🚇 Jak dojechać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Rambuteau (linia 11)</strong>, <strong>Hôtel de Ville (linia 1 i 11)</strong>, <strong>Châtelet (kilka linii RER i metra)</strong>.</li>
+    <li>🚶 Spacer z Les Halles albo Marais – bardzo przyjemny i artystyczny.</li>
+  </ul>
+
+  <h4>💡 Porady praktyczne</h4>
+  <ul>
+    <li>Wejdź tylko na dach, jeśli nie masz czasu na całość – widok z góry to nagroda sama w sobie.</li>
+    <li>Nie bój się zapytać o znaczenie dzieł – przewodnicy i aplikacje mobilne mogą pomóc ogarnąć, czy ta plama to chaos czy geniusz.</li>
+    <li>Obok centrum jest plac z artystami ulicznymi, bąbelkami mydlanymi, muzyką i popcornem – dobre miejsce na odpoczynek i obserwowanie ludzi.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Centre Pompidou to Paryż wywrócony na lewą stronę – dosłownie i w przenośni. Jeśli masz dość klasyki i chcesz sprawdzić, czy sztuka współczesna naprawdę „nie gryzie” – to miejsce Cię zaskoczy, rozśmieszy, a może nawet poruszy.</p>
 </details>
 
-<details>
-  <summary><strong>💃 Moulin Rouge – kabaret, pióra i czerwony wiatrak</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8841° N, 2.3325° E</em></p>
-  <p>Ikona Montmartre’u i całej paryskiej nocy. Tu narodził się kankan i tu co wieczór występują panie (i panowie) w piórach, cekinach i zerowym poziomie wstydu. Bilety kosztują tyle, co weekend w hostelu – ale show to czysta rozrywka z nutą retro luksusu.</p>
-  <p>Nie musisz wchodzić – sam czerwony wiatrak to świetna fototapeta z epoki absurdu i kabaretu.</p>
-  <p><strong>Tip:</strong> W okolicy trochę „dorosłych” lokali – nie zgub się, jeśli szukasz crêpes, a trafisz na peep-show.</p>
-</details>
 
 <details>
-  <summary><strong>🌳 Pola Elizejskie – najdroższy spacer świata</strong></summary>
-  <p><strong>Współrzędne:</strong> <em>48.8688° N, 2.3075° E</em></p>
-  <p>Od Łuku Triumfalnego po Plac Zgody – 2 km elegancji, sklepów, luksusu i turystów z selfie-stickami. Możesz tu kupić garnitur za 5000 € albo frytki za 12 €. Twoja decyzja.</p>
-  <p>Najlepiej odwiedzić wieczorem, kiedy wszystko świeci jak choinka na sterydach. Mimo komercji – coś w tym deptaku jest magicznego.</p>
-  <p><strong>Tip:</strong> Nie wchodź do McDonald's. Tak, nawet jeśli ma pozłacane logo.</p>
+  <summary><strong>💃 Moulin Rouge – czerwona legenda kabaretu</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8841° N, 2.3324° E</em></p>
+
+  <p>Znajdziesz go bez problemu – ten czerwony wiatrak świeci jak latarnia dla wszystkich spragnionych paryskiego blichtru. <strong>Moulin Rouge</strong> to nie tylko kabaret, to ikona nocnego życia, pocztówkowa klasyka i miejsce, gdzie nogi wirują szybciej niż metro w godzinach szczytu.</p>
+
+  <p>Od 1889 roku występują tu tancerki w piórach, cekinach i uśmiechach większych niż Wieża Eiffla. To tutaj narodził się słynny francuski kankan (tak, ten z wysokim kopniakiem). Klimat? Pół burleska, pół Broadway, 100% Paryż.</p>
+
+  <h4>🌟 Co Cię czeka?</h4>
+  <ul>
+    <li>💄 <strong>Show „Féerie”</strong> – akrobatyka, kostiumy z tonami piór, taniec i scena większa niż ego Napoleona.</li>
+    <li>🥂 Opcja z kolacją – szampan, foie gras i crème brûlée z widokiem na nogi wirujące w rytm muzyki.</li>
+    <li>📸 Idealne miejsce na nocne zdjęcie z zewnątrz – neon, czerwony wiatrak i tłum podekscytowanych turystów w tle.</li>
+  </ul>
+
+  <h4>🎟️ Bilety</h4>
+  <ul>
+    <li>🪑 Sam spektakl: od <strong>95–120 €</strong>.</li>
+    <li>🍽️ Kolacja + show: od <strong>180 € w górę</strong>, w zależności od menu.</li>
+    <li>📅 Rezerwacja z wyprzedzeniem obowiązkowa – lepiej nie czekać na last minute.</li>
+  </ul>
+
+  <h4>🚇 Jak dojechać?</h4>
+  <ul>
+    <li>🚇 Metro: <strong>Blanche (linia 2)</strong> – wyjdziesz wprost na czerwoną fasadę kabaretu.</li>
+    <li>🚶 Idealny punkt startowy lub końcowy spaceru po <strong>Montmartre</strong>.</li>
+  </ul>
+
+  <h4>💡 Porady praktyczne</h4>
+  <ul>
+    <li>Dress code? Nie musisz przychodzić w smokingu, ale dres i trampki mogą nie przejść – postaw na „smart casual”.</li>
+    <li>Przed spektaklem warto zjeść coś taniej w okolicy – kolacja w Moulin to doświadczenie, ale też wydatek.</li>
+    <li>W środku zdjęcia zakazane – lepiej chłonąć show niż łapać kadry.</li>
+    <li>Nie myl z tanim show erotycznym – Moulin to elegancki kabaret, a nie klub dla panów na wieczorze kawalerskim.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Moulin Rouge to teatralna mieszanka nostalgii, ekstrawagancji i francuskiego show-biznesu. Niezależnie, czy wchodzisz do środka, czy tylko robisz zdjęcie z zewnątrz – warto tu zajrzeć, bo to miejsce żyje swoją własną legendą.</p>
 </details>
+
+
+<details>
+  <summary><strong>🌳 Pola Elizejskie – od Łuku do luksusu</strong></summary>
+  <p><strong>Współrzędne:</strong> <em>48.8698° N, 2.3078° E</em></p>
+
+  <p>Najbardziej znana aleja w Paryżu i – jak twierdzą Francuzi – „najpiękniejsza ulica świata”. I choć z tym „najpiękniejsza” można dyskutować (szczególnie stojąc w tłumie obok McDonalda i sklepu z butami za 800€), to klimat i legenda są niezaprzeczalne.</p>
+
+  <p><strong>Pola Elizejskie</strong> (Champs-Élysées) rozciągają się na ponad 1,9 km od <strong>Łuku Triumfalnego</strong> aż do <strong>placu Zgody (Place de la Concorde)</strong>, przecinając serce luksusowego i reprezentacyjnego Paryża. Spacer nimi to jak przeskok między światami: od galerii handlowych po gmachy rządowe i ogrody w stylu pałacowym.</p>
+
+  <h4>🌟 Co zobaczysz po drodze?</h4>
+  <ul>
+    <li>🛍️ Sklepy, sklepy i... więcej sklepów: Louis Vuitton, Zara, Sephora, a między nimi kilku turystów z rozwianymi parasolami i walizkami z Primarka.</li>
+    <li>🍟 Fast foody i restauracje z „widokiem na portfel” – kebab za 12€, cola za 7€? Bienvenue!</li>
+    <li>🌸 Ale też piękne drzewa, ogrody, eleganckie fasady i urocze pałacyki – wystarczy przymknąć oko na sieciówki.</li>
+  </ul>
+
+  <h4>📸 Must see & must selfie</h4>
+  <ul>
+    <li>📷 Łuk Triumfalny na jednej stronie – obowiązkowe zdjęcie z milionem innych turystów.</li>
+    <li>📷 Place de la Concorde z drugiej – idealny punkt do zdjęcia z fontanną i widokiem na Wieżę Eiffla w tle.</li>
+    <li>🎄 Zimą odbywa się tu jarmark świąteczny – paryski klimat z grzanym winem i iluminacjami.</li>
+  </ul>
+
+  <h4>🚇 Jak się dostać?</h4>
+  <ul>
+    <li>🚇 <strong>Metro: Champs-Élysées – Clemenceau (linie 1, 13)</strong> lub <strong>George V (linia 1)</strong>.</li>
+    <li>🚶 Spacer w kierunku Łuku najlepiej zacząć od Concorde i iść „pod górkę” – mniej ludzi z samego rana.</li>
+  </ul>
+
+  <h4>💡 Porady praktyczne</h4>
+  <ul>
+    <li>🥖 Na lunch nie zatrzymuj się na samych Polach – dwie ulice dalej ceny są o połowę niższe, a smak często dwa razy lepszy.</li>
+    <li>👜 Jeśli nie planujesz zakupów za równowartość miesięcznego czynszu – popatrz, podziwiaj i idź dalej.</li>
+    <li>🕶️ Uważaj na naciągaczy z „ankietami” – udają miłych, a kończy się na prośbach o datki.</li>
+    <li>📆 Najlepiej spacerować wcześnie rano lub późnym wieczorem – mniej ludzi, więcej magii.</li>
+  </ul>
+
+  <p><strong>Podsumowanie:</strong> Pola Elizejskie to trochę jak czerwony dywan Paryża – pełne blichtru, historii i turystycznych kontrastów. Nawet jeśli nie kupisz tu torebki Chanel, kupisz wspomnienie o spacerze jedną z najsłynniejszych ulic świata. A to – bezcenne.</p>
+</details>
+
 
 <details>
   <summary><strong>👑 Wersal – pałac, który powiedział: „zróbcie miejsce, idę błyszczeć”</strong></summary>
