@@ -71,8 +71,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/parkguell.jpg' | relative_url }}" 
     alt="Park Guell" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
 
     <p>Jeśli Gaudí miałby zaplanować idealny park do odpoczynku po ciężkim dniu w Barcelonie, to zdecydowanie wybrałby to miejsce. Park Güell to jak ogrodowa wersja Disneylandu, tylko zamiast miki i minnie, masz kolorowe mozaiki, a zamiast zamku – ławki, które wyglądają, jakby ktoś chciał je wyrzeźbić z klocków LEGO. I serio, to nie jest zwykły park – to kawałek sztuki, który postanowił zarazem być ogrodem. </p>
@@ -92,8 +92,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/dzielnicagotycka.jpg' | relative_url }}" 
     alt="Dzielnica Gotycka" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
         
 <p>Barri Gòtic to jak podróż w czasie – tylko zamiast wehikułu czasu, masz do dyspozycji zabłąkane wąskie uliczki, które mogą z łatwością zmylić turystów (i miejscowych!). To miejsce, gdzie możesz poczuć się jak średniowieczny bohater, który przypadkowo trafił do XXI wieku. Ulice są pełne tajemnic, a każda kamienna ściana ma swoją historię do opowiedzenia – jeśli potrafisz ją wyczytać z jej zmarszczek i pęknięć. </p>
@@ -112,8 +112,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/plazabarcelona.jpg' | relative_url }}" 
     alt="Plaża Barceloneta" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
 
       <p>Plaża Barceloneta to prawdziwa barcelońska ikona, która łączy miejską energię z nadmorskim relaksem. Piękny złocisty piasek, ciepła woda Morza Śródziemnego i widok na port – wszystko to sprawia, że jest to miejsce, które warto odwiedzić, nawet jeśli Twoje plany obejmują tylko godzinny odpoczynek. To tu spotkasz turystów, biegaczy, rowerzystów, a także lokalnych mieszkańców, którzy spędzają czas na plaży jakby to był ich drugi dom.</p>
@@ -131,8 +131,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/zamekmontujic.jpg' | relative_url }}" 
     alt="Zamek Montjuïc" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
 
 <p>Zamek Montjuïc to nie tylko historyczna twierdza, ale również miejsce, z którego roztacza się jeden z najlepszych widoków na Barcelonę – a w dodatku bez potrzeby wspinania się na najwyższe szczyty! Zamek, który stoi dumnie na wzgórzu Montjuïc, oferuje nie tylko ciekawą lekcję historii, ale także okazję, by poczuć się jak wojownik w średniowieczu... tylko że zamiast tarczy trzymasz aparat fotograficzny, bo widoki są naprawdę godne uwiecznienia.</p>
@@ -150,8 +150,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/larambla.jpg' | relative_url }}" 
     alt="La Rambla" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
         
 <p>La Rambla to serce Barcelony – szeroka, pełna ludzi, straganów i kawiarni ulica, która zdaje się nie mieć końca. To tutaj znajdziesz turystów, lokalnych mieszkańców, ulicznych artystów i sprzedawców, którzy nie wiedzą, co to „przerwa na kawę”. Można by powiedzieć, że to najlepsze miejsce na to, by poczuć puls miasta – dosłownie! Od rana do wieczora, La Rambla żyje pełnią życia, a Ty, jako turysta, masz okazję zanurzyć się w tej kolorowej, nieco chaotycznej atmosferze.</p>
@@ -170,8 +170,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/marketbarcelona.jpg' | relative_url }}" 
     alt="Mercat de Sant Josep de la Boqueria" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 </div>
 
    <p>Jeśli chcesz poczuć prawdziwy smak Barcelony (i nie chodzi tu tylko o sangrię!), to Mercat de la Boqueria jest absolutnie obowiązkowym punktem na Twojej liście. Ten kolorowy, pełen zapachów i smaków rynek spożywczy to prawdziwy raj dla każdego, kto kocha jedzenie – i to nie tylko na talerzu, ale i w powietrzu! Znajdziesz tu wszystko: od świeżych owoców morza, przez warzywa, po najdziwniejsze przyprawy, które prawdopodobnie nie miałyby prawa istnieć, gdyby nie fantazja katalońskich kucharzy.</p>
@@ -190,8 +190,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/campnou.jpg' | relative_url }}" 
     alt="Camp Nou" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
 
     <p>Camp Nou to nie tylko stadion – to świątynia piłki nożnej, mecca dla każdego fana FC Barcelony. I nie ważne, czy jesteś zagorzałym kibicem, czy po prostu turystą, który nie zna się na piłce nożnej – wchodząc na ten stadion, poczujesz się, jakbyś stąpał po świętej ziemi. To tutaj padają najpiękniejsze bramki, to tu rozbrzmiewa "Visca el Barça" (choć prawdopodobnie nie zaśpiewasz tego jak Lionel Messi, ale próbuj!), a emocje sięgają zenitu podczas każdego meczu.</p>
@@ -210,8 +210,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/luktriumfalnybarceona.jpg' | relative_url }}" 
     alt="Łuk Triumfalny" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
 </div>
       
    <p>Łuk Triumfalny w Barcelonie to nie tylko pomnik, to także duma miasta, która jak na ironię... nie została zbudowana na cześć żadnej bitwy! Tak, dokładnie – żadnego wroga nie pokonano, nikt nie został spektakularnie zwyciężony. Ten elegancki czerwony łuk powstał w 1888 roku na potrzeby Wystawy Światowej, by powitać gości i pokazać, że Katalończycy potrafią zrobić wrażenie bez potrzeby wyciągania mieczy. Szacunek, prawda?</p>
