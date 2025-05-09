@@ -87,43 +87,7 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
   </p>
 </details>
 
-  <details>
-  <summary><strong>🖼️ Muzeum Prado</strong></summary>
-  <p><strong>Współrzędne:</strong> 40.4138° N, 3.6921° W</p>
-
- <div style="text-align: center; margin: 20px 0;">
-  <img 
-    src="{{ '/assets/images/muzeumprado.jpg' | relative_url }}" 
-    alt="Muzeum Prado" 
-    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-    
-  <p>
-    Muzeum Prado to jak biblioteka wypełniona obrazami, które mogą cię rozbawić, zadziwić, a czasami sprawić, że zastanowisz się, czy przypadkiem nie straciłeś poczucia rzeczywistości. To jedno z najważniejszych muzeów w Europie i kolejne miejsce, które sprawi, że poczujesz się jak intelektualista, nawet jeśli przed chwilą robiłeś selfie z gołębiem na Plaza Mayor. W końcu sztuka współczesna to jedno, ale stara sztuka, pełna pędzli, farb i bez wątpienia geniuszu – to zupełnie inna bajka.
-  </p>
-  <p>
-    Wchodząc do Prado, przygotuj się na spotkanie z gigantami malarstwa: Velázquez, Goya, El Greco – to nazwiska, które mogą sprawić, że poczujesz się jakbyś przeniósł się do XVII czy XVIII wieku. I wiesz co? To będzie absolutnie magiczne. Obrazy tych mistrzów to prawdziwe dzieła sztuki, które przyprawiają o dreszcze. Czasami masz wrażenie, że portrety stojące w Prado patrzą na ciebie z takim zaciekawieniem, jakbyś miał przed sobą samego siebie, ale w wersji „głównego bohatera dramatu historycznego”.
-  </p>
-  <p>
-    Zaczynasz od Velázqueza – tego samego, który stworzył słynny obraz „Las Meninas”. Nie martw się, nie będziesz musiał rozwiązywać żadnych zagadek dotyczących dworskich intryg (choć to by było ciekawe), ale poczujesz się jak część tej całej atmosfery. A potem trafiasz na Goyę. Goya to ten facet, który pomalował „Czarną Serię”, czyli obrazy, które mogą sprawić, że zaczniesz zastanawiać się nad sensem życia. Ale spokojnie, to tylko malarstwo. Nikt cię nie zmusi do rozmyślania o złamanych sercach i nieudanych romansach w XVIII wieku. 
-  </p>
-  <p>
-    Jeśli nie jesteś mistrzem w rozpoznawaniu sztuki, to nie przejmuj się. Muzeum Prado sprawi, że każda wizyta będzie ekscytująca, a obrazy mówią do ciebie w sposób, który ma więcej sensu niż cała twoja kolekcja zdjęć na Instagramie. Co ciekawe, w Prado wciąż odbywają się wystawy czasowe, które pozwalają zobaczyć dzieła różnych artystów, nie tylko tych na stałe związanych z Hiszpanią. Więc jeśli masz dość już patrzenia na tych samych twórców, zawsze znajdziesz coś nowego, co zaspokoi twoje artystyczne głody.
-  </p>
-  <p>
-    Zanim wyjdziesz, koniecznie sprawdź dzieła El Greca, które są w Prado – jeśli jeszcze tego nie zrobiłeś, prawdopodobnie będziesz zaskoczony jego unikalnym stylem, który przypomina coś pomiędzy abstrakcją, a dziełami religijnymi, które mogłyby stać się okładkami płyt metalowych zespołów. 
-  </p>
-  <p>
-    Jeśli po całym zwiedzaniu nadal masz energię (i nie czujesz się jak malarz po 12 godzinach pracy), to wybierz się na chwilę odpoczynku w muzealnej kawiarni. Odpowiednia dla tych, którzy marzą o relaksie po całym dniu podziwiania sztuki. I tak, kawa smakuje lepiej, gdy masz za sobą Goyę i Velázqueza.
-  </p>
-  <p>
-    A na koniec – nie zapomnij o „próbie intelektualistycznej”. Wystarczy popatrzeć na jeden z obrazów, zmrużyć lekko oczy i powiedzieć: „Hmmm, ciekawe, jakie emocje wyraża ta postać?”. Ludzie będą ci zazdrościć, bo wyglądasz wtedy jak ktoś, kto rozumie te wszystkie malarskie tajemnice. A jeśli uda ci się wymyślić coś bardziej wyszukanego, to już w ogóle będziesz na szczycie!
-  </p>
-  <p>
-    Wizyta w Prado to jak podróż w czasie, gdzie każdy obraz to klucz do zrozumienia minionych wieków. Jeśli Madryt to miasto sztuki, to Prado jest jego sercem. Niezależnie od tego, czy jesteś fanem sztuki, czy po prostu chcesz popatrzeć na obrazy, które nie rozprysną się ci na ekranie telefonu – to miejsce jest absolutnie obowiązkowe. 
-  </p>
-</details>
-
+  
   <details>
   <summary><strong>🌳 Park Retiro</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4168° N, 3.6840° W</p>
@@ -358,6 +322,37 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
     Warto tu przyjść, pospacerować, zrobić kilka zdjęć i zrozumieć, że Plaza de España jest niczym Madryt – wciąż pełne niespodzianek, wciąż w ruchu i pełne życia. A na koniec dnia – idealne miejsce na picie kawy i podziwianie miejskiego zgiełku, który zdaje się być częścią tej telenoweli, w której każdy turysta ma swoje miejsce.
   </p>
 </details>
+
+<details>
+  <summary><strong>🖼️ Muzeum Prado</strong></summary>
+  <p><strong>Współrzędne:</strong> 40.4138° N, 3.6921° W</p>
+    
+  <p>
+    Muzeum Prado to jak biblioteka wypełniona obrazami, które mogą cię rozbawić, zadziwić, a czasami sprawić, że zastanowisz się, czy przypadkiem nie straciłeś poczucia rzeczywistości. To jedno z najważniejszych muzeów w Europie i kolejne miejsce, które sprawi, że poczujesz się jak intelektualista, nawet jeśli przed chwilą robiłeś selfie z gołębiem na Plaza Mayor. W końcu sztuka współczesna to jedno, ale stara sztuka, pełna pędzli, farb i bez wątpienia geniuszu – to zupełnie inna bajka.
+  </p>
+  <p>
+    Wchodząc do Prado, przygotuj się na spotkanie z gigantami malarstwa: Velázquez, Goya, El Greco – to nazwiska, które mogą sprawić, że poczujesz się jakbyś przeniósł się do XVII czy XVIII wieku. I wiesz co? To będzie absolutnie magiczne. Obrazy tych mistrzów to prawdziwe dzieła sztuki, które przyprawiają o dreszcze. Czasami masz wrażenie, że portrety stojące w Prado patrzą na ciebie z takim zaciekawieniem, jakbyś miał przed sobą samego siebie, ale w wersji „głównego bohatera dramatu historycznego”.
+  </p>
+  <p>
+    Zaczynasz od Velázqueza – tego samego, który stworzył słynny obraz „Las Meninas”. Nie martw się, nie będziesz musiał rozwiązywać żadnych zagadek dotyczących dworskich intryg (choć to by było ciekawe), ale poczujesz się jak część tej całej atmosfery. A potem trafiasz na Goyę. Goya to ten facet, który pomalował „Czarną Serię”, czyli obrazy, które mogą sprawić, że zaczniesz zastanawiać się nad sensem życia. Ale spokojnie, to tylko malarstwo. Nikt cię nie zmusi do rozmyślania o złamanych sercach i nieudanych romansach w XVIII wieku. 
+  </p>
+  <p>
+    Jeśli nie jesteś mistrzem w rozpoznawaniu sztuki, to nie przejmuj się. Muzeum Prado sprawi, że każda wizyta będzie ekscytująca, a obrazy mówią do ciebie w sposób, który ma więcej sensu niż cała twoja kolekcja zdjęć na Instagramie. Co ciekawe, w Prado wciąż odbywają się wystawy czasowe, które pozwalają zobaczyć dzieła różnych artystów, nie tylko tych na stałe związanych z Hiszpanią. Więc jeśli masz dość już patrzenia na tych samych twórców, zawsze znajdziesz coś nowego, co zaspokoi twoje artystyczne głody.
+  </p>
+  <p>
+    Zanim wyjdziesz, koniecznie sprawdź dzieła El Greca, które są w Prado – jeśli jeszcze tego nie zrobiłeś, prawdopodobnie będziesz zaskoczony jego unikalnym stylem, który przypomina coś pomiędzy abstrakcją, a dziełami religijnymi, które mogłyby stać się okładkami płyt metalowych zespołów. 
+  </p>
+  <p>
+    Jeśli po całym zwiedzaniu nadal masz energię (i nie czujesz się jak malarz po 12 godzinach pracy), to wybierz się na chwilę odpoczynku w muzealnej kawiarni. Odpowiednia dla tych, którzy marzą o relaksie po całym dniu podziwiania sztuki. I tak, kawa smakuje lepiej, gdy masz za sobą Goyę i Velázqueza.
+  </p>
+  <p>
+    A na koniec – nie zapomnij o „próbie intelektualistycznej”. Wystarczy popatrzeć na jeden z obrazów, zmrużyć lekko oczy i powiedzieć: „Hmmm, ciekawe, jakie emocje wyraża ta postać?”. Ludzie będą ci zazdrościć, bo wyglądasz wtedy jak ktoś, kto rozumie te wszystkie malarskie tajemnice. A jeśli uda ci się wymyślić coś bardziej wyszukanego, to już w ogóle będziesz na szczycie!
+  </p>
+  <p>
+    Wizyta w Prado to jak podróż w czasie, gdzie każdy obraz to klucz do zrozumienia minionych wieków. Jeśli Madryt to miasto sztuki, to Prado jest jego sercem. Niezależnie od tego, czy jesteś fanem sztuki, czy po prostu chcesz popatrzeć na obrazy, które nie rozprysną się ci na ekranie telefonu – to miejsce jest absolutnie obowiązkowe. 
+  </p>
+</details>
+
 
 <details>
   <summary><strong>⚽ Santiago Bernabéu</strong></summary>
