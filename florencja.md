@@ -145,6 +145,14 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🎨 Galeria Uffizi – arcydzieła Botticellego i spółki</strong></summary>
     <p><strong>Współrzędne:</strong> <em>43.7686° N, 11.2556° E</em></p>
+
+       <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/galeriauffizi.jpg' | relative_url }}" 
+    alt="Galeria Uffizi" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>
       Jedno z najważniejszych muzeów sztuki na świecie. Znajdziesz tu „Narodziny Wenus” i „Wiosnę” Botticellego, dzieła Leonarda da Vinci, Michała Anioła, Tycjana i Caravaggia. Uffizi to podróż przez wieki malarstwa, w której każda sala to osobny rozdział historii sztuki. Najlepiej zarezerwuj bilety z wyprzedzeniem – to jedno z najczęściej odwiedzanych miejsc we Florencji.
     </p>
@@ -153,12 +161,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     </ul>
   </details>
 
-       <div style="text-align: center; margin: 20px 0;">
-  <img 
-    src="{{ '/assets/images/galeriauffizi.jpg' | relative_url }}" 
-    alt="Galeria Uffizi" 
-    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
+
 
   <details>
   <summary><strong>🏰 Palazzo Vecchio – serce władzy i historii Florencji</strong></summary>
