@@ -54,7 +54,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/sagrada.jpg' | relative_url }}" 
     alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    style="max-width: 50%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
 
