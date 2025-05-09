@@ -54,7 +54,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/sagrada.jpg' | relative_url }}" 
     alt="Sagrada Familia" 
-    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
       <p>Wyobraź sobie, że Gaudí wpadł na pomysł zbudowania kościoła, który wygląda jak z innej planety. I tak powstała Sagrada Família, której budowa zaczęła się w 1882 roku, a skończyć się ma… nie wiadomo kiedy. Tak, to nie żart – ta budowla to prawdziwa długoterminowa inwestycja! W każdym razie, nawet bez zakończenia prac, jest absolutnym must-see w Barcelonie. </p>
