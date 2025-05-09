@@ -149,8 +149,8 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/watykan.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    alt="Watykan" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
   
@@ -194,9 +194,8 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
 <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/panteon.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Panteon" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"  >
 </div>
   
   
@@ -234,9 +233,8 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/fontannaditrevi.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Fontanna di Trevi" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"  >
 </div>
   
   <p>Ah, Fontanna di Trevi! To miejsce, które sprawia, że czujesz się jak bohater romantycznego filmu, nawet jeśli właśnie spóźniłeś się na obiad i przypadkiem popełniłeś modowe faux pas. W tym magicznym zakątku Rzymu nie tylko możesz poczuć się jak gwiazda, ale masz również szansę na spełnienie swojego marzenia (jeśli wrzucisz odpowiednią monetę, oczywiście!).</p>
@@ -273,9 +271,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/zamekswietegoaniola.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Zamek Świętego Anioła" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
 </div>
   
   <p>Wiesz, co wspólnego ma Zamek Świętego Anioła z najbardziej tajemniczymi zamkami w Europie? Otóż, jest jednym z najbardziej uroczych (i tajemniczych) zabytków w Rzymie! Zamek, który przez wieki pełnił różne funkcje – od cesarskiej nekropolii po fortecę, a także miejsce, gdzie wieszano najwięcej sekretów, przekształcił się w jeden z najciekawszych punktów turystycznych w Wiecznym Mieście. A jeśli marzysz o tym, by poczuć się jak bohater filmów sensacyjnych, to idealne miejsce dla Ciebie!</p>
@@ -310,9 +308,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/villaborghese.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Villa Borghese" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
 </div>
     
   <p>Jeśli myślisz, że Villa Borghese to tylko kolejny park w Rzymie, to grubo się mylisz! To jedno z tych miejsc, które łączy sztukę, naturę i trochę magii. Wyobraź sobie, że wchodzisz do parku i zamiast po prostu biegać za frisbee, nagle stajesz przed jednym z najpiękniejszych dzieł sztuki na świecie. Tak, Villa Borghese to nie tylko ogród – to także dom dla jednych z najważniejszych kolekcji sztuki w Rzymie. Kiedyś była to posiadłość rodziny Borghese (tak, tej rodziny, która miała wszystko), a teraz jest to raj dla turystów i lokalnych mieszkańców, którzy marzą o chwili spokoju w centrum tętniącego życiem miasta.</p>
@@ -342,9 +340,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/schodyhiszpanskie.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Schody Hiszpańskie" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
 </div>
   
   <p>Schody Hiszpańskie – znane na całym świecie jako "wielka atrakcja turystyczna", a w rzeczywistości ulubione miejsce do... siedzenia. Te wspaniałe, monumentalne schody prowadzą z Placu Hiszpańskiego do Kościoła Trinità dei Monti, ale dla większości turystów, to raczej miejsce na odpoczynek i podziwianie innych turystów. Kiedy już pokonasz te 135 stopni (tak, to jest trochę jak maraton, ale w wersji turystycznej), dotrzesz do miejsca, w którym chcesz po prostu usiąść, patrzeć na ludzi i poczuć się jak część "Rzymu w ruchu".</p>
@@ -389,9 +387,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/piazzanavona.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Piazza Navona" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
 </div>
   
   <p>Piazza Navona – miejsce, które niemal każdy turysta w Rzymie zna z opowieści... i Instagramu! Ten elegancki plac, który kiedyś był stadionem, a teraz jest najbardziej znanym placem w mieście, przyciąga tłumy zarówno turystów, jak i... artystów malujących portrety na każdym kroku. Właściwie, Piazza Navona to jedno z tych miejsc, w którym nie masz pojęcia, czy więcej jest turystów, czy ludzi próbujących sprzedawać Ci coś, czego na pewno nie potrzebujesz.</p>
@@ -421,9 +419,9 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/termykarakalli.jpg' | relative_url }}" 
-    alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    alt="Termy Karakalli" 
+style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
 </div>
   
   <<p>Jeśli kiedykolwiek marzyłeś o tym, by poczuć się jak starożytny Rzymianin w najmodniejszym spa, Termy Karakalli są miejscem, które musisz odwiedzić. Tak, dobrze słyszysz! Kiedy myślisz o luksusie w starożytnym Rzymie, to właśnie tu – w jednym z największych kompleksów termalnych w historii – Rzymianie odpoczywali, relaksowali się, a także toczyli poważne rozmowy o polityce, pogodzie i oczywiście... plotkach o cesarzach.</p>
