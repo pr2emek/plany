@@ -208,7 +208,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
  <div style="text-align: center; margin: 20px 0;">
   <img 
-    src="{{ '/assets/images/luktriumfalnybarceona.jpg' | relative_url }}" 
+    src="{{ '/assets/images/luktriumfalnybarcelona.jpg' | relative_url }}" 
     alt="Łuk Triumfalny" 
     style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   
