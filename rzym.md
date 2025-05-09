@@ -51,8 +51,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/koloseum.jpg' | relative_url }}" 
     alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
     
@@ -108,8 +107,7 @@ Witaj w przewodniku po Rzymie! Kliknij sekcję, aby ją rozwinąć 👇
   <img 
     src="{{ '/assets/images/forumromanum.jpg' | relative_url }}" 
     alt="Koloseum" 
-    style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  >
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
   
   <p>Witaj na Forum Romanum, miejscu, które kiedyś było epicentrum życia politycznego, towarzyskiego, a także… plotkarskiego w starożytnym Rzymie. Jeśli kiedykolwiek marzyłeś o byciu świadkiem wielkich przemówień i politycznych intryg, to Forum Romanum to miejsce, które spełni Twoje marzenia. Oczywiście, w dzisiejszych czasach jest tu już tylko sporo kamieni, ale dzięki wyobraźni łatwo możesz poczuć się jak obywatel starożytnego Rzymu – tylko z nowoczesnym aparatem i w sandałkach zamiast tuniki.</p>
