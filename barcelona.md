@@ -53,7 +53,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
         <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/sagrada.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Sagrada Familia" 
     style="max-width: 50%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -71,7 +71,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/parkguell.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Park Guell" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -92,7 +92,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/dzielnicagotycka.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Dzielnica Gotycka" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -112,7 +112,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
              <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/plazabarcelona.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Plaża Barceloneta" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -131,7 +131,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/zamekmontujic.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Zamek Montjuïc" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -150,7 +150,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/larambla.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="La Rambla" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -170,7 +170,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/marketbarcelona.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Mercat de Sant Josep de la Boqueria" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -190,7 +190,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/campnou.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Camp Nou" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
@@ -210,7 +210,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
  <div style="text-align: center; margin: 20px 0;">
   <img 
     src="{{ '/assets/images/luktriumfalnybarceona.jpg' | relative_url }}" 
-    alt="Koloseum" 
+    alt="Łuk Triumfalny" 
     style="max-width: 100%; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
   >
 </div>
