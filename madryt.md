@@ -54,6 +54,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
  <details>
   <summary><strong>🏰 Pałac Królewski (Palacio Real)</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4173° N, 3.7147° W</p>
+
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/palacioreal.jpg' | relative_url }}" 
+    alt="Pałac Królewski" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Pałac Królewski w Madrycie to miejsce, które wygląda jakby zostało wyjęte prosto z baśni o królewnach, książętach i smokach (choć smoków tu raczej nie znajdziesz, ale kto wie?). To oficjalna rezydencja hiszpańskiej rodziny królewskiej, chociaż sami monarchowie od dawna już się tu nie zatrzymują. W każdym razie, nie martw się – to nie oznacza, że pałac jest pusty! Wręcz przeciwnie – jest pełen przepychu, złota i takiego przepychu, że aż ciężko uwierzyć, że nie przeżywasz właśnie sceny z filmu o wielkich intrygach dworskich.
   </p>
@@ -83,6 +90,14 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
   <details>
   <summary><strong>🖼️ Muzeum Prado</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4138° N, 3.6921° W</p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/muzeumprado.jpg' | relative_url }}" 
+    alt="Muzeum Prado" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
   <p>
     Muzeum Prado to jak biblioteka wypełniona obrazami, które mogą cię rozbawić, zadziwić, a czasami sprawić, że zastanowisz się, czy przypadkiem nie straciłeś poczucia rzeczywistości. To jedno z najważniejszych muzeów w Europie i kolejne miejsce, które sprawi, że poczujesz się jak intelektualista, nawet jeśli przed chwilą robiłeś selfie z gołębiem na Plaza Mayor. W końcu sztuka współczesna to jedno, ale stara sztuka, pełna pędzli, farb i bez wątpienia geniuszu – to zupełnie inna bajka.
   </p>
@@ -112,6 +127,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
   <details>
   <summary><strong>🌳 Park Retiro</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4168° N, 3.6840° W</p>
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/parkretiro.jpg' | relative_url }}" 
+    alt="Park Retiro" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
   <p>
     Park Retiro to taki Madryt w wersji "slow life". Jeśli miasto jest za głośne, zbyt tłoczne i pełne ludzi, którzy biegają od muzeum do muzeum, to tutaj znajdziesz chwilę oddechu. To nie tylko park – to miejsce, gdzie możesz poczuć się jak prawdziwy madrycki bohater... oczywiście, jeżeli „bohater” oznacza osobę, która relaksuje się przy fontannach, unika zgiełku i tylko od czasu do czasu daje się porwać na przejażdżkę łódką po jeziorze.
   </p>
@@ -138,6 +160,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
   <details>
   <summary><strong>🌇 Świątynia Debod</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4255° N, 3.7184° W</p>
+
+     <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/debod.jpg' | relative_url }}" 
+    alt="Śwtiątynia Debod" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Tak, dobrze widzisz – Świątynia Debod w Madrycie to nie pomyłka. To egipska świątynia w samym sercu Hiszpanii, więc jeśli kiedykolwiek marzyłeś o tym, żeby poczuć się jak Indiana Jones, nie musisz już latać do Egiptu. Wystarczy, że odwiedzisz to miejsce, które wygląda jakby zostało tu przeniesione z czasów faraonów, prosto do Madrytu – ale bez piasku, za to z palmami i widokiem na miasto.
   </p>
@@ -158,6 +187,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>🛍️ Gran Vía</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4190° N, 3.7074° W</p>
+
+   <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/granvia.jpg' | relative_url }}" 
+    alt="Gran Via" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Gran Vía w Madrycie to jak główna arteria miasta – nie tylko dla samochodów, ale przede wszystkim dla turystów i tych, którzy chcą poczuć puls stolicy Hiszpanii. Jeśli Madryt miałby swoje serce, to biłoby właśnie tutaj. To jedna z najbardziej rozpoznawalnych ulic w mieście, pełna neonów, sklepów, teatrów i niezliczonych restauracji. Przyjeżdżasz, patrzysz, i zastanawiasz się, czy jesteś w Madrycie, Nowym Jorku, czy na Broadwayu. Przekonasz się, że Gran Vía to prawdziwa mieszanka kultury, mody i nieustającego zgiełku – a każdy jej krok to jak scena w filmie.
   </p>
@@ -178,6 +214,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
   <details>
   <summary><strong>⛪ Plaza Mayor</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4154° N, 3.7074° W</p>
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/plazamayor.jpg' | relative_url }}" 
+    alt="Plaza Mayor" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
   <p>
     Plaza Mayor to serce Madrytu, które bije w rytmie hiszpańskiej tradycji, turystyki i kawy z mlekiem. To rynek, który z każdej strony otoczony jest pięknymi budynkami z balkonami, a na środku można poczuć się jak bohater filmu – tylko w tej wersji głównym bohaterem jest kanapka z kalmarami. Tak, dobrze widzisz – jeśli chcesz poczuć się jak prawdziwy Madrytczyk, to wpadnij tu na lunch i zamów tę lokalną specjałość. Wyjątkowy smak i... dziwne spojrzenia przechodniów, którzy się zastanawiają, dlaczego jedzących kalmary nikt nie karmi na plaży.
   </p>
@@ -201,6 +244,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>🌞 Puerta del Sol</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4168° N, 3.7038° W</p>
+
+   <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/puertadelsol.jpg' | relative_url }}" 
+    alt="Puerta del Sol" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Puerta del Sol to miejsce, gdzie Madryt zaczyna swoją opowieść. Dosłownie. Z tego punktu rozchodzą się wszystkie główne drogi Hiszpanii, więc jeśli kiedykolwiek zastanawiałeś się, gdzie zacząć zwiedzanie tego miasta, to właśnie tutaj. To jak centralna scena w teatrze Madrytu – pełno ludzi, straganów, artystów ulicznych i turystów, którzy zastanawiają się, w którą stronę pójść, by zobaczyć więcej tej miejskiej telenoweli. Warto tylko pamiętać, że nie ma tu co liczyć na chwilę ciszy. Puerta del Sol to zawsze gwar i zgiełk, który jednak ma swój niepowtarzalny urok.
   </p>
@@ -221,6 +271,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>🕍 Katedra Almudena</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4169° N, 3.7116° W</p>
+
+     <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/almudena.jpg' | relative_url }}" 
+    alt="Katedra Almudena" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Katedra Almudena to miejsce, które przez lata robiło w Madrycie coś w stylu „przepraszam, jeszcze nie gotowe”, ale teraz? No teraz to już arcydzieło. Zaczęło się skromnie, od prób budowy w 1883 roku, ale jakby architekt stwierdził, że tak łatwo to z niego nie wyjdzie i postanowił, żeby wszystko było doskonałe – trochę klasyki, trochę nowoczesności, no i kilka fajnych detali, żeby nikt się nie nudził. Katedra to połączenie tradycji i współczesności, jakby ktoś chciał połączyć gotyk z odrobiną nowoczesnego minimalizmu. Tylko zamiast skórzanych sof, masz złote ołtarze. 
   </p>
@@ -241,6 +298,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>🧱 Mercado de San Miguel</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4153° N, 3.7094° W</p>
+
+     <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/marketmadryt.jpg' | relative_url }}" 
+    alt="Mercado de San Miquel" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Wchodzisz do Mercado de San Miguel i masz poczucie, że trafiłeś do nieba... ale nie takiego nudnego, białego z chmurkami. Tu jest żywiołowo, kolorowo i pełno smakołyków, które bardziej przypominają dzieło sztuki niż zwykły obiad. Połączenie rynku i gastronomicznej mekki, gdzie każdy kęs jest jak mała uczta z różnymi smakami Hiszpanii. To nie jest zwykły targ, to raczej popis tego, co Hiszpania ma najlepsze do zaoferowania w formie bitej śmietany, tapasów i reszty pyszności.
   </p>
@@ -298,6 +362,13 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>⚽ Santiago Bernabéu</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4531° N, 3.6883° W</p>
+     <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/santiagobernabeu.jpg' | relative_url }}" 
+    alt="Santiago Bernabeu" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+  
   <p>
     Santiago Bernabéu to stadion, który ma więcej historii niż Twoje konto na Instagramie, a z pewnością więcej emocji niż wszystkie Twoje wieczory z Netflixem. To miejsce, które każdemu piłkarskiemu fanowi daje dreszczyk emocji już przy samym wejściu, a jeśli jesteś kibicem Realu Madryt – to czujesz się tu jak w świątyni. Jeśli zaś nie – nie martw się, stadion ma taką atmosferę, że poczujesz się jak na największym koncercie w twoim życiu, nawet jeśli nie wiesz, co to „ofensywa”.
   </p>
@@ -315,6 +386,14 @@ A jeśli już mówimy o tradycjach, to nie można zapomnieć o niedzieli. Madryt
 <details>
   <summary><strong>⚽ Wanda Metropolitano</strong></summary>
   <p><strong>Współrzędne:</strong> 40.4375° N,  -3.6004° W</p>
+
+     <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/wanda.jpg' | relative_url }}" 
+    alt="Wanda Metropolitano" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+  
   <p>
     Wanda Metropolitano – stadion, który jest tak nowoczesny, że nie tylko piłkarze, ale nawet kibice czują się tutaj jak na futurystycznym statku kosmicznym. Jeśli Santiago Bernabéu to starożytna świątynia piłki nożnej, to Wanda Metropolitano to jej nowoczesny, pełen technologii brat, który lubi głośno mówić: „Zobacz, co potrafię!”. Ale nie martw się – nawet jeśli nie znasz się na piłce nożnej, poczujesz się tutaj jak VIP, bo stadion ma to „coś”.
   </p>
