@@ -54,6 +54,13 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>⛪ Katedra Santa Maria del Fiore – serce Florencji i kamień milowy architektury</strong></summary>
   <p><strong>Współrzędne:</strong> <em>43.7731° N, 11.2556° E</em></p>
 
+       <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/santamariadelfiore.jpg' | relative_url }}" 
+    alt="Santa Maria del Flore" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>
     Gdy stoisz na <strong>Piazza del Duomo</strong>, nie da się jej nie zauważyć – <strong>Katedra Santa Maria del Fiore</strong> to prawdziwe arcydzieło, symbol miasta i jedno z największych osiągnięć architektury gotyckiej i renesansowej. Jej potężna kopuła dominuje nad panoramą Florencji i wciąż zachwyca – nie tylko rozmiarem, ale i rozmachem geniuszu Brunelleschiego.
   </p>
@@ -92,6 +99,13 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
   <summary><strong>🌉 Ponte Vecchio – most z duszą (i biżuterią)</strong></summary>
   <p><strong>Współrzędne:</strong> <em>43.7679° N, 11.2531° E</em></p>
+
+       <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/pontececchio.jpg' | relative_url }}" 
+    alt="Ponte Vecchio" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>
     <strong>Ponte Vecchio</strong>, czyli „Stary Most”, to jedna z ikon Florencji i jeden z najbardziej rozpoznawalnych mostów na świecie. Choć nazwa może sugerować zwykłą przeprawę przez rzekę, to tak naprawdę mało który most ma tyle historii, charakteru i... złota w jednym miejscu!
@@ -139,9 +153,23 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
     </ul>
   </details>
 
+       <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/galeriauffizi.jpg' | relative_url }}" 
+    alt="Galeria Uffizi" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <details>
   <summary><strong>🏰 Palazzo Vecchio – serce władzy i historii Florencji</strong></summary>
   <p><strong>Współrzędne:</strong> <em>43.7696° N, 11.2558° E</em></p>
+
+       <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/palazzovecchio.jpg' | relative_url }}" 
+    alt="Palazzo Vecchio" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>
     <strong>Palazzo Vecchio</strong>, czyli „Stary Pałac”, to nie tylko jedna z najbardziej rozpoznawalnych budowli we Florencji, ale i miejsce, gdzie naprawdę czuć potęgę dawnych rządów, intryg i renesansowego geniuszu. Od XIII wieku był siedzibą władzy miejskiej – od Signorii po wielkich książąt Toskanii. I nadal pełni funkcję ratusza!
@@ -188,6 +216,13 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛪ Bazylika Santa Croce – panteon włoskich geniuszy</strong></summary>
   <p><strong>Współrzędne:</strong> <em>43.7688° N, 11.2625° E</em></p>
+
+       <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/santacroce.jpg' | relative_url }}" 
+    alt="Bazylika Santa Croce " 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>
     <strong>Santa Croce</strong> to nie tylko majestatyczna świątynia – to swoista święta galeria historii Włoch. Znajduje się nieco na uboczu od głównych turystycznych szlaków, ale to właśnie tutaj serce Florencji bije rytmem sztuki, duchowości i pamięci o największych nazwiskach włoskiej kultury.
