@@ -102,7 +102,7 @@ Witaj w przewodniku po Florencji! Kliknij sekcję, aby ją rozwinąć 👇
 
        <div style="text-align: center; margin: 20px 0;">
   <img 
-    src="{{ '/assets/images/pontececchio.jpg' | relative_url }}" 
+    src="{{ '/assets/images/pontevecchio.jpg' | relative_url }}" 
     alt="Ponte Vecchio" 
     style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
