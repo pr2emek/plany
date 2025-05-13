@@ -248,11 +248,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
       
 ---
 
-<details>
-  <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
   <details>
-    <summary><strong>🗺️ Plan zwiedzania Berlina – wersja dla ludzi, którzy nie mają tygodnia urlopu</strong></summary>
+    <summary><strong>🗺️ Plan zwiedzania Berlina</strong></summary>
 
     <h3>📅 Dzień 1 – „Must-see”, czyli turysta na pełnym etacie</h3>
     <ul>
