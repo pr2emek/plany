@@ -248,9 +248,11 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
       
 ---
 
-
-  <details>
+ <details>
     <summary><strong>🗺️ Plan zwiedzania Berlina</strong></summary>
+   
+  <details>
+    <summary><strong>🗺️ Plan zwiedzania Berlina - wersja 3 dniowa</strong></summary>
 
     <h3>📅 Dzień 1 – „Must-see”, czyli turysta na pełnym etacie</h3>
     <ul>
@@ -289,6 +291,59 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </ul>
 
     <p><em>Berlin się nie kończy – ale nogi tak. Trzy dni i tak dadzą Ci więcej niż niejedna książka historyczna.</em></p>
+</details>
+
+<details>
+    <summary><strong>⏰ Berlin w 1 dzień – misja (nie)możliwa</strong></summary>
+
+    <p><em>Masz tylko jeden dzień? Spokojnie. Berlin nie ucieknie (chyba że znowu się podzieli). Oto turbo-plan dla tych, co chcą przeżyć dużo w mało czasu i nie paść po drodze.</em></p>
+
+    <h3>🕘 Rano: historia i klasyka</h3>
+    <ul>
+        <li><strong>🏛️ Brama Brandenburska</strong> – szybkie zdjęcie, szeroki uśmiech, ruszamy dalej.</li>
+        <li><strong>🗿 Pomnik Holokaustu</strong> – moment refleksji w labiryncie betonowych bloków.</li>
+        <li><strong>🏛️ Reichstag (z zewnątrz)</strong> – jak nie masz rezerwacji do kopuły, to machnij ręką i rób fotkę.</li>
+    </ul>
+
+    <h3>☕ Przerwa śniadaniowo-kawowa</h3>
+    <ul>
+        <li><strong>🍳 Kawiarnia w Mitte</strong> – np. Father Carpenter albo Zeit für Brot (ślimaki cynamonowe godne Nobla).</li>
+    </ul>
+
+    <h3>🧱 Południe: mur, graffiti i luz</h3>
+    <ul>
+        <li><strong>🧱 East Side Gallery</strong> – spacer wzdłuż Muru z artystycznym zacięciem. Tu się robi zdjęcia „na Berlin”.</li>
+        <li><strong>🛍️ Kreuzberg</strong> – szybki rzut oka na alternatywną stronę miasta. Vintage sklepy, murale, życie uliczne.</li>
+    </ul>
+
+    <h3>🍔 Lunch (czyli czas na berliński klasyk)</h3>
+    <ul>
+        <li><strong>🌭 Curry 36</strong> lub <strong>Mustafa’s Gemüse Kebap</strong> – wybierz, czekaj w kolejce, żałuj tylko jak się przejesz.</li>
+    </ul>
+
+    <h3>🕵️ Popołudnie: coś nietypowego</h3>
+    <ul>
+        <li><strong>🕵️‍♂️ Muzeum Szpiegów</strong> – podsłuchy, mikrofony i inne rzeczy, których lepiej nie mieć w domu.</li>
+        <li><strong>🎮 Computerspielemuseum</strong> (jeśli wolisz Mario niż KGB).</li>
+    </ul>
+
+    <h3>🌇 Wieczór: chill i widoczki</h3>
+    <ul>
+        <li><strong>🌆 Panoramapunkt lub bar na dachu (np. Klunkerkranich)</strong> – zachód słońca z widokiem, piwko w ręce, życie piękne.</li>
+        <li><strong>🍰 Deser na pożegnanie</strong> – berliński Pfannkuchen (nie mówić na to donut!) albo Apfelstrudel z lodami.</li>
+    </ul>
+
+    <p><strong>💡 Tips na koniec:</strong></p>
+    <ul>
+        <li>🚌 Kup bilet dzienny na komunikację i śmigaj jak VIP – bez stresu, że masz zły bilet.</li>
+        <li>📱 Aplikacje BVG lub Jelbi = ratunek dla zagubionych dusz i nóg.</li>
+        <li>🎒 Nie taszcz torby – Berlin i plecak turysty to kiepska para.</li>
+    </ul>
+
+    <p><em>Nie zobaczysz wszystkiego, ale zobaczysz wystarczająco, by się zakochać albo chcieć wrócić. I o to chodzi.</em></p>
+</details>
+
+
 
 </details>
 
