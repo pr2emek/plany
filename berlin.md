@@ -489,6 +489,57 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
+    <summary><strong>🚇 Transport publiczny w Berlinie – jak nie zgubić się między U a S</strong></summary>
+
+    <h3>✈️ Jak dojechać z lotniska BER do miasta?</h3>
+    <p>Lotnisko Berlin Brandenburg (BER) jest tylko jedno – przynajmniej tyle dobrego. Dojazd do centrum zajmuje ok. 30–40 minut:</p>
+    <ul>
+        <li><strong>🚆 Airport Express (FEX)</strong> – śmiga jak trzeba, 2–3 razy na godzinę, jedzie na Berlin Hbf (główny dworzec).</li>
+        <li><strong>🚇 S-Bahn</strong> – linie S9 i S45. Wolniejsze niż FEX, ale działa.</li>
+        <li><strong>🚌 Autobusy</strong> – jeżdżą, ale tylko jeśli naprawdę lubisz stać w korkach.</li>
+    </ul>
+    <p><strong>Uwaga:</strong> Lotnisko jest w <em>strefie C</em>, więc kup bilet ABC, żeby nie skończyć z mandatem i wątpliwą pamiątką.</p>
+
+    <h3>🎟️ Bilety – jaki wybrać?</h3>
+    <ul>
+        <li><strong>Bilet jednorazowy:</strong> 3,50 € (AB), 4,40 € (ABC). Ważny 2 godziny, ale bez powrotu.</li>
+        <li><strong>Bilet dzienny (Tageskarte):</strong> 9,90 € (AB), 10,70 € (ABC). Opłaca się już przy 3 przejazdach.</li>
+        <li><strong>Bilet 4-przejazdowy:</strong> 10,00 € (AB) – jeśli nie lubisz podejmować zobowiązań.</li>
+    </ul>
+
+    <h3>🃏 Karty czasowe i zniżki</h3>
+    <ul>
+        <li><strong>Berlin WelcomeCard:</strong> zniżki do muzeów + bilet na komunikację. Od 24h do 6 dni. Dobra opcja dla ambitnych turystów.</li>
+        <li><strong>7-Tage-Karte:</strong> ok. 39 € (AB) – dla tych, co zostają na tydzień i lubią jeździć bez myślenia.</li>
+        <li><strong>Deutschland-Ticket:</strong> miesięczny bilet za 49 € na cały kraj, ale tylko transport lokalny i regionalny. Uwaga: potrzebny adres w Niemczech i subskrypcja.</li>
+    </ul>
+
+    <h3>📱 Aplikacje, które warto mieć</h3>
+    <ul>
+        <li><strong>BVG Fahrinfo Berlin</strong> – oficjalna apka komunikacji miejskiej. Bilety, rozkłady, trasy, wszystko bez jęków.</li>
+        <li><strong>DB Navigator</strong> – przyda się na pociągi regionalne i FEX.</li>
+        <li><strong>Google Maps</strong> – zaskakująco dokładny w Berlinie, ale czasem ma zły dzień (jak każdy).</li>
+    </ul>
+
+    <h3>🧠 Porady z serca i strefy AB</h3>
+    <ul>
+        <li>Kasuj bilet – automaty są żółte i bezlitosne.</li>
+        <li>Nie próbuj „na gapę” – kontrole są częste, dyskretne i zero litości.</li>
+        <li>Drzwi w metrze trzeba czasem <em>nacisnąć</em>, żeby się otworzyły. Tak, serio.</li>
+        <li>W nocy jeżdżą autobusy nocne i linie „U-Bahn-Nacht”, ale planuj wcześniej – nie wszystko śmiga całą dobę.</li>
+        <li>S-Bahn to kolejka naziemna, U-Bahn to metro. Nie pomyl, bo można zamiast do muzeum trafić na peryferia.</li>
+    </ul>
+
+    <p><strong>TL;DR:</strong> Berlin ma świetną komunikację, ale trzeba wiedzieć, co kliknąć, gdzie stanąć i czym nie jechać. Aplikacje, karta dzienna i zero kombinowania – to przepis na podróż bez stresu.</p>
+
+</details>
+
+
+
+
+---
+
+<details>
     <summary><strong>🎠 Co robić z dziećmi w Berlinie (i nie oszaleć)</strong></summary>
     <ul>
         <li><strong>🦕 Muzeum Historii Naturalnej</strong> – Dinozaury większe niż Twoja cierpliwość. Gigantyczny szkielet i dźwięki ryku – dzieciaki w ekstazie, Ty masz chwilę ciszy. Wstęp płatny, ale warto dla świętego spokoju.</li>
