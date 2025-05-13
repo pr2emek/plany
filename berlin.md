@@ -530,8 +530,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
         <li><strong>🧭 Berlin to 12 dzielnic = 12 światów</strong> Nie oceniaj miasta po jednej stacji metra. Kreuzberg to hipsteriada, Mitte to biura i polityka, a Neukölln – totalny miks. Błądzenie po dzielnicach to połowa frajdy.</li>
     </ul>
 
-<details>
-    <summary><strong>🚫 Czego NIE robić, żeby nie wyjść na totalnego turystę</strong></summary>
+    <h3>🚫 Czego NIE robić, żeby nie wyjść na totalnego turystę</h3>
     <ul>
         <li><strong>Nie pytaj o "autentyczne currywurst"</strong> – To fast-food, nie dziedzictwo UNESCO. Jak dostaniesz parówkę z keczupem i curry, to jesteś w dobrym miejscu.</li>
 
@@ -547,10 +546,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
         <li><strong>Nie próbuj mówić po niemiecku na siłę</strong> – Lepiej mówić po angielsku niż rzucać „Ich bin ein tourist” z niemieckim z Duolingo. Berlin i tak jest po angielsku.</li>
     </ul>
-</details>
 
-<details>
-    <summary><strong>🛍️ Co warto kupić w Berlinie (i przywieźć, zamiast magnesu z Bramy Brandenburskiej)</strong></summary>
+    <h3>🛍️ Co warto kupić w Berlinie (i przywieźć, zamiast magnesu z Bramy Brandenburskiej)</h3>
     <ul>
         <li><strong>🍻 Craftowe piwo z berlińskich browarów</strong> – Zamiast zwykłego pilsa, coś z nutą hibiskusa, goryczką egzystencjalną i etykietą w stylu berlińskiego undergroundu.</li>
 
@@ -564,6 +561,5 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
         <li><strong>💿 CD techno z Berghain (jeśli Cię wpuszczą)</strong> – Możesz nie wejść do środka, ale przynajmniej płyta zostanie.</li>
     </ul>
-</details>
 
 </details>
