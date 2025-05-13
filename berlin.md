@@ -50,76 +50,179 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏰 Co zobaczyć</strong></summary>
 
   <details>
-    <summary><strong>🧱 Mur Berliński i East Side Gallery</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5050° N, 13.4394° E</em></p>
-    <p>
-      Kawałek muru, który kiedyś dzielił świat, a dziś jest galerią graffiti, selfie i przewodników z parasolką. 
-      Idealne miejsce, żeby powiedzieć: „To kiedyś naprawdę dzieliło Berlin?” i usłyszeć trzy różne wersje historii od trzech różnych turystów.
-    </p>
-  </details>
+    <summary><strong>🧱 Mur Berliński</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5163, 13.3777</em></p>
+    <p>Mur, który dzielił miasto, rodziny, przyjaciół i psy sąsiadów. Symbol zimnej wojny, który przez dekady był niechcianą atrakcją, dziś stał się... atrakcją pożądaną. Tylko w Berlinie można oglądać beton i rozczulać się nad jego historią, robiąc selfie z napisem "do not cross".</p>
+    <p>Choć większość muru zniknęła szybciej niż darmowe kanapki w hostelu, wciąż znajdziesz jego fragmenty rozsiane po mieście – niektóre oryginalne, niektóre bardziej "symboliczne". Chcesz poczuć klimat szpiegów i zasieków? Skieruj kroki pod <strong>Topografię Terroru</strong> – tam historia bije betonem po oczach.</p>
+</details>
+
+<details>
+    <summary><strong>🎨 East Side Gallery</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5050, 13.4394</em></p>
+    <p>Najdłuższy zachowany kawałek Muru Berlińskiego, który został zamieniony w galerię pod chmurką. To tu znajdziesz słynny pocałunek Breżniewa i Honeckera – bardziej emocjonalny niż większość randek na Tinderze.</p>
+    <p>Miejsce obowiązkowe dla fanów sztuki ulicznej, historii, i tych, którzy chcą powiedzieć "byłem w Berlinie" bez wspinania się na wieżę TV. Obowiązkowo aparat w dłoń, ale uwaga: turystów więcej niż gołębi pod Brama Brandenburską.</p>
+    <p>Pro tip: najlepiej odwiedzić rano albo późnym popołudniem, kiedy nie trzeba się przeciskać przez 15 osób robiących zdjęcie temu samemu murkowi.</p>
+</details>
 
   <details>
-    <summary><strong>🏛 Reichstag – niemiecki parlament z widokiem</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5186° N, 13.3762° E</em></p>
-    <p>
-      W środku politycy, na dachu turyści – i nikt nikomu nie przeszkadza. Wejście za darmo, ale rezerwacja obowiązkowa – bo demokracja 
-      lubi porządek. Szczyt parlamentarny to świetne miejsce na panoramę i kontemplację „co ja tu właściwie robię?”.
-    </p>
-  </details>
+    <summary><strong>🏛️ Reichstag</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5186, 13.3762</em></p>
+    <p>Oficjalna siedziba Bundestagu, czyli niemieckiego parlamentu – miejsce, gdzie zapadają ważne decyzje, ale też gdzie turyści wdrapują się do szklanej kopuły, żeby cyknąć ładne fotki panoramy Berlina (i przypadkiem usłyszeć debatę o przepisach na ogórkową).</p>
+    <p>Kopuła zaprojektowana przez Normana Fostera wygląda jak wielka lustrzana wirówka i rzeczywiście można się tam zakręcić – szczególnie bez rezerwacji. <strong>Uwaga:</strong> wejście jest darmowe, ale <em>trzeba się wcześniej zarejestrować online</em>. Bez tego zostaje selfie zza płotu.</p>
+    <p>Warto odwiedzić o zachodzie słońca – widoki jak z katalogu, tylko bardziej demokratyczne.</p>
+</details>
+
 
   <details>
-    <summary><strong>🖼 Wyspa Muzeów</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5169° N, 13.4019° E</em></p>
-    <p>
-      Nie jedna, a pięć muzealnych świątyń sztuki – bo Berlin nie zna umiaru, nawet w eksponatach. 
-      Tu znajdziesz Nefretete, Pergamon i resztki sił po trzeciej sali z wazami. Dla koneserów kultury i fanów klimatyzacji.
-    </p>
-  </details>
+    <summary><strong>🏺 Wyspa Muzeów (Museumsinsel)</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5169, 13.4019</em></p>
+    <p>Wyspa na Sprewie, na której Niemcy postanowili zebrać najwięcej kultury, sztuki i starożytności, ile tylko pomieści kilka ładnych budynków. Jeśli lubisz patrzeć na marmurowe torsy bez głów, egipskie sarkofagi i dzieła, które wyglądają jak "ładne, ale nie wiadomo co", to jest Twoje miejsce.</p>
+
+    <p>W skład tego kulturalnego pakietu all-inclusive wchodzą:</p>
+    <ul>
+        <li><strong>🧱 Pergamonmuseum</strong> – absolutny hit, z wielkim ołtarzem Pergamońskim i Bramą Isztar. Niestety, <em>część muzeum bywa zamknięta na renowację</em>, bo wiadomo: wielkie starożytne rzeczy potrzebują wielkiej współczesnej cierpliwości.</li>
+        <li><strong>🏛️ Neues Museum</strong> – tu króluje Nefretete i jej słynny profil. Tak piękny, że aparat się sam włącza. Uwaga: <em>nie wolno robić zdjęć królowej</em>, chyba że chcesz zostać wyprowadzony z muzeum szybciej niż zdążysz powiedzieć "hashtag Berlin".</li>
+        <li><strong>🖼️ Alte Nationalgalerie</strong> – dla fanów malarstwa, od romantyzmu po impresjonizm. Można udawać znawcę, mrucząc "interesująca faktura" i kiwać głową przy Monetach.</li>
+        <li><strong>🏺 Altes Museum</strong> – rzymskie i greckie klimaty. Głowy, kolumny, amfory. Idealne miejsce, żeby zrozumieć, jak wyglądały porządki domowe 2 tysiące lat temu.</li>
+        <li><strong>📜 Bode-Museum</strong> – trochę mniej popularne, ale za to spokojniejsze. Rzeźby, monety, atmosfera zadumy (i świetna podłoga, jak ktoś lubi kafelki).</li>
+    </ul>
+
+    <p><strong>💡 Porady praktyczne:</strong></p>
+    <ul>
+        <li><strong>🎟️ Bilety:</strong> Można kupić pojedyncze bilety albo <em>Museum Pass Berlin</em> – opłaca się, jeśli planujesz więcej niż jedno muzeum i masz więcej niż jedną godzinę cierpliwości.</li>
+        <li><strong>📱 Rezerwacja online:</strong> Szczególnie do Pergamonu i Neues – bez tego ryzykujesz stanie w kolejce z grupą wycieczkową z Bawarii.</li>
+        <li><strong>🥪 Przerwa:</strong> W okolicy znajdziesz kilka kawiarni, ale przygotuj się na ceny w stylu "jesteś między kulturą a turystami".</li>
+    </ul>
+
+    <p><em>Wyspa Muzeów to nie miejsce na szybki spacer – to miejsce na estetyczne zanurzenie, lekkie zmęczenie i refleksję: "czy ja przypadkiem nie powinienem chodzić częściej do muzeów?"</em></p>
+</details>
+
 
   <details>
-    <summary><strong>🗼 Fernsehturm – czyli wieża, która patrzy na wszystkich</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5208° N, 13.4095° E</em></p>
-    <p>
-      Gigantyczna kula disco na niebie Berlina. Można wjechać na górę, wypić kawę i patrzeć na miasto z lotu niemieckiego kontrolera. 
-      Czasem widoczność dobra, czasem mgła i pytania egzystencjalne. Ale przynajmniej masz alibi, że „byłeś wysoko”.
-    </p>
-  </details>
+    <summary><strong>📡 Fernsehturm (Wieża Telewizyjna)</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5208, 13.4094</em></p>
+    <p>Berlin z góry wygląda zupełnie inaczej, szczególnie kiedy wspinasz się na <strong>Fernsehturm</strong> – najwyższy punkt w mieście (i najlepszy sposób, żeby zrozumieć, że Berlina nie da się objąć wzrokiem w mniej niż godzinę). Z wysokości 368 metrów możesz podziwiać całą stolicę, jej dachy, mosty i niekończące się budowle, które niemalże tworzą swoje własne miasto w mieście.</p>
+
+    <p>Wieża, która powstała w 1969 roku, by służyć jako nadajnik telewizyjny, stała się symbolem Berlina (nawet jeżeli bywa czasami porównywana do... „upiornego iglastego słupa”). Z jej szklanej platformy widokowej masz wrażenie, że po prostu unosisz się nad miastem, patrząc na te wszystkie szklane biurowce, zielone parki, a w tle... górujący Mauerpark. Nie zapomnij zabrać aparatu – 360 stopni panoramy na Berlin są warte każdej zaciśniętej ręki.</p>
+
+    <p><strong>🚶‍♂️ Co warto wiedzieć:</strong></p>
+    <ul>
+        <li><strong>🎟️ Bilety:</strong> Ceny biletów zaczynają się od około 20€, ale chcesz mieć miejsce przy oknie? Przygotuj się na dodatkowe opłaty. Czasami za „przyspieszony wjazd” trzeba zapłacić tyle, co za nową książkę o Berlinie, ale... to warto!</li>
+        <li><strong>💨 Widok:</strong> Idealny na zdjęcia przy zachodzie słońca (bo kto nie chce udowodnić znajomym, że jest bardziej artystyczny niż w rzeczywistości?).</li>
+        <li><strong>🍽️ Restauracja:</strong> A jeśli poczujesz głód, to Wieża oferuje rotującą restaurację – choć nie wiem, czy podawanie kelnera wciąż kręci się wokół tego samego stolika co przez 30 minut.</li>
+    </ul>
+
+    <p>Pro tip: jeśli nie jesteś fanem wysokości, to zamiast patrzeć w dół, lepiej spójrz na panoramę Berlina w kierunku wieży. Możesz wtedy skupić się na najbliższych budynkach, a nie na tym, co znajduje się 368 metrów poniżej. W końcu każdy ma swoje granice komfortu.</p>
+
+    <p><strong>⏳ Czas na wizytę:</strong> Chociaż nie jest to miejsce, w którym zostaniesz na godzinę, warto poświęcić te 30-45 minut na spokojny spacer po platformie i chwilę refleksji: "czy ten widok to naprawdę Berlin, czy może to po prostu zdjęcie, które znajdę w każdej broszurze?"</p>
+</details>
+
 
   <details>
-    <summary><strong>🎧 Berghain – świątynia techno i selekcji</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5110° N, 13.4432° E</em></p>
-    <p>
-      Kultowy klub, gdzie wejść trudniej niż na obronę magisterki. Jeśli cię wpuszczą – gratulacje, właśnie zaczynasz 12-godzinną podróż w głąb basu i potu. 
-      Jeśli nie – cóż, zawsze możesz powiedzieć, że nie zależało ci tak bardzo. (Zależało).
-    </p>
-  </details>
+    <summary><strong>🎧 Berghain</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5075, 13.4512</em></p>
+    <p>Berghain – świątynia techno, której nie da się opisać słowami, bo... trzeba tam być, żeby zrozumieć. To więcej niż tylko klub nocny. To niemalże doświadczenie religijne, tylko zamiast kadzideł i modlitwy masz sety DJ-ów, potężny bas, i ludzi, którzy wyglądają jakby przyszli z przyszłości. Jest to miejsce, które potrafi przemienić „zwykłego turystę” w „oddanego fana clubbingu”, nawet jeśli wcześniej nie rozróżniałeś techna od dźwięków budzika.</p>
+
+    <p>Wchodząc do Berghain, musisz być gotowy na jedno: nieoczekiwane. Dobrze, że to nie jest najłatwiejszy klub do dostania się. Czekasz w kolejce, nie wiedząc, czy w ogóle zostaniesz wpuszczony, bo oczywiście nie ma jasnych zasad. Mówią, że jeśli nie patrzysz jak trzeba, nie jesteś odpowiednio ubrany, albo nie masz „tego czegoś” w oczach – nie wejdziesz. Ale to może być tylko część tej legendarnej atmosfery, którą tworzy sam fakt, że nie wiesz, co się stanie.</p>
+
+    <p><strong>🎵 Co cię czeka w środku?</strong> Berghain to miejsce dla prawdziwych fanów muzyki elektronicznej, gdzie techno wylewa się z głośników, a światła pulsują w rytm bitu. Jeśli twój portfel zniknął po 5 minutach, to raczej nie są to efekty uboczne po drinkach – po prostu roztańczyłeś się do rytmu.</p>
+    <p>Chociaż Berghain jest znany ze swojej surowości i "nieprzyjaznej" polityki wejścia, to po przekroczeniu progu czeka cię całkowite zanurzenie w muzyce, ludziach i atmosferze, która jest jednym z najczystszych wyrazów berlińskiej wolności. Wszyscy są mile widziani, ale o ile możesz nie spotkać się z „klubowymi zasadami”, o tyle musisz być gotów na zupełnie inny świat, niż ten, do którego przywykłeś.</p>
+
+    <p><strong>💡 Porady praktyczne:</strong></p>
+    <ul>
+        <li><strong>🕛 Godziny otwarcia:</strong> Berghain otwarte jest zwykle przez całą noc i dzień (bo kto mówi, że noc ma trwać tylko 6 godzin?), więc jeśli czujesz się na siłach, to zapraszam do sprawdzenia, czy umiesz tańczyć do 10:00 rano.</li>
+        <li><strong>👕 Dress code:</strong> Chociaż klucz do wejścia to nie tylko wygląd, ubiór może jednak pomóc. Im bardziej casualowo (i trochę jakbyś przyszedł z opóźnieniem na imprezę w szkole), tym lepiej. Zero krawatów, zero formalności – chociaż czarne ubrania i wszystko, co daje wrażenie „niedbałej elegancji” jest na topie.</li>
+        <li><strong>🔇 Muzyka:</strong> Zmiana ustawień na tech-house, techno czy minimal – gwarantowane, że u stóp basu poczujesz się jak w innym wymiarze.</li>
+        <li><strong>📱 Aplikacje:</strong> Warto śledzić na Facebooku i innych portalach informacje o specjalnych wydarzeniach – klub bywa pełny, a więc czasami jest konieczna rezerwacja wstępu na specjalne wydarzenia.</li>
+    </ul>
+
+    <p><strong>🤫 Czego NIE robić w Berghain:</strong> Zdecydowanie nie próbuj robić zdjęć ani filmików – zasada "no photo" obowiązuje bez wyjątku. W końcu nie jesteś tu, żeby dokumentować swoją obecność w tym kultowym miejscu, tylko żeby poczuć się częścią tej wyjątkowej, zamkniętej atmosfery. Więc jeśli będziesz miał jakiekolwiek wątpliwości co do norm, lepiej od razu skupić się na muzyce.</p>
+
+    <p><strong>🕶️ Bonus:</strong> Jeśli Berghain to miejsce, które cię przerasta, sprawdź jego siostrzany klub <strong>Säule</strong> – bardziej alternatywny, ale równie intensywny. Jednak pamiętaj: <em>wszystko, co związane z Berghain, wymaga od ciebie podjęcia wyzwania.</em></p>
+</details>
+
 
   <details>
-    <summary><strong>🌳 Tiergarten – zielone płuca Berlina</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5145° N, 13.3501° E</em></p>
-    <p>
-      Gigantyczny park w centrum miasta. Miejsce na spacer, piknik, leżenie na trawie i patrzenie w niebo, aż zapomnisz, 
-      gdzie jest twoja hostelowa karta. Możesz też spotkać biegaczy, ekipy z głośnikami i wiewiórki z nadwagą.
-    </p>
-  </details>
+    <summary><strong>🌳 Tiergarten</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.3540, 13.3695</em></p>
+    <p>Tiergarten to berliński odpowiednik miejskiego „zielonego zakątka”, w którym możesz zapomnieć o smogu, zgiełku i tłumach. Wyobraź sobie idealne miejsce, gdzie możesz się zgubić, spacerować przez godziny, próbować odgadywać, czy to naprawdę jest staw, czy może tylko zarośnięta kałuża... a wszystko to z odgłosami miejskiego życia w tle.</p>
+
+    <p>Ten park, który w XVIII wieku służył jako poligon myśliwski, jest teraz jednym z najbardziej popularnych miejsc w Berlinie, oferującym równocześnie spokój natury i ogromną przestrzeń do… oddechu. Spacerując po tym wielkim obszarze zieleni, możesz poczuć się jak bohater w filmie o zbuntowanym mieszkańcu wielkiego miasta, który odnajduje harmonię wśród drzew.</p>
+
+    <p>W Tiergarten znajdziesz nie tylko przyjemność z kontaktu z naturą, ale także pomniki, rzeźby, a nawet stawy. A jeśli chcesz poczuć się jak prawdziwy Berlińczyk, to po prostu weź koc, złap książkę i zrób sobie przerwę na wylegiwanie się w trawie. (Tak, w Berlinie to naprawdę normalne. Ludzie tutaj leżą wszędzie.)</p>
+
+    <p><strong>🌳 Co cię czeka w Tiergarten?</strong> Całkiem sporo! Park to nie tylko zielony raj do odpoczynku, ale także pełen ukrytych skarbów. Możesz natknąć się na rzeźby, na przykład <strong>Rzeźbę Żurawia</strong>, a jeśli chcesz poczuć się jak prawdziwy wędrowiec, możesz zabłądzić w labiryncie drzew. Coś na pewno Cię zaskoczy. A jeśli nie to, to przynajmniej pozwoli ci na chwilę odpocząć i zwolnić tempo.</p>
+
+    <p><strong>🦅 Czego nie możesz przegapić:</strong></p>
+    <ul>
+        <li><strong>🚶‍♂️ Spacer wzdłuż rzeki Spree:</strong> Park położony jest wzdłuż rzeki, więc jeśli chcesz poczuć się jak bohater filmu o podróżniku, na pewno warto udać się na spokojny spacer brzegiem. Czasami woda odbija nie tylko niebo, ale i Twoje rozmyślania o przyszłości.</li>
+        <li><strong>🌸 Pomniki i rzeźby:</strong> A to z kolei okazja, by poczuć się jak prawdziwy historyk sztuki – nie bój się patrzeć na różne postacie i zastanawiać się, co one właściwie symbolizują.</li>
+        <li><strong>🏛️ Siegessäule (Kolumna Zwycięstwa):</strong> W samym sercu parku znajduje się Siegessäule, czyli Kolumna Zwycięstwa. Możesz ją podziwiać z dołu, ale nie zapomnij wspiąć się na szczyt, bo widok na Berlin z góry jest naprawdę niezły. Swoją drogą, to nie codziennie możesz poczuć się jak zdobywca.</li>
+    </ul>
+
+    <p><strong>💡 Pro tip:</strong> Jeśli szukasz idealnego miejsca na piknik, to jest to właśnie to! Zbieraj przyjaciół, rozłóż koc, a potem kontempluj na temat życia i... Berlinie, który chyba nigdy nie śpi.</p>
+
+    <p><strong>🚴‍♂️ Dla aktywnych:</strong> Tiergarten to również świetne miejsce do jazdy na rowerze, biegania, a nawet rolkowania, jeśli masz ochotę poczuć się jak profesjonalista. Oczywiście, gdybyś się potknął, Berlin przyjmuje cię z otwartymi ramionami… i dużą ilością lodów w pobliskich sklepikach.</p>
+
+    <p>Więc jeśli chcesz chwilę zapomnieć o miejskim zgiełku i poczuć w sobie "naturalnego Berlińczyka", to Tiergarten to miejsce, które z pewnością ci to umożliwi!</p>
+</details>
+
 
   <details>
-    <summary><strong>🏰 Zamek Charlottenburg – pałac jak z bajki, tylko bardziej niemiecki</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5201° N, 13.2956° E</em></p>
-    <p>
-      Rzeźby, złoto, fontanny – i wszystko to zbudowane po to, by zachwycać i przypominać, że królewskie życie 
-      to nie tylko korona i brokat, ale też obowiązek… robienia wrażenia. Dobry plan na spacer i mentalny reset od techno.
-    </p>
-  </details>
+    <summary><strong>🏰 Zamek Charlottenburg</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5204, 13.2951</em></p>
+    <p>Zamek Charlottenburg to prawdziwa perła Berlina, przypominająca, że nie tylko historie techno i sztuki nowoczesnej są warte uwagi. Ten pałac, niczym z bajki, nie tylko wygląda, jakby przybył prosto z XVIII wieku, ale również pozwala poczuć się jak szlachcic na chwilę. Choć w jego murach raczej nie znajdziesz „pozytywnie zakręconych” księżniczek, to na pewno odkryjesz historię pełną przepychu i majestatu.</p>
+
+    <p>Zamek został zbudowany na przełomie XVII i XVIII wieku jako rezydencja elektorskiej rodziny Hohenzollernów i przez lata pełnił rolę letniej rezydencji dla królewskiej rodziny. Jednak nie daj się zwieść tym formalnym początkowym opisom – Zamek Charlottenburg to także miejsce, które mogłoby spokojnie zagrać główną rolę w filmie o królewskich intrygach. Tylko zamiast czarownic i magicznych mikstur masz… ogrody pełne róż, pomniki i galerię sztuki.</p>
+
+    <p><strong>🎨 Co cię czeka w Zamku Charlottenburg?</strong> Przede wszystkim to jedno z nielicznych miejsc w Berlinie, które oferuje ci podróż w czasie. Jeśli chcesz poczuć się jak w XVIII wieku, nie musisz iść na bal maskowy. Wystarczy, że wejdziesz do środka. Przestronne sale, pełne przepychu wnętrza, a także obrazy, które były niegdyś częścią królewskiej kolekcji, czekają na odkrycie.</p>
+
+    <p>Poza samym pałacem, warto zwrócić uwagę na jego przepiękne ogrody, które są jak idealna sceneria do przemyśleń o tym, czy to naprawdę królowa siedziała tutaj na tronie i dawała wszystkim rozkazy, czy może była to tylko jakaś bardzo elegancka pani domu, która miała po prostu świetny gust.</p>
+
+    <p><strong>🌳 Czego nie możesz przegapić:</strong></p>
+    <ul>
+        <li><strong>👑 Pałacowe wnętrza:</strong> Zamek oferuje naprawdę olśniewające sale – zarówno te bogato zdobione, jak i te bardziej minimalistyczne. Warto przyjrzeć się z bliska meblom, które mimo upływu czasu nadal wyglądają, jakby zostały niedawno kupione na wyprzedaży u królowej. No może poza tymi złoceńkami, które raczej nie pasują do XXI wieku, ale wciąż robią wrażenie.</li>
+        <li><strong>🌷 Ogrody Charlottenburga:</strong> Jeśli zwiedzanie wnętrz to za mało, udaj się do ogrodów. Te rozległe tereny pełne róż, fontann i rzeźb będą idealnym miejscem na spacer. Jeśli masz szczęście, spotkasz tam innych turystów, którzy próbują zrobić perfekcyjne selfie z tronem w tle (a ty, udając obojętność, wykonasz ten sam ruch, tylko bardziej elegancko).</li>
+        <li><strong>🎨 Galeria Sztuki:</strong> W zamku znajduje się również galeria sztuki, gdzie możesz podziwiać obrazy, rzeźby i różne inne cuda, które niegdyś należały do rodziny królewskiej. Jeśli nie znasz się na sztuce, po prostu rób mądre miny, kiwaj głową i ciesz się z możliwości zaprezentowania swoich umiejętności „mistrza rozumienia sztuki”.</li>
+    </ul>
+
+    <p><strong>💡 Porady praktyczne:</strong></p>
+    <ul>
+        <li><strong>🕒 Godziny otwarcia:</strong> Zamek jest otwarty codziennie, więc możesz go odwiedzić nawet w dniu, w którym czujesz, że świat potrzebuje odrobiny królewskiej elegancji. Zamek otwarty jest do późnych godzin popołudniowych, więc masz czas, żeby spokojnie poczuć się jak arystokrata.</li>
+        <li><strong>🎟️ Bilety:</strong> Wstęp do zamku kosztuje, ale w porównaniu do wartości historycznej tego miejsca, to prawie jak kawa na wynos w Berlinie. Zresztą, cena biletu to tylko drobna opłata za możliwość poczucia się przez chwilę jak postać z epoki baroku.</li>
+        <li><strong>📸 Fotografowanie:</strong> Pamiętaj, że w Zamku Charlottenburg możesz robić zdjęcia, ale nie zapomnij o strefach, gdzie nie możesz rejestrować wnętrz. Choć zazwyczaj, jeśli coś jest naprawdę piękne, zrobienie zdjęcia i tak nie jest zakazane. Jednak szanuj przestrzeń i innych gości!</li>
+    </ul>
+
+    <p>Jeśli odwiedzasz Berlin i masz ochotę na odrobinę luksusu, na pewno powinieneś dodać Zamek Charlottenburg do swojej listy „must-see”. To jak wizyta w „dawnym królestwie”, gdzie choć nie znajdziesz złotych monet w każdym rogu, to poczujesz się jak ktoś naprawdę ważny.</p>
+</details>
+
 
   <details>
-    <summary><strong>🕍 Pomnik Holokaustu – labirynt ciszy</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5138° N, 13.3793° E</em></p>
-    <p>
-      Szare betonowe bloki, które milczą bardziej niż najcięższy poniedziałek. Miejsce pamięci, które zmusza do refleksji – 
-      i absolutnie nie nadaje się na TikToka z tańcem. Przejdź się powoli, poczuj klimat, nie pytaj "ale o co chodzi".
-    </p>
-  </details>
+    <summary><strong>🕊️ Pomnik Holokaustu (Pomnik Żydowskich Ofiar Holokaustu)</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5138, 13.3777</em></p>
+    <p>Pomnik Holokaustu w Berlinie to jedno z tych miejsc, które nie rzuca się w oczy, ale zostaje w pamięci na długo. Z zewnątrz wygląda jak olbrzymie pole kamiennych bloków, które wcale nie zachwycają swoją „nowoczesnością” ani tym bardziej swoją wesołością. A jednak, to jedno z tych miejsc, które zmusza do refleksji, do przemyśleń o naszej historii i o tym, jak wiele musimy jeszcze zrobić, by nigdy się nie powtórzyła.</p>
+
+    <p>Pomnik, zaprojektowany przez Petera Eisenmana, to 2711 betonowych bloków, ustawionych w równych rzędach, które zmieniają swoją wysokość. Wchodząc w to pole, zaczynasz od czoła, gdzie bloki są niskie i niepozorne, ale im dalej idziesz, tym bardziej robi się mrocznie. W końcu bloki stają się tak wysokie, że zaczynasz czuć się jak część tej przeszłości – uwięziony w świecie, którego już nie ma. Ale niech Cię nie zmyli ta niewielka wysokość na początku – ten pomnik naprawdę potrafi zrobić wrażenie.</p>
+
+    <p>Pomnik upamiętnia ofiary Holokaustu, w tym Żydów, Romów i innych grup, które zginęły w wyniku zbrodniczych działań nazistowskich. Eisenman stworzył coś, co ma dawać poczucie zagubienia i chaosu, symbolizując tragiczne i niezrozumiałe wydarzenia tej mrocznej części historii. Z każdej strony bloków czujesz się inaczej: czasami możesz poczuć się jak mały człowiek w ogromnym świecie, innym razem jakbyś był w środku burzy historii, gdzie wszystko jest chaotyczne i bezsensowne.</p>
+
+    <p><strong>🔍 Co cię czeka na Pomniku Holokaustu?</strong> Oprócz samego spaceru przez pole bloków, warto zajrzeć do podziemnego muzeum, które znajduje się tuż obok. Znajdziesz tam wystawy związane z historią Holokaustu, z osobistymi historiami ofiar i zdjęciami z tamtych lat. To miejsce daje szansę na głębsze zrozumienie, a także na moment ciszy i zadumy.</p>
+
+    <p><strong>🌟 Czego nie możesz przegapić:</strong></p>
+    <ul>
+        <li><strong>🔲 Spacer przez blokadę:</strong> Warto przejść przez to pole kamieni i poczuć na własnej skórze to zmieniające się uczucie przestrzeni i zbliżającego się mroku. Poczuj się jak część tej opowieści, nawet jeśli nie jesteś w stanie w pełni zrozumieć tego, przez co przeszły ofiary Holokaustu.</li>
+        <li><strong>🏛️ Podziemne muzeum:</strong> Jeśli chcesz zanurzyć się w historii, wejdź do podziemnego muzeum. Znajdziesz tam interaktywne wystawy, które są pełne dokumentów, zdjęć i osobistych historii. Pomoże Ci to lepiej zrozumieć, dlaczego Pomnik Holokaustu w Berlinie jest tak ważny.</li>
+    </ul>
+
+    <p><strong>💡 Porady praktyczne:</strong></p>
+    <ul>
+        <li><strong>🕒 Godziny otwarcia:</strong> Pomnik jest dostępny przez całą dobę, ale jeśli chcesz odwiedzić muzeum, sprawdź godziny jego otwarcia, ponieważ jest to miejsce zamknięte w nocy. To jedno z tych miejsc, które jest symboliczne o każdej porze dnia, ale w nocy nabiera zupełnie innego charakteru.</li>
+        <li><strong>📸 Fotografowanie:</strong> Tak, możesz zrobić zdjęcie, ale pamiętaj, że Pomnik Holokaustu to miejsce ciszy i zadumy. Jeśli robisz zdjęcie, zrób to z szacunkiem i w pełni świadomie, co ten pomnik reprezentuje.</li>
+    </ul>
+
+    <p>Pomnik Holokaustu to miejsce, które zmusza do refleksji. To nie tylko turystyczna atrakcja – to przypomnienie o przeszłości, które nie pozwala o sobie zapomnieć. Po wizycie w tym miejscu nie będziesz już tym samym turystą w Berlinie, bo jego historia na długo pozostanie z Tobą. I może to właśnie w takich miejscach trzeba zrobić najdłuższe przerwy na zastanowienie się nad tym, co mogłoby być, a co już nigdy nie wróci.</p>
+</details>
+
 
   <details>
     <summary><strong>🦒 Zoo Berlin – największy zbiór zwierząt i dzieci na wycieczce</strong></summary>
@@ -149,15 +252,60 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
   <details>
-    <summary><strong>🧱 Brama Brandenburska – tam, gdzie robi się zdjęcia „byłem w Berlinie”</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5163° N, 13.3777° E</em></p>
-    <p>
-      Ikona miasta, symbol jedności, tłum ludzi i selfie sticków. Przez wieki służyła jako brama, potem jako tło do historycznych przemówień, 
-      a dziś – jako najbardziej oblegany punkt w Berlinie. Można nie być w Berlinie, ale mieć tu zdjęcie. I to się liczy.
-    </p>
-  </details>
+    <summary><strong>🚪 Brama Brandenburska</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5163, 13.3777</em></p>
+    <p>Brama Brandenburska to symbol Berlina, jeden z najbardziej rozpoznawalnych punktów miasta, który przez lata zmieniała swoje znaczenie – od bramy do miasta, przez symbol podziału, aż po symbol zjednoczenia Niemiec. Ale nie daj się zmylić jej klasycznym, neoklasycznym wyglądem, bo ta brama to nie tylko kamienny pomnik, ale także miejsce, które wiele razy miało ogromne znaczenie w historii.</p>
+
+    <p>Wzniesiona na przełomie XVIII i XIX wieku przez króla Fryderyka Wilhelma II, Brama Brandenburska była pierwotnie symboliem pokoju, mając na celu reprezentowanie majestatu Berlina. Oczywiście, historia niemiecka nie zawsze sprzyjała pokojowi, dlatego brama przeszła przez wiele zmian. I choć nie jest to zamek ani pałac, można ją uznać za jeden z najważniejszych „pomników” Berlina – choć tym razem nie w sensie pomnika w sensie dosłownym.</p>
+
+    <p>Brama Brandenburska była świadkiem wielu ważnych wydarzeń, w tym zakończenia zimnej wojny i upadku Muru Berlińskiego. Zanim doszło do zjednoczenia Niemiec, brama była niemal symbolem podziału, znajdując się tuż obok muru, który oddzielał Berlin na wschodnią i zachodnią część. Dziś jest symbolem jedności i pomostem między przeszłością a przyszłością Niemiec.</p>
+
+    <p><strong>🎨 Co cię czeka przy Bramie Brandenburskiej?</strong> Nie da się ukryć, że Brama Brandenburska to miejsce, które nie tylko wygląda majestatycznie, ale jest też pełne historii. Będziesz miał okazję zobaczyć nie tylko klasyczną architekturę, ale również podziwiać piękny widok na okolice, w tym na Pariser Platz, który jest pełen eleganckich budynków i hoteli. Warto się zatrzymać na chwilę, by pomyśleć o historii tego miejsca i poczuć się jak część tej wielkiej opowieści.</p>
+
+    <p><strong>🌟 Czego nie możesz przegapić:</strong></p>
+    <ul>
+        <li><strong>📸 Sesja zdjęciowa:</strong> To prawdopodobnie najczęściej fotografowane miejsce w Berlinie, więc nie przegap okazji, by zrobić sobie selfie z Brandenburską w tle. Oczywiście, postaraj się, aby Twoje zdjęcie wyglądało mniej turystycznie niż zdjęcia z pierwszego dnia w mieście, ale to i tak będzie pamiątka na całe życie!</li>
+        <li><strong>🕰️ Warto wiedzieć:</strong> Zanim zaczniesz marzyć o tym, że uda ci się przejść przez bramę jak władca Berlina, pamiętaj, że brama jest otwarta dla wszystkich – ale to tylko symbol. Niemniej, to świetne miejsce, by zastanowić się nad historią tego miasta i tego regionu, a także chwilę poczuć się, jakbyś był częścią tej niesamowitej opowieści.</li>
+    </ul>
+
+    <p><strong>💡 Porady praktyczne:</strong></p>
+    <ul>
+        <li><strong>🕒 Godziny otwarcia:</strong> Brama Brandenburska to miejsce publiczne, otwarte 24 godziny na dobę. To oznacza, że możesz ją odwiedzać o każdej porze dnia i nocy. Więc jeśli lubisz wyjść na miasto nocą, to jest to miejsce, które naprawdę wygląda spektakularnie po zmroku!</li>
+        <li><strong>🚶‍♂️ Zasady:</strong> Nie ma żadnych specjalnych zasad, ale pamiętaj, że to miejsce jest bardzo popularne, więc czasami może być tłoczno. Warto spróbować odwiedzić Bramę Brandenburską wczesnym rankiem lub późnym wieczorem, kiedy nie ma już tłumów turystów.</li>
+    </ul>
+
+    <p>Brama Brandenburska to prawdziwy symbol Berlina, którego nie można pominąć podczas zwiedzania miasta. To miejsce, które łączy przeszłość z przyszłością, symbolizuje zarówno trudne chwile historii, jak i triumfy zjednoczenia. I chociaż brama sama w sobie może wyglądać jak „zwykły pomnik”, to jest to coś, co naprawdę warto zobaczyć i poczuć na własnej skórze. Na pewno nie wyjdziesz stamtąd bez kilku zdjęć i kilku przemyśleń.</p>
+</details>
+  
 
   <details>
+    <summary><strong>🏙️ Alexanderplatz</strong></summary>
+    <p><strong>📍 Współrzędne:</strong> <em>52.5219, 13.4132</em></p>
+    <p>Alexanderplatz to jedno z najbardziej rozpoznawalnych miejsc w Berlinie, które łączy w sobie historię, kulturę i nowoczesność. To nie tylko wielki plac, ale prawdziwe serce miasta, które tętni życiem przez całą dobę. Kiedyś był to rynek handlowy, a dziś to centrum handlowe, turystyczne i komunikacyjne, w którym nie sposób się nudzić. Wiesz, jak to jest – to miejsce, które ma wszystko, od wieżowców po stary tramwaj. Można by powiedzieć, że tu zawsze coś się dzieje – i to dosłownie!</p>
+
+    <p>Alexanderplatz to miejsce, które zmieniało się przez lata, a jego historia sięga nawet średniowiecza. To stąd wschodni Berlin w okresie Zimnej Wojny patrzył na Zachód, a teraz jest jednym z najważniejszych punktów na turystycznej mapie Berlina. Choć w latach 60-70. na placu wznosiły się wielkie blokowiska (typowe dla okresu PRL-u), dzisiaj Alexanderplatz ma zupełnie inny charakter – to tętniąca życiem metropolia, pełna sklepów, restauracji, hoteli i zabytków.</p>
+
+    <p><strong>🎨 Co cię czeka na Alexanderplatz?</strong> Oczywiście, największym punktem orientacyjnym jest Wieża Telewizyjna – Berliner Fernsehturm. To właśnie stąd rozpościera się najlepszy widok na całe miasto. Warto zwrócić uwagę na okoliczne budynki, w tym na wschodni Berlin, w którym przez lata dominowały ogromne bloki. Ale nie tylko architektura przyciąga uwagę. Na placu znajdziesz też ogromne centrum handlowe, liczne restauracje, a także te kultowe atrakcje jak fontanny i historyczne tramwaje.</p>
+
+    <p><strong>🌟 Czego nie możesz przegapić:</strong></p>
+    <ul>
+        <li><strong>📸 Wieża Telewizyjna:</strong> Jeśli nie chcesz zobaczyć Berlina z perspektywy turysty, to musisz wejść na Berlin Fernsehturm! Widok z samej góry to prawdziwa uczta dla oka, gdzie z jednej strony rozciąga się całe miasto, a z drugiej widać aż po horyzont. Warto również sprawdzić restaurację obrotową – ale ostrzegam, ceny są nieco… „w Berlinie”!</li>
+        <li><strong>🏙️ Górna platforma widokowa:</strong> Jeśli nie masz ochoty na wieżę, to Alexanderplatz oferuje inne miejsca z niezłym widokiem. Warto odwiedzić pobliskie kawiarnie na dachach, które oferują coś równie pięknego i przyjemnego, ale w mniej ekskluzywnej wersji.</li>
+    </ul>
+
+    <p><strong>💡 Porady praktyczne:</strong></p>
+    <ul>
+        <li><strong>🕒 Godziny otwarcia:</strong> Wieża Telewizyjna jest otwarta codziennie, ale najlepiej odwiedzać ją w godzinach porannych lub późnym popołudniem, aby uniknąć tłumów. To miejsce jest bardzo popularne, a czasami trzeba stać w długich kolejkach. Warto również zarezerwować bilety online.</li>
+        <li><strong>🚶‍♂️ Tłumy:</strong> Alexanderplatz to jedno z tych miejsc, które potrafi przyciągnąć ogromne rzesze turystów. Jeśli chcesz poczuć prawdziwy klimat tego miejsca, przyjdź rano lub wieczorem, kiedy plac nie jest jeszcze (lub już) zapełniony ludźmi. Inaczej poczujesz się jak w centrum handlowym w godzinach szczytu!</li>
+        <li><strong>🛍️ Zakupy:</strong> Jeśli chcesz zrobić zakupy, to Alexanderplatz to jedno z najlepszych miejsc na zakupy w Berlinie. W okolicy znajdują się nie tylko ogromne centra handlowe, ale także sklepy lokalne, gdzie znajdziesz niemieckie specjały i pamiątki. Pamiętaj jednak, że ceny w centrum są… no cóż, typowo berlińskie.</li>
+    </ul>
+
+    <p><strong>⚡ Historia w pigułce:</strong> Choć teraz Alexanderplatz to nowoczesne centrum miasta, nie zawsze tak było. Przez lata był to główny punkt handlowy, przez który przewijały się tłumy ludzi. Po II wojnie światowej stał się jednym z symboli podziału miasta. Dziś pełni rolę zarówno komercyjną, jak i turystyczną, będąc jednym z najważniejszych punktów wschodniego Berlina. No, może w zachodnim trochę mniej, ale historia tego miejsca mówi sama za siebie!</p>
+
+    <p>Alexanderplatz to jedno z tych miejsc, które, mimo że może się wydawać bardzo komercyjne, ma do opowiedzenia wiele historii. Jeśli masz czas, warto spędzić tu chwilę, nie tylko na robieniu zdjęć, ale na poczuciu tej ogromnej energii, która bije z tego miejsca. I pamiętaj, by spróbować jednej z berlińskich pysznych kaw – to w końcu niemieckie centrum kawowe!</p>
+</details>
+
+<details>
     <summary><strong>🚂 Dworzec Hauptbahnhof – czyli stacja kosmiczna Deutsche Bahn</strong></summary>
     <p><strong>Współrzędne:</strong> <em>52.5251° N, 13.3694° E</em></p>
     <p>
@@ -172,15 +320,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     <p>
       Największy szkielet dinozaura w Europie. Robi wrażenie, zwłaszcza na ludziach, którzy boją się gołębi. 
       Do tego meteoryty, wypchane zwierzęta i pytania dzieci w stylu „czy to jeszcze żyje?”.
-    </p>
-  </details>
-
-  <details>
-    <summary><strong>🕳 Alexanderplatz – chaos, zegar i ludzie, którzy się spieszą</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5219° N, 13.4132° E</em></p>
-    <p>
-      Plac pełen wszystkiego – ludzi, gołębi, kebabów, sklepów i autobusów, które przyjeżdżają za wcześnie albo wcale. 
-      Tu wpadniesz po coś i wyjdziesz z czymś zupełnie innym. Obowiązkowy zegar świata – dobry punkt na umówienie się i zgubienie.
     </p>
   </details>
 
