@@ -539,7 +539,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
     <summary><strong>👻 Legendy Berlina</strong></summary>
 
-  <details>
+    <details>
         <summary><strong>🔍 Tunel 57 – kiedy studenci kopali wolność</strong></summary>
         <p>📍 Współrzędne: 52.5406, 13.3885</p>
         <p>Legenda głosi, że grupka berlińskich studentów w latach 60. przekopała 145-metrowy tunel pod Murem, żeby przemycić ludzi z NRD do Berlina Zachodniego. Brzmi jak film akcji, ale działo się naprawdę – 57 osób uciekło. Szpiegowie z obu stron zacierali ręce. Adrenalina? 100% – bez Netflixa.</p>
@@ -570,7 +570,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     </details>
 
     <p><strong>ℹ️ Info bonusowe:</strong> Jeśli chcesz poczuć się jak agent – odwiedź <a href="https://www.spy-museum.de/" target="_blank">Berlińskie Muzeum Szpiegostwa</a>. Mają tu wszystko: od kamer w guziku po wykrywacz kłamstw. Wstęp bez konieczności werbunku.</p>
-</details>
 
     <details>
         <summary><strong>🦴 Biała Dama z Zamku Spandau</strong></summary>
@@ -605,6 +604,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     <p><strong>Uwaga techniczna:</strong> Duchy nie są objęte Berlin Welcome Card. Ale kto wie, może pojawią się w wersji premium?</p>
 
 </details>
+
 
 
 ---
