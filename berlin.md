@@ -251,9 +251,61 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Plan zwiedzania</strong></summary>
 
-  
+  <details>
+    <summary><strong>🗺️ Plan zwiedzania Berlina – wersja dla ludzi, którzy nie mają tygodnia urlopu</strong></summary>
 
-</details>zyli kompromis: dzieci się bawią, Ty masz kawę.</li>
+    <h3>📅 Dzień 1 – „Must-see”, czyli turysta na pełnym etacie</h3>
+    <ul>
+        <li><strong>🏛️ Brama Brandenburska</strong> – obowiązkowe selfie i szybkie „wow”, bo tłumy nie śpią.</li>
+        <li><strong>🗿 Pomnik Pomordowanych Żydów Europy</strong> – zaduma, cisza, respekt. Nie biegaj po betonowych blokach, serio.</li>
+        <li><strong>🏛️ Reichstag</strong> – szklana kopuła i polityczne widoczki. Wejście za darmo, ale <em>rejestracja online z wyprzedzeniem!</em></li>
+        <li><strong>🌳 Tiergarten</strong> – zielona przerwa na kawkę i życie, bo stopy już bolą.</li>
+        <li><strong>🖼️ Wyspa Muzeów</strong> – jeśli kochasz sztukę. Jeśli nie – przejdź się obok i udawaj, że wiesz co to Pergamon.</li>
+        <li><strong>🌉 Berliner Dom + spacer Unter den Linden</strong> – bo w Berlinie też jest trochę „ładnie”.</li>
+    </ul>
+
+    <h3>📅 Dzień 2 – Mur, hipsterzy i techno-vibe (ale bez techno)</h3>
+    <ul>
+        <li><strong>🧱 East Side Gallery</strong> – najdłuższy fragment Muru Berlińskiego ozdobiony graffiti. Instagram lubi to.</li>
+        <li><strong>🎧 RAW-Gelände</strong> – industrialna strefa sztuki, barów i rzeczy, których nie ogarniesz bez przewodnika.</li>
+        <li><strong>🍔 Lunch na Markthalle Neun</strong> – street food, piwo i ludzie, którzy wyglądają jakby mieli podcast o fermentacji.</li>
+        <li><strong>🎮 Computerspielemuseum</strong> – dla fanów retro gier i dzieci lat 90.</li>
+        <li><strong>🛍️ Friedrichshain & Kreuzberg</strong> – szwendaj się, patrz na murale, kup używaną kurtkę z lat 80.</li>
+        <li><strong>🍻 Wieczór: kluby (lub bar)</strong> – ewentualnie weź berlińskie piwo i posiedź nad Sprewą. Kultura też.</li>
+    </ul>
+
+    <h3>📅 Dzień 3 – Sekrety, relaks i coś mniej oczywistego</h3>
+    <ul>
+        <li><strong>🏰 Zamek Charlottenburg</strong> – barokowe cudo i idealna ucieczka od murów i betonu.</li>
+        <li><strong>🕵️‍♀️ Muzeum Szpiegów</strong> – podsłuchy, mikrokamery, zaszyfrowana historia. James Bond bez garnituru.</li>
+        <li><strong>💀 Teufelsberg (Góra Diabła)</strong> – opuszczona stacja nasłuchowa NSA z widokiem i klimatem „postapo”.</li>
+        <li><strong>🎭 Hackesche Höfe</strong> – dziedzińce, sklepy z rękodziełem, kawiarnie – tu nawet berlińczycy lubią zaglądać.</li>
+        <li><strong>🧁 Kawa i ciasto na zakończenie</strong> – polecam berlińskiego „Pfannkuchena”, ale nie mów na to donut.</li>
+    </ul>
+
+    <p><strong>💡 Bonus tips:</strong></p>
+    <ul>
+        <li>👉 Kolejność można zmieniać – to plan, nie konstytucja.</li>
+        <li>👉 Bilety do muzeów/reichstagu rezerwuj z wyprzedzeniem. Bez tego zostaje tylko smutna mina przed wejściem.</li>
+        <li>👉 Jeśli chcesz iść do Berghain – powodzenia. Jeśli nie – to też dobrze.</li>
+    </ul>
+
+    <p><em>Berlin się nie kończy – ale nogi tak. Trzy dni i tak dadzą Ci więcej niż niejedna książka historyczna.</em></p>
+
+</details>
+
+---
+
+<details>
+    <summary><strong>🎠 Co robić z dziećmi w Berlinie (i nie oszaleć)</strong></summary>
+    <ul>
+        <li><strong>🦕 Muzeum Historii Naturalnej</strong> – Dinozaury większe niż Twoja cierpliwość. Gigantyczny szkielet i dźwięki ryku – dzieciaki w ekstazie, Ty masz chwilę ciszy. Wstęp płatny, ale warto dla świętego spokoju.</li>
+
+        <li><strong>🧪 Futurium</strong> – Przyszłość, roboty i przyciski, które można wciskać. Interaktywna wystawa, która zajmuje dzieci na długo. A co najlepsze: wstęp za darmo. Tak, serio.</li>
+
+        <li><strong>🦁 Zoo Berlin</strong> – Jedno z największych i najstarszych w Europie. Pandki, słonie, pingwiny – a potem płacz, że nie da się zabrać ich do domu. Plus: obok jest świetny plac zabaw i stacja metra (na ucieczkę).</li>
+
+        <li><strong>🚂 Park im. Gleisdreieck</strong> – Stare tory kolejowe, zielone przestrzenie, place zabaw jak z katalogu IKEA i... kawiarnia dla dorosłych. Czyli kompromis: dzieci się bawią, Ty masz kawę.</li>
 
         <li><strong>🚤 Rejs po Szprewie</strong> – Dziecko siedzi, Ty siedzisz, Berlin płynie. Idealne, jeśli chcesz „zwiedzać”, ale nie chcesz chodzić. Statek + przekąski = rodzinna idylla na 45 minut.</li>
 
@@ -266,6 +318,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
     <p><strong>Pro tip dla dorosłych:</strong> Weź ze sobą przekąski, wodę i dużo cierpliwości. I nie planuj więcej niż 2 atrakcje dziennie – Berlin z dziećmi to maraton, nie sprint.</p>
 </details>
+
 
 
 ---
