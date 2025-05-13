@@ -508,49 +508,62 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-<summary><strong>🧠 Praktyczne porady w Barcelonie</strong></summary>
+    <summary><strong>🧠 Praktyczne porady od serca</strong></summary>
 
-<h3>💶 Gotówka czy karta?</h3>
-<p>
-W Barcelonie kartą zapłacisz praktycznie wszędzie – nawet za kawę za 1€. Ale drobne euro przydadzą się na targach, w małych piekarniach i przy kupnie pamiątek od ulicznych artystów. Warto mieć kilka monet pod ręką.
-</p>
+    <ul>
+        <li><strong>💸 Gotówka, serio?</strong> Berlin to dziwne miejsce – możesz zapłacić telefonem za kebaba, ale w knajpie z obrusami już tylko gotówką. Miej zawsze parę euro w portfelu. I nie pytaj dlaczego – po prostu tak jest.</li>
 
-<h3>💸 Napiwki</h3>
-<p>
-Napiwki są mile widziane, ale nieobowiązkowe – zwykle zostawia się 5–10% za dobrą obsługę. W barze za szybkie espresso możesz zostawić drobniaki, ale nikt się nie obrazi, jeśli nie zostawisz nic.
-</p>
+        <li><strong>🚇 Metro? Prawie jak labirynt Minotaura</strong> U-Bahn i S-Bahn to siatka jak z Matrixa. Ściągnij apkę <em>BVG Fahrinfo</em>, bo rozkłady na stacjach są dla dekoracji.</li>
 
-<h3>🛍️ Co warto kupić?</h3>
-<ul>
-  <li><strong>Szynka jamón ibérico</strong> – w próżniowym opakowaniu, do transportu.</li>
-  <li><strong>Cava</strong> – katalońskie wino musujące, świetna pamiątka i prezent.</li>
-  <li><strong>Maneki (mozaikowe figurki Gaudiego)</strong> – kolorowe, radosne i lekkie!</li>
-  <li><strong>Oliwa z oliwek</strong> – najlepiej z targu, w małej butelce na prezent.</li>
-</ul>
+        <li><strong>🧾 Bilety? Kasuj albo płać karę</strong> Tu nie ma bramek, ale są kontrolerzy – pojawiają się jak ninja. Bilet jednorazowy to 3,50 €, a mandat – 60 €. Wybór należy do Ciebie.</li>
 
-<h3>⚠️ Na co uważać?</h3>
-<ul>
-  <li><strong>Kieszonkowcy</strong> – zwłaszcza na La Rambla, w metrze i przy Sagradzie Familii. Portfel trzymaj z przodu, torby miej zawsze zamknięte!</li>
-  <li><strong>Fałszywi przewodnicy</strong> – zwłaszcza wokół popularnych atrakcji. Kupuj bilety online lub bezpośrednio w kasach oficjalnych.</li>
-  <li><strong>Wysokie ceny w "turystycznych" barach</strong> – zwłaszcza przy La Rambla. Jeśli menu nie ma cen albo ktoś "nagania" Cię do środka – lepiej odejdź 10 kroków dalej.</li>
-</ul>
+        <li><strong>🚴‍♀️ Uważaj na rowerzystów</strong> Oni tu rządzą. Mają swoje ścieżki, swoje prawa i absolutną pewność, że to Ty masz ich unikać. Stoisz na czerwonym pasku? Lepiej uciekaj.</li>
 
-<h3>🗣️ Podstawowe zwroty po hiszpańsku i katalońsku</h3>
-<ul>
-  <li><strong>Buenos días</strong> (hiszpański) / <strong>Bon dia</strong> (kataloński) – Dzień dobry</li>
-  <li><strong>Por favor</strong> / <strong>Si us plau</strong> – Proszę</li>
-  <li><strong>Gracias</strong> / <strong>Gràcies</strong> – Dziękuję</li>
-  <li><strong>¿Cuánto cuesta?</strong> / <strong>Quant costa?</strong> – Ile to kosztuje?</li>
-  <li><strong>La cuenta, por favor</strong> / <strong>El compte, si us plau</strong> – Poproszę rachunek</li>
-</ul>
+        <li><strong>🌯 Jedzenie uliczne > restauracja z gwiazdką</strong> Currywurst, döner i falafel to święta trójca berlińskiej kuchni. Czasem jedzenie z budki da Ci więcej szczęścia niż danie z pianką z buraka za 40 €.</li>
 
-<h3>🚆 Transport</h3>
-<p>
-Kup <strong>T-Casual</strong> (bilet na 10 przejazdów) – opłaca się bardziej niż pojedyncze bilety, a metro działa szybko i sprawnie. Jeśli planujesz intensywne zwiedzanie, rozważ <strong>Hola BCN!</strong> – nielimitowane przejazdy na 2–5 dni.
-</p>
+        <li><strong>📅 W niedzielę Berlin zasypia</strong> Sklepy zamknięte, ulice puste – nawet kawa może być problemem. Zrób zakupy w sobotę, chyba że Twoje hobby to głodowanie z klasą.</li>
 
-<p><em>Pro tip:</em> Poza centrum wiele miejsc mówi głównie po katalońsku – ale z uśmiechem i paroma hiszpańskimi słowami otworzysz każde drzwi. 🌞
-</p>
+        <li><strong>🧃 Pfand – kaucja za butelkę</strong> Oddajesz butelkę – dostajesz kasę. Nie wyrzucaj! Jak nie chcesz się fatygować – zostaw przy koszu, ktoś Cię wyręczy w sekundę.</li>
 
+        <li><strong>🚻 Toalety publiczne – jak z horroru lub za 1 euro</strong> Darmowa? Przygotuj się na survival. Płatna? Będzie czysto, ale Twój portfel się skrzywi. Polecam sieci fast-food – tam też się da, jak się dobrze zakręcisz.</li>
+
+        <li><strong>🧭 Berlin to 12 dzielnic = 12 światów</strong> Nie oceniaj miasta po jednej stacji metra. Kreuzberg to hipsteriada, Mitte to biura i polityka, a Neukölln – totalny miks. Błądzenie po dzielnicach to połowa frajdy.</li>
+    </ul>
+
+<details>
+    <summary><strong>🚫 Czego NIE robić, żeby nie wyjść na totalnego turystę</strong></summary>
+    <ul>
+        <li><strong>Nie pytaj o "autentyczne currywurst"</strong> – To fast-food, nie dziedzictwo UNESCO. Jak dostaniesz parówkę z keczupem i curry, to jesteś w dobrym miejscu.</li>
+
+        <li><strong>Nie chodź z Brandenburską Bramą na koszulce</strong> – Serio, nikt tak nie chodzi. Chcesz wyglądać jak lokals? Czarna bluza, słuchawki i zero kontaktu wzrokowego.</li>
+
+        <li><strong>Nie blokuj ścieżki rowerowej selfie stickiem</strong> – Zostaniesz potrącony. Z premedytacją. I z uśmiechem.</li>
+
+        <li><strong>Nie pytaj Niemca o nazizm</strong> – Tak, wiedzą. Tak, są świadomi. Tak, to nie jest temat do small talku przy piwie.</li>
+
+        <li><strong>Nie zamawiaj wody z kranu z dumą</strong> – Tu się ją dostaje automatycznie. Jak już musisz być „eko”, to nie rób z tego manifestu.</li>
+
+        <li><strong>Nie rób zdjęć ludziom na Kreuzbergu</strong> – To nie safari. Hipster z brodą i pitbullem to nie atrakcja turystyczna.</li>
+
+        <li><strong>Nie próbuj mówić po niemiecku na siłę</strong> – Lepiej mówić po angielsku niż rzucać „Ich bin ein tourist” z niemieckim z Duolingo. Berlin i tak jest po angielsku.</li>
+    </ul>
+</details>
+
+<details>
+    <summary><strong>🛍️ Co warto kupić w Berlinie (i przywieźć, zamiast magnesu z Bramy Brandenburskiej)</strong></summary>
+    <ul>
+        <li><strong>🍻 Craftowe piwo z berlińskich browarów</strong> – Zamiast zwykłego pilsa, coś z nutą hibiskusa, goryczką egzystencjalną i etykietą w stylu berlińskiego undergroundu.</li>
+
+        <li><strong>🎶 Winyl z niezależnego sklepu</strong> – Berlin to mekka dla muzyki elektronicznej i alternatywy. Nawet jeśli nie masz gramofonu, wygląda świetnie na półce.</li>
+
+        <li><strong>🧼 Mydło z berlińskich manufaktur</strong> – Pachnie jak Kreuzberg o poranku i wygląda tak dobrze, że nie będziesz miał serca go użyć.</li>
+
+        <li><strong>📕 Zine albo plakat z berlińskiej galerii</strong> – Idealny suwenir z duszą. I możesz udawać, że rozumiesz współczesną sztukę.</li>
+
+        <li><strong>👕 Koszulka z lokalnego designu</strong> – Nie z napisem „I ❤️ Berlin”, tylko coś z minimalizmem i lekko depresyjnym nadrukiem. Wtedy jesteś prawie lokalsem.</li>
+
+        <li><strong>💿 CD techno z Berghain (jeśli Cię wpuszczą)</strong> – Możesz nie wejść do środka, ale przynajmniej płyta zostanie.</li>
+    </ul>
+</details>
 
 </details>
