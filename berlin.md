@@ -534,7 +534,77 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
+---
 
+<details>
+    <summary><strong>👻 Legendy Berlina</strong></summary>
+
+  <details>
+        <summary><strong>🔍 Tunel 57 – kiedy studenci kopali wolność</strong></summary>
+        <p>📍 Współrzędne: 52.5406, 13.3885</p>
+        <p>Legenda głosi, że grupka berlińskich studentów w latach 60. przekopała 145-metrowy tunel pod Murem, żeby przemycić ludzi z NRD do Berlina Zachodniego. Brzmi jak film akcji, ale działo się naprawdę – 57 osób uciekło. Szpiegowie z obu stron zacierali ręce. Adrenalina? 100% – bez Netflixa.</p>
+    </details>
+
+    <details>
+        <summary><strong>📡 Dom szpiegów na Teufelsberg</strong></summary>
+        <p>📍 Współrzędne: 52.5077, 13.2416</p>
+        <p>Na tej sztucznej górze z gruzu po wojnie alianci zbudowali ogromną stację nasłuchową. Krążą plotki, że do dziś podsłuchuje się tam... wszystkich. Dziś to raj dla fanów urbexu i graffiti. Duchy zimnej wojny błąkają się między antenami. A może to tylko influencerzy?</p>
+    </details>
+
+    <details>
+        <summary><strong>🎩 Sprawa Güntera Guillauma – szpieg u kanclerza</strong></summary>
+        <p>📍 Współrzędne: 52.5120, 13.3777 (Kancelaria)</p>
+        <p>Ten sympatyczny pan był osobistym doradcą kanclerza RFN... i szpiegiem NRD. Zdemaskowany w 1974, doprowadził do politycznej bomby – kanclerz zrezygnował. Plotka głosi, że Guillaume miał talent do słuchania – dosłownie i w przenośni.</p>
+    </details>
+
+    <details>
+        <summary><strong>🚪 Checkpoint Charlie – teoretycznie punkt graniczny</strong></summary>
+        <p>📍 Współrzędne: 52.5076, 13.3904</p>
+        <p>Oficjalnie przejście graniczne. Nieoficjalnie – miejsce szemranych deali, wymiany agentów i historii, których nawet CIA nie chciała dokumentować. Dziś: muzeum, manekiny w mundurach i selfie turyści. Ale coś tam jeszcze unosi się w powietrzu... może dreszcz historii, może zapach currywursta.</p>
+    </details>
+
+    <details>
+        <summary><strong>🕳️ Znikający agent w tunelu U-Bahn</strong></summary>
+        <p>📍 Współrzędne: okolice stacji U8 Rosenthaler Platz</p>
+        <p>Według miejskiej legendy w latach 70. widziano, jak mężczyzna w garniturze wszedł do tunelu metra... i już nie wyszedł. Zniknął bez śladu, bez świadków, jak dobre intencje w polityce. Mówi się, że to agent z fałszywym paszportem i jeszcze bardziej fałszywym uśmiechem.</p>
+    </details>
+
+    <p><strong>ℹ️ Info bonusowe:</strong> Jeśli chcesz poczuć się jak agent – odwiedź <a href="https://www.spy-museum.de/" target="_blank">Berlińskie Muzeum Szpiegostwa</a>. Mają tu wszystko: od kamer w guziku po wykrywacz kłamstw. Wstęp bez konieczności werbunku.</p>
+</details>
+
+    <details>
+        <summary><strong>🦴 Biała Dama z Zamku Spandau</strong></summary>
+        <p>📍 Współrzędne: 52.5361, 13.1992</p>
+        <p>Zamek Spandau nie tylko wygląda jak z podręcznika do historii, ale podobno zamieszkuje go duch kobiety w bieli. Mówią, że to duch hrabiny, która nie była fanką happy endów. Jeśli zobaczysz ją na korytarzu – nie krzycz. Uznaj, że to lokalna atrakcja i idź dalej.</p>
+    </details>
+
+    <details>
+        <summary><strong>💀 Czarna Postać z Unter den Linden</strong></summary>
+        <p>📍 Współrzędne: 52.5170, 13.3889</p>
+        <p>Wieczorami przy prestiżowej alei Unter den Linden można podobno spotkać mężczyznę w czerni, który... znika. Ponoć to duch jednego z pruskich oficerów, który za życia też miał problem z punktualnym wychodzeniem. Straszy tylko tych, którzy nie szanują architektury baroku.</p>
+    </details>
+
+    <details>
+        <summary><strong>⚰️ Kaplica Czaszek na Sophienstraße</strong></summary>
+        <p>📍 Współrzędne: 52.5282, 13.4018</p>
+        <p>W małym kościele Sophienkirche ponoć znajdują się... szczątki z dawnych pochówków, a czasem w nocy coś tam stuka. Duchy? Przeciąg? A może dźwięk sumienia po zbyt drogim currywurście? Legenda mówi, że czaszki mają pilnować spokoju dusz. I turystów.</p>
+    </details>
+
+    <details>
+        <summary><strong>🪞Lustro z pałacu Charlottenburg</strong></summary>
+        <p>📍 Współrzędne: 52.5206, 13.2957</p>
+        <p>Jedno z luster w pałacu Charlottenburg rzekomo odbija nie to, co trzeba. Zamiast Ciebie – pokazuje duchy pruskich dam, które były bardziej dramatyczne niż opera. Idealne miejsce, jeśli chcesz mieć wymówkę dla złego selfie.</p>
+    </details>
+
+    <details>
+        <summary><strong>🎭 Duch aktora z Friedrichstadt-Palast</strong></summary>
+        <p>📍 Współrzędne: 52.5245, 13.3886</p>
+        <p>Nieudany aktor z lat 20. XX wieku podobno do dziś nawiedza kulisy, szepcze teksty i... poprawia dykcję. Jeśli poczujesz nagłe zacięcie do monologu szekspirowskiego – to nie Ty, to on.</p>
+    </details>
+
+    <p><strong>Uwaga techniczna:</strong> Duchy nie są objęte Berlin Welcome Card. Ale kto wie, może pojawią się w wersji premium?</p>
+
+</details>
 
 
 ---
