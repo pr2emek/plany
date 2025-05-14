@@ -86,9 +86,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
     <p>📍 Współrzędne: 36.7177° N, 4.4175° W</p>
     <p>Palmy, papugi, fontanny, cień i ławki. Jeśli szukasz przerwy między jedną atrakcją a drugą – to idealne miejsce, by usiąść i przekąsić bocadillo. Czasem występują tam też koncerty, pokazy lub dzieci w trybie turbo – ale generalnie spokój i zieleń.</p>
   </details>
-
-  
-</details>
+ 
 
  
 <details>
@@ -128,7 +126,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p>Nie mów nikomu, że Ci to pokazałem. Malaga ma wiele twarzy – i nie wszystkie są podświetlone neonami.</p>
 </details>
-
+</details>
 
 
 ---
