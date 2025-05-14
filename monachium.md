@@ -6,7 +6,7 @@ permalink: /monachium.html
 
 # Monchium 🇩🇪 
 
-Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Monachium! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 ---
