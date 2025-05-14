@@ -19,8 +19,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Znajdziesz tu wszystko: barokowe pałace, futurystyczne muzea, ogrody angielskie, no i Berghain dla grzecznych – czyli <em>reszta Niemiec patrzy z zazdrością</em>. Ale uwaga: tanio to już było. Za kawę możesz zapłacić więcej niż za bilet do Berlina.</p>
 </details>
 
-<details>
-  <summary><strong>🛬 Jak się dostać do Monachium?</strong></summary>
+  <h3>🛬 Jak się dostać do Monachium?</h3>
 
   <p><strong>✈️ Samolotem:</strong> Główne lotnisko to <strong>Flughafen München (MUC)</strong>, czyli Międzynarodowy Port Lotniczy im. Franza Josefa Straussa. Duży, nowoczesny, z automatami do precli. Z lotniska do centrum dostaniesz się pociągiem S-Bahn (linie S1 lub S8) w ok. 40–45 minut. Bilet – ok. 13 euro, ale za widok krów po drodze bezcenne.</p>
   
@@ -31,10 +30,8 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>🚄 Pociągiem:</strong> Deutsche Bahn do Monachium z Berlina, Pragi, Wiednia, Zurychu i nawet z Warszawy. Dworzec główny (Hauptbahnhof) jest ogromny, pełen ludzi, fast foodów i klimatu lat 90.</p>
   
   <p><strong>🚗 Samochodem:</strong> Autostrady są świetne – a w Monachium niepotrzebnie, bo korki i ceny parkingów przypominają o sensie transportu publicznego.</p>
-</details>
 
-<details>
-  <summary><strong>🏡 Życie w Monachium</strong></summary>
+  <h3>🏡 Życie w Monachium</h3>
 
   <p><strong>💰 Koszty:</strong> Jedno z najdroższych miast w Niemczech. Nawet psy mają tam więcej na koncie niż przeciętny turysta. Kawalerka za 1500 euro? Jasne. Ale za to masz dostęp do kultury, Alp i najlepszego piwa na świecie.</p>
 
