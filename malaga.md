@@ -132,255 +132,97 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🗺️ Plan zwiedzania</strong></summary>
+  <summary><strong>🗺️ Plan zwiedzania -  Malaga w jeden dzień – misja (nie)możliwa</strong></summary>
 
-<details>
-  <summary><strong>🗓️ Dzień 1: Serce Madrytu, królewski przepych i egipski zachód słońca</strong></summary>
+  <p>Masz tylko jeden dzień w Maladze i chcesz zobaczyć wszystko? Spokojnie, nie musisz biegać jak gepard po espresso. Oto plan, który pozwoli Ci poczuć klimat miasta – bez zadyszki i bez FOMO.</p>
 
+  <h4>☀️ 9:00 – Śniadanie jak Malagueño</h4>
   <p>
-    Madryt nie atakuje atrakcji na hurra – on Cię wciąga jak dobra telenowela. Zaczynamy od samego serducha miasta, potem zaglądamy do królewskich komnat, robimy przystanek na coś pysznego, a kończymy w miejscu, gdzie słońce żegna się w stylu faraonów. Brzmi intensywnie? Tak ma być.
+    Zacznij dzień w lokalnej kawiarni przy <strong>Paseo del Parque</strong> albo w pobliżu Mercado Central de Atarazanas. Zamów <em>tostada con tomate y jamón</em>, popij kawą (kawa w Maladze ma swoje tajemnicze nazwy – „sombra”, „nube”, „mitad” – nie pytaj, po prostu bierz co podadzą).
   </p>
 
-  <h4>🌞 Puerta del Sol</h4>
+  <h4>🏰 10:00 – Alcazaba i Gibralfaro</h4>
   <p>
-    Witamy w centrum wszystkiego. Puerta del Sol to taki madrycki Times Square – tylko bardziej hiszpański i z mniejszą szansą na reklamę zegarków. Tutaj znajdziesz <strong>punkt „kilometr zero”</strong> – czyli start wszystkich hiszpańskich dróg. Można się tu zgubić, zakochać i znaleźć w tym samym czasie. 
-    Przed Tobą słynny <strong>niedźwiedź wspinający się na drzewo poziomkowe</strong> (czyli symbol miasta – serio, Madryt ma słabość do dziwnych zwierząt), a wokół kręcą się turyści, grajkowie, mimowie i – oczywiście – sprzedawcy dziwnych okularów. Klimat? Jakby każda minuta była początkiem święta.
+    Zacznij zwiedzanie od <strong>Alcazaby</strong> – mauretańskiej twierdzy z widokiem, który wywołuje instynkt robienia selfie. Potem podejdź (lub podjedź) na <strong>Castillo de Gibralfaro</strong> – panorama całej Malagi, portu i życia. Uwaga: pod górkę – wygodne buty obowiązkowe.
   </p>
 
-  <h4>⛪ Plaza Mayor</h4>
+  <h4>⛪ 12:30 – Katedra (czyli La Manquita)</h4>
   <p>
-    Kilka kroków dalej trafiasz na <strong>Plaza Mayor</strong> – plac jak z obrazka. Otoczony eleganckimi budynkami, idealnie symetryczny, z posągiem króla, który wygląda, jakby i on też szukał najbliższej kawiarni. W dzień to raj dla turystów i artystów ulicznych, wieczorem zmienia się w arenę tapasowych podbojów. 
-    <strong>Tip: zamów „bocadillo de calamares”</strong> – kanapkę z kalmarami. Brzmi dziwnie? Może. Ale Madryt się nie pyta – Madryt częstuje.
+    Z góry schodzimy do serca miasta – <strong>Katedry Malagi</strong>, czyli "Jednorękiej Damy" (brakuje jej jednej wieży). W środku więcej złota niż w banku – warto zajrzeć, nawet jeśli kościoły Cię nie ruszają. Bonus: wejście na dach, jeśli masz czas i chęć na kolejne widoki.
   </p>
 
-  <h4>🧱 Mercado de San Miguel</h4>
+  <h4>🥘 14:00 – Czas na tapas i siestę</h4>
   <p>
-    Czas coś przegryźć – i robimy to z przytupem. Wchodzisz do <strong>Mercado de San Miguel</strong> i wiesz, że Twoja dieta właśnie dostała SMS-a z tekstem „nie dzisiaj”. 
-    Tapasy, owoce morza, mini-deserki, wina z każdej części Hiszpanii. Tu jedzenie jest sztuką, a degustacja to obowiązek turysty. Można zacząć od ostrygi, potem przegryźć jamón ibérico, a na deser – kieliszek cava i churros. 
-    Uwaga: portfel może zapłakać, ale serce i żołądek będą śpiewać flamenco.
+    Przejdź do <strong>Mercado Central de Atarazanas</strong> – klasyka. Świeże produkty, tapas bary, lokalne wino. Zjedz krewetki, sardynki albo po prostu wybierz coś, co wygląda dobrze i nie gryzie. Malaga to kulinarna Andaluzja w pigułce.
   </p>
 
-  <h4>🏰 Pałac Królewski (Palacio Real)</h4>
+  <h4>🎨 15:30 – Sztuka dla odważnych: Museo Picasso</h4>
   <p>
-    Królowie tu już nie śpią, ale pałac wciąż wygląda, jakby lada moment miał wjechać orszak z XVIII wieku. <strong>Palacio Real</strong> to największy pałac królewski w Europie Zachodniej – i serio, czuć to każdym metrem marmuru.
-    Z zewnątrz monumentalny, w środku – pełen złota, jedwabiu i żyrandoli, które same mogłyby mieć swoje konto na Instagramie. 
-    Wchodzisz i czujesz, że Twoje codzienne życie (z mikrofalą i IKEA) to zupełnie inna liga. A jednak... podoba Ci się tu. Nawet bardzo.
+    Malaga to rodzinne miasto Pabla Picassa – wypada zajrzeć do <strong>Muzeum Picasso</strong>. Jeśli nie jesteś fanem sztuki nowoczesnej, przynajmniej zobaczysz klimatyczny budynek Palacio de Buenavista. Dla fanów sztuki: złoto. Dla reszty: fotka i dalej.
   </p>
 
-  <h4>⛪ Katedra Almudena</h4>
+  <h4>🏖️ 17:00 – Spacer na plażę La Malagueta</h4>
   <p>
-    Po drugiej stronie ulicy stoi <strong>Katedra Almudena</strong> – i nie da się jej nie zauważyć. Wielka, różnorodna, trochę jakby ktoś przez pomyłkę połączył gotyk z modernizmem. Ale to właśnie czyni ją wyjątkową.
-    W środku witraże robią klimat, a z dachu roztacza się <strong>fantastyczny widok na miasto i pałac</strong>. Warto się wspiąć – to taki prezent za wytrwałość. A poza tym: lepsze selfie niż z tarasu galerii handlowej.
+    Czas rozprostować nogi. Przejdź się nad morze – <strong>plaża La Malagueta</strong> jest 5 minut od centrum. Można zamoczyć nogi, kupić kokos od gościa z lodówką lub po prostu posiedzieć i patrzeć, jak życie płynie wolniej niż metro w Maladze.
   </p>
 
-  <h4>🌇 Świątynia Debod</h4>
+  <h4>🌇 19:00 – Zachód słońca i kolacja w Muelle Uno</h4>
   <p>
-    I nagle... Egipt. W środku Madrytu. <strong>Świątynia Debod</strong> to prezent od Egipcjan, żeby podziękować Hiszpanom za pomoc w ratowaniu zabytków. 
-    Efekt? Egipska świątynia z widokiem na park i zachodzące słońce. Romantyzm w czystej postaci – pary siedzą na murkach, dzieci biegają w tle, a słońce chowa się za horyzontem jak aktor po owacjach na stojąco. 
-    Można tu siedzieć godzinami. Albo przynajmniej do momentu, aż skończy się bateria w telefonie.
+    Portowa część miasta – <strong>Muelle Uno</strong> – to idealne miejsce na pożegnanie dnia. Restauracje z widokiem, palmy, street artyści. Zamów <em>espeto de sardinas</em> (sardynki z grilla na patyku) i kieliszek wina z Malagi – bo zasłużyłeś!
   </p>
 
-  <h4>🍷 Wieczór – tapas i zachwyty</h4>
-  <p>
-    Po takim dniu należy Ci się coś pysznego i coś w kieliszku. Polecam tapas tour po okolicy La Latina – bar do baru, tapa do tapy, aż trafisz na swój ulubiony smak Madrytu. A jeśli nie tapas, to przynajmniej kieliszek tinto de verano z widokiem na miasto, które Cię właśnie rozkochało.
-  </p>
-
-  <p><strong>Tip z serca:</strong> Ten dzień to jak wstęp do znajomości z Madrytem – trochę klasyki, trochę jedzenia i trochę zachwytu. Nie biegnij – daj się prowadzić. Madryt wie, co robi.</p>
+  <p><em>Podsumowanie? W jeden dzień zobaczysz twierdzę, morze, sztukę, tapas i zachód słońca. A jeśli coś pominiesz – masz dobry powód, żeby wrócić.</em></p>
 </details>
 
-<details>
-  <summary><strong>🗓️ Dzień 2: Sztuka, zieleń i ulica, która nie zasypia</strong></summary>
-
-  <p>
-    Drugi dzień w Madrycie? Czas na kombinację: wielka sztuka, wielka zieleń i wielka ulica. Czyli idealny miks na dzień pełen „wow”, „mmm” i „ale fajnie tu”. Wszystko w zasięgu nóg i z przerwami na coś słodkiego.
-  </p>
-
-  <h4>🖼️ Muzeum Prado</h4>
-  <p>
-    Zaczynamy mocno – <strong>Muzeum Prado</strong>. Świątynia sztuki, gdzie Goya, Velázquez i spółka wiszą na ścianach i rzucają Ci wyzwanie: „rozumiesz mnie?”. Może nie zawsze, ale to nie przeszkadza się zachwycać. Must-see i must-slow-walk.
-  </p>
-
-  <h4>🖌️ Muzeum Thyssen-Bornemisza</h4>
-  <p>
-    Dosłownie rzut beretem od Prado (i tak, ktoś kiedyś rzucał), znajduje się <strong>Thyssen</strong> – idealna kontynuacja artystycznej podróży. Tu masz przekrój przez całą historię sztuki: od średniowiecza po pop-art. A sala z pejzażami Holendrów? Ukojenie duszy.
-  </p>
-
-  <h4>🎨 Centrum Sztuki Reina Sofía</h4>
-  <p>
-    Trzeci punkt „Złotego Trójkąta Sztuki”. <strong>Reina Sofía</strong> to dom nowoczesności – Picassa, Dalí i ludzi, którzy mieli wizje niekoniecznie po herbacie. „Guernica” robi wrażenie większe niż ekran IMAX. I nie zapomnij o windzie panoramicznej!
-  </p>
-
-  <h4>🌳 Park Retiro</h4>
-  <p>
-    Po uczcie dla ducha, pora na ucztę dla płuc. <strong>Park Retiro</strong> – zielony raj, w którym życie płynie wolniej, a ludzie są piękniejsi (to ta hiszpańska aura). Łódki, pawie, kryształowy pałac i gofry, które kalorycznie niweczą cały ten spacer. Ale warto.
-  </p>
-
-  <h4>🏛️ Puerta de Alcalá</h4>
-  <p>
-    Wychodząc z Retiro, wpadasz na <strong>Puerta de Alcalá</strong> – triumfalną bramę, która mówi „Hola!” bardziej elegancko niż jakikolwiek przewodnik. Można podziwiać, można cyknąć zdjęcie, można zrobić mini-piknik na trawniku obok.
-  </p>
-
-  <h4>🛍️ Gran Vía</h4>
-  <p>
-    Królowa madryckich ulic. <strong>Gran Vía</strong> to Broadway, Soho i 5th Avenue w jednym, tylko z churrosami na każdym rogu. Sklepy, kina, neony, muzyka i ludzie, którzy wyglądają, jakby właśnie wrócili z castingu do Netflixa. Tu się nie chodzi – tu się płynie z tłumem.
-  </p>
-
-  <h4>⛲ Plaza del Callao</h4>
-  <p>
-    Gran Vía prowadzi Cię prosto na <strong>Plaza del Callao</strong> – serce miejskiego zgiełku, gdzie możesz usiąść na schodach i patrzeć, jak życie mknie. Obok świetne księgarnie, lodziarnie i kino z widokiem na miasto z dachu (El Corte Inglés – serio, warto).
-  </p>
-
-  <h4>🍸 Rooftop Bellas Artes</h4>
-  <p>
-    Na wieczór – <strong>Circulo de Bellas Artes</strong>. Rooftop z widokiem na cały Madryt. Wino, zachód słońca, lekki wiatr i poczucie, że jesteś bohaterem jakiegoś hiszpańskiego filmu. I może jesteś.
-  </p>
-
-  <p><strong>Tip z serca:</strong> Ten dzień można spokojnie przejść piechotą – trasa to coś między kulturalnym maratonem a miejskim spa dla zmysłów. Nie spiesz się – Madryt i tak Cię dogoni z tapasami.</p>
-</details>
-
-<details>
-  <summary><strong>🗓️ Dzień 3: Hipsteriada, stadion i sekrety Madrytu</strong></summary>
-
-  <p>
-    Trzeci dzień to moment, by zajrzeć za kulisy. Tam, gdzie turyści rzadziej docierają, a lokalsi mają swoje ulubione kawiarnie, murale i stadiony. To Madryt bez filtrów – z nutką espresso, graffiti i stadionową pieśnią w tle.
-  </p>
-
-  <h4>☕ Malasaña</h4>
-  <p>
-    Zaczynamy od <strong>Malasañi</strong> Jeśli Madryt miałby swoje serce hipstera – byłaby to Malasaña. Tu na każdej ulicy znajdziesz mural, bar z piwem rzemieślniczym i second-hand, w którym można kupić kurtkę z lat 80., która wygląda, jakby przeżyła Movidę (i pewnie tak było). To dzielnica, gdzie babcia serwuje tapas obok sklepu z winylami, a każdy pies ma bardziej wyszukane imię niż większość ludzi. Idealne miejsce na kawę z mlekiem owsianym, artystyczne zdjęcie latarni i rozważania nad sensem życia – albo przynajmniej nad tym, czy zamówić jeszcze jedną empanadę.
-</p>
-
-
-  <h4>🎨 Calle del Pez i murale</h4>
-  <p>
-    Spacer ulicą <strong>del Pez</strong> to jak scrollowanie Instagrama w realu. Murale, grafiki, małe galerie i antykwariaty z książkami, które mają więcej historii niż większość seriali. Cicho, kolorowo i inspirująco.
-  </p>
-
-  <h4>🪞 Plac Dos de Mayo</h4>
-  <p>
-    Serce Malasañi – <strong>Plaza Dos de Mayo</strong>. Miejsce, gdzie możesz zjeść tapas, wypić coś zimnego i obserwować lokalne życie: dzieci grające w piłkę, psy większe niż ich właściciele i staruszków grających w domino z miną taktyków wojskowych.
-  </p>
-
-  <h4>🏟️ Santiago Bernabéu</h4>
-  <p>
-    Pora na futbolową pielgrzymkę – <strong>Santiago Bernabéu</strong>. Niezależnie, czy kochasz Real, czy nie wiesz, co to spalony – stadion robi wrażenie. Zwiedzanie muzeum to podróż przez historię piłki, złote buty i setki trofeów. A sklepik? Groźny dla portfela.
-  </p>
-
-  <h4>🛹 Madrid Río</h4>
-  <p>
-    Z Bernabéu wskocz w metro i przeskocz do <strong>Madrid Río</strong> – nadbrzeżnego parku, który ciągnie się kilometrami. Miejsce na spacer, rolki, rower albo po prostu leżenie na trawie i udawanie, że jesteś lokalsem, który ma wszystko pod kontrolą.
-  </p>
-
-  <h4>🏟️ Wanda Metropolitano (dla chętnych)</h4>
-  <p>
-    Dla kibiców drugiej strony barykady – <strong>Wanda Metropolitano</strong>, dom Atlético. Stadion nowoczesny jak lotnisko, z klimatem jak z lat 90., ale pełen pasji. Dla fanów piłki – obowiązkowo, dla reszty – ciekawe doświadczenie.
-  </p>
-
-  <h4>🕯️ Sekretne legendy i nawiedzone ulice</h4>
-  <p>
-    Wieczorem wróć do centrum i rusz śladem <strong>madryckich legend</strong>. Zajrzyj na Calle del Milagro (podobno pełna cudów), do nawiedzonego <strong>Domu Siedmiu Kominków</strong>, a potem zamknij dzień przy fontannie Cibeles – królowej wód i memów.
-  </p>
-
-  <p><strong>Tip z serca:</strong> Daj się ponieść nastrojowi tego dnia – to dzień, w którym warto skręcić w boczną uliczkę, usiąść na krawężniku i zjeść lody, nie patrząc na mapę. Madryt i tak znajdzie Cię sam.</p>
-</details>
-
-<details>
-  <summary><strong>🗓️ Dzień 4: Wypad poza Madryt – ucieczka w klimat średniowieczny</strong></summary>
-
-  <p>
-    Po trzech dniach intensywnego zwiedzania, czas na wypad za miasto. Madryt ma wokół siebie prawdziwe perełki – od królewskich rezydencji, przez średniowieczne zaułki, po miasteczka z duszą i widokami, które Instagram przyjmie bez filtra.
-  </p>
-
-  <h4>⛪ Toledo – miasto trzech kultur</h4>
-  <p><strong>Dlaczego warto:</strong> Toledo to podróż w czasie – z jednej strony katedra, z drugiej meczet, a gdzieś między nimi synagoga. Wszystko na wzgórzu, otoczone rzeką, z wąskimi uliczkami jak labirynt z powieści historycznej. Idealne na całodniowy spacer i churros w cieniu wieży. Bonus: widok z punktu widokowego Mirador del Valle – wow.</p>
-  <p><strong>Jak dojechać:</strong> Pociąg AVANT z dworca Atocha – 33 minuty jazdy, jeździ co godzinę. Bilet w dwie strony to ok. 20–25 €. Albo autobus ALSA – taniej (ok. 10 €), ale jedzie godzinę i 30 minut.</p>
-
-  <h4>🏰 El Escorial – królewski chill i groby monarchów</h4>
-  <p><strong>Dlaczego warto:</strong> El Escorial to pałac-klasztor-muzeum-cmentarz w jednym. Królowie Hiszpanii tu mieszkali, modlili się i... zostali pochowani. Ogrody, widoki na góry i powaga miejsca sprawiają, że człowiek czuje się, jakby znał Habsburgów osobiście. A przy tym mniej turystów niż w Toledo.</p>
-  <p><strong>Jak dojechać:</strong> Pociąg Cercanías z dworca Chamartín lub Príncipe Pío – linia C3 lub C8. Dojazd trwa ok. 1 godziny. Bilet tam i z powrotem – ok. 10 €.</p>
-
-  <h4>🎨 Alcalá de Henares – śladami Cervantesa</h4>
-  <p><strong>Dlaczego warto:</strong> Miasto narodzin Cervantesa (tak, tego od Don Kichota). Stare uniwersytety, brukowane ulice i klimat spokojnego studenckiego miasteczka. Idealne, jeśli chcesz mniej tłumów i więcej literackiej aury.</p>
-  <p><strong>Jak dojechać:</strong> Cercanías C2 z Atocha – 40 minut jazdy. Bilet to ok. 5 € w jedną stronę. Pociągi kursują co 10–20 minut.</p>
-
-  <p><strong>Tip z serca:</strong> Zabierz wygodne buty i pustą kartę pamięci. Te miasteczka wyglądają jakby kręcono tam filmy kostiumowe – tylko bez green screena.</p>
-</details>
-
-</details>
 
 ---
 
 <details>
-  <summary><strong>🚇 Transport w Madrycie</strong></summary>
+  <summary><strong>🚍 Transport publiczny w Maladze – czyli jak nie zbankrutować na taksówkach</strong></summary>
 
-  <h4>🚌 Komunikacja miejska</h4>
+  <h4>🛬 Dojazd z lotniska do centrum Malagi</h4>
   <p>
-    <p>
-  Madryt to nie miejsce, gdzie „się idzie pieszo wszędzie” (chyba że kochasz spacery maratońskie w 40 stopniach). Na szczęście komunikacja miejska działa tu jak dobrze naoliwiona maszyna – szybka, punktualna i klimatyzowana (czyli zbawienie w lipcu). Metro to prawdziwy gigant – 13 linii, ponad 300 stacji i tyle tuneli, że nawet kret miałby zawroty głowy. Do tego autobusy EMT (nie, nie to pogotowie – to lokalne niebieskie autobusy), które kursują nawet wtedy, gdy nie wiadomo dlaczego wszystko inne nie działa. A jeśli marzysz o podróży za miasto – są pociągi Cercanías, czyli szybkie wehikuły, które przeniosą Cię do urokliwych miasteczek i z powrotem, zanim zdążysz powiedzieć „churros z czekoladą”.
-</p>
-  </p>
-
-  <ul>
-    <li><strong>Bilet jednorazowy (metro/autobus):</strong> 1,50–2,00 €</li>
-    <li><strong>10 przejazdów (Metrobus):</strong> 12,20 € – ważny na metro i autobusy EMT</li>
-    <li><strong>Dopłata lotniskowa:</strong> +3,00 €</li>
-    <li><strong>Bilet turystyczny (Abono Turístico):</strong> nielimitowane przejazdy – 
-      <ul>
-        <li>1 dzień: 8,40 €</li>
-        <li>2 dni: 14,20 €</li>
-        <li>3 dni: 18,40 €</li>
-        <li>7 dni: 35,40 €</li>
-      </ul>
-    </li>
-  </ul>
-
-  <p>
-    Karta transportowa <strong>TTP / Tarjeta Multi</strong> kosztuje 2,50 € i można ją kupić na stacjach metra.
-  </p>
-
-  <h4>🚍 Autobusy podmiejskie (Interurbanos)</h4>
-  <p>
-    Zielone autobusy łączą Madryt z okolicznymi miejscowościami (np. El Escorial, Alcalá de Henares, Aranjuez). Odjeżdżają z dużych dworców, jak <strong>Moncloa</strong> czy <strong>Avenida de América</strong>.
+    Wysiadłeś z samolotu, masz piasek w oczach i chcesz szybko dotrzeć do hotelu? Masz trzy opcje:
   </p>
   <ul>
-    <li><strong>Bilet jednorazowy:</strong> 1,30 € – 5,00 € w zależności od strefy</li>
-    <li><strong>10 przejazdów:</strong> od 12,20 € (na krótkich trasach)</li>
+    <li><strong>🚆 Pociąg Cercanías C1</strong> – najwygodniejsza opcja. Stacja jest tuż przy terminalu 3. Wsiadasz, siadasz, 11 minut później jesteś w centrum (stacja Málaga Centro-Alameda). Cena? Około <strong>1,80 €</strong>. Bilety kupisz w automacie.</li>
+    <li><strong>🚌 Autobus A Express</strong> – jedzie dłużej (ok. 20–25 minut), ale zatrzymuje się w kilku punktach w centrum. Cena biletu: <strong>4 €</strong>. Można kupić u kierowcy – gotówką, najlepiej odliczoną.</li>
+    <li><strong>🚖 Taksówka</strong> – najwygodniej i najdrożej. Cena do centrum to ok. <strong>20–25 €</strong>. Idealne, jeśli jesteś z bagażem, dziećmi albo po nocnym locie z trzema przesiadkami i chcesz po prostu żyć.</li>
   </ul>
+    
+  <h4>🚌 Autobusy miejskie (EMT Málaga)</h4>
   <p>
-    Dobre opcje na wycieczki poza miasto! Uwaga: bilety kupuje się u kierowcy lub przez aplikację Consorcio Transportes Madrid.
+    Najlepsi przyjaciele turysty bez prawa jazdy. Autobusy EMT jeżdżą często, głośno i czasem trochę za szybko. Rozpoznasz je po niebieskim kolorze i kierowcy, który nie boi się żadnego ronda. Bilety kupisz u kierowcy (1,40 €), ale <strong>lepiej zainwestować w kartę</strong> „Tarjeta Transbordo” – taniej i szybciej, bez szeleszczących monet.
   </p>
 
-  <h4>🚆 Pociągi Cercanías</h4>
+  <h4>🚇 Metro Málaga</h4>
   <p>
-    Madryckie pociągi podmiejskie łączą centrum z dalszymi dzielnicami i miastami (np. Toledo, Aranjuez, lotnisko T4). Szybkie i punktualne – idealne na wycieczki.
+    Tak, Malaga ma <strong>metro</strong>. Choć to słowo brzmi tu nieco szumnie – mamy dwie linie, które bardziej przypominają tramwaj podziemno-naziemny. Działa, dowozi, jest klimatyzacja i nie trzeba się przepychać. Idealne na szybki wypad z centrum do dzielnic peryferyjnych (np. na stadion).
   </p>
-  <ul>
-    <li><strong>Bilet jednorazowy:</strong> 1,70 € – 5,50 € (w zależności od strefy, do 7 stref)</li>
-    <li><strong>Bilet 10 przejazdów:</strong> 10,20 € – 38,45 € (w zależności od strefy)</li>
-  </ul>
+
+  <h4>🚋 Cercanías (pociągi podmiejskie)</h4>
   <p>
-    Bilety kupisz w automatach lub przez aplikację Renfe Cercanías. Jeśli masz <strong>Abono Turístico</strong>, Cercanías też jest w cenie!
+    Jeśli planujesz wyskoczyć poza miasto – np. do Torremolinos albo na lotnisko – <strong>pociąg Cercanías C1</strong> to Twój człowiek. Jedzie sprawnie, bez gadania i nie wymaga znajomości hiszpańskiego. Bilet z centrum Malagi na lotnisko? Tylko 1,80 € i zero korków.
   </p>
 
   <h4>🚖 Taksówki i aplikacje</h4>
   <p>
-    Oficjalne taksówki (białe z czerwonym paskiem) mają stałą cenę z lotniska: <strong>30 €</strong>. Działają też <strong>Uber, Bolt, Cabify</strong>.
+    Taksówki są białe, mają zielone światełko i… hiszpański temperament. Jeżeli chcesz podjechać gdzieś późno w nocy albo po plażowaniu z pięcioma torbami – warto. Ceny przyzwoite, ale warto wcześniej zapytać o „precio aproximado”, żeby nie płakać przy kasie. Uwaga: <strong>Uber i Bolt działają, ale nie zawsze są tańsze</strong>.
   </p>
 
-  <h4>🚲 Rowery i hulajnogi</h4>
+  <h4>🚴 Rowerem? Owszem, ale ostrożnie</h4>
   <p>
-    <strong>BiciMAD</strong> – rowery elektryczne: 0,50 € za 10 min. Hulajnogi (Lime, Dott, Tier) to ok. 0,20 € za minutę.
+    Malaga jest (w teorii) miastem rowerowym. Ścieżki są, ale czasem kończą się nagle, bo komuś wyszło rondo. Jeśli masz refleks kota i lubisz wiatr we włosach – śmiało. System wypożyczalni rowerów „<strong>MalagaBici</strong>” działa, choć trzeba się zarejestrować wcześniej (i znać trochę hiszpańskiego).
   </p>
 
-  <h4>🚗 Samochód?</h4>
+  <h4>🎫 Bilety dla turystów – warto?</h4>
   <p>
-    Nie warto. Centrum to strefa niskiej emisji (Madrid Central), dostępna głównie dla mieszkańców. Parkowanie? Drogo i trudno. Metro wygra.
+    Jeśli chcesz jeździć dużo i często – sprawdź <strong>Tarjeta Bus Turístico</strong> lub kartę na 10 przejazdów (bonobús). Dostępna w kioskach i na dworcu. Z kolei bilety na metro i pociągi kupisz w automacie – czasem tylko trzeba pomachać nim, żeby zaczął działać (magia andaluzyjskiej technologii).
   </p>
 
-  <p>
-    <a href="https://www.metromadrid.es/en" target="_blank">Mapa metra – kliknij tutaj</a>
-  </p>
+  <p><em>Podsumowując: Malaga nie wymaga prawa jazdy ani prywatnego szofera. Transport działa, nie kosztuje fortuny, a czasem nawet przyjeżdża na czas. Cud nad Morzem Śródziemnym.</em></p>
 </details>
+
 
 ---
 
