@@ -6,7 +6,7 @@ permalink: /berlin.html
 
 # Berlin 🇩🇪 
 
-Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 ---
