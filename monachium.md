@@ -82,7 +82,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
     
-    <details>
+<details>
   <summary><strong>🍺 Hofbräuhaus – piwny Watykan Bawarii</strong></summary>
 
   <p>Monachium ma wiele zabytków, ale <strong>Hofbräuhaus</strong> to <u>świątynia ołtarza piwnego</u>. Założona w XVI wieku przez bawarskiego księcia, który uznał, że nie będzie pił importowanego piwa jak jakiś plebejusz. Od tamtej pory lało się tu złoto – w sensie: piwo, nie sztabki.</p>
@@ -100,7 +100,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
     
-   <details>
+<details>
   <summary><strong>🌳 Englischer Garten – gdzie Monachium odpina sandały</strong></summary>
 
   <p>Niech Cię nie zmyli nazwa – <strong>Englischer Garten</strong> nie ma nic wspólnego z królową, deszczem ani herbatą o piątej. To jeden z największych miejskich parków w Europie, większy niż Central Park. Tak, Niemcy musieli mieć większy.</p>
@@ -118,7 +118,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
     
-   <details>
+<details>
   <summary><strong>🚗 Muzeum BMW – gdzie błyszczą nie tylko maski</strong></summary>
 
   <p>Masz prawo jazdy? Nie szkodzi. W <strong>Muzeum BMW</strong> można się zachwycić motoryzacją nawet bez znajomości różnicy między sprzęgłem a kierunkowskazem (którego i tak nikt nie używa).</p>
