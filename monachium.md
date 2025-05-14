@@ -95,103 +95,43 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
  <details>
-    <summary><strong>🗺️ Plan zwiedzania Berlina</strong></summary>
-   
-  <details>
-    <summary><strong>🗺️ Plan zwiedzania Berlina - wersja 3 dniowa</strong></summary>
+  <summary><strong>🏙️ Plan zwiedzania Monachium - Dzień 1: Historia, tradycja i sztuka</strong></summary>
+  
+  <h3>1. Marienplatz – serce miasta</h3>
+  <p>Rozpocznij dzień od <strong>Marienplatz</strong>, głównego placu Monachium. To doskonałe miejsce, żeby poczuć atmosferę miasta, zwrócić uwagę na imponujący <strong>Ratusz</strong> i być świadkiem "Glockenspiel" – pokazów zegarowych. Jeśli uda Ci się tu trafić o pełnej godzinie, nie możesz przegapić tej tradycji. Po zobaczeniu najważniejszych zabytków na placu, udaj się w stronę <strong>Frauenkirche</strong>.</p>
 
-    <h3>📅 Dzień 1 – „Must-see”, czyli turysta na pełnym etacie</h3>
-    <ul>
-        <li><strong>🏛️ Brama Brandenburska</strong> – obowiązkowe selfie i szybkie „wow”, bo tłumy nie śpią.</li>
-        <li><strong>🗿 Pomnik Pomordowanych Żydów Europy</strong> – zaduma, cisza, respekt. Nie biegaj po betonowych blokach, serio.</li>
-        <li><strong>🏛️ Reichstag</strong> – szklana kopuła i polityczne widoczki. Wejście za darmo, ale <em>rejestracja online z wyprzedzeniem!</em></li>
-        <li><strong>🌳 Tiergarten</strong> – zielona przerwa na kawkę i życie, bo stopy już bolą.</li>
-        <li><strong>🖼️ Wyspa Muzeów</strong> – jeśli kochasz sztukę. Jeśli nie – przejdź się obok i udawaj, że wiesz co to Pergamon.</li>
-        <li><strong>🌉 Berliner Dom + spacer Unter den Linden</strong> – bo w Berlinie też jest trochę „ładnie”.</li>
-    </ul>
+  <h3>2. Frauenkirche – Bawarska perła gotyku</h3>
+  <p>Z Marienplatz to tylko kilka minut spaceru do <strong>Frauenkirche</strong>, jednej z najważniejszych katedr Monachium. Zajrzyj do środka, by podziwiać gotyckie wnętrze, a następnie, jeśli czujesz się na siłach, wejdź na wieżę, skąd roztacza się wspaniały widok na miasto.</p>
 
-    <h3>📅 Dzień 2 – Mur, hipsterzy i techno-vibe (ale bez techno)</h3>
-    <ul>
-        <li><strong>🧱 East Side Gallery</strong> – najdłuższy fragment Muru Berlińskiego ozdobiony graffiti. Instagram lubi to.</li>
-        <li><strong>🎧 RAW-Gelände</strong> – industrialna strefa sztuki, barów i rzeczy, których nie ogarniesz bez przewodnika.</li>
-        <li><strong>🍔 Lunch na Markthalle Neun</strong> – street food, piwo i ludzie, którzy wyglądają jakby mieli podcast o fermentacji.</li>
-        <li><strong>🎮 Computerspielemuseum</strong> – dla fanów retro gier i dzieci lat 90.</li>
-        <li><strong>🛍️ Friedrichshain & Kreuzberg</strong> – szwendaj się, patrz na murale, kup używaną kurtkę z lat 80.</li>
-        <li><strong>🍻 Wieczór: kluby (lub bar)</strong> – ewentualnie weź berlińskie piwo i posiedź nad Sprewą. Kultura też.</li>
-    </ul>
+  <h3>3. Hofbräuhaus – piwna tradycja w pełnej krasie</h3>
+  <p>Po duchowym przeżyciu warto dać odpocząć nogom i wybrać się na piwo do <strong>Hofbräuhaus</strong>. To miejsce to absolutna ikona bawarskiego stylu życia, serwująca piwo i tradycyjne jedzenie. Spędź tu chwilę, odpocznij, a przy okazji zasmakuj w typowej bawarskiej kuchni – no, chyba że nie przepadasz za pretzlami, to może i czas na zmianę gustu.</p>
 
-    <h3>📅 Dzień 3 – Sekrety, relaks i coś mniej oczywistego</h3>
-    <ul>
-        <li><strong>🏰 Zamek Charlottenburg</strong> – barokowe cudo i idealna ucieczka od murów i betonu.</li>
-        <li><strong>🕵️‍♀️ Muzeum Szpiegów</strong> – podsłuchy, mikrokamery, zaszyfrowana historia. James Bond bez garnituru.</li>
-        <li><strong>💀 Teufelsberg (Góra Diabła)</strong> – opuszczona stacja nasłuchowa NSA z widokiem i klimatem „postapo”.</li>
-        <li><strong>🎭 Hackesche Höfe</strong> – dziedzińce, sklepy z rękodziełem, kawiarnie – tu nawet berlińczycy lubią zaglądać.</li>
-        <li><strong>🧁 Kawa i ciasto na zakończenie</strong> – polecam berlińskiego „Pfannkuchena”, ale nie mów na to donut.</li>
-    </ul>
+  <h3>4. Viktualienmarkt – raj dla smakoszy</h3>
+  <p>Kilka kroków od Hofbräuhaus znajduje się <strong>Viktualienmarkt</strong>, tętniący życiem rynek, na którym znajdziesz wszystko – od świeżych owoców po lokalne specjały. To doskonałe miejsce na szybki lunch, zakupy z regionalnymi produktami, albo po prostu na rozkoszowanie się atmosferą tego rynku.</p>
 
-    <p><strong>💡 Bonus tips:</strong></p>
-    <ul>
-        <li>👉 Kolejność można zmieniać – to plan, nie konstytucja.</li>
-        <li>👉 Bilety do muzeów/reichstagu rezerwuj z wyprzedzeniem. Bez tego zostaje tylko smutna mina przed wejściem.</li>
-        <li>👉 Jeśli chcesz iść do Berghain – powodzenia. Jeśli nie – to też dobrze.</li>
-    </ul>
-
-    <p><em>Berlin się nie kończy – ale nogi tak. Trzy dni i tak dadzą Ci więcej niż niejedna książka historyczna.</em></p>
+  <h3>5. Englischer Garten – odpoczynek w zieleni</h3>
+  <p>Po intensywnym zwiedzaniu udaj się do <strong>Englischer Garten</strong> – jednego z największych miejskich parków na świecie. To doskonałe miejsce na relaksujący spacer. Warto przejść się do <strong>Chińskiej Wieży</strong> i napić się piwa, bo to doskonała okazja na zakończenie dnia w prawdziwie monachijskim stylu.</p>
 </details>
 
 <details>
-    <summary><strong>⏰ Berlin w 1 dzień – misja (nie)możliwa</strong></summary>
+  <summary><strong>🏙️ Plan zwiedzania Monachium - Dzień 2: Kultura, nowoczesność i historia</strong></summary>
+  
+  <h3>1. Pałac Nymphenburg – barokowe piękno</h3>
+  <p>W drugi dzień warto zacząć od wizyty w <strong>Pałacu Nymphenburg</strong>. Pałac jest oddalony trochę od centrum, ale wciąż łatwy do osiągnięcia transportem publicznym. Zajrzyj do ogrodów i pałacowych komnat, które są świetnym przykładem barokowej architektury. To także miejsce, gdzie możesz poczuć się jak arystokrata – tylko bez tych wszystkich problemów z dziedziczeniem majątku.</p>
 
-    <p><em>Masz tylko jeden dzień? Spokojnie. Berlin nie ucieknie (chyba że znowu się podzieli). Oto turbo-plan dla tych, co chcą przeżyć dużo w mało czasu i nie paść po drodze.</em></p>
+  <h3>2. Muzeum BMW – dla miłośników motoryzacji</h3>
+  <p>Z Pałacu Nymphenburg masz niedaleko do <strong>Muzeum BMW</strong>, które z pewnością przypadnie do gustu każdemu fanowi motoryzacji. W muzeum znajdziesz eksponaty, które opowiadają historię jednej z najbardziej znanych niemieckich marek samochodowych. A jeśli nie przepadasz za autami, możesz po prostu podziwiać design wystawionych pojazdów – bo to jak małe dzieła sztuki na kołach.</p>
 
-    <h3>🕘 Rano: historia i klasyka</h3>
-    <ul>
-        <li><strong>🏛️ Brama Brandenburska</strong> – szybkie zdjęcie, szeroki uśmiech, ruszamy dalej.</li>
-        <li><strong>🗿 Pomnik Holokaustu</strong> – moment refleksji w labiryncie betonowych bloków.</li>
-        <li><strong>🏛️ Reichstag (z zewnątrz)</strong> – jak nie masz rezerwacji do kopuły, to machnij ręką i rób fotkę.</li>
-    </ul>
+  <h3>3. Olympiapark – historyczne miejsce ZIO</h3>
+  <p>Po muzeum wybierz się do <strong>Olympiapark</strong>, który był areną ZIO 1972. Park to miejsce pełne aktywności, a także świetny punkt widokowy z wieży olimpijskiej. Z tego miejsca rozciąga się widok na Monachium, a także Alpy, które widać przy ładnej pogodzie. Jeśli masz ochotę, wejdź na wieżę i poczuj się jak prawdziwy olimpijczyk.</p>
 
-    <h3>☕ Przerwa śniadaniowo-kawowa</h3>
-    <ul>
-        <li><strong>🍳 Kawiarnia w Mitte</strong> – np. Father Carpenter albo Zeit für Brot (ślimaki cynamonowe godne Nobla).</li>
-    </ul>
+  <h3>4. Pinakoteki – dla miłośników sztuki</h3>
+  <p>Kolejnym krokiem jest <strong>Pinakoteka</strong>, gdzie znajduje się zbiór dzieł sztuki z różnych okresów historycznych. Możesz tu podziwiać obrazy takich mistrzów jak Rembrandt, Rubens czy Van Gogh. Dla miłośników sztuki to prawdziwa uczta dla oczu, a jeśli nie czujesz się artystycznie zainspirowany, zawsze możesz zapytać o najbliższą kawiarnię.</p>
 
-    <h3>🧱 Południe: mur, graffiti i luz</h3>
-    <ul>
-        <li><strong>🧱 East Side Gallery</strong> – spacer wzdłuż Muru z artystycznym zacięciem. Tu się robi zdjęcia „na Berlin”.</li>
-        <li><strong>🛍️ Kreuzberg</strong> – szybki rzut oka na alternatywną stronę miasta. Vintage sklepy, murale, życie uliczne.</li>
-    </ul>
-
-    <h3>🍔 Lunch (czyli czas na berliński klasyk)</h3>
-    <ul>
-        <li><strong>🌭 Curry 36</strong> lub <strong>Mustafa’s Gemüse Kebap</strong> – wybierz, czekaj w kolejce, żałuj tylko jak się przejesz.</li>
-    </ul>
-
-    <h3>🕵️ Popołudnie: coś nietypowego</h3>
-    <ul>
-        <li><strong>🕵️‍♂️ Muzeum Szpiegów</strong> – podsłuchy, mikrofony i inne rzeczy, których lepiej nie mieć w domu.</li>
-        <li><strong>🎮 Computerspielemuseum</strong> (jeśli wolisz Mario niż KGB).</li>
-    </ul>
-
-    <h3>🌇 Wieczór: chill i widoczki</h3>
-    <ul>
-        <li><strong>🌆 Panoramapunkt lub bar na dachu (np. Klunkerkranich)</strong> – zachód słońca z widokiem, piwko w ręce, życie piękne.</li>
-        <li><strong>🍰 Deser na pożegnanie</strong> – berliński Pfannkuchen (nie mówić na to donut!) albo Apfelstrudel z lodami.</li>
-    </ul>
-
-    <p><strong>💡 Tips na koniec:</strong></p>
-    <ul>
-        <li>🚌 Kup bilet dzienny na komunikację i śmigaj jak VIP – bez stresu, że masz zły bilet.</li>
-        <li>📱 Aplikacje BVG lub Jelbi = ratunek dla zagubionych dusz i nóg.</li>
-        <li>🎒 Nie taszcz torby – Berlin i plecak turysty to kiepska para.</li>
-    </ul>
-
-    <p><em>Nie zobaczysz wszystkiego, ale zobaczysz wystarczająco, by się zakochać albo chcieć wrócić. I o to chodzi.</em></p>
+  <h3>5. Hofgarten – relaks w sercu Monachium</h3>
+  <p>Na zakończenie dnia udaj się do <strong>Hofgarten</strong>, pięknego ogrodu przy Residenz. To idealne miejsce na spokojny spacer i odpoczynek. Po całym dniu zwiedzania warto na chwilę zatrzymać się, odprężyć i dać odpocząć stopom.</p>
 </details>
 
-
-
-</details>
 
 ---
 
