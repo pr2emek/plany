@@ -65,7 +65,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
     
     <li><strong>🧱 Dachau (wycieczka jednodniowa)</strong> <em>(48.2660° N, 11.4666° E)</em> – 20 minut pociągiem od centrum, miejsce pamięci po byłym obozie koncentracyjnym. Powaga, refleksja i kontrast do reszty wakacji. Trzeba zobaczyć – choć raz.</li>
   </ul>
-</details>
 
    
 <details>
