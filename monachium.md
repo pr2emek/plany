@@ -17,7 +17,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Monachium (czyli München, jeśli chcesz brzmieć jak lokals) to elegancka stolica Bawarii – miasto, które potrafi łączyć tradycję Oktoberfestu z technologiczną przyszłością. Tutaj możesz wpaść na ludzi w skórzanych spodniach, którzy w jednej ręce trzymają kufel piwa, a w drugiej... iPhone’a Pro Max. Stylowe, dostatnie i zaskakująco zielone – to Niemcy w wersji premium.</p>
 
   <p>Znajdziesz tu wszystko: barokowe pałace, futurystyczne muzea, ogrody angielskie, no i Berghain dla grzecznych – czyli <em>reszta Niemiec patrzy z zazdrością</em>. Ale uwaga: tanio to już było. Za kawę możesz zapłacić więcej niż za bilet do Berlina.</p>
-</details>
 
   <h3>🛬 Jak się dostać do Monachium?</h3>
 
