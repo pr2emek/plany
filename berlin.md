@@ -315,7 +315,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
   <details>
-    <summary><strong>🦴 Muzeum Historii Naturalnej – dinozaury i inne potwory (nie polityczne)</strong></summary>
+    <summary><strong>🦴 Muzeum Historii Naturalnej – dinozaury i inne potwory</strong></summary>
     <p><strong>Współrzędne:</strong> <em>52.5300° N, 13.3818° E</em></p>
     <p>
       Największy szkielet dinozaura w Europie. Robi wrażenie, zwłaszcza na ludziach, którzy boją się gołębi. 
