@@ -6,7 +6,7 @@ permalink: /malaga.html
 
 # Malaga 🇪🇸 
 
-Witaj w przewodniku po Madrycie! Kliknij sekcję, aby ją rozwinąć 👇
+Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 ---
@@ -387,44 +387,36 @@ Witaj w przewodniku po Madrycie! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>👻 Legendy Madrytu</strong></summary>
+  <summary><strong>📜 Legendy Malagi – czyli co się mówiło, zanim wynaleziono internet</strong></summary>
 
+  <h4>👻 Duch kobiety z Gibralfaro</h4>
   <p>
-    Madryt ma swoje tapas, ma flamenco, ale też ma... duchy, przeklęte ulice i nawiedzone pałace. I choć za dnia to miasto pełne życia, po zmroku – lepiej nie rozmawiać za głośno z cieniami. Oto kolejne miejsca, gdzie historia zderza się z legendą, a klimat grozy wchodzi jak sangria po południu.
+    Wieża Gibralfaro to świetny punkt widokowy… o ile nie spotkasz tam <strong>ducha kobiety w białej sukni</strong>, która podobno szuka swego ukochanego – wojownika z czasów reconquisty. Jeśli usłyszysz szept po arabsku, a nikt poza Tobą tam nie stoi – nie panikuj. Może to tylko lokalny influencer nagrywa Reelsa.
   </p>
 
-  <h4>🕸️ Korytarze strachu – Palacio de Linares</h4>
+  <h4>🐍 Urok węża z Alcazaby</h4>
   <p>
-    Barokowa rezydencja w samym centrum miasta i jeden z najbardziej nawiedzonych budynków w Hiszpanii. Mówi się, że para arystokratów nieświadomie wzięła ślub jako rodzeństwo (sic!) i z tego kazirodczego związku narodziła się mała Raimunda – której duch wciąż krąży po salach, wołając „mamá”. Serio, nagrania EVP (głosy duchów) są na YouTubie.<br>
-    <em>Lokalizacja:</em> <strong>Plaza de Cibeles</strong>
+    Według legendy w Alcazabie żył niegdyś <strong>wąż strażnik</strong>, który miał magiczną moc chronienia skarbu ukrytego pod twierdzą. Zginął, gdy chciwi zdobywcy próbowali go zabić i ukraść złoto. Od tamtej pory, kto szuka bogactwa w Alcazabie – gubi portfel. True story.
   </p>
 
-  <h4>🪦 Duch bezdomnego z Puerta del Sol</h4>
+  <h4>💔 Miłość i drzewa pomarańczowe</h4>
   <p>
-    Zatłoczony, pełen turystów plac? A jakże. Ale w nocy, przy jednej z fontann, ponoć pojawia się postać starszego mężczyzny w brudnym płaszczu, który pyta przechodniów o godzinę... i znika. Lokalni mówią, że to duch bezdomnego, który zamarzł tu pewnej zimy. Zegarka lepiej nie pokazywać.<br>
-    <em>Lokalizacja:</em> <strong>Puerta del Sol</strong>
+    Podobno pierwsze <strong>pomarańczowe drzewa w Maladze</strong> zasadziła arabska księżniczka, której serce złamał chrześcijański rycerz. Owoc miał być tak kwaśny, jak jej gorycz. Zgadza się – bo pomarańcze z tych drzew naprawdę są niejadalne. Na sok się nie nadają, ale na legendę – jak najbardziej.
   </p>
 
-  <h4>⛓️ Więzienie duchów – Cuartel del Conde-Duque</h4>
+  <h4>🧙‍♂️ Czarodziej z Calle Larios</h4>
   <p>
-    Dawne koszary, później więzienie – dziś centrum kultury. Ale niektórzy pracownicy twierdzą, że słyszą krzyki zza ścian, których nie ma. Duchy dawnych więźniów? A może tylko akustyka i wyobraźnia? Tak czy siak – miejsce z historią i... echami przeszłości.<br>
-    <em>Lokalizacja:</em> <strong>Calle Conde Duque 9</strong>
+    Ulica Larios – elegancka, błyszcząca, pełna butików. Ale przed wiekami, zanim powstały sklepy, <strong>żył tu czarodziej</strong>, który leczył ludzi i... nie płacił podatków. Podobno nadal można go spotkać jako starego dziadka siedzącego na ławce – ostrzega przed złymi decyzjami (np. zakupami Gucci bez rabatu).
   </p>
 
-  <h4>🕯️ Klasztor z trupią legendą – Real Monasterio de la Encarnación</h4>
+  <h4>⛪ Tajemniczy dzwon z katedry</h4>
   <p>
-    Wewnątrz tego klasztoru znajduje się relikwia... zakrzepła krew świętego Pantaleona, która raz do roku – 27 lipca – podobno wraca do płynnej postaci. Jeśli nie – oznacza to katastrofę. Na szczęście, jak na razie, Madryt jeszcze stoi.<br>
-    <em>Lokalizacja:</em> <strong>Plaza de la Encarnación</strong>
+    Jedna z wież katedry La Manquita nigdy nie została dokończona – legenda mówi, że dzwon z tej wieży miał moc <strong>spełniania życzeń</strong>. Niestety, gdy ktoś życzył sobie bogactwa i władzy, dzwon pękł z oburzenia. Teraz wieża stoi „niedokończona” i przypomina, że chciwość nie popłaca. Ale selfie z nią jak najbardziej tak.
   </p>
 
-  <h4>⚰️ Cmentarz Almudena i kobieta w czerni</h4>
-  <p>
-    Największy cmentarz w Madrycie, który kryje mnóstwo sekretów. Strażnicy donoszą o kobiecie w czerni przechadzającej się wśród nagrobków o świcie. Kiedy się zbliżysz – znika. Ponoć to matka, która szuka grobu syna, który zaginął w wojnie domowej. Albo... ktoś, kto nie lubi turystów z kamerami.<br>
-    <em>Lokalizacja:</em> <strong>Avenida de Daroca</strong>
-  </p>
-
-  <p><strong>Bonus:</strong> Możesz połączyć te legendy w jedną wycieczkę nocną. Albo... czytać je wieczorem pod kocem – też działa!</p>
+  <p><em>Legendy Malagi? Trochę straszą, trochę bawią, ale wszystkie mają wspólny mianownik – są idealne na wieczorne opowieści z kieliszkiem Moscatela w dłoni.</em></p>
 </details>
+
 
 ---
 
