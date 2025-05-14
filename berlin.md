@@ -569,8 +569,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
         <p>Według miejskiej legendy w latach 70. widziano, jak mężczyzna w garniturze wszedł do tunelu metra... i już nie wyszedł. Zniknął bez śladu, bez świadków, jak dobre intencje w polityce. Mówi się, że to agent z fałszywym paszportem i jeszcze bardziej fałszywym uśmiechem.</p>
     </details>
 
-    <p><strong>ℹ️ Info bonusowe:</strong> Jeśli chcesz poczuć się jak agent – odwiedź <a href="https://www.spy-museum.de/" target="_blank">Berlińskie Muzeum Szpiegostwa</a>. Mają tu wszystko: od kamer w guziku po wykrywacz kłamstw. Wstęp bez konieczności werbunku.</p>
-
+    
     <details>
         <summary><strong>🦴 Biała Dama z Zamku Spandau</strong></summary>
         <p>📍 Współrzędne: 52.5361, 13.1992</p>
@@ -600,8 +599,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
         <p>📍 Współrzędne: 52.5245, 13.3886</p>
         <p>Nieudany aktor z lat 20. XX wieku podobno do dziś nawiedza kulisy, szepcze teksty i... poprawia dykcję. Jeśli poczujesz nagłe zacięcie do monologu szekspirowskiego – to nie Ty, to on.</p>
     </details>
-
-    <p><strong>Uwaga techniczna:</strong> Duchy nie są objęte Berlin Welcome Card. Ale kto wie, może pojawią się w wersji premium?</p>
 
 </details>
 
