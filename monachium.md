@@ -269,9 +269,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>ℹ️ Pro tip:</strong> Sekretne miejsca w Monachium często nie mają szyldów ani biletów – trzeba po prostu iść, gapić się, zastanawiać, czy to na pewno to... i potem się uśmiechnąć, że tak.</p>
 </details>
 
-
-</details>
-
 </details>
       
 ---
