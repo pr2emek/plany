@@ -48,23 +48,205 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Co zobaczyć w Monachium – czyli nie tylko piwo i precle</strong></summary>
 
+ <details>
+  <summary><strong>🏰 Marienplatz – czyli centrum wszystkiego, co monachijskie</strong></summary>
+
+  <p>Oto serce Monachium, bijące codziennie jak dzwony w ratuszu. <strong>Marienplatz</strong> to plac, na którym każdy turysta staje, robi zdjęcie, mówi „ooo” i potem nie wie, w którą stronę pójść dalej. Ale spokojnie – jesteś we właściwym miejscu.</p>
+
+  <p>W centrum placu stoi <strong>Kolumna Maryjna</strong>, czyli Mariensäule. Postawiona w 1638 roku na cześć tego, że miasto nie zostało zrównane z ziemią. Miły gest – dziś możesz tu zjeść precla, robiąc sobie selfie z Marią w tle. I nikt Cię za to nie osądzi.</p>
+
+  <p>Największy bajer? <strong>Neues Rathaus</strong> – Nowy Ratusz. Gotycki pałac biurokracji z wieżą, z której codziennie o 11:00, 12:00 (i latem też o 17:00) rusza słynny <strong>Glockenspiel</strong>. Co to? Taki kukiełkowy spektakl z dzwonami i figurkami tańczącymi na chwałę Bawarii. Trochę jak teatrzyk dla dorosłych, tylko bez dialogów. Ludzie patrzą, kręcą głowami, a potem klaszczą, bo wypada.</p>
+
+  <p>W okolicy Marienplatz znajdziesz absolutnie wszystko: sklepy z pamiątkami, knajpy z pretensjami, panów grających na wiolonczeli i turystów w klapkach w listopadzie. Jeśli się zgubisz – wracaj tu. To turystyczny GPS Monachium.</p>
+
+  <p><strong>📍 Współrzędne:</strong> 48.1374° N, 11.5755° E</p>
+  <p><strong>🚇 Dojazd:</strong> U-Bahn U3 lub U6, stacja „Marienplatz” (no kto by się spodziewał!)</p>
+  <p><strong>💸 Bilety:</strong> Bezpłatnie – za oglądanie ratusza jeszcze nie każą płacić, ale kto wie, co przyniesie przyszłość</p>
+</details>
+
+    
+   <details>
+  <summary><strong>🏛️ Pałac Nymphenburg – bajka dla dorosłych (i dzieci też, jak się nie nudzą)</strong></summary>
+
+  <p>Jeśli kiedykolwiek pomyślałeś „a może by tak zamieszkać w pałacu?”, to po wizycie tutaj zmienisz zdanie. <strong>Pałac Nymphenburg</strong> to <u>barokowy gigant</u>, którego nie da się przeoczyć – chyba że przyszedłeś tu tylko na piknik.</p>
+
+  <p>Wybudowany w XVII wieku jako letnia rezydencja dla bawarskich władców, wygląda jak elegancka odpowiedź na pytanie: „co zrobić, jak masz za dużo pieniędzy i zero umiaru?”. Wnętrza? Złoto, freski, lustra większe niż twoje ego po trzecim piwie. Do tego <strong>Galeria Piękności</strong> – tak, serio – czyli kolekcja portretów kobiet uznanych za ładne przez króla Ludwika I. Subtelne, prawda?</p>
+
+  <p>Ale najlepsze jest to, co na zewnątrz: <strong>ogrody pałacowe</strong>. Rozległe, zadbane, pełne alejek, kanałów, rzeźb i... kaczek z osobowością. Można spacerować godzinami i udawać, że się zgubiło – choć tak naprawdę chcesz tylko uniknąć wyjścia do świata bez marmurowych schodów.</p>
+
+  <p>Dla fanów ciekawostek: na terenie znajduje się także <strong>Muzeum Powozów</strong> (tak, są tu karocy więcej niż ludzi na TikToku) i osobny pałacyk kąpielowy, bo najwyraźniej łazienka wewnątrz pałacu to był za mały luksus.</p>
+
+  <p><strong>📍 Współrzędne:</strong> 48.1586° N, 11.5021° E</p>
+  <p><strong>🚇 Dojazd:</strong> Tramwaj nr 17, przystanek „Schloss Nymphenburg”</p>
+  <p><strong>💸 Bilety:</strong> Około 8 € (w sezonie), można też kupić bilet łączony z innymi pałacykami i muzeami – jak już wchodzisz w arystokrację, to na całego.</p>
+</details>
+
+    
+    <details>
+  <summary><strong>🍺 Hofbräuhaus – piwny Watykan Bawarii</strong></summary>
+
+  <p>Monachium ma wiele zabytków, ale <strong>Hofbräuhaus</strong> to <u>świątynia ołtarza piwnego</u>. Założona w XVI wieku przez bawarskiego księcia, który uznał, że nie będzie pił importowanego piwa jak jakiś plebejusz. Od tamtej pory lało się tu złoto – w sensie: piwo, nie sztabki.</p>
+
+  <p>W środku: długie, drewniane stoły, które pamiętają więcej toastów niż średni barman w sobotę. Surowy wystrój, kelnerki w dirndlach, orkiestra dęta grająca „Ein Prosit” po raz pięćsetny i turyści, którzy myślą, że litr piwa to mało. Spoiler: to nie jest mało.</p>
+
+  <p>Menu? Klasyka: <strong>kiełbasy, golonka, precle wielkości koła ratunkowego</strong>. Obsługa? Zdolna do obsłużenia batalionu spragnionych w mniej niż kwadrans – szacun. Ceny? Turystyczne, ale za klimat dopłacasz w emocjach.</p>
+
+  <p>Jeśli przychodzisz tu z intencją „tylko popatrzeć” – powodzenia. Atmosfera wciąga jak wir w kuflu. Jeśli siadasz z lokalsami – <u>nie zajmuj zarezerwowanego stołu</u>, jeśli nie chcesz poznać niemieckiego słowa „irytacja” w praktyce.</p>
+
+  <p><strong>📍 Współrzędne:</strong> 48.1374° N, 11.5806° E</p>
+  <p><strong>🚇 Dojazd:</strong> U-Bahn: linie U3/U6, stacja Marienplatz</p>
+  <p><strong>🕒 Godziny otwarcia:</strong> Codziennie od 11:00 do północy</p>
+  <p><strong>ℹ️ Pro tip:</strong> Chcesz usiąść? Przyjdź wcześniej albo bądź bezczelnie miły. W Hofbräuhaus obowiązuje zasada „kto pierwszy, ten siedzi”.</p>
+</details>
+
+    
+   <details>
+  <summary><strong>🌳 Englischer Garten – gdzie Monachium odpina sandały</strong></summary>
+
+  <p>Niech Cię nie zmyli nazwa – <strong>Englischer Garten</strong> nie ma nic wspólnego z królową, deszczem ani herbatą o piątej. To jeden z największych miejskich parków w Europie, większy niż Central Park. Tak, Niemcy musieli mieć większy.</p>
+
+  <p>Na miejscu: kilometrami ciągnące się alejki, trawniki do leżenia jak żaba na słońcu, jezioro z kaczkami (czasem mądrzejszymi niż niektórzy turyści) i oczywiście – <strong>piwne ogródki</strong>. Bo jak spacerować, to z kuflem.</p>
+
+  <p>Najbardziej absurdalny hit? <strong>Surfing na rzece Eisbach</strong>. Tak, w środku Monachium, w rzece, na fali. Surferzy w piankach, gapie w szortach, wszyscy zachwyceni. A Ty zastanawiasz się, czy też nie spróbować... ale potem zamawiasz precla.</p>
+
+  <p>Jeśli jesteś fanem nudy – idź do Chińskiej Wieży. Jeśli nie – zrób sobie piknik, udawaj, że czytasz książkę, a tak naprawdę obserwuj ludzi, psy i rowery z koszykiem. Tutejsze tempo życia to „powolne z przekąską”.</p>
+
+  <p><strong>📍 Współrzędne:</strong> 48.1590° N, 11.6033° E</p>
+  <p><strong>🚇 Dojazd:</strong> U-Bahn: linie U3/U6, stacje Giselastraße lub Universität</p>
+  <p><strong>🕒 Godziny otwarcia:</strong> Całą dobę. Tak, można legalnie iść na nocny spacer z piwem. Witamy w Monachium.</p>
+  <p><strong>ℹ️ Pro tip:</strong> Jeśli zobaczysz kogoś nagiego opalającego się na trawie – nie panikuj. To po prostu <em>Freikörperkultur</em>, czyli niemiecki sposób na „mam to gdzieś”.</p>
+</details>
+
+    
+   <details>
+  <summary><strong>🚗 Muzeum BMW – gdzie błyszczą nie tylko maski</strong></summary>
+
+  <p>Masz prawo jazdy? Nie szkodzi. W <strong>Muzeum BMW</strong> można się zachwycić motoryzacją nawet bez znajomości różnicy między sprzęgłem a kierunkowskazem (którego i tak nikt nie używa).</p>
+
+  <p>To nie jest typowe muzeum z zakurzonymi eksponatami – tu lśni każda śrubka. Stylowy beton, światło jak w spa dla samochodów i pojazdy, które wyglądają jakby właśnie zjechały z czerwonego dywanu... znaczy, z toru testowego.</p>
+
+  <p>Od klasycznych modeli z lat 30., przez motocykle, po koncepcyjne potworki przyszłości, które przypominają bardziej UFO niż auto. Jeśli kiedykolwiek pomyślałeś „ta bryka to mój styl życia” – jesteś we właściwym miejscu.</p>
+
+  <p>Do tego interaktywne ekrany, dźwięki silników i coś, czego nie znajdziesz w folderach turystycznych – ludzie robiący sobie selfie z kołami większymi od ich marzeń mieszkaniowych.</p>
+
+  <p><strong>📍 Współrzędne:</strong> 48.1767° N, 11.5591° E</p>
+  <p><strong>🚇 Dojazd:</strong> U-Bahn U3 – stacja Olympiazentrum (5 minut spacerem i gotowe!)</p>
+  <p><strong>🕒 Godziny otwarcia:</strong> Wtorek–niedziela 10:00–18:00, poniedziałek zamknięte – samochody też muszą odpocząć</p>
+  <p><strong>💰 Bilety:</strong> Dorośli ok. 10€, dzieci i studenci zniżka. Pakiety łączone z BMW Welt i fabryką dostępne, jeśli nie boisz się technologii z bliska.</p>
+  <p><strong>ℹ️ Pro tip:</strong> Nie musisz być fanem marki – wystarczy, że lubisz rzeczy, które błyszczą i robią „vroom”.</p>
+</details>
+
+    
+   <details>
+  <summary><strong>🖼️ Pinakoteki – Monachijski trójkąt artystyczny</strong></summary>
+
+  <p>Pinakoteka to nie nazwa leku, tylko trzy potężne muzea, które przypominają, że Niemcy potrafią nie tylko robić piwo i silniki, ale też sztukę (taką do oglądania, nie do picia).</p>
+
   <ul>
-    <li><strong>🏰 Marienplatz</strong> <em>(48.1374° N, 11.5755° E)</em> – serce Monachium i plac, gdzie wszystko się zaczyna: ratusz wygląda jakby ktoś przesadził z detalami, a o 11:00 i 12:00 tłum turystów gapi się w górę na mechaniczne figurki. Zero akcji, 100% zachwytu.</li>
-    
-    <li><strong>👑 Pałac Nymphenburg</strong> <em>(48.1585° N, 11.5022° E)</em> – luksusowe gniazdko wakacyjne bawarskiej rodziny królewskiej. Barok, złoto, więcej złota, a potem jeszcze trochę złota. Ogród tak wielki, że można się zgubić i przypadkiem przejść 10 000 kroków.</li>
-    
-    <li><strong>🍺 Hofbräuhaus</strong> <em>(48.1371° N, 11.5802° E)</em> – najsłynniejsza piwiarnia świata. Piwo serwowane w litrowych kuflach, obsługa w strojach ludowych, a poziom hałasu taki, że nawet Twoje wewnętrzne zmartwienia znikają. Nikt nie przychodzi tu po ciszę i spokój.</li>
-    
-    <li><strong>🌿 Englischer Garten</strong> <em>(48.1592° N, 11.6037° E)</em> – park większy niż Central Park (ale bez porównań). Tutaj ludzie leżą na trawie, jeżdżą na rowerach, medytują i... surfują na sztucznej fali. W centrum miasta. Bo czemu nie?</li>
-    
-    <li><strong>🚗 Muzeum BMW</strong> <em>(48.1766° N, 11.5590° E)</em> – świątynia błyszczącej blachy i niemieckiej inżynierii. Samochody, które kosztują tyle co mieszkanie i motocykle, które wyglądają jak z przyszłości. Dla fanów techniki i ludzi z kryzysem wieku średniego.</li>
-    
-    <li><strong>🎨 Pinakoteki</strong> <em>(48.1485° N, 11.5716° E)</em> – trzy muzea sztuki: Stara, Nowa i Nowoczesna. W skrócie: stare obrazy, nowsze obrazy i rzeczy, które nie wyglądają jak obrazy, ale ponoć są sztuką. Dla każdego coś niezrozumiałego.</li>
-    
-    <li><strong>⛪ Frauenkirche</strong> <em>(48.1386° N, 11.5725° E)</em> – dwie wieże, które dominują panoramę miasta i służą jako punkt odniesienia, gdy zgubisz się po trzecim piwie. W środku skromnie, ale majestatycznie. Legenda mówi, że diabeł zostawił tam swój ślad – ale nie pytaj dlaczego akurat tam.</li>
-    
-    <li><strong>🧱 Dachau (wycieczka jednodniowa)</strong> <em>(48.2660° N, 11.4666° E)</em> – 20 minut pociągiem od centrum, miejsce pamięci po byłym obozie koncentracyjnym. Powaga, refleksja i kontrast do reszty wakacji. Trzeba zobaczyć – choć raz.</li>
+    <li><strong>📜 Alte Pinakothek</strong> – czyli „stara pinakoteka”. Tu królują mistrzowie: Dürer, Rembrandt, Rubens. Jeśli lubisz obrazy, gdzie nikt się nie uśmiecha, a wszyscy noszą peleryny – bingo!</li>
+    <li><strong>🎨 Neue Pinakothek</strong> – „nowa”, choć i tak starsza niż niejedna babcia. Klimt, Van Gogh, Monet. Idealna, jeśli lubisz, gdy kolory się rozlewają, a drzewa wyglądają jak z halucynacji po nadmiarze białej kiełbasy.</li>
+    <li><strong>🧪 Pinakothek der Moderne</strong> – czyli wersja „wow, ale dziwnie”. Sztuka współczesna, design, architektura, a czasem coś, co wygląda jak zepsuta pralka, ale jest dziełem sztuki. Nie pytaj – chłonij.</li>
   </ul>
+
+  <p><strong>📍 Współrzędne:</strong> 48.1485° N, 11.5729° E (wszystkie są w tym samym rejonie, idealne do spaceru)</p>
+  <p><strong>🚇 Dojazd:</strong> Tramwaj 27, przystanek „Pinakotheken” albo spacer z centrum (bo warto poczuć się jak intelektualista w ruchu)</p>
+  <p><strong>🕒 Godziny otwarcia:</strong> Wtorek–niedziela 10:00–18:00, czwartki dłużej (bo artyści też bywają nocnymi markami)</p>
+  <p><strong>💰 Bilety:</strong> Ok. 7€ za muzeum, ale w niedziele wszystkie za 1€. Tak, serio. Cała sztuka za jedno euro – cud większy niż Mona Lisa z uśmiechem.</p>
+  <p><strong>ℹ️ Tip dla niedzielnych turystów:</strong> Wpadnij rano – w kolejce spotkasz połowę Monachium i wszystkich studentów sztuki w promieniu 100 km.</p>
+</details>
+
+    
+   <details>
+  <summary><strong>⛪ Frauenkirche – katedra z garścią legend i brakiem wieżowych czubków</strong></summary>
+
+  <p>📍 Współrzędne: 48.1386° N, 11.5736° E</p>
+
+  <p>Monachijska Frauenkirche to coś więcej niż kościół – to symbol miasta i ulubione tło do selfie z pretensjonalną miną. Ma dwie ogromne wieże, które kończą się... kulkami. Tak, nie iglicami, nie krzyżami – kulkami. Architekt uznał, że jak już robi coś wielkiego, to może być trochę dziwnie.</p>
+
+  <p>W środku: gotyk, cisza i przyjemna ilość chłodu – idealna przerwa od upału lub monachijskiej przebodźcowanej codzienności. Znajdziesz tu też <strong>„stopę diabła”</strong> – ślad w podłodze, który ponoć zostawił sam Belzebub. Bo kto nie chce mieć własnego odcisku buta w świątyni?</p>
+
+  <p><strong>🚇 Dojazd:</strong> S-Bahn lub U-Bahn do Marienplatz, potem 5 minut pieszo. Nie da się nie zauważyć – serio, widać z pół miasta.</p>
+
+  <p><strong>🎫 Wstęp:</strong> Gratis, bo duchowość powinna być za darmo. Ale za wejście na wieżę trzeba czasem zapłacić – i zmierzyć się ze schodami lub tłumem.</p>
+
+  <p><strong>📸 Pro tip:</strong> Widok z góry to klasyka – dachy Monachium, Alpy w tle i wewnętrzne „wow”. Ale uwaga: pogoda decyduje, czy wieża jest otwarta. Jak pada – zostaje Ci widok z Google.</p>
+</details>
+
+    
+   <details>
+  <summary><strong>🕯️ Dachau – lekcja historii bez ściemy</strong></summary>
+
+  <p>📍 Współrzędne: 48.2686° N, 11.4663° E</p>
+
+  <p>Dachau to nie jest atrakcja. To miejsce, które wbija człowieka w ziemię, bez względu na to, jak dobry miał dzień. Pierwszy obóz koncentracyjny w Niemczech, wzór dla innych (niestety), uruchomiony już w 1933 roku. Aż do 1945 – produkcja cierpienia na przemysłową skalę. Nie trzeba znać wszystkich faktów, żeby poczuć ciężar miejsca. On sam się narzuca.</p>
+
+  <p>Na terenie obozu znajdują się baraki, krematorium, cele karne i miejsce pamięci. Są też wystawy, które nie zostawiają miejsca na iluzje – brutalnie, konkretnie, bez eufemizmów. Zwiedzanie nie kończy się na kliknięciu „Lubię to”. Kończy się milczeniem.</p>
+
+  <p><strong>🎧 Audio guide:</strong> Dostępny w wielu językach, w tym po polsku. Weź go. Nie dla wygody, ale dlatego, że przewodnik prowadzi z odpowiednim szacunkiem. Samodzielne zwiedzanie też możliwe, ale trudno poskładać to wszystko bez kontekstu.</p>
+
+  <p><strong>⏰ Godziny:</strong> Codziennie od 9:00 do 17:00 (ostatnie wejście 16:15). Zamknięte 24 grudnia. Bo nawet najciemniejsze miejsca potrzebują dnia ciszy.</p>
+
+  <p><strong>🎫 Wstęp:</strong> Darmowy. Ale koszt emocjonalny – wysoki. I dobrze, tak powinno być.</p>
+
+  <p><strong>🚆 Jak dojechać:</strong> Z dworca głównego w Monachium (Hauptbahnhof) pociągiem S2 do stacji Dachau (kierunek Petershausen), a potem autobus 726 do „KZ-Gedenkstätte Dachau”. Całość zajmuje ok. 45 minut – wystarczająco długo, by się przygotować mentalnie.</p>
+
+  <p><strong>❗ Wskazówka:</strong> Nie planuj potem zwiedzania ogródków piwnych. Dachau zostaje w głowie na dłużej. I dobrze – niech zostanie.</p>
+</details>
+
+<details>
+  <summary><strong>🏰 Alter Hof – Zamek, który już nie jest zamkiem</strong></summary>
+  
+  <p>📍 Współrzędne: 48.1375° N, 11.5777° E</p>
+  <p>Alter Hof to jeden z tych niemieckich zabytków, które niekoniecznie przyciągają tłumy turystów, ale mają w sobie coś, co sprawia, że warto tu zajrzeć. Nie jest to ogromny zamek z wieżami i fosami, o jakich marzy każdy średniowieczny fan – to raczej dawny dwór książąt bawarskich. Mimo że obecnie pełni funkcję muzeum i biur, jego historia sięga aż XIII wieku, kiedy to książę Bawarii, Ludwig II, zbudował go jako swoją siedzibę.</p>
+  <p>Wchodząc do Alter Hof, cofamy się w czasie do średniowiecza, gdzie życie toczyło się wolniej, a władza siedziała na tych samych, co dzisiaj, ulicach Monachium. Choć zamek nie zachował się w pierwotnej formie, wnętrza i dziedzińce wciąż opowiadają historię Bawarii i jej dynastii Wittelsbach. Niewielu turystów dociera tutaj, co sprawia, że jest to idealne miejsce na spokojny spacer i oderwanie się od zgiełku głównych atrakcji.</p>
+  <p>Warto tu przyjść nie tylko po to, by zobaczyć stare mury, ale także by poczuć atmosferę tego miejsca, zwłaszcza jeśli interesujesz się historią Bawarii. W Alter Hof znajdziesz także ciekawe wystawy i informacje o przeszłości Monachium oraz o dynastii Wittelsbach, która odgrywała kluczową rolę w historii tej części Niemiec.</p>
+  <p>Jeśli chcesz poczuć się jak średniowieczny książę (choć raczej nie bezpośrednio, bo książęta Bawarii nie rozdawali za darmo majątków), Alter Hof to doskonała okazja, by poczuć atmosferę dawnej Bawarii, która do dziś jest jednym z filarów kultury tego regionu.</p>
+</details>
+
+<details>
+  <summary><strong>⛪ Asamkirche – barokowy klejnot, którego nie możesz przegapić</strong></summary>
+  
+  <p>📍 Współrzędne: 48.1391° N, 11.5778° E</p>
+  <p>Asamkirche to jedna z tych atrakcji, które potrafią dosłownie zapierać dech w piersiach. Ta niewielka, barokowa świątynia, zbudowana w XVIII wieku przez braci Asam, to prawdziwy festiwal dla oczu, pełen złota, marmuru i finezyjnych detali. Choć z zewnątrz kościół nie wydaje się szczególnie imponujący, to po wejściu do środka od razu widać, dlaczego Asamkirche jest uznawana za jedną z najpiękniejszych barokowych świątyń w Niemczech.</p>
+  <p>Kościół, który pierwotnie miał być prywatną kaplicą rodziny Asam, szybko stał się popularnym punktem na mapie turystycznej Monachium. Co ciekawe, to miejsce jest pełne niespodzianek: każdy detal, od ołtarza po sufit, jest starannie zaplanowany, by zrobić wrażenie. W szczególności imponuje fresk na suficie, który przedstawia „Świętą Trójcę” – to prawdziwe dzieło sztuki, które daje wrażenie, że niebo zstępuje na ziemię.</p>
+  <p>Chociaż Asamkirche nie jest dużą budowlą, to jakość jej detali sprawia, że nie można się tu nudzić. Z każdym krokiem odkrywasz nowe elementy, jak rzeźby, freski, bogato zdobione kolumny i ornamenty, które razem tworzą niesamowitą atmosferę. To kościół, w którym można się zatrzymać i naprawdę poczuć się częścią historii – nawet jeśli nie jesteś religijny, sztuka i emocje, jakie tu czuć, są absolutnie niezapomniane.</p>
+  <p>Asamkirche to miejsce, które jest zarówno spokojną oazą w sercu Monachium, jak i prawdziwą perłą baroku. Niezależnie od tego, czy interesujesz się sztuką, historią, czy po prostu chcesz zobaczyć coś, co zaskoczy Cię na każdym kroku – to miejsce jest zdecydowanie warte uwagi. A przy tym, ponieważ nie jest tak popularne jak inne zabytki w Monachium, znajdziesz tu trochę więcej ciszy i spokoju, by w pełni docenić piękno tego niezwykłego kościoła.</p>
+</details>
+
+<details>
+  <summary><strong>🌊 Isar i mosty – zielona oaza w sercu Monachium</strong></summary>
+
+  <p>📍 Współrzędne: 48.1351° N, 11.5811° E (rzeka Isar w centrum Monachium)</p>
+  
+  <p>Isar to nie tylko rzeka – to serce Monachium, które bije w rytm spacerów, biegania i letnich kąpieli. Jej brzeg jest jak naturalny salon miasta, pełen zieleni, plaż i mostów, które łączą różne części Monachium w malowniczy sposób. Rzeka przebiega przez miasto jak wielka arteria, zapraszając do odkrywania różnych zakątków, zarówno tych turystycznych, jak i mniej znanych.</p>
+
+  <p>Mosty na Isarze to swoisty symbol miasta. Wzdłuż rzeki znajdziesz zarówno te klasyczne, stare mosty, jak i nowoczesne konstrukcje, które łączą tradycję z nowoczesnością. Przykładem jest Most Karla, który wyróżnia się swoją elegancją i widokiem na piękne, zielone tereny. Jest to jedno z tych miejsc, które idealnie nadaje się na romantyczny spacer. Jeśli masz ochotę na trochę więcej przygody, mosty prowadzą również do różnych plaż wzdłuż Isary, gdzie możesz poczuć się jak prawdziwy mieszkaniec Monachium i wziąć udział w „wodnej rewolucji” – lokalne kąpieliska są popularne, a temperatura wody w lecie to idealne ukojenie.</p>
+
+  <p>Nie brakuje tu także szlaków pieszych i rowerowych, które prowadzą przez mosty i tereny wzdłuż Isary. Będziesz miał okazję podziwiać zmieniające się krajobrazy – od miejskich scenerii z pięknymi widokami na pałac Nymphenburg, po dzikie obszary nad rzeką, pełne dzikich ptaków i miejscowych rowerzystów. Mosty takie jak Most Ludwiga czy Most Isarbrücke są popularnymi punktami, z których roztacza się przepiękny widok na miasto, rzekę i pobliskie tereny rekreacyjne. Chcesz poczuć się jak prawdziwy Monachijczyk? Weź rower i ruszaj wzdłuż brzegu – niezależnie od pory dnia, zawsze znajdziesz tu coś ciekawego.</p>
+
+  <p>Isar to także miejsce, które ma swoją specyficzną atmosferę. W okolicy mostów możesz spotkać joggerów, rowerzystów, a także grupy przyjaciół relaksujących się na trawie. Latem, rzeka zamienia się w naturalne centrum rekreacyjne – mieszkańcy korzystają z kąpielisk i plaż, a nad wodą można spotkać piknikujących, czytających książki, a nawet grających w siatkówkę plażową. Dla turystów, Isar to przede wszystkim idealne miejsce na odpoczynek od zgiełku miasta i chwila relaksu w samym sercu Monachium.</p>
+
+  <p>Na koniec, warto dodać, że mosty nad Isarą to nie tylko architektoniczne cudeńka, ale także punkty, które pozwalają uchwycić wspaniałe widoki na miasto, szczególnie przy zachodzie słońca. Warto zatrzymać się na chwilę, by zobaczyć, jak światła miasta odbijają się w wodach rzeki. I choć nie jest to atrakcja turystyczna w tradycyjnym sensie, nie ma nic bardziej relaksującego i „monachijskiego” niż chwila spędzona nad Isarą.</p>
+</details>
+
+<details>
+  <summary><strong>🏟️ Olympiapark i Wieża Widokowa – adrenalina i widoki na Monachium</strong></summary>
+
+  <p>📍 Współrzędne: 48.1731° N, 11.5592° E (Olympiapark)</p>
+
+  <p>Olympiapark to nie tylko miejsce, gdzie odbywały się letnie igrzyska olimpijskie w 1972 roku – to także kompleks, który dziś przyciąga mieszkańców Monachium i turystów z całego świata. Park łączy sport, rekreację i kulturę w jednym, oferując coś dla każdego – od spacerów po trawie, przez oglądanie koncertów, aż po podziwianie miasta z samej góry. Tak, jeśli szukasz miejsca, które pozwoli Ci poczuć się jak lokalny sportowiec (albo przynajmniej jak turysta z widokiem na całe Monachium), Olympiapark jest strzałem w dziesiątkę.</p>
+
+  <p>Park otoczony jest pięknymi jeziorami, po których możesz popływać, oraz rozległymi terenami zielonymi – idealnymi na piknik lub relaks. Jest tu także ogromny stadion olimpijski, który można zwiedzać, a czasami odbywają się tu koncerty i wydarzenia, które przyciągają tłumy. Ale wisienką na torcie jest zdecydowanie **Wieża Widokowa Olympiapark** (Olympiaturm). Wchodząc na nią, wchodzi się na szczyt Monachium – dosłownie i w przenośni. Wieża ma wysokość 291 metrów i z jej szczytu roztacza się jeden z najlepszych widoków na miasto, Alpy, a w słoneczne dni nawet na okolice na odległość 50 km.</p>
+
+  <p>Wjazd na wieżę to trochę jak podróż do nieba, tylko bez potrzeby paszportu. Możesz podziwiać zarówno panoramę Monachium, jak i zobaczyć, jak zmienia się miasto – z historycznego centrum po nowoczesne dzielnice. Na górze znajduje się także restauracja, w której możesz napić się kawy, zjeść coś lekkiego i cieszyć się widokiem. Warto też dodać, że wieża jest popularnym miejscem na fotografowanie, zwłaszcza o zachodzie słońca, kiedy niebo zaczyna mienić się na czerwono i pomarańczowo. Kto nie zrobił zdjęcia z tej wieży, jakby w ogóle nie był w Monachium.</p>
+
+  <p>Jeśli nie jesteś fanem wspinania się po schodach, nic się nie martw – wjazd windą to szybka opcja, która zaoszczędzi Ci energii na podziwianie widoków. A jeśli pogoda nie dopisuje, możesz zrelaksować się w jednym z pobliskich sklepów, kawiarni lub odwiedzić muzeum, które znajduje się w samym kompleksie. Całość tworzy idealne połączenie rekreacji, historii i nowoczesności, dając Ci poczucie, że odkrywasz Monachium z zupełnie nowej perspektywy.</p>
+
+  <p>Olympiapark to także świetne miejsce na aktywności, takie jak jazda na rowerze, bieganie, czy korzystanie z miejsc do ćwiczeń na świeżym powietrzu. Możesz też spróbować swoich sił na ściance wspinaczkowej, która znajduje się w obrębie parku. Mówiąc krótko: w Olympiaparku nuda nie ma prawa zaistnieć.</p>
+
+  <p><strong>Praktyczna porada:</strong> Jeśli planujesz odwiedzić Olympiapark, pamiętaj, że w sezonie letnim może być sporo turystów, zwłaszcza w weekendy. Więc jeśli chcesz uniknąć tłumów i poczuć się jak prawdziwy lokalny, spróbuj przyjść rano w tygodniu. A potem odpocznij na trawie, jak prawdziwy Monachijczyk!</p>
+</details>
+
 
    
 <details>
@@ -93,7 +275,9 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
       
 ---
-
+<details>
+  <summary><strong>🏙️ Plan zwiedzania Monachium</strong></summary>
+  
  <details>
   <summary><strong>🏙️ Plan zwiedzania Monachium - Dzień 1: Historia, tradycja i sztuka</strong></summary>
   
@@ -130,6 +314,7 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <h3>5. Hofgarten – relaks w sercu Monachium</h3>
   <p>Na zakończenie dnia udaj się do <strong>Hofgarten</strong>, pięknego ogrodu przy Residenz. To idealne miejsce na spokojny spacer i odpoczynek. Po całym dniu zwiedzania warto na chwilę zatrzymać się, odprężyć i dać odpocząć stopom.</p>
+</details>
 </details>
 
 
