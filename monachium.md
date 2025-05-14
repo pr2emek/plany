@@ -344,10 +344,6 @@ Witaj w przewodniku po Barcelonie! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><strong>ℹ️ Protip dla rodziców:</strong> W metrze zawsze wsiadajcie do wagonu z miejscem na wózki (ma piktogram). Inaczej Twoje życie to schody, spojrzenia i rozważania egzystencjalne.</p>
 </details>
-Pro tip dla dorosłych:</strong> Weź ze sobą przekąski, wodę i dużo cierpliwości. I nie planuj więcej niż 2 atrakcje dziennie – Berlin z dziećmi to maraton, nie sprint.</p>
-</details>
-
-
 
 ---
 
