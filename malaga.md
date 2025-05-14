@@ -46,16 +46,46 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>Malaga to nie tylko plaża i drink z parasolką. To miasto z duszą, historią, ceramiką i szczyptą rzymskiego dramatyzmu. Przejdźmy przez listę miejsc, które warto zobaczyć, zanim znikniesz w tapas-barze bez śladu.</p>
 
   <details>
-    <summary><strong>🏰 Alcazaba – mały Alhambrowy kuzyn</strong></summary>
-    <p>📍 Współrzędne: 36.7213° N, 4.4170° W</p>
-    <p>Arabska twierdza z XI wieku, zbudowana na wypadek ataku piratów lub turystów bez biletów. Schody, dziedzińce, mozaiki i widoki, które wynagradzają każdą kroplę potu. Bonus: znajduje się tuż obok ruin rzymskiego teatru, więc możesz ogarnąć dwa tysiące lat historii w jednym selfie.</p>
-  </details>
+  <summary><strong>🏰 Alcazaba – pałac w sercu Malagi</strong></summary>
 
-  <details>
-    <summary><strong>🏛️ Teatro Romano – czyli jak Rzymianie lubili się bawić</strong></summary>
-    <p>📍 Współrzędne: 36.7207° N, 4.4180° W</p>
-    <p>Rzymski teatr z I wieku p.n.e., odkryty przypadkiem w XX wieku, jak to zwykle bywa w Hiszpanii. Usiądź na kamiennej ławie, zrób dramatyczne zdjęcie jak Cezar na Instagramie i poczuj ducha antycznej kultury. Wstęp? Za darmo – czyli idealna cena.</p>
-  </details>
+  <p>📍 Współrzędne: 36.7213° N, 4.4151° W</p>
+  <p>Alcazaba to jeden z najważniejszych symboli Malagi, a zarazem jeden z najlepiej zachowanych przykładów mauretańskiej architektury w Hiszpanii. Wznosi się dumnie na wzgórzu, oferując niezrównany widok na miasto i port. To nie tylko zamek, ale i pałac, który był rezydencją arabskich władców, kiedy Malaga była częścią Kalifatu Kordoby.</p>
+
+  <p>Choć dziś pełni funkcję turystyczną, w przeszłości Alcazaba była twierdzą obronną. Zbudowana w XI wieku, przez wiele lat była jednym z głównych ośrodków administracyjnych i wojskowych regionu. Dwa wewnętrzne dziedzińce, pięknie utrzymane ogrody i fontanny tworzą atmosferę spokoju i elegancji. Spacerując po jej murach, łatwo poczuć się jak średniowieczny książę lub księżniczka, podziwiając panoramę Malagi z wysokości.</p>
+
+  <p>Do głównych atrakcji Alcazaby należą:
+    <ul>
+      <li><strong>Wspaniałe widoki</strong> – z wież i murów pałacu rozpościera się widok na miasto, port i morze.</li>
+      <li><strong>Ogromne ogrody</strong> – na dziedzińcach można odpocząć w cieniu palm, a fontanny i baseny dodają uroku.</li>
+      <li><strong>Wieża Homenaje</strong> – jedna z głównych wież twierdzy, skąd można podziwiać przepiękne krajobrazy Malagi.</li>
+      <li><strong>Muzeum Archeologiczne</strong> – w Alcazabie znajduje się również muzeum, które przedstawia historię regionu, w tym wykopaliska z czasów rzymskich i mauretańskich.</li>
+    </ul>
+  </p>
+
+  <p>Podczas wizyty warto poświęcić czas na spokojny spacer po zamku i ogrodach. Alcazaba to prawdziwa oaza historii i spokoju w centrum tętniącego życiem miasta. Mimo iż pałac ma głównie charakter turystyczny, jego urok i piękno wciąż zachwycają.</p>
+</details>
+
+
+ <details>
+  <summary><strong>🎭 Teatro Romano – antyczny teatr w sercu Malagi</strong></summary>
+
+  <p>📍 Współrzędne: 36.7180° N, 4.4154° W</p>
+  <p>Teatro Romano w Maladze to prawdziwa perełka dla miłośników historii. Zbudowany w I wieku p.n.e. przez cesarza Augusta, był jednym z najważniejszych miejsc rozrywki w starożytnym Rzymie. Choć przez wieki zapomniany, dziś można podziwiać jego imponujące ruiny, które świetnie odzwierciedlają życie kulturalne ówczesnych mieszkańców Malagi.</p>
+
+  <p>Teatr mógł pomieścić do 2200 widzów, a jego konstrukcja wciąż zachwyca – od spektakularnych murów po wyjątkowo dobrze zachowaną scenę. Choć teatr był używany do przedstawień teatralnych, organizowano tam również walki gladiatorów i inne wydarzenia rozrywkowe. Dziś jest jednym z głównych punktów turystycznych w Maladze.</p>
+
+  <p>Podczas wizyty w Teatro Romano warto zwrócić uwagę na:
+    <ul>
+      <li><strong>Widowiskową scenę</strong> – świetnie zachowaną i idealnie nadającą się do wyobrażenia sobie starożytnych spektakli.</li>
+      <li><strong>Pomniki i kolumny</strong> – elementy konstrukcji, które świadczą o ogromnym rozmachu budowli.</li>
+      <li><strong>Świetną akustykę</strong> – nawet dziś, stojąc na scenie, można usłyszeć, jak dźwięk rozchodzi się po całym teatrze.</li>
+      <li><strong>Muzeum archeologiczne</strong> – w pobliżu teatru znajduje się małe muzeum, które prezentuje wykopaliska z tego i innych antycznych miejsc w Maladze.</li>
+    </ul>
+  </p>
+
+  <p>Teatro Romano to obowiązkowy punkt na mapie Malagi, szczególnie dla tych, którzy interesują się historią starożytnego Rzymu. A jeśli jesteś fanem sztuki, będziesz mieć okazję poczuć się jak uczestnik antycznego spektaklu – o ile, oczywiście, pozwoli ci na to wyobraźnia!</p>
+</details>
+
 
   <details>
     <summary><strong>🎨 Muzeum Picassa – powrót syna marnotrawnego</strong></summary>
