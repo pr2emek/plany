@@ -6,61 +6,52 @@ permalink: /portugalia.html
 
 # Przewodnik: Portugalia
 
-<section>
-  <h2>Włochy – kraj, w którym pizza to religia, a espresso leci w żyłach</h2>
+
+  <h3>🌞 PORTUGALIA</h3>
+
   <p>
-    Włochy to kraj, który wygląda jak but – i całkiem słusznie, bo potrafi kopnąć cię w serce emocjami, krajobrazami i poziomem makaronu w diecie. Tu historia czai się za każdym rogiem, a każda wioska ma więcej zabytków niż niejedno europejskie miasto. Codzienność płynie tu wolniej, ale za to bardziej dramatycznie – wystarczy zerwać z kimś przez telefon, stojąc pod balkonem, i masz własną operę w stylu Verdiego.
-  </p>
-  <p>
-    Na ulicach pachnie kawą, spalinami skuterów i ciastem drożdżowym z jakiejś niepozornej piekarni, która istnieje od czasów Cezara. Ludzie są głośni, serdeczni, a ich gestykulacja mogłaby opowiadać sagi rodzinne bez użycia ani jednego słowa. Moda jest tu codziennym obowiązkiem – nawet po bułki do sklepu idzie się jak na wybieg.
-  </p>
-  <p>
-    To nie jest kraj do zwiedzania na szybko. Włochy trzeba smakować – jak dobrze dojrzewający ser. Trochę z zachwytem, trochę z namysłem, a trochę z rozpiętym guzikiem przy spodniach po kolacji.
+    Portugalia to taki kraj, który siedzi sobie cicho na zachodnim krańcu Europy, popija kawkę, zagryza <em>pastéis de nata</em> i z uśmiechem patrzy, jak reszta kontynentu się stresuje. 
+    Niby mało kto o niej mówi na co dzień, ale wystarczy pojechać raz i człowiek wraca już tylko po to, żeby zamieszkać w domu z azulejos i nie myć auta do końca życia (bo przecież „morska mgła” to nie brud).
   </p>
 
-  <h3>Co warto wiedzieć, zanim wyruszysz na pizzową pielgrzymkę:</h3>
+  <h4>🌍 Dlaczego warto odwiedzić?</h4>
   <ul>
-    <li><strong>Język:</strong> włoski, ale dogadasz się uśmiechem (i słowem <em>gelato</em>).</li>
-    <li><strong>Waluta:</strong> euro – niestety, tanio było w innym życiu.</li>
-    <li><strong>Transport:</strong> pociągi, skutery, a czasem… boska cierpliwość. Pociąg przyjedzie, jak będzie gotowy.</li>
-    <li><strong>Strefa czasowa:</strong> CET – czyli zawsze trochę później, ale z klasą.</li>
+    <li>Bo to jeden z najpiękniejszych krajów w Europie, a jakoś nikt nie robi z tego wielkiego halo. Pokora premium.</li>
+    <li>Bo masz tu wszystko: <strong>oceany, góry, winnice, miasta z duszą i wioski, gdzie czas się zatrzymał</strong>.</li>
+    <li>Bo można zjeść 7 dań z dorsza i nie powtórzyć ani jednego przepisu.</li>
+    <li>Bo ludzie są mili, pogoda łaskawa, a portwajn leje się bez wstydu.</li>
   </ul>
 
-  <h3>Dlaczego warto odwiedzić Włochy?</h3>
+  <h4>🏙️ Co zobaczyć?</h4>
+  <ul>
+    <li><strong>Lizbona</strong> – stolica na wzgórzach, gdzie tramwaj 28 jedzie jakby się bał zakrętów, a katedra stoi krzywo i nikt się nie przejmuje.</li>
+    <li><strong>Porto</strong> – nie, to nie tylko wino. Choć to wino też. I most. I płytki. I klimat, który czujesz nawet jak nic nie rozumiesz po portugalsku.</li>
+    <li><strong>Algarve</strong> – czyli plaże jak z Photoshopa, klify, które wyglądają jakby je ręką Boga rzeźbiono, i Anglicy w sandałach. Dużo Anglików.</li>
+    <li><strong>Sintra</strong> – pałace jak z bajki, zamek na szczycie i mgła, która pojawia się dokładnie wtedy, kiedy chcesz zrobić zdjęcie.</li>
+    <li><strong>Coimbra, Évora, Braga</strong> – mniejsze miasta, w których nie ma tłumów, ale za to jest dusza. I koty.</li>
+  </ul>
+
+  <h4>☕ Styl życia</h4>
   <p>
-    Bo żaden inny kraj nie potrafi tak dobrze łączyć chaosu z elegancją. W jednym tygodniu możesz:
+    Portugalczycy mają filozofię życiową „spokojnie, jeszcze zdążymy”. Oznacza to, że kawa może trwać godzinę, obiad trzy, a remont wieczność. 
+    Praca? Tak, ale nie za dużo. Priorytetem są rodzina, jedzenie i nieprzegrzanie się w słońcu. <br>
+    Portugalczyk nie podnosi głosu. Nawet jak coś wybuchnie – to się najpierw zje zupę.
   </p>
-  <ul>
-    <li>Stać pod krzywą wieżą w Pizie i zastanawiać się, czy to normalne, że się nie przewraca.</li>
-    <li>Pić wino w Toskanii, jakbyś grał w reklamie.</li>
-    <li>Przeżyć śmierć przez zachwyt w Rzymie, patrząc na Koloseum.</li>
-    <li>Uciekać przed mewami w Wenecji.</li>
-    <li>Zgubić się w Neapolu i uznać, że to najlepsze, co ci się przytrafiło.</li>
-    <li>I... zakochać się. W mieście. W jedzeniu. W człowieku. W kotku na ruinach. Kto wie?</li>
-  </ul>
 
-  <h3>Co zobaczyć? Gdzie zacząć?!</h3>
+  <h4>🎯 Dodajmy coś od siebie:</h4>
   <ul>
-    <li><strong>Północ:</strong> Dolomity dla górskich kozic i Mediolanu dla fashion victim.</li>
-    <li><strong>Środek:</strong> Florencja dla fanów sztuki, Toskania dla fanów wina, Rzym dla fanów wszystkiego naraz.</li>
-    <li><strong>Południe:</strong> Neapol dla odważnych serc i Sycylia dla tych, którzy chcą poczuć wakacje jak z filmu.</li>
-    <li><strong>Wyspy:</strong> Sardynia – gdzie piasek wygląda jak cukier puder, a morze ma więcej odcieni niż karta Pantone.</li>
+    <li>To kraj, w którym każdy dzień zaczyna się kawą i kończy... kolejną kawą, ale z portwajnem obok.</li>
+    <li>Nazwy ulic są dłuższe niż instrukcja obsługi klimatyzatora. Ale wszyscy i tak mówią „skręć za piekarnią”.</li>
+    <li>Wszystko wygląda jak pocztówka, ale to prawdziwe – nie filtr.</li>
+    <li>To idealny kierunek, jeśli chcesz poczuć się jak człowiek, a nie jak target w kampanii marketingowej.</li>
   </ul>
-
-<h3>Porady od serca (i żołądka):</h3>
-<ul>
-  <li><strong>Nie zamawiaj cappuccino po 11:00</strong> – chyba że chcesz, żeby kelner spojrzał na ciebie jak na obcokrajowca (co zresztą jesteś).</li>
-  <li><strong>Pasta to nie dodatek.</strong> To sens życia. Każdy region ma swój sos i każdy myśli, że jego mama robi najlepszy.</li>
-  <li><strong>Nie ufaj pizzy z ananasem.</strong> Włosi ci tego nie wybaczą. Nawet po śmierci.</li>
-  <li><strong>Chcesz wodę? Precyzuj.</strong> „Naturale” to niegazowana, „frizzante” to gazowana. A jeśli powiesz po prostu „woda”, dostaniesz wykład filozoficzny o wyborach życiowych.</li>
-  <li><strong>Nie próbuj przechodzić przez ulicę na logikę.</strong> Przechodź na wiarę. Kierowcy cię widzą. Prawdopodobnie.</li>
-  <li><strong>Nie pytaj o ketchup do makaronu.</strong> Po prostu nie.</li>
-  <li><strong>Nie dziw się, że obiad zaczyna się o 20:00.</strong> Włosi jedzą wtedy, gdy reszta Europy już leży w łóżku i trawi.</li>
-  <li><strong>Kolejki nie istnieją.</strong> Są sugestiami. Obserwuj, wpychaj się z wdziękiem, udawaj, że tak miało być.</li>
-  <li><strong>Nie próbuj jechać samochodem po centrum Rzymu.</strong> Chyba że masz duszę gladiatora i ubezpieczenie od wszystkiego.</li>
-</ul>
 
   <p>
+    Podsumowując – Portugalia to nie kraj. To <strong>styl życia</strong>. Taki, który mówi: zjedz dorsza, popatrz na ocean i weź się wyluzuj. Jeśli jeszcze tu nie byłeś – napraw ten błąd.
+  </p>
+
+
+
     Włochy to kraj, który nie musi się starać, żebyś go pokochał. Wystarczy jeden zachód słońca nad Rzymem, jeden kieliszek Chianti w winnicy i jeden talerz carbonary, żebyś już nigdy nie był taki sam.
   </p>
 </section>
