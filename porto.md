@@ -22,6 +22,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>Styl życia:</strong> Porto to miasto niespieszne. Nikt tu nie pędzi, bo i po co? Życie toczy się przy kawie, w cieniu starych kamienic, na schodach przy rzece. Ludzie są uśmiechnięci, jedzenie proste, ale pyszne, a wieczory pachną grillowaną rybą i winem. Nie licz na huczne imprezy jak w Lizbonie – tutaj się raczej pogaduje niż tańczy na barze.</p>
 
   <p><strong>Dlaczego warto odwiedzić:</strong> Bo to miasto z duszą. Autentyczne, pełne historii, ale bez turystycznego zadęcia. Zjadasz dorsza, popijasz vinho verde, patrzysz na zachód słońca nad Douro i myślisz sobie: „A może by tu zostać na zawsze?”. A potem i tak wracasz, bo Porto wchodzi do głowy lepiej niż ich lokalne porto do kieliszka.</p>
+  
 </details>
 
  
@@ -45,7 +46,6 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><strong>Porada lokalna:</strong> Usiądź nad rzeką z czymkolwiek do jedzenia i po prostu obserwuj. Możesz też zapłacić za kawę 2 razy więcej, by mieć widok – ale czasem warto. Bo ten widok zostaje w głowie dłużej niż smak kawy.</p>
 </details>
-
 
 <details>
   <summary><strong>🌉 Most Ludwika I – Porto w trybie „wow”</strong></summary>
@@ -73,7 +73,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p>W środku? Chłód, cisza i masa złoconych ołtarzy. A jeśli masz szczęście, trafisz na ślub – bo miejscowi wciąż traktują Sé jako najważniejsze miejsce na sakramentalne „tak”. Po wyjściu koniecznie przejdź się po murze obronnym – bonus: panorama jak z katalogu biura podróży, tylko bez Photoshopa.</p>
 
-  <p><strong>Porada:</strong> Nie idź w klapkach – bruk, schody i dziedziniec to test wytrzymałości stóp. Ale dla zdjęcia z widokiem? Warto.</p>
+<p><strong>Porada:</strong> Nie idź w klapkach – bruk, schody i dziedziniec to test wytrzymałości stóp. Ale dla zdjęcia z widokiem? Warto.</p>
   
 </details>
 
@@ -93,6 +93,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><strong>Porada:</strong> Wpadnij wcześnie rano – mniej ludzi, więcej ciszy, idealne światło do zdjęć. I nie pytaj o peron 9¾ – to nie ta bajka, ale magia jest.</p>
 </details>
+
 
 <details>
   <summary><strong>🚋 Zabytkowy tramwaj w Porto – grzech, żeby nie wsiąść</strong></summary>
@@ -162,6 +163,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>Dlaczego warto:</strong> Bo nawet jeśli nie lubisz czytać, to tutaj masz szansę poczuć, jakbyś był bohaterem powieści. Albo przynajmniej pięknego zdjęcia.</p>
 
   <p><strong>Pro tip:</strong> Wejście jest płatne, ale cena biletu odlicza się od zakupu książki. Tylko pamiętaj – jeśli wybierzesz zakładkę, to reszty nie oddają.</p>
+
 </details>
 
 <details>
