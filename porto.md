@@ -4,7 +4,7 @@ title: Porto
 permalink: /porto.html
 ---
 
-# Portugalia 🇪🇸 
+# Portugalia 🇵🇹 
 
 Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 
@@ -25,7 +25,6 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
  
-
 ---
 
 <details>
@@ -250,9 +249,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 </details>
-
-</details>
-    
+  
  
 <details>
   <summary><strong>🕵️ Sekretne miejsca Porto – nie dla mas, tylko dla wtajemniczonych</strong></summary>
