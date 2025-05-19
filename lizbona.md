@@ -172,7 +172,7 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 
 
-    <details>
+<details>
   <summary><strong>🚋 Tramwaj 28 – czyli Lizbona w trybie retro</strong></summary>
 
   <p>📍 Start: Praça Martim Moniz → Koniec: Campo Ourique (Prazeres)</p>
@@ -199,7 +199,7 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
   <summary><strong>🌉 Most 25 Kwietnia – Golden Gate w wersji portugalskiej</strong></summary>
 
   <p>📍 Współrzędne: 38.6892° N, 9.1778° W</p>
@@ -232,7 +232,7 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🚋 Elevador da Bica</strong></summary>
-  <p class="coords">(38.7106, -9.1456)</p>
+  <p>📍 Współrzędne: 38.7106° N, 9.1456° W</p>
   <p>
     Najbardziej instagramowa kolejka świata, czyli żółty wagonik, który dzielnie wspina się po stromej uliczce niczym lisboński alpinista. Łączy Rua de São Paulo z Calçada do Combro i po drodze mija murale, pranie na sznurkach, kawiarnie i turystów, którzy zastanawiają się, czy to jeszcze transport publiczny, czy już eksponat w muzeum.
   </p>
@@ -247,7 +247,7 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
    
 <details>
   <summary><strong>🛗 Elevador de Santa Justa</strong></summary>
-  <p class="coords">(38.7139, -9.1397)</p>
+<p>📍 Współrzędne: 38.7139° N, 9.1397° W</p>
   <p>
     Gotycko-industrialna wieża w samym sercu Baixy, która wygląda jakby ktoś zaparkował kawałek wieży Eiffla po złej stronie Pirenejów. Zaprojektowana przez ucznia Gustave'a Eiffla, ta winda łączy dolną dzielnicę Baixa z górnym Bairro Alto — co oznacza, że zamiast wspinać się jak kozica po schodach, możesz wjechać z klasą i widokiem na dachy Lizbony.
   </p>
