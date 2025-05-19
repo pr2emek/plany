@@ -300,7 +300,8 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 <details>
-  <summary><strong>🌄 Miradouro da Senhora do Monte <span class="coords">(38.7186, -9.1344)</span></strong></summary>
+  <summary><strong>🌄 Miradouro da Senhora do Monte </strong></summary>
+  <p>📍 Współrzędne: 38.7186° N, 9.1344° W</p>
   <p>
     To nie jest zwykły punkt widokowy. To **królowa punktów widokowych w Lizbonie**. Jeśli chcesz zobaczyć całe miasto jak na dłoni – z zamkiem św. Jerzego, Tagiem, mostem 25 Kwietnia i wszystkimi czerwonymi dachami, które wyglądają jak idealnie ułożony puzzle – to właśnie tu. No dobra, może trzeba trochę pod górkę, może trzeba przesiąść się z tuk-tuka na nogi, ale efekt? Bajka.
   </p>
