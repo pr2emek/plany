@@ -55,20 +55,186 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🗺️ Co zobaczyć w Lizbonie?</strong></summary>
 
-  <p>Lizbona to miasto, gdzie każda dzielnica ma swój własny klimat, a nogi dostają więcej kilometrów niż auto w leasingu. Ale spokojnie – warto! Oto lista miejsc, które trzeba zobaczyć, zanim siądzie bateria w telefonie i w kolanach.</p>
+ <details>
+  <summary><strong>🏰 Alfama – czyli Lizbona zanim była Instagramem</strong></summary>
 
+  <p>📍 Współrzędne: 38.7113° N, 9.1290° W</p>
+
+  <p>Alfama to najstarsza dzielnica Lizbony, a zarazem taka, która wie wszystko o mieście… ale nie musi się tym chwalić. To miejsce, gdzie ulice są tak wąskie, że jeśli dwóch ludzi niesie parasole, muszą się zaprzyjaźnić. Gdyby kamienie mogły mówić, Alfama opowiedziałaby ci więcej historii niż niejeden przewodnik. Albo zespół fado po trzech kieliszkach porto.</p>
+
+  <p>To tutaj przetrwało coś, czego nie ruszyły ani trzęsienia ziemi, ani nowoczesność, ani masowy turyzm – autentyczność. Alfama nie udaje. Tu pranie wisi między balkonami, starsze panie komentują twoje sandały, a z okien sączy się fado – czyli melancholia podana z winem i sardynką.</p>
+
+  <p>Warto się tu zgubić. Dosłownie. Google Maps odmawia posłuszeństwa, a papierowa mapa płacze w kącie. Ale właśnie w tym chaosie kryje się urok. Znajdziesz małe kawiarenki, schodki donikąd, katedrę Sé (która wygląda jak twierdza dla mnichów-gotów), widoki z punktu Miradouro de Santa Luzia, które wyciskają łzę nawet z najtwardszego turysty. No i te tramwaje. Linie 12 i 28 jadą tu, jakby testowały zawieszenie – ale dzięki nim poznasz Alfamę w trybie "retro z zawrotami głowy".</p>
+
+  <p>⚠️ Uwaga praktyczna: nie próbuj robić tego w klapkach. Nawierzchnia to portugalska kostka, po której ślizgasz się jak piosenkarka fado po wysokich nutach. A wieczorem? Alfama zamienia się w teatr. Lokalne knajpki (często z rodzinnym budżetem i mamą na zapleczu) serwują ci jedzenie, wino i fado – bez sceny, bez mikrofonów, bez ściemy. Po prostu magia.</p>
+
+  <p><strong>W skrócie:</strong> Alfama to Lizbona w wersji surowej, pachnąca sardynkami, mokra od historii i niesamowicie... ludzka. Jeśli chcesz poczuć duszę miasta – właśnie tu. Ale nie pytaj jej o drogę. I tak się zgubisz.</p>
+</details>
+
+<details>
+  <summary><strong>⛵ Belém – tam, gdzie Lizbona rozmawia z oceanem (i cukrem)</strong></summary>
+
+  <p>📍 Współrzędne: 38.6956° N, 9.2064° W</p>
+
+  <p>Belém to Lizbona w wersji imperialnej: białe marmury, wielkie pomniki i nieustanne przypominanie, że kiedyś to Portugalczycy znali pół świata na pamięć, a drugą połowę odkrywali w międzyczasie. Dzielnica położona przy ujściu Tagu wygląda trochę jak katalog UNESCO z dodatkiem bitej śmietany i lukru.</p>
+
+  <p>Główne atrakcje? Proszę bardzo:</p>
   <ul>
-    <li><strong>🏰 Alfama</strong> – stara dzielnica, gdzie uliczki są tak wąskie, że pranie i sąsiedzkie plotki suszą się jednocześnie. Tu chodzi się bez celu i zawsze się coś znajdzie: widok, kawiarenkę, zagubionego turystę.</li>
+    <li>🏰 <strong>Wieża Belém</strong> – fortyfikacja, która wygląda jak z bajki, ale służyła do celów jak najbardziej poważnych: bronienia miasta. Obecnie bardziej chroni turystów przed nudą.</li>
+    <li>⛪ <strong>Klasztor Hieronimitów (Mosteiro dos Jerónimos)</strong> – wielki jak portugalskie ego z czasów kolonialnych. Wejdź, bo to architektoniczne cudo i duchowa wersja siłowni (sama ilość zdobień powoduje zadyszkę).</li>
+    <li>🧭 <strong>Pomnik Odkrywców</strong> – czyli monument dla tych, którzy nie bali się wsiąść na drewniany statek i wypłynąć w nieznane, bez Wi-Fi i TripAdvisora. Selfie z Henrykiem Żeglarzem obowiązkowe.</li>
+  </ul>
 
-    <li><strong>🚋 Tramwaj 28</strong> – przejażdżka klasykiem, który jęczy, skrzypi i zasuwa po stromych ulicach jak bohater kreskówki. To nie transport – to safari przez serce Lizbony.</li>
+  <p>Ale nie samym kamieniem człowiek żyje. Belém to także dom <strong>Pastéis de Belém</strong> – czyli najbardziej znanych ciastek w Portugalii. Są to <em>pastéis de nata</em>, ale z metką premium i sekretną recepturą, którą znają tylko trzej mnisi i jeden piekarz z zakazem mówienia. Kolejka po nie wygląda jakby rozdawano złoto w kremie. I trochę tak jest.</p>
 
-    <li><strong>🌉 Most 25 Kwietnia</strong> – wygląda jak brat cioteczny Golden Gate, ale nie jest z San Francisco, tylko z Belém. Przejazd niekonieczny – widok z brzegu wystarczy.</li>
+  <p>🚋 Dojazd? Łatwizna. Tramwaj 15 lub autobus, ale pamiętaj – tu jest tłoczno. Bardzo. Bo wszyscy chcą liznąć trochę chwały Portugalii (albo chociaż lukru z ciastka).</p>
 
-    <li><strong>⛪ Klasztor Hieronimitów (Jerónimos)</strong> – kamienna poezja na temat „co można wyrzeźbić, jak ma się za dużo czasu i marmuru”. W środku: grobowiec Vasco da Gamy i zapach wielkości kolonialnej.</li>
+  <p>🌊 Spacer wzdłuż Tagu to obowiązkowy reset. Odpoczniesz psychicznie po turystycznej ekscytacji i fizycznie po walce o stolik w cukierni. W tle: most 25 Kwietnia, wyglądający jak jego słynny brat z San Francisco. A pod nim... cisza i mewy. I może lekka refleksja o życiu. Albo o kolejnej porcji ciastek.</p>
 
-    <li><strong>🗼 Wieża Belém</strong> – średniowieczny strażnik nad rzeką Tag, który kiedyś bronił miasta, a teraz broni się przed selfie stickami. Ładna, kamienna, fotogeniczna. Bez komentarza – po prostu wow.</li>
+  <p><strong>W skrócie:</strong> Belém to Lizbona na wypasie. Trochę historii, trochę cukru, trochę morza. Idealne na dzień, gdy chcesz się poczuć jak odkrywca, ale z klimatyzacją i dobrym jedzeniem.</p>
+</details>
 
-    <li><strong>🍮 Pastéis de Belém</strong> – technicznie to nie atrakcja, ale w praktyce bardziej niż wiele muzeów. Kultowe ciastka z tajnym przepisem, który prawdopodobnie zna tylko jeden mnich i jego kot.</li>
+<details>
+  <summary><strong>⛪ Klasztor Hieronimitów – gdyby kamienie mogły się popisać</strong></summary>
+
+  <p>📍 Współrzędne: 38.6981° N, 9.2065° W</p>
+
+  <p>Jeśli myślisz, że klasztor to smutne mury, echo modlitw i zapach kadzidła – Klasztor Hieronimitów zburzy ci ten stereotyp szybciej niż kolejka do <em>pastéis de nata</em> za rogiem. To nie jest „jakiś tam klasztor”. To <strong>monumentalne dzieło kamieniarskiej fanaberii</strong>, wybudowane z takim rozmachem, że aż żal nie zrobić sobie tu przynajmniej trzech selfie.</p>
+
+  <p>Powstał w XVI wieku, za pieniądze z przypraw przywożonych z kolonii (czyli: goździki, cynamon, a może i trochę złota), a wygląda jak wyryty w koronkach z marmuru. Główne założenie architekta? „Zrób tak, żeby turyści nie dowierzali, że to z kamienia”. I wyszło.</p>
+
+  <p>🔍 <strong>Na co zwrócić uwagę?</strong></p>
+  <ul>
+    <li>🔸 <strong>Dziedziniec</strong> – jeden z najpiękniejszych w Europie, idealny do medytacji... albo planowania, gdzie potem na obiad.</li>
+    <li>🔸 <strong>Kościół Santa Maria de Belém</strong> – w środku znajduje się grób Vasco da Gamy. Możesz mu mentalnie podziękować za to, że dzięki niemu przyprawiamy dziś piernika cynamonem, a nie żwirem.</li>
+    <li>🔸 <strong>Fasada</strong> – każda rzeźba, detal, gzyms i kolumienka krzyczy: „Jestem z epoki manuelińskiej! I jestem z tego dumny!”</li>
+  </ul>
+
+  <p>🎟️ <strong>Bilety</strong>: Warto kupić online, bo kolejki bywają dłuższe niż lista składników <em>pastéis de Belém</em>. W cenie ok. 10 euro, ale są też bilety łączone z Wieżą Belém i/lub MAAT-em, jeśli lubisz zestawy w stylu „wszystko naraz”.</p>
+
+  <p>⏰ <strong>Godziny</strong>: Od 10:00 do 17:30 (zimą) lub do 18:30 (latem), ale i tak najlepiej przyjść rano, zanim tłum zacznie przypominać otwarcie IKEA z promocją na kanapy.</p>
+
+  <p><strong>W skrócie:</strong> Klasztor Hieronimitów to must-see. Monument, który pokazuje, że Portugalia nie tylko odkrywała światy, ale też umiała je później przekształcić w kamienną opowieść pełną rozmachu. A jeśli to cię nie przekona – to dodaj, że jest blisko do <em>pastéis</em> i już nie trzeba więcej tłumaczyć.</p>
+</details>
+
+<details>
+  <summary><strong>🛡️ Wieża Belém – średniowieczna strażniczka z kompleksem fotomodelki</strong></summary>
+
+  <p>📍 Współrzędne: 38.6916° N, 9.2164° W</p>
+
+  <p>Wieża Belém wygląda jak z bajki: zębate wieżyczki, misterne zdobienia i lokalizacja na wodzie, jakby ktoś zbudował ją wyłącznie do zdjęć na Instagram. Ale spokojnie, to nie był plan influencerów z XV wieku – to była <strong>forteca obronna</strong>, która miała chronić Lizbonę przed nieproszonymi gośćmi (czytaj: piratami i innymi entuzjastami cudzej własności).</p>
+
+  <p>Zbudowana z białego wapienia i w stylu manuelińskim (czyli: im więcej ozdób, tym lepiej), wieża miała pokazać, że Portugalia to potęga – i pokazała. A dziś? Dziś pokazuje, że turyści kochają ciasne schody, widoczki na rzekę i selfie z historią w tle.</p>
+
+  <p>🔍 <strong>Co warto ogarnąć:</strong></p>
+  <ul>
+    <li>🔸 <strong>Taras widokowy</strong> – panorama Tagu i mostu 25 Kwietnia. Idealne miejsce, by udawać, że właśnie kontemplujesz sens życia (albo planujesz, gdzie potem na piwo).</li>
+    <li>🔸 <strong>Działka armatnie</strong> – symboliczne, ale przypominają: „Tu nie chodziło o ładne zdjęcia, tylko o obronę kraju”.</li>
+    <li>🔸 <strong>Ornamenty</strong> – liny, krzyże, tarcze... wszystko wyciosane z rozmachem i dumą imperium.</li>
+  </ul>
+
+  <p>🎟️ <strong>Bilety</strong>: Około 6 euro. Jeśli planujesz zwiedzać też Klasztor Hieronimitów, warto kupić bilet łączony i czuć się jak mistrz logistyki. Uwaga: kolejki bywają okrutne – jak tanie linie lotnicze w sezonie.</p>
+
+  <p>⏰ <strong>Godziny</strong>: Zazwyczaj od 10:00 do 17:30 (zimą) lub do 18:30 (latem). W poniedziałki – zamknięte, bo nawet wieże potrzebują odpoczynku.</p>
+
+  <p><strong>Pro tip:</strong> Jeśli nie zależy Ci na wchodzeniu do środka (bo np. nie lubisz ludzi w małych przestrzeniach), sam spacer wokół wieży robi robotę. Widoki są świetne, a fotki wyglądają jak z folderu promującego Lizbonę (bo dosłownie są z folderów promujących Lizbonę).</p>
+
+  <p><strong>W skrócie:</strong> Wieża Belém to średniowieczny odpowiednik „kontroli granicznej”, który dziś służy jako tło do tysięcy zdjęć dziennie. Ładna, symboliczna, warta odwiedzenia – choćby po to, żeby powiedzieć: „Byłem tam, gdzie zaczynało się portugalskie imperium”.</p>
+</details>
+
+<details>
+  <summary><strong>🌍 Pomnik Odkrywców – "Selfie z imperium"</strong></summary>
+
+  <p>📍 Współrzędne: 38.6938° N, 9.2055° W</p>
+
+  <p>Patrzysz na ogromny betonowy statek z tłumem kamiennych typów i myślisz: „Ale co to za casting do marmurowego Titanica?” Otóż nie – to <strong>Padrão dos Descobrimentos</strong>, czyli Pomnik Odkrywców, postawiony ku chwale portugalskich bohaterów, którzy – bez mapy Google – żeglowali przez oceany, odkrywali nowe lądy i zwozili przyprawy, złoto i inne "souveniry".</p>
+
+  <p>Zbudowany w 1960 roku na 500-lecie śmierci Henryka Żeglarza (czyli tego z przodu z krzyżem w ręku i miną: „Płyniemy, panowie!”), pomnik to nie tyle pomnik, co <strong>monumentalna laurka dla portugalskiego imperium</strong>. Przypomina: „Byliśmy wielcy. I mamy dowody.”</p>
+
+  <p>🔍 <strong>Na co zwrócić uwagę:</strong></p>
+  <ul>
+    <li>🔸 <strong>Henryk Żeglarz</strong> na dziobie – wygląda jakby planował zdominować cały świat. Trochę mu się udało.</li>
+    <li>🔸 <strong>Inni VIP-owie z epoki odkryć</strong>: Vasco da Gama, Magellan, i kilku typów od logistyki – każdy z nich ma swój moment chwały na tym „kamiennym okręcie”.</li>
+    <li>🔸 <strong>Mozaika przed pomnikiem</strong> – wielka róża wiatrów i mapa odkryć, zafundowana przez RPA w czasach, kiedy było to jeszcze modne. Tu warto stanąć i powiedzieć: „Patrz, gdzie dotarli!” – a potem zorientować się, że to trochę też historia kolonializmu…</li>
+  </ul>
+
+  <p>🎟️ <strong>Bilety</strong>: Wejście na taras widokowy to ok. 6 euro. W środku jest też ekspozycja o epoce wielkich odkryć – warto jeśli lubisz stare mapy i historie typu „Jak zdobyć pół świata mając kompas i nadzieję”.</p>
+
+  <p>⏰ <strong>Godziny</strong>: Około 10:00–18:00, zależnie od sezonu. Ostatnie wejście na górę trochę wcześniej – żeby nikt nie utknął na szczycie po ciemku.</p>
+
+  <p>📸 <strong>Zdjęcia obowiązkowe</strong>: Z wieżą Belém w tle, z mozaiką pod stopami i, oczywiście, z Henrykiem. Pamiętaj: on się nie uśmiecha, ale Ty możesz.</p>
+
+  <p><strong>W skrócie:</strong> Pomnik Odkrywców to betonowy hołd dla czasów, gdy Portugalia była światową potęgą morską. Trochę pompatyczny, trochę kontrowersyjny, ale bardzo fotogeniczny. Warto odwiedzić, przynajmniej żeby zrozumieć, jak bardzo ten naród kocha swoje żagle i przyprawy.</p>
+</details>
+
+
+
+
+
+
+    <details>
+  <summary><strong>🚋 Tramwaj 28 – czyli Lizbona w trybie retro</strong></summary>
+
+  <p>📍 Start: Praça Martim Moniz → Koniec: Campo Ourique (Prazeres)</p>
+
+  <p>Jeśli Lizbona miałaby swoją maskotkę, to nie byłby to żaden bocian, żółw czy sardynka, tylko właśnie <strong>żółty tramwaj numer 28</strong>. Ikoniczny, drewniany, skrzypiący i zdecydowanie nieklimatyzowany wehikuł czasu, który wiezie cię przez esencję miasta w rytmie: „trzymaj się poręczy, bo zaraz znikniesz za zakrętem”.</p>
+
+  <p>Tramwaj 28 to coś więcej niż środek transportu – to <strong>atrakcja turystyczna z opcją siedzenia</strong>, która wije się przez dzielnice Alfama, Baixa, Graça i Bairro Alto. Innymi słowy: Lizbona na tacy. Tylko taca ta potrafi nagle zatrzymać się na 15 minut, bo ktoś zaparkował jak artysta.</p>
+
+  <p>🛤️ <strong>Co zobaczysz po drodze:</strong></p>
+  <ul>
+    <li>🏰 <strong>Alfama</strong> – czyli uliczki tak wąskie, że tramwaj ledwo się przeciska, a ty masz wrażenie, że zaraz zetrzesz farbę z drzwi jakiegoś domku.</li>
+    <li>⛪ <strong>Se (katedra)</strong> – majestatycznie wyrasta zza zakrętu. To jedno z tych miejsc, gdzie wszyscy turystom nagle zapiera dech i aparat się przegrzewa.</li>
+    <li>📸 <strong>Miradouros</strong> – czyli punkty widokowe, z których nie zejdziesz, dopóki nie zrobisz selfie z dachami miasta.</li>
+    <li>🎨 <strong>Bairro Alto i Baixa</strong> – od starej bohemy po centrum handlowe z duszą. Tramwaj skręca i jedziesz przez epoki.</li>
+  </ul>
+
+  <p>🎟️ <strong>Cena biletu</strong>: 1,80€ (z kartą Viva Viagem), ale jeśli kupujesz bilet u kierowcy – 3,10€ i żadnych negocjacji. Polecam <strong>24h bilet turystyczny</strong> za 6,60€, bo możesz wtedy wskakiwać i wyskakiwać do woli (na metro, tramwaje i windy też działa!).</p>
+
+  <p>🕰️ <strong>Godziny kursowania</strong>: mniej więcej od 6:00 do 22:30, ale realnie: tramwaj przyjedzie wtedy, kiedy uzna to za słuszne. Czasem zaraz, czasem „kiedy liście opadną”.</p>
+
+  <p>⚠️ <strong>Uwaga praktyczna:</strong> tłumy. O każdej porze. Najlepiej wsiąść rano albo przy końcowych przystankach. I trzymaj plecak z przodu – kieszonkowcy znają ten tramwaj lepiej niż rozkład jazdy.</p>
+
+  <p><strong>W skrócie:</strong> Tramwaj 28 to Lizbona w pigułce – drewnianej, trzęsącej się i absolutnie uroczej. Nie przegap, nawet jeśli trzeba chwilę postać. A jak uda się usiąść przy oknie – to już jesteś królem transportu publicznego.</p>
+</details>
+
+
+  <details>
+  <summary><strong>🌉 Most 25 Kwietnia – Golden Gate w wersji portugalskiej</strong></summary>
+
+  <p>📍 Współrzędne: 38.6892° N, 9.1778° W</p>
+
+  <p>Jeśli widząc ten most pomyślałeś: „hej, to chyba San Francisco?”, to... gratulacje, nie jesteś pierwszy. Most 25 Kwietnia wygląda jak bliźniak <em>Golden Gate</em>, ale z mocnym portugalskim charakterem. Tylko tu zamiast kalifornijskiej mgły masz atlantycką bryzę i nieco mniej Tesli w korku.</p>
+
+  <p>Zbudowany w 1966 roku jako <strong>Most Salazara</strong> (na cześć pewnego niekoniecznie sympatycznego pana-dyktatora), po Rewolucji Goździków z 1974 przemianowano go na pamiątkę obalenia dyktatury – i od tej pory jest <strong>symbolem wolności, modernizacji i wiecznych remontów</strong>.</p>
+
+  <p>🔧 <strong>Co warto wiedzieć:</strong></p>
+  <ul>
+    <li>Ma prawie <strong>2,3 km długości</strong>, więc spokojnie mógłbyś tu zorganizować półmaraton z widokiem na rzekę Tag.</li>
+    <li>Jest <strong>dwupoziomowy</strong>: na górze samochody, na dole pociągi. Tak, dobrze przeczytałeś – ten most brzmi, dudni i trzęsie się, jakby za chwilę miał odlecieć.</li>
+    <li>Nie ma chodnika – więc nie licz na romantyczny spacer. Most podziwia się z daleka, a nie z bliska.</li>
+  </ul>
+
+  <p>📷 <strong>Najlepsze punkty widokowe:</strong></p>
+  <ul>
+    <li>🌊 <strong>Pomnik Chrystusa Króla</strong> po drugiej stronie rzeki (Almada) – idealny widok z góry i zdjęcie, które udaje Brazylię.</li>
+    <li>🚢 <strong>Doca de Santo Amaro</strong> – klimatyczna marina, z knajpkami i stolikami, gdzie most dominuje nad horyzontem.</li>
+    <li>📍 <strong>MAAT i Belém</strong> – z tych rejonów most wygląda jak dzieło sztuki współczesnej i tło do każdego porządnego selfie.</li>
+  </ul>
+
+  <p>🎫 <strong>Czy można nim przejechać?</strong> Jak najbardziej – samochodem, autobusem, pociągiem. Ale pieszo? Niestety, nie. Chyba że jesteś kontrolerem kolejowym lub masz klucz do tunelu serwisowego (ale nie próbuj – serio).</p>
+
+  <p>📌 <strong>Fun fact:</strong> Most został zbudowany przez tę samą firmę, co Bay Bridge w San Francisco. Więc podobieństwo nie jest przypadkowe, tylko wynikło z recyklingu inżynieryjnych pomysłów.</p>
+
+  <p><strong>W skrócie:</strong> Most 25 Kwietnia to żelazny symbol Lizbony, który najlepiej wygląda z daleka, dudni z bliska i imponuje każdemu, kto lubi konstrukcje większe od własnego ego. Nie wchodź, nie biegnij – po prostu podziwiaj.</p>
+</details>
+
+
+    
+
+   
+
+  
 
     <li><strong>🏙️ Punkt widokowy Miradouro da Senhora do Monte</strong> – tu się wchodzi, sapiąc jak stary tramwaj, ale panorama wynagradza wszystko. Lizbona jak na dłoni, bez filtra.</li>
 
@@ -79,15 +245,9 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
     <li><strong>🏛️ Praça do Comércio</strong> – wielki plac nad Tagiem, gdzie można się zgubić, znaleźć cień i zjeść coś w turystycznych cenach. Ale widok? Pierwsza liga.</li>
   </ul>
 
-  <p>Lizbona to miasto, które się zwiedza powoli, z przystankiem na kawę co 200 metrów i z głową uniesioną do góry – bo dachy, kafelki i zachody słońca tu są sztuką samą w sobie.</p>
-</details>
-
-
-
- 
+  <li><strong>🍮 Pastéis de Belém</strong> – technicznie to nie atrakcja, ale w praktyce bardziej niż wiele muzeów. Kultowe ciastka z tajnym przepisem, który prawdopodobnie zna tylko jeden mnich i jego kot.</li>
   
-
-
+  <p>Lizbona to miasto, które się zwiedza powoli, z przystankiem na kawę co 200 metrów i z głową uniesioną do góry – bo dachy, kafelki i zachody słońca tu są sztuką samą w sobie.</p>
 </details>
   
  
