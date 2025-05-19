@@ -87,11 +87,27 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
-    <summary><strong>🎨 Muzeum Picassa – powrót syna marnotrawnego</strong></summary>
-    <p>📍 Współrzędne: 36.7214° N, 4.4183° W</p>
-    <p>Malaga to rodzinne miasto Pablo Picassa, więc z obowiązku wystawili mu muzeum. Znajdziesz tu jego dzieła z różnych okresów – od „o, to nawet przypomina człowieka” po „czy to kura grająca na skrzypcach?”. Dla fanów sztuki i dla tych, co chcą powiedzieć, że „byli u Picassa”.</p>
-  </details>
+ <details>
+  <summary><strong>🎨 Museo Picasso Málaga – sztuka, historia i rodzinna pasja</strong></summary>
+
+  <p>📍 <strong>Adres:</strong> Palacio de Buenavista, Calle San Agustín 8, 29015 Málaga, Hiszpania</p>
+  <p>🕒 <strong>Godziny otwarcia:</strong> codziennie od 10:00 do 19:00</p>
+  <p>💶 <strong>Bilet normalny:</strong> 13 €, <strong>zniżkowy:</strong> 11 € (dzieci poniżej 17. roku życia, osoby poszukujące pracy, osoby z niepełnosprawnościami) <a href="https://www.museopicassomalaga.org/en/visita">Źródło</a></p>
+
+  <p><strong>🎨 O muzeum:</strong> Museo Picasso Málaga mieści się w renesansowym Palacio de Buenavista i prezentuje ponad 200 dzieł Pabla Picassa, pochodzących z prywatnej kolekcji jego rodziny. Wystawa obejmuje różnorodne style i techniki artysty, od okresu błękitnego po kubizm. </p>
+
+  <p><strong>🖼️ Co zobaczysz:</strong></p>
+  <ul>
+    <li>Obrazy reprezentujące różne okresy twórczości – od błękitnego, przez różowy, aż po kubizm.</li>
+    <li>Rysunki i szkice – ujawniające proces twórczy artysty.</li>
+    <li>Fotografie i osobiste dokumenty – które przybliżają biografię Picassa i jego życie rodzinne.</li>
+  </ul>
+
+  <p><strong>🎟️ Wskazówka:</strong> Bilety najlepiej kupić online, aby uniknąć kolejek. W każdą ostatnią niedzielę miesiąca wstęp jest bezpłatny od godz. 15:00 do 20:00, ale liczba miejsc jest ograniczona, więc warto przyjść wcześniej. <a href="https://hispanico.pl/muzeum-picassa-malaga/">Źródło</a></p>
+
+  <p><strong>🌟 Dlaczego warto:</strong> To doskonała okazja, aby zobaczyć dzieła jednego z najważniejszych artystów XX wieku w jego rodzinnym mieście. Muzeum oferuje również warsztaty i wydarzenia edukacyjne, które pogłębiają zrozumienie twórczości Picassa. <a href="https://www.museopicassomalaga.org/en">Źródło</a></p>
+</details>
+
 
   <details>
     <summary><strong>⛪ Katedra – bo Malaga też ma swój gotyk z twistem</strong></summary>
