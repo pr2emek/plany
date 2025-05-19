@@ -30,7 +30,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🎒 Co zobaczyć w Porto</strong></summary>
 
-  <details>
+<details>
   <summary><strong>🏘️ Ribeira – Porto, które wychodzi na pocztówki</strong></summary>
 
   <p>📍 Współrzędne: 41.1406° N, 8.6110° W</p>
@@ -62,7 +62,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-    <details>
+<details>
   <summary><strong>⛪ Katedra Sé – średniowiecze z widokiem na selfie</strong></summary>
 
   <p>📍 Współrzędne: 41.1428° N, 8.6110° W</p>
@@ -77,7 +77,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-   <details>
+<details>
   <summary><strong>🚉 Dworzec São Bento – tu pociągi przyjeżdżają ostatni</strong></summary>
 
   <p>📍 Współrzędne: 41.1456° N, 8.6109° W</p>
@@ -286,6 +286,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><strong>📌 Pro tip:</strong> Sekrety Porto najlepiej odkrywać bez mapy. Skręć w uliczkę, która wygląda podejrzanie uroczo – to właśnie tam kryją się najlepsze historie (i czasem świetna kawa za 1 €).</p>
+
 </details>
 
 </details>
