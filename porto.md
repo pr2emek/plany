@@ -74,6 +74,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
   <p>W środku? Chłód, cisza i masa złoconych ołtarzy. A jeśli masz szczęście, trafisz na ślub – bo miejscowi wciąż traktują Sé jako najważniejsze miejsce na sakramentalne „tak”. Po wyjściu koniecznie przejdź się po murze obronnym – bonus: panorama jak z katalogu biura podróży, tylko bez Photoshopa.</p>
 
   <p><strong>Porada:</strong> Nie idź w klapkach – bruk, schody i dziedziniec to test wytrzymałości stóp. Ale dla zdjęcia z widokiem? Warto.</p>
+  
 </details>
 
 
