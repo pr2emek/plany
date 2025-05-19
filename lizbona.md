@@ -230,25 +230,115 @@ Witaj w przewodniku po Lizbonie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-    
+<details>
+  <summary><strong>🚋 Elevador da Bica</strong></summary>
+  <p class="coords">(38.7106, -9.1456)</p>
+  <p>
+    Najbardziej instagramowa kolejka świata, czyli żółty wagonik, który dzielnie wspina się po stromej uliczce niczym lisboński alpinista. Łączy Rua de São Paulo z Calçada do Combro i po drodze mija murale, pranie na sznurkach, kawiarnie i turystów, którzy zastanawiają się, czy to jeszcze transport publiczny, czy już eksponat w muzeum.
+  </p>
+  <p>
+    Wagonik kursuje od 1892 roku (czyli jest starszy niż babcine przepisy na rosół), a do dziś jest jedną z najfajniejszych atrakcji Lizbony — działa jako część miejskiej komunikacji, więc można jechać na bilecie dziennym (Zapping albo 24h). Trasa krótka, ale emocje jak na rollercoasterze. No i zdjęcia? Zawsze wychodzą jak z katalogu „Lizbona w 3 dni”.
+  </p>
+  <p>
+    <em>Pro tip:</em> Stań na górze uliczki przy zachodzie słońca — światło, kolory i żółta kolejka tworzą razem efekt lepszy niż jakikolwiek filtr.
+  </p>
+</details>
 
    
-
-  
-
-    <li><strong>🏙️ Punkt widokowy Miradouro da Senhora do Monte</strong> – tu się wchodzi, sapiąc jak stary tramwaj, ale panorama wynagradza wszystko. Lizbona jak na dłoni, bez filtra.</li>
-
-    <li><strong>🎢 Elevador da Bica i Santa Justa</strong> – windy, które pokazują, że w tym mieście pion to też kierunek podróży. Jedna przypomina tramwaj, druga – wieżę Eiffla po portugalsku. Obie fajne.</li>
-
-    <li><strong>🎶 Bairro Alto</strong> – miejsce, gdzie dźwięki fado mieszają się z zapachem piwa i smażonego dorsza. Wieczorem robi się gwarno, tłoczno i wesoło. Miej oczy szeroko otwarte – można tu zgubić portfel lub serce.</li>
-
-    <li><strong>🏛️ Praça do Comércio</strong> – wielki plac nad Tagiem, gdzie można się zgubić, znaleźć cień i zjeść coś w turystycznych cenach. Ale widok? Pierwsza liga.</li>
-  </ul>
-
-  <li><strong>🍮 Pastéis de Belém</strong> – technicznie to nie atrakcja, ale w praktyce bardziej niż wiele muzeów. Kultowe ciastka z tajnym przepisem, który prawdopodobnie zna tylko jeden mnich i jego kot.</li>
-  
-  <p>Lizbona to miasto, które się zwiedza powoli, z przystankiem na kawę co 200 metrów i z głową uniesioną do góry – bo dachy, kafelki i zachody słońca tu są sztuką samą w sobie.</p>
+<details>
+  <summary><strong>🛗 Elevador de Santa Justa</strong></summary>
+  <p class="coords">(38.7139, -9.1397)</p>
+  <p>
+    Gotycko-industrialna wieża w samym sercu Baixy, która wygląda jakby ktoś zaparkował kawałek wieży Eiffla po złej stronie Pirenejów. Zaprojektowana przez ucznia Gustave'a Eiffla, ta winda łączy dolną dzielnicę Baixa z górnym Bairro Alto — co oznacza, że zamiast wspinać się jak kozica po schodach, możesz wjechać z klasą i widokiem na dachy Lizbony.
+  </p>
+  <p>
+    Sam przejazd trwa chwilę, ale warto — wnętrze retro, z metalowymi ozdobami i dźwiękiem jak z maszyny czasu. Na górze znajduje się taras widokowy (wejście osobno płatne, ale hej, panoramy w Lizbonie nigdy za wiele). Możesz też wyjść bocznym przejściem na poziom klasztoru Carmo — idealna trasa „na skróty z bonusem”.
+  </p>
+  <p>
+    <strong>Bilety:</strong> ok. 5–6€, ale jeśli masz bilet dzienny (np. Lisboa Card lub 24h na transport), wjazd jest w cenie! Taras widokowy kosztuje osobno ok. 1,50€, płatne gotówką.
+  </p>
+  <p>
+    <em>Pro tip:</em> Idź rano lub późnym wieczorem – w ciągu dnia są kolejki jak do fryzjera przed świętami.
+  </p>
 </details>
+
+<details>
+  <summary><strong>🎉 Bairro Alto</strong></summary>
+  <p>📍 Współrzędne: 38.6892° N, 9.1770° W</p>
+  <p>
+    Bairro Alto za dnia śpi, a nocą zamienia się w najgłośniejszą imprezownię Portugalii — taka trochę alternatywna wersja Kopciuszka, tylko że w trampkach, z drinkiem w ręce i głośnikiem bluetooth. To dzielnica, która wygląda jakby nie mogła się zdecydować, czy chce być urokliwą historyczną częścią miasta, czy szalonym klubowym labiryntem. I dobrze jej z tym.
+  </p>
+  <p>
+    W ciągu dnia możesz tu spacerować wąskimi, kolorowymi uliczkami, zajrzeć do księgarni, kawiarni albo dziwacznych sklepów z winylem, które wyglądają jakby zatrzymały się w 1978 roku. Ale po zachodzie słońca... ulice zamieniają się w jeden wielki open bar. Ludzie stoją z drinkami na ulicach (legalnie!), słychać fado, hip-hop i techno jednocześnie, a przechodzenie od baru do baru staje się nowym sportem narodowym.
+  </p>
+  <p>
+    Znajdziesz tu wszystko: od mikroskopijnych knajpek z fado, po imprezy z DJ-em grającym z parapetu. Ceny różne — od taniego wina w plastikowym kubku po koktajle z jadalnym brokatem. Nocne życie kwitnie do 2–3 nad ranem, a potem płynnie przenosi się do pobliskich klubów, bo Bairro Alto nigdy nie mówi „dość”.
+  </p>
+  <p>
+    <strong>Uwaga praktyczna:</strong> Jeśli szukasz ciszy i kontemplacji, to... nie tutaj. Ale jeśli chcesz poczuć prawdziwego ducha Lizbony — lekko wstawionego, roztańczonego i totalnie zakochanego w życiu — to Bairro Alto czeka z otwartymi ramionami i shotem ginjinhy.
+  </p>
+</details>
+
+<details>
+  <summary><strong>🏛️ Praça do Comércio</strong></summary>
+  <p>📍 Współrzędne: 38.7078° N, 9.1366° W</p>
+  <p>
+    Jeden z najbardziej majestatycznych placów w całej Europie — i to nie są żadne podróżnicze przechwałki! Praça do Comércio, znany też jako Terreiro do Paço, to ogromny plac otoczony żółtymi budynkami z arkadami, które wyglądają jakby ktoś chciał zbudować stolicę imperium i zapomniał dodać pałacu. Kiedyś był tu królewski pałac, dopóki trzęsienie ziemi w 1755 roku nie powiedziało „reset”.
+  </p>
+  <p>
+    Na środku dumnie stoi konny pomnik króla Józefa I (czyli pana od odbudowy Lizbony), a od strony rzeki Tag rozciąga się piękna promenada, idealna na spacer z lodem w ręku, selfie z zachodem słońca i podziwianie promów płynących do innych cudownych miejsc, gdzie też kiedyś dotarli Portugalczycy.
+  </p>
+  <p>
+    Z jednej strony placu mamy słynny <strong>Łuk Triumfalny Rua Augusta</strong> — wygląda jak lizboński kuzyn paryskiego łuku, tylko z lepszym widokiem z góry (można wejść za kilka euro i podziwiać dachy Baixy z góry, co daje +10 do poczucia estetyki).
+  </p>
+  <p>
+    <strong>Co tu robić?</strong> Można po prostu siedzieć i chłonąć atmosferę, można zagubić się w uliczkach wychodzących z placu, można pójść do muzeum piwa (serio), albo przejść się do pobliskiego Cais das Colunas, gdzie schody prowadzą prosto do rzeki. Idealne miejsce, żeby odpocząć między jedną porcją pastéis de nata a kolejną.
+  </p>
+  <p>
+    <em>Pro tip:</em> Wybierz się tu wieczorem — plac jest pięknie oświetlony, a często odbywają się koncerty i pokazy świetlne. A jeśli masz szczęście, trafisz na performance z bańkami mydlanymi wielkości smartfona.
+  </p>
+</details>
+
+<details>
+  <summary><strong>🌄 Miradouro da Senhora do Monte <span class="coords">(38.7186, -9.1344)</span></strong></summary>
+  <p>
+    To nie jest zwykły punkt widokowy. To **królowa punktów widokowych w Lizbonie**. Jeśli chcesz zobaczyć całe miasto jak na dłoni – z zamkiem św. Jerzego, Tagiem, mostem 25 Kwietnia i wszystkimi czerwonymi dachami, które wyglądają jak idealnie ułożony puzzle – to właśnie tu. No dobra, może trzeba trochę pod górkę, może trzeba przesiąść się z tuk-tuka na nogi, ale efekt? Bajka.
+  </p>
+  <p>
+    Nazwa punktu pochodzi od kapliczki Matki Boskiej z Góry (Senhora do Monte), która sobie stoi niepozornie obok i patrzy na to całe zamieszanie z dystansem świętej. Obok niej ławki, romantyczne pary, turyści robiący sto zdjęć na minutę, a czasem grajek z gitarą, który śpiewa portugalskie ballady nawet jeśli nikt nie wrzucił mu monety.
+  </p>
+  <p>
+    Miejsce to ma też klimat bardziej lokalny niż inne punkty widokowe – nie ma tu miliona straganów z magnesami, nikt nie wciska Ci selfie sticka, a zachód słońca można przeżywać w ciszy (no chyba że trafisz na grupę zorganizowaną – wtedy wiadomo, karawana idzie dalej).
+  </p>
+  <p>
+    <strong>Jak dojść?</strong><br>
+    Możesz dojść pieszo z dzielnicy Graça (ale szykuj łydki), albo podjechać taksówką/uberem, jeśli akurat jesteś po porcji bacalhau i nie masz siły na wspinaczkę. Z centrum to jakieś 15–20 minut piechotą, z przystankami na robienie zdjęć, sapnięcie i podziwianie murali.
+  </p>
+  <p>
+    <em>Pro tip:</em> Weź coś do picia i usiądź na murku — nie ma lepszego miejsca na przerwę niż właśnie tu. A jeśli masz szczęście i niebo jest czyste, zobaczysz nie tylko całe miasto, ale też połowę swojego Instagrama zapełnioną zdjęciami z tego jednego miejsca.
+  </p>
+</details>
+
+<details>
+  <summary><strong>🥮 Pastéis de Belém</strong></summary>
+  <p>📍 Współrzędne: 38.6972° N, 9.2036° W</p>
+  <p>
+    To nie jest zwykłe ciastko. To <strong>narodowy skarb Portugalii</strong>, chroniony niemal jak przepis babci, którego nie wolno zdradzić nawet po trzech kieliszkach porto. Pastéis de Belém to oryginalna wersja słynnych pastéis de nata — czyli małych, kremowych tartaletek z ciasta francuskiego, które chrupią jak świeży sen i smakują jak złoto.
+  </p>
+  <p>
+    Różnica? Tylko cukiernia w Belém może legalnie używać nazwy „Pastéis de Belém”, bo tylko ona zna oryginalną recepturę z klasztoru Hieronimitów z XIX wieku. Recepturę zna podobno tylko trzech cukierników, którzy przysięgali milczenie i pewnie nie rozmawiają nawet przy obiedzie.
+  </p>
+  <p>
+    Wchodzisz do środka i… bum: ogromna, zabytkowa cukiernia z niekończącymi się salami, ceramiką na ścianach i zapachem wanilii unoszącym się w powietrzu jak pokusa. Możesz kupić na wynos, ale prawdziwe doświadczenie to usiąść przy stoliku, zamówić 2–3 sztuki (minimum), do tego bica (espresso) albo galão (kawę z mlekiem), posypać ciastko cukrem pudrem i cynamonem… i zapomnieć, że istnieje coś takiego jak dieta.
+  </p>
+  <p>
+    <strong>Uwaga praktyczna:</strong> Kolejki są. Zawsze. Nawet we wtorek o 9 rano. Ale uwaga — są dwie kolejki: jedna do środka (na zjedzenie przy stoliku), druga do okienka z wynosem. Obie prowadzą do szczęścia, tylko inną trasą.
+  </p>
+  <p>
+    <em>Pro tip:</em> Kup kilka na zapas. Serio. Bo po pierwszym będziesz chciał jeszcze, a potem znowu, a potem będzie żałowanie, że nie wziąłeś dziesięciu. I tak właśnie rodzi się pastelowy nałóg.
+  </p>
+</details>
+  
   
  
 <details>
