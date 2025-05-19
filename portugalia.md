@@ -52,7 +52,4 @@ permalink: /portugalia.html
 
 
 
-    Włochy to kraj, który nie musi się starać, żebyś go pokochał. Wystarczy jeden zachód słońca nad Rzymem, jeden kieliszek Chianti w winnicy i jeden talerz carbonary, żebyś już nigdy nie był taki sam.
-  </p>
-</section>
-
+  
