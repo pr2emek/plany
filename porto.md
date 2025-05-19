@@ -47,7 +47,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-   <details>
+<details>
   <summary><strong>🌉 Most Ludwika I – Porto w trybie „wow”</strong></summary>
 
   <p>📍 Współrzędne: 41.1402° N, 8.6110° W</p>
@@ -59,6 +59,7 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
   <p><strong>Czy warto?</strong> Nawet jeśli masz uczulenie na mosty – tak. Bo to nie jest most. To jest widokówka, tło do zdjęcia profilowego, scena romantycznych zachodów słońca i pomost między „chcę wracać” a „nigdy nie wyjeżdżam”.</p>
 
   <p><strong>Porada lokalna:</strong> Zrób spacer po górnym poziomie mostu w stronę dzielnicy Gaia – i od razu skręć w lewo na punkt widokowy Jardim do Morro. Zobaczysz Porto z góry i zrozumiesz, czemu to miasto gra na emocjach
+</details>
 
 
     <details>
