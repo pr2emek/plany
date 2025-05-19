@@ -23,7 +23,7 @@ permalink: /kontakt.html
 
   <h3>Jak się skontaktować?</h3>
   <ul>
-    <li><strong>E-mail:</strong> <a href="mailtowalizkaplanow@gmail.com">kontakt@twojastrona.pl</a></li>
+    <li><strong>E-mail:</strong> <a href="mailto">walizkaplanow@gmail.co </a></li>
     <li><strong>Facebook:</strong> <a href="#">https://www.facebook.com/share/1L12HxSHC5/?mibextid=wwXIfr</a></li>
     <li><strong>Gołąb pocztowy:</strong> chwilowo na urlopie</li>
   </ul>
