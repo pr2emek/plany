@@ -148,6 +148,27 @@ Witaj w przewodniku po Porto! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 <details>
+  <summary><strong>⛪ Pałac Biskupi (Paço Episcopal)</strong></summary>
+  <p>📍 Współrzędne: 41.1416° N, 8.6114° W</p>
+  <p>
+    Tuż obok monumentalnej katedry Sé, na wzgórzu z widokiem na całe Porto, stoi sobie elegancki, biały budynek, który z zewnątrz wygląda trochę jak „biuro z ambicjami”. Ale nie daj się zwieść tej skromnej fasadzie — w środku kryje się prawdziwa barokowa uczta: zdobione sufity, marmurowe schody, złocenia, portrety biskupów z czasów, gdy selfie robiło się olejem na płótnie, i okna z widokiem lepszym niż na booking.com.
+  </p>
+  <p>
+    Pałac przez setki lat był rezydencją najważniejszych panów w sutannach, czyli biskupów Porto, którzy stąd zarządzali nie tylko sprawami duchowymi, ale też tymi bardzo ziemskimi (np. kto ma płacić podatki i komu dać odpust). Dziś nie musisz być duchownym ani arystokratą, żeby wejść do środka — wystarczy kupić bilet. Zwiedzanie odbywa się we własnym tempie, więc możesz spokojnie przystanąć na każdym zakręcie schodów i przez chwilę poczuć się jak kardynał w serialu HBO.
+  </p>
+  <p>
+    Największe wrażenie robi wielka klatka schodowa, która wygląda jakby była zbudowana wyłącznie po to, żeby schodzić po niej z godnością i peleryną powiewającą na wietrze. Nie brakuje też złoconych detali, które sprawiają, że nawet najmniejsze pomieszczenie wygląda jak sala tronowa. A jeśli masz ochotę na chwilę kontemplacji (albo po prostu chcesz odpocząć od tłumu w Livrarii Lello) — to miejsce nadaje się idealnie.
+  </p>
+  <p>
+    <strong>Informacje praktyczne:</strong><br>
+    Bilety kosztują ok. 5 euro, dzieci i studenci płacą mniej, a niektóre dni oferują wstęp darmowy (np. pierwsza niedziela miesiąca). Godziny otwarcia mogą się zmieniać, ale zazwyczaj: <strong>10:00–18:00</strong>. Na miejscu działa też mały sklepik z pamiątkami, w którym można kupić pocztówkę z pałacem lub różaniec — idealny na prezent dla babci.
+  </p>
+  <p>
+    <em>Pro tip:</em> Warto odwiedzić pałac rano, gdy jeszcze nie ma tłumów i światło wpada przez okna pod idealnym kątem do zdjęć, które będą wyglądać jak z katalogu "Barok i Ty".
+  </p>
+</details>
+
+<details>
   <summary><strong>📚 Livraria Lello – księgarnia, w której książki są dodatkiem</strong></summary>
 
   <p>📍 Współrzędne: 41.1466° N, 8.6141° W</p>
