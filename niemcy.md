@@ -1,7 +1,7 @@
 ---
 layout: layoutniemcy
 title: Niemcy
-permalink: /niemcy.html
+permalink: /plany/niemcy.html
 ---
 
 # Przewodnik: Niemcy
