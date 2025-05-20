@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Start
-permlink: /plany/start.html
+permalink: /plany/start.html
 
 ---
 
