@@ -1,7 +1,7 @@
 ---
 layout: layoutgruzja
 title: Tibilisi
-permalink: /tibilisi.html
+permalink: /plany/tibilisi.html
 ---
 
 # Tibilisi 🇬🇪 
