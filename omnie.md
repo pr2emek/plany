@@ -1,7 +1,7 @@
 ---
 layout: default
 title: O mnie
-permalink: /plany/omnie.html
+permalink: /omnie.html
 ---
 
 Cześć! Miło, że tu jesteś.
