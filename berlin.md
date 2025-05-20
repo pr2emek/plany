@@ -1,7 +1,7 @@
 ---
 layout: layoutniemcy
 title: Berlin
-permalink: /berlin.html
+permalink: /plany/berlin.html
 ---
 
 # Berlin 🇩🇪 
