@@ -1,7 +1,7 @@
 ---
 layout: layouthiszpania
 title: Barcelona
-permalink: /barcelona.html
+permalink: /plany/barcelona.html
 ---
 
 # Barcelona 🇪🇸 
