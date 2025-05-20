@@ -1,7 +1,7 @@
 ---
 layout: layoutportugalia
 title: Lizbona
-permalink: /lizbona.html
+permalink: /plany/lizbona.html
 ---
 
 # Portugalia 🇵🇹 
