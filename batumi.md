@@ -1,7 +1,7 @@
 ---
 layout: layoutgruzja
 title: Batumi
-permalink: batumi.html
+permalink: /plany/batumi.html
 ---
 
 # Batumi 🇬🇪 
