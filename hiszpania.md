@@ -1,7 +1,7 @@
 ---
 layout: layouthiszpania
 title: Hiszpania
-permalink: /hiszpania.html
+permalink: /plany/hiszpania.html
 ---
 
 <section>
