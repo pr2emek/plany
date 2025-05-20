@@ -1,7 +1,7 @@
 ---
 layout: layoutsprzewodnik
 title: Przewodniki
-permalink: /plany/przewodniki.html
+permalink: /przewodniki.html
 ---
 
 <div class="container">
