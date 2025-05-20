@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Piza
-permalink: /piza.html
+permalink: /plany/piza.html
 ---
 
 # Piza 🇮🇹
