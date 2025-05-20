@@ -1,7 +1,7 @@
 ---
 layout: layoutfrancja
 title: Paryż
-permalink: /paryz.html
+permalink: /plany/paryz.html
 ---
 
 # Paryż 🇫🇷
