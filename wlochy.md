@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Włochy
-permalink: /wlochy.html
+permalink: /plany/wlochy.html
 ---
 
 # Przewodnik: Włochy
