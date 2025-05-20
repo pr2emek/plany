@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Neapol
-permalink: /neapol.html
+permalink: /plany/neapol.html
 ---
 
 # Neapol 🇮🇹
