@@ -1,7 +1,7 @@
 ---
 layout: layoutgruzja
 title: Kutaisi
-permalink: /kutaisi.html
+permalink: /plany/kutaisi.html
 ---
 
 # Kutaisi 🇬🇪 
