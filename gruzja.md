@@ -1,7 +1,7 @@
 ---
 layout: layoutgruzja
 title: Gruzja
-permalink: /gruzja.html
+permalink: /plany/gruzja.html
 ---
 
 <section>
