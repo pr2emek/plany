@@ -1,7 +1,7 @@
 ---
 layout: layoutportugalia
 title: Portugalia
-permalink: /portugalia.html
+permalink: /plany/portugalia.html
 ---
 
 # Przewodnik: Portugalia
