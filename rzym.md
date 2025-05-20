@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Rzym
-permalink: /rzym.html
+permalink: /plany/rzym.html
 ---
 
 # Rzym 🇮🇹
