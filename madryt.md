@@ -1,7 +1,7 @@
 ---
 layout: layouthiszpania
 title: Madryt
-permalink: /madryt.html
+permalink: /plany/madryt.html
 ---
 
 # Madryt 🇪🇸 
