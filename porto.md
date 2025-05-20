@@ -1,7 +1,7 @@
 ---
 layout: layoutportugalia
 title: Porto
-permalink: /porto.html
+permalink: /plany/porto.html
 ---
 
 # Portugalia 🇵🇹 
