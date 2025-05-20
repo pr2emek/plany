@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Bergamo
-permalink: /bergamo.html
+permalink: /plany/bergamo.html
 ---
 
 # Bergamo 🇮🇹
