@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Strona główna
+permalink: /plany/index.html
 ---
 
 # Witaj na stronie **walizka planów**!
