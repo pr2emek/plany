@@ -1,7 +1,7 @@
 ---
 layout: layouthiszpania
 title: Malaga
-permalink: /malaga.html
+permalink: /plany/malaga.html
 ---
 
 # Malaga 🇪🇸 
