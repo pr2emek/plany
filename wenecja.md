@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Wenecja
-permalink: /wenecja.html
+permalink: /plany/wenecja.html
 ---
 
 # Wenecja 🇮🇹
