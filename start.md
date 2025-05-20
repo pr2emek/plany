@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Strona główna
+title: Start
 permlink: /plany/start.html
 
 ---
