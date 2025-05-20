@@ -1,7 +1,7 @@
 ---
 layout: layoutniemcy
 title: Monachium
-permalink: /monachium.html
+permalink: /plany/monachium.html
 ---
 
 # Monchium 🇩🇪 
