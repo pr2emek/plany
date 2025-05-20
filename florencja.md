@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Florencja
-permalink: /florencja.html
+permalink: /plany/florencja.html
 ---
 
 # Florencja 🇮🇹
