@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Werona
-permalink: /werona.html
+permalink: /plany/werona.html
 ---
 
 # Werona 🇮🇹
