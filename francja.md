@@ -1,7 +1,7 @@
 ---
 layout: layoutfrancja
 title: Francja
-permalink: /francja.html
+permalink: /plany/francja.html
 ---
 
 <section>
