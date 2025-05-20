@@ -1,7 +1,7 @@
 ---
 layout: layoutwlochy
 title: Mediolan
-permalink: /mediolan.html
+permalink: /plany/mediolan.html
 ---
 
 # Mediolan 🇮🇹
