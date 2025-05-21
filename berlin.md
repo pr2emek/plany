@@ -67,6 +67,14 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🏛️ Reichstag</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5186, 13.3762</em></p>
+
+      <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/reichstag.jpg' | relative_url }}" 
+    alt="Reichstag" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>Oficjalna siedziba Bundestagu, czyli niemieckiego parlamentu – miejsce, gdzie zapadają ważne decyzje, ale też gdzie turyści wdrapują się do szklanej kopuły, żeby cyknąć ładne fotki panoramy Berlina (i przypadkiem usłyszeć debatę o przepisach na ogórkową).</p>
     <p>Kopuła zaprojektowana przez Normana Fostera wygląda jak wielka lustrzana wirówka i rzeczywiście można się tam zakręcić – szczególnie bez rezerwacji. <strong>Uwaga:</strong> wejście jest darmowe, ale <em>trzeba się wcześniej zarejestrować online</em>. Bez tego zostaje selfie zza płotu.</p>
     <p>Warto odwiedzić o zachodzie słońca – widoki jak z katalogu, tylko bardziej demokratyczne.</p>
@@ -101,6 +109,14 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>📡 Fernsehturm (Wieża Telewizyjna)</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5208, 13.4094</em></p>
+
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/fernsehturm.jpg' | relative_url }}" 
+    alt="Fernsehturm" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>Berlin z góry wygląda zupełnie inaczej, szczególnie kiedy wspinasz się na <strong>Fernsehturm</strong> – najwyższy punkt w mieście (i najlepszy sposób, żeby zrozumieć, że Berlina nie da się objąć wzrokiem w mniej niż godzinę). Z wysokości 368 metrów możesz podziwiać całą stolicę, jej dachy, mosty i niekończące się budowle, które niemalże tworzą swoje własne miasto w mieście.</p>
 
     <p>Wieża, która powstała w 1969 roku, by służyć jako nadajnik telewizyjny, stała się symbolem Berlina (nawet jeżeli bywa czasami porównywana do... „upiornego iglastego słupa”). Z jej szklanej platformy widokowej masz wrażenie, że po prostu unosisz się nad miastem, patrząc na te wszystkie szklane biurowce, zielone parki, a w tle... górujący Mauerpark. Nie zapomnij zabrać aparatu – 360 stopni panoramy na Berlin są warte każdej zaciśniętej ręki.</p>
@@ -171,6 +187,14 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🏰 Zamek Charlottenburg</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5204, 13.2951</em></p>
+
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/charlottenburg.jpg' | relative_url }}" 
+    alt="Charlottenburg" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
     <p>Zamek Charlottenburg to prawdziwa perła Berlina, przypominająca, że nie tylko historie techno i sztuki nowoczesnej są warte uwagi. Ten pałac, niczym z bajki, nie tylko wygląda, jakby przybył prosto z XVIII wieku, ale również pozwala poczuć się jak szlachcic na chwilę. Choć w jego murach raczej nie znajdziesz „pozytywnie zakręconych” księżniczek, to na pewno odkryjesz historię pełną przepychu i majestatu.</p>
 
     <p>Zamek został zbudowany na przełomie XVII i XVIII wieku jako rezydencja elektorskiej rodziny Hohenzollernów i przez lata pełnił rolę letniej rezydencji dla królewskiej rodziny. Jednak nie daj się zwieść tym formalnym początkowym opisom – Zamek Charlottenburg to także miejsce, które mogłoby spokojnie zagrać główną rolę w filmie o królewskich intrygach. Tylko zamiast czarownic i magicznych mikstur masz… ogrody pełne róż, pomniki i galerię sztuki.</p>
@@ -200,6 +224,14 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🕊️ Pomnik Holokaustu (Pomnik Żydowskich Ofiar Holokaustu)</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5138, 13.3777</em></p>
+ 
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/pomnikholokaust.jpg' | relative_url }}" 
+    alt="Pomnik Holokaustu" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>Pomnik Holokaustu w Berlinie to jedno z tych miejsc, które nie rzuca się w oczy, ale zostaje w pamięci na długo. Z zewnątrz wygląda jak olbrzymie pole kamiennych bloków, które wcale nie zachwycają swoją „nowoczesnością” ani tym bardziej swoją wesołością. A jednak, to jedno z tych miejsc, które zmusza do refleksji, do przemyśleń o naszej historii i o tym, jak wiele musimy jeszcze zrobić, by nigdy się nie powtórzyła.</p>
 
     <p>Pomnik, zaprojektowany przez Petera Eisenmana, to 2711 betonowych bloków, ustawionych w równych rzędach, które zmieniają swoją wysokość. Wchodząc w to pole, zaczynasz od czoła, gdzie bloki są niskie i niepozorne, ale im dalej idziesz, tym bardziej robi się mrocznie. W końcu bloki stają się tak wysokie, że zaczynasz czuć się jak część tej przeszłości – uwięziony w świecie, którego już nie ma. Ale niech Cię nie zmyli ta niewielka wysokość na początku – ten pomnik naprawdę potrafi zrobić wrażenie.</p>
@@ -236,6 +268,14 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🎨 Teufelsberg – opuszczona stacja szpiegowska z widokiem i graffiti</strong></summary>
     <p><strong>Współrzędne:</strong> <em>52.5070° N, 13.2411° E</em></p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/teufelsberg.jpg' | relative_url }}" 
+    alt="Teufelsberg" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>
       Góra zrobiona ze śmieci wojennych (serio), na której stoi amerykańska stacja nasłuchowa z czasów zimnej wojny. 
       Dziś to mekka dla artystów i fanów "urban exploration". Wchodzisz na własne ryzyko – i z własną butelką wody.
@@ -254,6 +294,14 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>🚪 Brama Brandenburska</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5163, 13.3777</em></p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/bramabrandenburska.jpg' | relative_url }}" 
+    alt="Brama Brandenbursk" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>Brama Brandenburska to symbol Berlina, jeden z najbardziej rozpoznawalnych punktów miasta, który przez lata zmieniała swoje znaczenie – od bramy do miasta, przez symbol podziału, aż po symbol zjednoczenia Niemiec. Ale nie daj się zmylić jej klasycznym, neoklasycznym wyglądem, bo ta brama to nie tylko kamienny pomnik, ale także miejsce, które wiele razy miało ogromne znaczenie w historii.</p>
 
     <p>Wzniesiona na przełomie XVIII i XIX wieku przez króla Fryderyka Wilhelma II, Brama Brandenburska była pierwotnie symboliem pokoju, mając na celu reprezentowanie majestatu Berlina. Oczywiście, historia niemiecka nie zawsze sprzyjała pokojowi, dlatego brama przeszła przez wiele zmian. I choć nie jest to zamek ani pałac, można ją uznać za jeden z najważniejszych „pomników” Berlina – choć tym razem nie w sensie pomnika w sensie dosłownym.</p>
@@ -277,10 +325,17 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
     <p>Brama Brandenburska to prawdziwy symbol Berlina, którego nie można pominąć podczas zwiedzania miasta. To miejsce, które łączy przeszłość z przyszłością, symbolizuje zarówno trudne chwile historii, jak i triumfy zjednoczenia. I chociaż brama sama w sobie może wyglądać jak „zwykły pomnik”, to jest to coś, co naprawdę warto zobaczyć i poczuć na własnej skórze. Na pewno nie wyjdziesz stamtąd bez kilku zdjęć i kilku przemyśleń.</p>
 </details>
   
-
   <details>
     <summary><strong>🏙️ Alexanderplatz</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5219, 13.4132</em></p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/alexanderplatz.jpg' | relative_url }}" 
+    alt="Alexanderplatz" 
+    style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+    
     <p>Alexanderplatz to jedno z najbardziej rozpoznawalnych miejsc w Berlinie, które łączy w sobie historię, kulturę i nowoczesność. To nie tylko wielki plac, ale prawdziwe serce miasta, które tętni życiem przez całą dobę. Kiedyś był to rynek handlowy, a dziś to centrum handlowe, turystyczne i komunikacyjne, w którym nie sposób się nudzić. Wiesz, jak to jest – to miejsce, które ma wszystko, od wieżowców po stary tramwaj. Można by powiedzieć, że tu zawsze coś się dzieje – i to dosłownie!</p>
 
     <p>Alexanderplatz to miejsce, które zmieniało się przez lata, a jego historia sięga nawet średniowiecza. To stąd wschodni Berlin w okresie Zimnej Wojny patrzył na Zachód, a teraz jest jednym z najważniejszych punktów na turystycznej mapie Berlina. Choć w latach 60-70. na placu wznosiły się wielkie blokowiska (typowe dla okresu PRL-u), dzisiaj Alexanderplatz ma zupełnie inny charakter – to tętniąca życiem metropolia, pełna sklepów, restauracji, hoteli i zabytków.</p>
