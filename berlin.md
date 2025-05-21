@@ -70,7 +70,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 
       <div style="text-align: center; margin: 20px 0;">
   <img 
-    src="{{ '/assets/images/reichstag.jpg' | relative_url }}" 
+    src="{{ '/assets/images/reichtag.jpg' | relative_url }}" 
     alt="Reichstag" 
     style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
