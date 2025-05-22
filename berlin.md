@@ -109,7 +109,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🏺 Wyspa Muzeów (Museumsinsel)</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5169, 13.4019</em></p>
     <p>Wyspa na Sprewie, na której Niemcy postanowili zebrać najwięcej kultury, sztuki i starożytności, ile tylko pomieści kilka ładnych budynków. Jeśli lubisz patrzeć na marmurowe torsy bez głów, egipskie sarkofagi i dzieła, które wyglądają jak "ładne, ale nie wiadomo co", to jest Twoje miejsce.</p>
@@ -134,7 +134,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>📡 Fernsehturm (Wieża Telewizyjna)</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5208, 13.4094</em></p>
 
@@ -162,7 +162,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🎧 Berghain</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5075, 13.4512</em></p>
     <p>Berghain – świątynia techno, której nie da się opisać słowami, bo... trzeba tam być, żeby zrozumieć. To więcej niż tylko klub nocny. To niemalże doświadczenie religijne, tylko zamiast kadzideł i modlitwy masz sety DJ-ów, potężny bas, i ludzi, którzy wyglądają jakby przyszli z przyszłości. Jest to miejsce, które potrafi przemienić „zwykłego turystę” w „oddanego fana clubbingu”, nawet jeśli wcześniej nie rozróżniałeś techna od dźwięków budzika.</p>
@@ -186,7 +186,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🌳 Tiergarten</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.3540, 13.3695</em></p>
     <p>Tiergarten to berliński odpowiednik miejskiego „zielonego zakątka”, w którym możesz zapomnieć o smogu, zgiełku i tłumach. Wyobraź sobie idealne miejsce, gdzie możesz się zgubić, spacerować przez godziny, próbować odgadywać, czy to naprawdę jest staw, czy może tylko zarośnięta kałuża... a wszystko to z odgłosami miejskiego życia w tle.</p>
@@ -212,7 +212,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🏰 Zamek Charlottenburg</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5204, 13.2951</em></p>
 
@@ -249,7 +249,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🕊️ Pomnik Holokaustu (Pomnik Żydowskich Ofiar Holokaustu)</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5138, 13.3777</em></p>
  
@@ -284,7 +284,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🦒 Zoo Berlin – największy zbiór zwierząt i dzieci na wycieczce</strong></summary>
     <p><strong>Współrzędne:</strong> <em>52.5075° N, 13.3372° E</em></p>
     <p>
@@ -322,7 +322,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-  <details>
+<details>
     <summary><strong>🚪 Brama Brandenburska</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5163, 13.3777</em></p>
 
@@ -356,7 +356,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
     <p>Brama Brandenburska to prawdziwy symbol Berlina, którego nie można pominąć podczas zwiedzania miasta. To miejsce, które łączy przeszłość z przyszłością, symbolizuje zarówno trudne chwile historii, jak i triumfy zjednoczenia. I chociaż brama sama w sobie może wyglądać jak „zwykły pomnik”, to jest to coś, co naprawdę warto zobaczyć i poczuć na własnej skórze. Na pewno nie wyjdziesz stamtąd bez kilku zdjęć i kilku przemyśleń.</p>
 </details>
   
-  <details>
+<details>
     <summary><strong>🏙️ Alexanderplatz</strong></summary>
     <p><strong>📍 Współrzędne:</strong> <em>52.5219, 13.4132</em></p>
 
@@ -411,7 +411,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 </details>
 
-  <details>
+<details>
     <summary><strong>🦴 Muzeum Historii Naturalnej – dinozaury i inne potwory</strong></summary>
     <p><strong>Współrzędne:</strong> <em>52.5300° N, 13.3818° E</em></p>
     <p>
@@ -458,63 +458,58 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     <em>Pro tip:</em> Idź rano lub tuż przed zamknięciem – w środku bywa tłoczno. I koniecznie sprawdź automat z kapsułkami – niektóre z nich kryją naprawdę zaskakujące gadżety z epoki.
   </p>
-  
-</details>
-
-
-</details>
+ </details>
    
 <details>
     <summary><strong>🕵️‍♂️ Sekretne miejsca Berlina</strong></summary>
 
-    <details>
+<details>
         <summary><strong>⛲ Rosengarten w Humboldthain – różany raj w środku miasta</strong></summary>
         <p>📍 Współrzędne: 52.5462, 13.3883</p>
         <p>
             Jeśli myślisz, że Berlin to tylko techno, kebaby i beton – to wejdź tu. Ogrody różane, cisza, ławki idealne do kontemplacji
             życia lub scrollowania memów w spokoju. Bonus: wejście za darmo, zapachy bezcenne.
         </p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🏰 Spreepark – opuszczone wesołe miasteczko z PRL-vibe’em</strong></summary>
         <p>📍 Współrzędne: 52.4937, 13.4772</p>
         <p>
             Karuzele, które już się nie kręcą, i diabelski młyn, który wygląda jak po apokalipsie. Dawniej raj dla dzieci, dziś raj
             dla fotografów, miejskich eksploratorów i fanów postapokalipsy. Wstęp z przewodnikiem lub odrobiną sprytu.
         </p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🌿 Prinzessinnengärten – ogrody miejskie z klimatem eko-hipstera</strong></summary>
         <p>📍 Współrzędne: 52.4985, 13.4036</p>
         <p>
             Tu rośnie wszystko – warzywa, zioła, pomysły na lepszy świat. Miejsce, gdzie możesz wypić kawę siedząc na palecie,
             porozmawiać z pomidorem i pomyśleć „może rzucę wszystko i zostanę ogrodnikiem”.
         </p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🎨 Urban Nation Museum – street art na poważnie</strong></summary>
         <p>📍 Współrzędne: 52.4945, 13.3492</p>
         <p>
             Muzeum sztuki ulicznej – czyli graffiti, które ktoś postanowił wreszcie zawiesić na ścianie i nazwać sztuką współczesną.
             Kolorowo, dziwnie, inspirująco. I bez tłumów z przewodnikiem w słuchawce.
         </p>
-    </details>
+</details>
 
-    <details>
+<details>
         <summary><strong>🚪Magicum – muzeum magii, którego nie szukałeś, ale znajdziesz</strong></summary>
         <p>📍 Współrzędne: 52.5250, 13.3860</p>
         <p>
             Kryształowe kule, iluzje, tarot i trochę Harry'ego Pottera bez praw autorskich. Małe, dziwne, czarujące. W sam raz,
             jeśli chcesz odpocząć od rzeczywistości i uwierzyć w coś bardziej mistycznego niż ceny czynszów w Berlinie.
         </p>
-    </details>
-
 </details>
 
 </details>
+
       
 ---
 
