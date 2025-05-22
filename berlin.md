@@ -458,6 +458,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     <em>Pro tip:</em> Idź rano lub tuż przed zamknięciem – w środku bywa tłoczno. I koniecznie sprawdź automat z kapsułkami – niektóre z nich kryją naprawdę zaskakujące gadżety z epoki.
   </p>
+  
 </details>
 
 
