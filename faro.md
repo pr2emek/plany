@@ -44,7 +44,8 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
 
 <details>
-  <summary><strong⛪ Sé de Faro – katedra z duszą (i widokiem)</strong></summary>
+      
+    <summary><strong⛪ Sé de Faro – katedra z duszą </strong></summary>
   <p>📍 Współrzędne: 37.0139° N, 7.9337° W</p>
 
   <p>
