@@ -43,9 +43,9 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
     Faro nie jest wielkie, ale ma w sobie więcej niespodzianek niż walizka taniego podróżnika. Oto lista miejsc, które warto zobaczyć – nawet jeśli jesteś tylko na chwilę albo uciekasz z lotniska przed kolejnym opóźnionym lotem.
   </p>
 
-<details>      
-    <summary><strong⛪ Sé de Faro – katedra z duszą </strong></summary>
-  <p>📍 Współrzędne: 37.0139° N, 7.9337° W</p>
+<details>    
+  <summary><strong>⛪ Sé de Faro - katedra z duszą</strong></summary>
+     <p>📍 Współrzędne: 37.0139° N, 7.9337° W</p>
 
   <p>
     Sé de Faro, czyli lokalna katedra, to taki architektoniczny miks: trochę gotyku, trochę renesansu, szczypta baroku i... ślad po bombardowaniu przez Anglików w XVIII wieku (ups). Mimo to – a może właśnie dlatego – miejsce ma swój urok i pazur. Z zewnątrz może nie krzyczy „wow!”, ale wnętrze zaskakuje klimatem i detalami.
