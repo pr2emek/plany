@@ -185,40 +185,246 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 ---
 
 <details>
-  <summary><strong>🚶 Plan spaceru po Faro na 1 dzień</strong></summary>
-  <p>
-    Masz tylko jeden dzień w Faro? Spokojnie – to miasto, które nie wymaga biegania z mapą i zegarkiem. Wystarczy para wygodnych butów, odrobina ciekawości i ten plan:
-  </p>
+  <summary><strong>🚶 Plan zwiedzania Algarve</strong></summary>
 
-  <p><strong>🕘 9:00 – Kawa z widokiem na marinę</strong><br>
-  📍 37.0138° N, 7.9356° W<br>
-  Dzień zaczynamy klasycznie – bica (espresso) i pastel de nata z widokiem na łódki w <em>Marina de Faro</em>. Obserwuj, jak miasto budzi się powoli, bez stresu. Ty też nie musisz się spieszyć.</p>
 
-  <p><strong>🕙 10:00 – Spacer przez Cidade Velha (Stare Miasto)</strong><br>
-  📍 37.0160° N, 7.9335° W<br>
-  Przejdź przez łuk <strong>Arco da Vila</strong> i wkrocz do klimatycznego świata brukowanych uliczek, białych domków i ciszy. Zajrzyj do <strong>katedry Sé</strong>, a potem wejdź na wieżę – panorama Ria Formosa z góry robi wrażenie.</p>
+ <details>
+  <summary><strong>📍 Dzień 1 – Zachodnie Algarve: klify, plaże i koniec świata</strong></summary>
+ 
+  <p>Zaczynamy z przytupem! Zachodnie Algarve to dzika natura, monumentalne klify i miasteczka z duszą. Nie trzeba się spieszyć – tutaj wszystko płynie swoim leniwym, południowym rytmem. Idealny dzień na pierwszy kontakt z regionem, wiatr we włosach i... sól na twarzy.</p>
 
-  <p><strong>🕛 12:00 – Krótka lekcja pokory w Kaplicy Czaszek</strong><br>
-  📍 37.0183° N, 7.9295° W<br>
-  Czas na coś… bardziej metafizycznego. <strong>Capela dos Ossos</strong> przy Igreja do Carmo przypomina, że życie jest krótkie, więc warto zjeść dobry lunch. I to właśnie teraz.</p>
+  <h3>🌊 Ponta da Piedade</h3>
+  <p>Legenda głosi, że to tutaj morze powiedziało „wow” po raz pierwszy. Ponta da Piedade to zespół złotych klifów i skalnych łuków, które wyglądają jakby je ktoś wyrzeźbił specjalnie pod Instagram. Schodzisz po stromych schodach, a potem... dech zapiera. Można też wypłynąć łódką między skały – kapitanowie łódek to pół-przewodnicy, pół-komicy, opowiadający bajki o każdej skale. Z góry – epickie widoki. Z dołu – magia. Obowiązkowy punkt dnia, serio.</p>
 
-  <p><strong>🕐 13:00 – Lunch z owocami morza</strong><br>
-  Polecamy lokalną restaurację typu „nic fancy, ale smacznie” – np. grillowane sardynki, dorsz à brás albo arroz de marisco. Plus kieliszek vinho verde – dla zdrowia, oczywiście.</p>
+  <h3>🏖️ Praia do Camilo</h3>
+  <p>Jeśli myślałeś, że już nic cię nie zaskoczy – ta plaża mówi „hola”. Praia do Camilo to mała zatoka ukryta między skałami, do której prowadzi około 200 schodków. Warto zejść! Kryształowa woda, naturalne tunele w skałach, zero komercji. Idealne miejsce na kąpiel, leżenie jak naleśnik i robienie zdjęć, które potem będą wyglądać jak z folderu biura podróży. Uwaga: mała, więc im wcześniej tym lepiej.</p>
 
-  <p><strong>🕒 15:00 – Promem na wyspę (Ilha Deserta lub Ilha de Faro)</strong><br>
-  📍 37.0118° N, 7.9362° W<br>
-  Popołudnie to idealny czas na szybki wypad na plażę. Wybierz <em>Ilha Deserta</em> jeśli chcesz pustki i ciszy, albo <em>Ilha de Faro</em> – jeśli masz ochotę na drinka przy barze i ludzi w klapkach. Rejs trwa ok. 30 min.</p>
+  <h3>🏙️ Stare Miasto Lagos</h3>
+  <p>Po plażowym relaksie pora zanurzyć się w klimatyczne uliczki Lagos. To miasteczko ma wszystko: białe domki, niebieskie azulejos, brukowane chodniki i mnóstwo kawiarenek, w których pastel de nata smakuje jak niebo. Można się zgubić – i to dobrze! Polecam przejść przez łuk Arco de São Gonçalo, zajrzeć do Igreja de Santo António (z barokowym „wow” w środku) i posiedzieć przy porcie. Wieczorem w mieście budzi się życie – grają muzykę, tańczą, śmieją się. Czujesz, że tu jest po prostu dobrze.</p>
 
-  <p><strong>🕕 18:00 – Powrót i zachód słońca z molo</strong><br>
-  📍 37.0144° N, 7.9352° W<br>
-  Wracasz do miasta z lekką opalenizną i piaskiem w butach? Idealnie. Idź na molo przy marinie i zobacz, jak słońce znika za laguną. Nastrojowo, fotogenicznie i całkiem bezpłatnie.</p>
+  <h3>🌅 Cabo de São Vicente – koniec świata na zachód słońca</h3>
+  <p>A na koniec dnia… czas na metafizykę. Cabo de São Vicente, znane jako „Koniec Świata”, to najbardziej na południowy zachód wysunięty punkt Europy kontynentalnej. Latarnia morska, pionowe klify i ocean, który nie ma końca. Zachody słońca są tu tak spektakularne, że tłumy ludzi biją brawo, gdy tarcza słońca znika pod linią wody. Serio, biją brawo. Weź bluzę (wieje!) i termos z czymś ciepłym – bo to nie tylko widok, to rytuał.</p>
 
-  <p><strong>🕗 20:00 – Kolacja i chill</strong><br>
-  Faro nocą to nie Ibiza, ale znajdziesz kilka klimatycznych miejscówek z tapas, muzyką na żywo albo... totalną ciszą. Wybierz to, czego potrzebujesz. Nawet jeśli to będzie pizza z widokiem na port (nikt nie ocenia).</p>
+  <p><em>Tip: Jeździsz autem? Z Lagos do Sagres masz niecałe 35 minut malowniczą trasą – a wraca się po ciemku, więc dobrze wcześniej zatankować i wiedzieć, gdzie ręczny.</em></p>
 
-  <p>
-    <em>Pro tip:</em> Nie planuj za sztywno – Faro nagradza tych, którzy dają się trochę ponieść. Jeśli coś Cię zaintryguje po drodze, skręć. Jeśli zauważysz bar pełen lokalsów – wejdź. I nie zapomnij o pastel de nata na wynos. Dzień udany!
-  </p>
+<div style="background-color:#f0f8ff; border-left: 6px solid #0077b6; padding: 16px; margin-top: 32px; border-radius: 8px;">
+  <h3>🚗 Gdzie zaparkować?</h3>
+  <ul>
+    <li><strong>Ponta da Piedade:</strong> Mały bezpłatny parking przy punkcie widokowym – rano jeszcze pusty, po 11:00 robi się safari.</li>
+    <li><strong>Praia do Camilo:</strong> Teoretycznie parking przy plaży, w praktyce ciasno. Lepiej zaparkować kawałek wyżej przy drodze i zejść pieszo (10 min spaceru z widokami!).</li>
+    <li><strong>Lagos centrum:</strong> Duży parking podziemny „Parque da Frente Ribeirinha” – blisko starego miasta i portu. Płatny, ale spokojny.</li>
+    <li><strong>Sagres / Cabo de São Vicente:</strong> Dużo miejsca przy latarni – nie martw się, zmieści się nawet autokar z Niemiec.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fff3cd; border-left: 6px solid #ff9800; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🍴 Co zjeść po drodze?</h3>
+  <ul>
+    <li><strong>Śniadanie w Lagos:</strong> Kawiarnia <em>Goji Lounge Café</em> – dobra kawa, smoothie i bajgle. Hipstersko, ale nie przesadnie.</li>
+    <li><strong>Obiad w Lagos:</strong> <em>Casinha do Petisco</em> – lokalna tawerna z gigantyczną porcją cataplany (duszonych owoców morza) i klimatem jak u cioci na niedzieli.</li>
+    <li><strong>Kolacja w Sagres:</strong> <em>A Sagres</em> – świeże ryby, widok na ocean i najlepszy grillowany tuńczyk w tej szerokości geograficznej.</li>
+    <li><strong>Przekąska na Cabo:</strong> Kultowa budka z napisem „<em>Last Bratwurst Before America</em>” – nie żartuję, sprzedają kiełbaski z widokiem na przepaść.</li>
+  </ul>
+</div>
+
+<div style="background-color:#e6ffe6; border-left: 6px solid #2e8b57; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🕵️ Ukryte smaczki (czytaj: sekrety dla wtajemniczonych)</h3>
+  <ul>
+    <li><strong>Tuż obok Praia do Camilo</strong> jest mikroplaża „Praia dos Pinheiros” – dzika, bez leżaków, bez ludzi. Uwaga: dojście tylko ścieżką wśród krzaków!</li>
+    <li><strong>Latarnia na Cabo de São Vicente</strong> czasem jest otwarta do zwiedzania – warto zajrzeć do środka, jeśli akurat trafisz na otwarte drzwi.</li>
+    <li><strong>W Lagos</strong> nie przegap muralu przy porcie z wielorybem zrobionym z... śmieci. Daje do myślenia, ale też świetnie wygląda na zdjęciu.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fce4ec; border-left: 6px solid #d81b60; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>💡 Tipy dnia</h3>
+  <ul>
+    <li>Zabierz bluzę na Cabo – to nie tropiki, wieje jak z suszarki turbo.</li>
+    <li>Buty do chodzenia po skałach – japonki na Ponta da Piedade to proszenie się o gips.</li>
+    <li>Woda + filtr przeciwsłoneczny = twarz bez pieczonego pomidora wieczorem.</li>
+    <li>Aparat/telefon z powerbankiem – bo zachód słońca zrobi Ci galerię życia.</li>
+  </ul>
+</div>
+  
+</details>
+
+ <details>
+  <summary><strong>🌞 Dzień 2 – Środkowe Algarve: klify, plaże i imprezowe Albufeira</strong></summary>
+ 
+  <p>Drugi dzień to klasyczne „Algarve z folderu” – słynne plaże, złote skały, jaskinie i małe zachwyty za każdym zakrętem. Trochę dla ciała (plaże), trochę dla ducha (widoki), trochę dla żołądka (owoce morza). A wieczorem? Albufeira pokaże Ci, co znaczy portugalska noc. No to lecimy!</p>
+
+  <h3>🏖️ Praia da Marinha</h3>
+  <p>Marinha to królowa plaż Algarve – i nie ma w tym cienia przesady. Widok z góry to poziom tapety na pulpit: złote klify, turkusowa woda, naturalne łuki skalne. Jedna z najczęściej fotografowanych plaż w Europie. U dołu: spokojna zatoczka, idealna na snorkeling, pływanie i siedzenie z otwartą buzią. Trzeba zejść schodami, ale dla tego widoku warto nawet zjechać na tyłku.</p>
+
+  <h3>🚣 Rejs do jaskini Benagil</h3>
+  <p>Ikoniczna jaskinia z okrągłym otworem w suficie, przez który wpada światło jak z nieba. Można tu dotrzeć kajakiem, SUP-em lub motorówką – ta ostatnia opcja najlepsza, jeśli nie chcesz potem iść na fizjoterapię. Jaskinia to tylko część rejsu – po drodze zobaczysz klify, mini plaże dostępne tylko z wody i skalne formacje w kształcie... no cóż, różne rzeczy widzieliśmy 😉.</p>
+
+  <h3>🏖️ Praia de São Rafael</h3>
+  <p>Jeśli Praia da Marinha to królowa, São Rafael to jej siostra – mniej znana, ale piękna i spokojniejsza. Złocisty piasek, skalne ostańce i przejścia między zatokami. Można się powylegiwać, pokąpać i zjeść coś w barze na plaży. Idealna miejscówka na relaks po wodnych szaleństwach z Benagil.</p>
+
+  <h3>🏙️ Spacer po Albufeirze</h3>
+  <p>Stare Miasto w Albufeirze zaskakuje – białe domki, brukowane uliczki, schody prowadzące donikąd i urocze knajpki. W ciągu dnia spokojnie, wieczorem robi się tłoczno i... kolorowo. Zobacz port, wejdź na punkt widokowy Pau da Bandeira i zatrzymaj się na zachód słońca – najlepiej z lodami w ręku.</p>
+
+  <h3>🎉 Wieczór na The Strip</h3>
+  <p>Albufeira to imprezowa stolica Algarve – a „The Strip” to jej Vegas. Długa ulica pełna barów, klubów, świateł i drinków z parasolką. Klimat lekko szalony, ale bezpieczny i wesoły. Dla jednych raj, dla innych przestroga – ale warto zajrzeć, choćby dla kontrastu z ciszą Cabo de São Vicente. Uwaga: niektóre miejsca serwują koktajle w wiadrach. Dosłownie.</p>
+</section>
+
+<div style="background-color:#f0f8ff; border-left: 6px solid #0077b6; padding: 16px; margin-top: 32px; border-radius: 8px;">
+  <h3>🚗 Gdzie zaparkować?</h3>
+  <ul>
+    <li><strong>Praia da Marinha:</strong> Bezpłatny parking przy klifach – szybko się zapełnia. Im wcześniej, tym lepiej. Plus: widok z parkingu robi już robotę!</li>
+    <li><strong>Benagil:</strong> Mikroskopijny parking przy plaży. Lepiej zostawić auto przy głównej drodze i podejść 5–10 minut z górki (potem niestety pod górkę 🥵).</li>
+    <li><strong>Praia de São Rafael:</strong> Duży bezpłatny parking przy samej plaży. Miejsce znajdziesz nawet po południu.</li>
+    <li><strong>Albufeira:</strong> Parkuj w „Parque de Estacionamento P3” – blisko starego miasta, dużo miejsca, płatny, ale bez stresu. W The Strip nie próbuj – horror.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fff3cd; border-left: 6px solid #ff9800; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🍴 Co zjeść po drodze?</h3>
+  <ul>
+    <li><strong>Lunch po jaskini:</strong> Restauracja <em>O Algar</em> przy Benagil – ryba dnia, ziemniaczki z pietruszką i widok na ocean. Lokalne, smaczne, nieprzesadnie drogo.</li>
+    <li><strong>Obiad w São Rafael:</strong> Beach Bar São Rafael – grillowane sardynki i krewetki z czosnkiem. Plażowy vibe + zimne vinho verde = szczęście.</li>
+    <li><strong>Kolacja w Albufeirze:</strong> <em>Urban Pizza</em> – tak, pizza w Portugalii. Ale dobra! Jeśli masz dość ryb, to miejsce ratuje wieczór.</li>
+    <li><strong>Nocne przekąski na The Strip:</strong> Kebaby i naleśniki po 2:00 nad ranem. Nie oceniaj, zanim spróbujesz 😉.</li>
+  </ul>
+</div>
+
+<div style="background-color:#e6ffe6; border-left: 6px solid #2e8b57; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🕵️ Ukryte smaczki</h3>
+  <ul>
+    <li><strong>Widok z góry na Benagil:</strong> Przejdź na punkt widokowy po lewej stronie jaskini – z góry widać dziurę w suficie jak z drona!</li>
+    <li><strong>Klifowy szlak „Seven Hanging Valleys”:</strong> Można zrobić odcinek z Marinha do Benagil – ok. 3 km w jedną stronę, klify + zatoki + „wow” co 5 minut.</li>
+    <li><strong>Ukryta plaża Albandeira:</strong> 10 min od Marinha – mniej ludzi, piękna skała z łukiem i dobre miejsce na piknik.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fce4ec; border-left: 6px solid #d81b60; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>💡 Tipy dnia</h3>
+  <ul>
+    <li>Zarezerwuj rejs do Benagil z wyprzedzeniem – zwłaszcza w sezonie. I wybierz ten z poranną godziną = mniej fal i ludzi.</li>
+    <li>Na plaże Marinha i São Rafael weź parasol – cienia tyle co nic, a słońce działa tu jak laser.</li>
+    <li>Nie zostawiaj auta w Benagil „gdzie popadnie” – lokalna straż miejska działa sprawnie. Czasem aż za bardzo 😉.</li>
+    <li>W The Strip miej gotówkę na małe zakupy – czasem terminal „dziwnie nie działa po północy”.</li>
+  </ul>
+</div>
+
+</details>
+
+<details>
+  <summary><strong>🌿 Dzień 3 – Wschodnie Algarve: laguny, wysepki i Tavira jak z pocztówki</strong></summary>
+
+  <p>Po dwóch dniach klifów, piachu w butach i imprez w Albufeirze, czas zwolnić. Trzeci dzień zabierze Cię na wschód Algarve – mniej tłoczny, bardziej tradycyjny, pachnący kawą i pomarańczami. Tavira to urocze miasteczko, wyspy spokojnie dryfują na lagunie, a Ty znowu zakochujesz się w Portugalii – tym razem bez huku i fal.</p>
+
+  <h3>🏰 Tavira – miasto 37 kościołów</h3>
+  <p>Tavira to klasyczne portugalskie miasteczko, jakby czas się tu zatrzymał. Brukowane uliczki, białe domy, pastelowe kafelki i ciche place, na których starsi panowie grają w domino. Zajrzyj na ruiny zamku, wejdź na wieżę kościoła Santa Maria i przejdź się przez Rzymski Most. Spokojnie, bez planu – Tavira się smakuje, a nie zwiedza na czas.</p>
+
+  <h3>⛵ Ilha de Tavira – promem na rajską wyspę</h3>
+  <p>Z centrum Taviry wsiadasz na prom i po 15 minutach lądujesz na Ilha de Tavira – długiej, piaszczystej wyspie pośrodku laguny. Plaża szeroka, piasek drobniutki, fale łagodne – jak SPA dla duszy. Nie ma tu samochodów, tylko bar z rybą dnia, leżaki i mewy. Jeśli nie masz ochoty wracać – rozumiemy.</p>
+
+  <h3>🛶 Ria Formosa – laguny, flamingi i cisza</h3>
+  <p>Park Narodowy Ria Formosa to sieć lagun, kanałów i wysepek ciągnących się wzdłuż wschodniego Algarve. Można wynająć kajak lub wybrać się na spokojny rejs łodzią z przewodnikiem. Po drodze: rybacy zbierający małże, dzikie ptaki, flamingi (naprawdę!) i zero hałasu. Idealne na złapanie oddechu.</p>
+
+  <h3>🧂 Fábrica do Sal – solne pola w Castro Marim</h3>
+  <p>Jeśli masz jeszcze siłę, zajrzyj do Castro Marim – do miejsca, gdzie sól nadal zbiera się ręcznie. Można tu kupić najlepszą sól w Algarve, zjeść ciasteczka z solą morską i dowiedzieć się, dlaczego dawniej sól była na wagę złota. A może kąpiel błotna? Tak, serio – sól na całego!</p>
+
+<div style="background-color:#f0f8ff; border-left: 6px solid #0077b6; padding: 16px; margin-top: 32px; border-radius: 8px;">
+  <h3>🚗 Gdzie zaparkować?</h3>
+  <ul>
+    <li><strong>Tavira:</strong> Duży bezpłatny parking przy Mercado Municipal (targ) – 5 min spacerkiem do centrum.</li>
+    <li><strong>Port promowy na Ilha de Tavira:</strong> Parking przy przystani „Quatro Águas” – płatny, ale blisko promu.</li>
+    <li><strong>Castro Marim:</strong> Spokojne miasteczko, dużo wolnych miejsc na ulicach – nie stresuj się.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fff3cd; border-left: 6px solid #ff9800; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🍴 Co zjeść po drodze?</h3>
+  <ul>
+    <li><strong>Tavira:</strong> Restauracja <em>Ti Maria</em> – klasyczne dania Algarve, np. cataplana z owocami morza (podawana w miedzianym garze!).</li>
+    <li><strong>Ilha de Tavira:</strong> Proste beach bary z rybą z grilla, kanapkami z tuńczykiem i vinho verde – idealnie.</li>
+    <li><strong>Faro / Castro Marim:</strong> Warto spróbować lodów o smaku figi i soli – dziwnie brzmi, ale serio wchodzi.</li>
+  </ul>
+</div>
+
+<div style="background-color:#e6ffe6; border-left: 6px solid #2e8b57; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🕵️ Ukryte smaczki</h3>
+  <ul>
+    <li><strong>Camera Obscura w Tavirze:</strong> Perła dla ciekawskich – XIX-wieczne urządzenie, które pokazuje całe miasto na wielkim peryskopie. Trochę Harry Potter, trochę steampunk.</li>
+    <li><strong>Cisza na Ilha de Tavira:</strong> Opuść główną plażę i przejdź w lewo 15 minut – znajdziesz własny kawałek raju.</li>
+    <li><strong>Targ rybny w Tavirze:</strong> Nawet jeśli nie kupujesz – warto zajrzeć. Kolory, zapachy i rozmowy o rybach po portugalsku są tu jak spektakl.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fce4ec; border-left: 6px solid #d81b60; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>💡 Tipy dnia</h3>
+  <ul>
+    <li>Promy na Ilha de Tavira kursują co 30–60 minut – sprawdź godziny powrotów, żeby nie utknąć (chyba że planujesz nocleg na wyspie 😉).</li>
+    <li>Weź repelent na komary – laguny to raj dla ptaków, ale i dla małych brzęczących kolegów.</li>
+    <li>W Castro Marim można kupić sól w pięknych puszkach – idealne pamiątki (i lekkie!).</li>
+    <li>W Tavirze działa darmowe Wi-Fi w centrum – działa nawet przy lodziarni!</li>
+  </ul>
+</div>
+
+
+</details>
+
+
+<details>
+  <summary><strong>🌊 Dzień 4 – Zachodnie Algarve: tam, gdzie kończy się Europa (i zaczyna surfing)</strong></summary>
+
+  <p>Czwarty dzień to eksploracja dzikiego zachodu Algarve – surowego, wietrznego i absolutnie pięknego. Tutaj kończy się kontynent, fale biją o klify z siłą ataku smoka, a surferzy wyglądają jak postacie z reklamy. Więcej natury, mniej turystów i widoki, które wciągają bardziej niż Netflix.</p>
+
+  <h3>🗺️ Sagres – miasteczko końca świata</h3>
+  <p>Sagres to nie miasto do zwiedzania – to klimat. Wietrzne, trochę dzikie, pełne młodych ludzi z deskami surfingowymi. Zajrzyj na <strong>Fortalezę de Sagres</strong> – twierdzę na skale z bajecznym widokiem na klify i ocean. A potem weź kawę na wynos i po prostu posiedź. Nic więcej nie trzeba.</p>
+
+  <h3>📍Cabo de São Vicente – najdalej na zachód!</h3>
+  <p>Kiedyś uważano to miejsce za koniec świata. Właśnie tu, przy latarni morskiej na Cabo de São Vicente, kończy się Europa, a zaczyna... ogromna niebieska otchłań. To miejsce pachnie romantyzmem, wiatrem i kiełbaskami z food trucka „Letzte Bratwurst vor Amerika”. I tak – właśnie tam kup tę kiełbaskę!</p>
+
+  <h3>🏄 Praia do Amado – raj dla surferów</h3>
+  <p>To jedna z najlepszych plaż surfingowych w Algarve. Ogromna, dzika, z czerwonymi skałami i falami, które przyciągają surferów z całego świata. Nawet jeśli nie surfujesz – to świetne miejsce na oglądanie jak inni próbują i spadają z deski z godnością. Można też wykupić lekcję – kto wie, może to Twoje nowe hobby?</p>
+
+  <h3>🌅 Zachód słońca na klifie</h3>
+  <p>Nie kończ dnia zbyt wcześnie – zachód słońca na Cabo de São Vicente to klasyk. W sezonie przyjeżdżają tu tłumy z kocami, winem i aparatami. Niby tłoczno, ale i tak magicznie. Jeśli wieje, chowasz się w kaptur. Jeśli zimno – przytulasz się do współtowarzysza. Warto.</p>
+
+
+<div style="background-color:#f0f8ff; border-left: 6px solid #0077b6; padding: 16px; margin-top: 32px; border-radius: 8px;">
+  <h3>🚗 Gdzie zaparkować?</h3>
+  <ul>
+    <li><strong>Sagres:</strong> Bezpłatne parkingi przy twierdzy oraz w centrum miasteczka. Latem może być tłoczno, więc warto przyjechać wcześniej.</li>
+    <li><strong>Cabo de São Vicente:</strong> Duży darmowy parking tuż przy latarni. Miejsca są nawet na kampery.</li>
+    <li><strong>Praia do Amado:</strong> Parking przy plaży – dość dziki, gruntowy, ale bezpłatny i z fajnym widokiem.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fff3cd; border-left: 6px solid #ff9800; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🍴 Co zjeść po drodze?</h3>
+  <ul>
+    <li><strong>Letzte Bratwurst vor Amerika:</strong> Legendarny food truck z niemiecką kiełbaską tuż przy Cabo. Must-try – i świetne zdjęcie!</li>
+    <li><strong>Restauracja „A Sagres”:</strong> Domowa kuchnia z owocami morza, polecana przez lokalsów. Duże porcje i dobre ceny.</li>
+    <li><strong>Surfer bar przy Praia do Amado:</strong> Luźny klimat, smoothie bowl, burgery, frytki z batatów – jakbyś był w Kalifornii.</li>
+  </ul>
+</div>
+
+<div style="background-color:#e6ffe6; border-left: 6px solid #2e8b57; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>🕶️ Ukryte smaczki</h3>
+  <ul>
+    <li><strong>Fortaleza de Beliche:</strong> Mała, zapomniana twierdza na klifie – większość ją omija, a widok stamtąd to czyste złoto.</li>
+    <li><strong>Sklepy z rękodziełem:</strong> W Sagres i okolicach znajdziesz małe galerie z ceramiką i surf-artem – idealne pamiątki inne niż magnesy.</li>
+    <li><strong>Wiata widokowa przed Cabo:</strong> Kilka kilometrów przed latarnią jest mały punkt widokowy – mniej ludzi, taki sam zachód słońca.</li>
+  </ul>
+</div>
+
+<div style="background-color:#fce4ec; border-left: 6px solid #d81b60; padding: 16px; margin-top: 24px; border-radius: 8px;">
+  <h3>💡 Tipy dnia</h3>
+  <ul>
+    <li>Na Cabo de São Vicente zawsze wieje – zabierz coś z kapturem i nie licz na ciepło, nawet w lipcu.</li>
+    <li>Jeśli masz lornetkę – weź ją! Czasem widać delfiny i wieloryby w oddali.</li>
+    <li>W Sagres działają dobre wypożyczalnie desek i szkółki surfingowe. Można się zapisać nawet na jedną lekcję.</li>
+    <li>Nie ma tam za dużo sklepów – weź wodę i coś do przegryzienia, zanim uderzysz na zachód słońca.</li>
+  </ul>
+</div>
+
+
+</details>
 </details>
 
 
