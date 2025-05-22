@@ -60,96 +60,14 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Ponta da Piedade to nie punkt na mapie – to miejsce, które na długo zostaje w pamięci. A jeśli jeszcze trafisz na zachód słońca, to… cóż, pozostaje tylko wzruszyć się i zamówić sangrię na uczczenie widoków.</p>
-</details>
 
-    
-    <li>
-      <strong>🏖️ Praia da Marinha</strong> – <em>37.0906° N, 8.4127° W</em><br>
-      Prawdopodobnie najbardziej instagramowa plaża w Portugalii. Skały wyglądają jak z kreskówki, a piasek ma teksturę marzeń. No i te serduszko w klifie – romantyzm poziom master.
-    </li>
-
-    <li>
-      <strong>⛪ Kościół Świętej Kości w Faro (Capela dos Ossos)</strong> – <em>37.0141° N, 7.9335° W</em><br>
-      Tak, to kaplica zrobiona z ludzkich czaszek i kości. Makabrycznie piękna. Jeśli masz ochotę na chwilę zadumy i lekki dreszczyk – to tu.
-    </li>
-
-    <li>
-      <strong>⚓ Silves i jego zamek</strong> – <em>37.1872° N, 8.4382° W</em><br>
-      Dawna stolica regionu z pięknym czerwonym zamkiem, który wygląda jakby ktoś go posypał papryką. Widoki z murów robią robotę, a miasteczko pachnie historią (i kawą).
-    </li>
-
-    <li>
-      <strong>⛵ Benagil Cave (Algar de Benagil)</strong> – <em>37.0875° N, 8.4250° W</em><br>
-      Jaskinia z dziurą w suficie i plażą w środku. Brzmi jak Minecraft, wygląda jak bajka. Dojście z plaży tylko wpław lub łodzią – czyli trochę Indiana Jones, trochę plażing.
-    </li>
-
-    <li>
-      <strong>🌵 Ria Formosa</strong> – <em>37.0228° N, 7.7990° W</em><br>
-      Park narodowy pełen lagun, ptaków, krabów i spokoju. Kajaki, łódki, spacery, a jak masz lornetkę – ptasi safari za darmo.
-    </li>
-
-    <li>
-      <strong>🌊 Sagres i Przylądek Świętego Wincentego</strong> – <em>37.0176° N, 8.9945° W</em><br>
-      Koniec Europy. Serio. Dawniej ludzie myśleli, że tu się świat urywa. Teraz stoi tam latarnia morska, wieje jak w kieleckim, ale widok wynagradza wszystko. I jeszcze trochę.
-    </li>
-  </ul>
-
-  <p><em>PS: Nie wszystko trzeba zobaczyć w jeden dzień. Algarve nie ucieknie – chyba że przypływ zabierze Ci ręcznik z plaży.</em></p>
-</section>
-
-<section>
-  <h2>🎯 Jeszcze więcej atrakcji w Algarve (bo za dużo słońca szkodzi, trzeba coś zobaczyć)</h2>
-  <ul>
-    <li>
-      <strong>⛲ Praça da República w Tavirze</strong> – <em>37.1255° N, 7.6451° W</em><br>
-      Uroczy ryneczek z fontanną, pastelaria i kawiarnie, w których czas się zatrzymał. Idealne miejsce na lody i ludziobserwację.
-    </li>
-
-    <li>
-      <strong>⛪ Igreja de São Lourenço (Almancil)</strong> – <em>37.0864° N, 8.0281° W</em><br>
-      Z zewnątrz zwykły kościółek, w środku – eksplozja niebieskich azulejos. Wchodzisz i czujesz się jak w portugalskim porcelanowym pałacu.
-    </li>
-
-    <li>
-      <strong>🚂 Mini-pociąg do Praia do Barril</strong> – <em>37.0787° N, 7.6611° W</em><br>
-      Tak, jest pociąg, który wiezie Cię przez bagienka do plaży. Dzieci będą zachwycone, dorośli też, bo nie trzeba tyle iść. Na miejscu – plaża i słynny „cmentarz kotwic”.
-    </li>
-
-    <li>
-      <strong>🛥️ Rejsy delfinowe z Albufeiry</strong> – <em>37.0882° N, 8.2526° W</em><br>
-      Łódki, ocean, fale i skaczące delfiny (przynajmniej w teorii). Jeśli dopisze szczęście – magia. Jeśli nie – masz pretekst, żeby wrócić.
-    </li>
-
-    <li>
-      <strong>🏞️ Wodospady Pego do Inferno</strong> – <em>37.1493° N, 7.7018° W</em><br>
-      Ukryte wśród zieleni miejsce z wodospadem i naturalnym basenem. Nazwa brzmi groźnie („Próg Piekła”), ale to raczej raj dla zmęczonych upałem.
-    </li>
-
-    <li>
-      <strong>🕍 Zamek w Alcoutim</strong> – <em>37.4722° N, 7.4701° W</em><br>
-      Położony nad rzeką Guadiana zamek z widokiem na Hiszpanię (serio!). Miasteczko spokojne, zero turystów i kawa smakuje podwójnie dobrze.
-    </li>
-
-    <li>
-      <strong>⛵ Wyspy Barreira (Culatra, Armona, Farol)</strong> – <em>start z Olhão – 37.0289° N, 7.8431° W</em><br>
-      Dostępne tylko promem. Zero samochodów, tylko piasek, ryby, bungalowy i dźwięk fal. Prawdziwa ucieczka od cywilizacji – ale z Wi-Fi.
-    </li>
-
-    <li>
-      <strong>🐢 Krajobraz księżycowy przy Praia da Bordeira</strong> – <em>37.1951° N, 8.9027° W</em><br>
-      Ogromna, wietrzna plaża z wydmami jak z Tatooine. Mało ludzi, dużo piasku i ten klimat „na końcu świata”.
-    </li>
-
-    <li>
-      <strong>🛍️ Mercado Municipal de Loulé</strong> – <em>37.1373° N, 8.0240° W</em><br>
-      Kolorowy targ w arabskim stylu – ryby, owoce, przyprawy, rękodzieło i zapach tak intensywny, że można się najeść samym wąchaniem.
-    </li>
-  </ul>
-
-  <p><em>PS: Algarve to nie sprint – to maraton w klapkach. Zwiedzaj powoli, w cieniu, z lodem w kubku i spokojem w duszy.</em></p>
-
+  
 </details>
  
+
+
+
+
 <details>
   <summary><strong>🕵️‍♀️ Sekretne miejsca w Algarve</strong></summary>
  
