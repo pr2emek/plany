@@ -510,6 +510,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
+</details>
       
 ---
 
