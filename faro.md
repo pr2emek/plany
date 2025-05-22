@@ -16,9 +16,6 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     Faro to nie tylko lotnisko, z którego większość turystów ucieka prosto do Lagos albo Albufeiry. To **stolica Algarve** – południowego regionu Portugalii, gdzie słońce świeci przez większą część roku, a mewy mają osobowość celebrytów. Miasteczko spokojne, nie za duże, pełne białych fasad, pomarańczowych dachów i kocich bruków, które przetestują Twoje kostki lepiej niż siłownia.
   </p>
- <p>
-  Na moim blogu znajdziesz <a href="/przewodnik-algarve" title="Przewodnik po Algarve">kompletny przewodnik po Algarve</a>, w którym krok po kroku oprowadzę Cię po najpiękniejszych miejscach tego regionu – od Lagos i Taviry, przez Sagres, aż po urokliwe miasteczka i dzikie plaże. Wyrusz ze mną na przygodę, która pokaże Ci Algarve z zupełnie innej strony!
- </p>
   
   <p>
     Faro liczy sobie nieco ponad 60 tysięcy mieszkańców i ma w sobie idealną mieszankę: trochę historii, trochę luzu, trochę słońca i całkiem sporo... ciszy. Jest tu **urocza starówka (Cidade Velha)** z murami i łukami pamiętającymi Maurów, **katedra z widokiem na lagunę**, a także **makabryczna kaplica z kości**, która sprawia, że nawet najbardziej gadatliwi turyści milkną.
@@ -35,6 +32,9 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     <em>Pro tip:</em> W Faro życie toczy się wolno – nie przyjeżdżaj tu z zegarkiem, bo się obrazi. Lepszy będzie kapelusz, sok z pomarańczy i plan „zobaczyć co się da, a resztę jutro”.</p>
 
+ <p>
+  Na moim blogu znajdziesz <a href="/przewodnik-algarve" title="Przewodnik po Algarve">kompletny przewodnik po Algarve</a>, w którym krok po kroku oprowadzę Cię po najpiękniejszych miejscach tego regionu – od Lagos i Taviry, przez Sagres, aż po urokliwe miasteczka i dzikie plaże. Wyrusz ze mną na przygodę, która pokaże Ci Algarve z zupełnie innej strony!
+ </p>
   
 
  
