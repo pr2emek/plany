@@ -43,7 +43,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
     Faro nie jest wielkie, ale ma w sobie więcej niespodzianek niż walizka taniego podróżnika. Oto lista miejsc, które warto zobaczyć – nawet jeśli jesteś tylko na chwilę albo uciekasz z lotniska przed kolejnym opóźnionym lotem.
   </p>
 
-  <details>
+<details>
   <summary><strong⛪ Sé de Faro – katedra z duszą (i widokiem)</strong></summary>
   <p>📍 Współrzędne: 37.0139° N, 7.9337° W</p>
 
@@ -111,6 +111,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><em>Tip:</em> Przejdź się tam wcześnie rano lub tuż przed zachodem słońca. Lepsze światło, mniej ludzi i więcej magii – bez potrzeby photoshopa.</p>
 </details>
+
 <details>
   <summary><strong>🌿 Parque Natural da Ria Formosa – natura, która zachwyca i uspokaja</strong></summary>
   <p>📍 Współrzędne: 37.0131° N, 7.8435° W</p>
@@ -159,7 +160,6 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     <em>Pro tip:</em> Wszystkie atrakcje w Faro są do ogarnięcia pieszo – serio, nie potrzebujesz auta. Zamiast tego weź wygodne buty, okulary przeciwsłoneczne i dużą pamięć w telefonie, bo zdjęć zrobisz dużo więcej niż planowałeś.
   </p>
-</details>
 
  
 <details>
@@ -191,7 +191,6 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
-</details>
 ---
 
 <details>
