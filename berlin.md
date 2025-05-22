@@ -49,7 +49,7 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏰 Co zobaczyć</strong></summary>
 
-    <details>
+  <details>
   <summary><strong>🧱 Mur Berliński (Berliner Mauer)</strong></summary>
   <p>📍 Współrzędne: 52.5163° N, 13.3777° E</p>
   <p>
