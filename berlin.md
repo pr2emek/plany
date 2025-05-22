@@ -50,10 +50,27 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏰 Co zobaczyć</strong></summary>
 
   <details>
-    <summary><strong>🧱 Mur Berliński</strong></summary>
-    <p><strong>📍 Współrzędne:</strong> <em>52.5163, 13.3777</em></p>
-    <p>Mur, który dzielił miasto, rodziny, przyjaciół i psy sąsiadów. Symbol zimnej wojny, który przez dekady był niechcianą atrakcją, dziś stał się... atrakcją pożądaną. Tylko w Berlinie można oglądać beton i rozczulać się nad jego historią, robiąc selfie z napisem "do not cross".</p>
-    <p>Choć większość muru zniknęła szybciej niż darmowe kanapki w hostelu, wciąż znajdziesz jego fragmenty rozsiane po mieście – niektóre oryginalne, niektóre bardziej "symboliczne". Chcesz poczuć klimat szpiegów i zasieków? Skieruj kroki pod <strong>Topografię Terroru</strong> – tam historia bije betonem po oczach.</p>
+    <details>
+  <summary><strong>🧱 Mur Berliński (Berliner Mauer)</strong></summary>
+  <p>📍 Współrzędne: 52.5163° N, 13.3777° E</p>
+  <p>
+    Mur, który przez lata dzielił miasto, rodziny i całe ideologie — a dziś jest jednym z najsłynniejszych murów na świecie (zaraz obok Wielkiego Muru Chińskiego i muru, którego nikt nie widział, ale podobno miał zbudować Trump). Mur Berliński powstał w 1961 roku jako betonowa granica między Wschodnim Berlinem (NRD) a Zachodnim Berlinem (RFN), czyli komuniści kontra kapitaliści w wydaniu miejskim.
+  </p>
+  <p>
+    Miał 155 km długości, ponad 300 wież strażniczych i zniechęcał do przechodzenia na drugą stronę lepiej niż tabliczka „Uwaga zły pies”. Ale jak to w życiu — ludzie próbowali. Tunelami, balonami, pod fałszywymi ambulansami... a czasem niestety z tragicznym skutkiem. Mur nie był tylko fizyczną barierą — był symbolem zimnej wojny, absurdu polityki i tego, jak daleko można się posunąć, żeby podzielić miasto.
+  </p>
+  <p>
+    Upadł 9 listopada 1989 roku — spontanicznie, radośnie i z wielkim hukiem. Tysiące ludzi ruszyły z młotkami, dłutami i szczerym entuzjazmem do rozbierania betonu. Było to jedno z najważniejszych wydarzeń XX wieku, które można streścić słowami: „Mur upadł, ludzie przeszli, historia się zmieniła”.
+  </p>
+  <p>
+    Dziś zostało tylko kilka fragmentów, ale za to jakich! Najsłynniejszy to <strong>East Side Gallery</strong> — odcinek muru o długości 1,3 km pokryty kolorowymi muralami, które opowiadają historię wolności, protestu i nadziei. Kultowe grafiki, takie jak „Braterski pocałunek” między Honeckerem a Breżniewem, są równie często fotografowane co Brama Brandenburska.
+  </p>
+  <p>
+    <strong>Gdzie jeszcze szukać muru?</strong> Fragmenty znajdują się też przy <em>Checkpoint Charlie</em>, w <em>Topografii Terroru</em> i przy <em>Bernauer Straße</em>, gdzie możesz zobaczyć odtworzoną „strefę śmierci” — smutne, ale ważne świadectwo historii.
+  </p>
+  <p>
+    <em>Pro tip:</em> Nie próbuj zrywać kawałka muru na pamiątkę – lepiej kup sobie oficjalny „kamyczek z muru” w sklepie z suwenirami. Przynajmniej nie będzie cię ścigać niemiecka Straż Miejska.
+  </p>
 </details>
 
 <details>
@@ -74,10 +91,22 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
     alt="Reichstag" 
     style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
-    
-    <p>Oficjalna siedziba Bundestagu, czyli niemieckiego parlamentu – miejsce, gdzie zapadają ważne decyzje, ale też gdzie turyści wdrapują się do szklanej kopuły, żeby cyknąć ładne fotki panoramy Berlina (i przypadkiem usłyszeć debatę o przepisach na ogórkową).</p>
-    <p>Kopuła zaprojektowana przez Normana Fostera wygląda jak wielka lustrzana wirówka i rzeczywiście można się tam zakręcić – szczególnie bez rezerwacji. <strong>Uwaga:</strong> wejście jest darmowe, ale <em>trzeba się wcześniej zarejestrować online</em>. Bez tego zostaje selfie zza płotu.</p>
-    <p>Warto odwiedzić o zachodzie słońca – widoki jak z katalogu, tylko bardziej demokratyczne.</p>
+       
+  <p>
+    Reichstag to taki budynek, który widział więcej zwrotów akcji niż niejedna telenowela – ogień, wojny, upadki, powstania, a dziś… selfie i wycieczki szkolne. Oficjalnie to siedziba niemieckiego parlamentu (Bundestagu), ale nieoficjalnie – to miejsce, gdzie historia Niemiec rozgrywała się na żywo przez ponad sto lat.
+  </p>
+  <p>
+    Budynek powstał pod koniec XIX wieku i już wtedy był kontrowersyjny – bo za bardzo zdobny, bo kopuła zbyt imperialna, bo kto to widział, żeby parlament wyglądał jak pałac. Ale prawdziwa jazda zaczęła się w 1933 roku, kiedy Reichstag spłonął – pożar, który dał Hitlerowi pretekst do zawieszenia demokracji. Potem wojna, ruiny, gruz, i przez dekady… nic. Stał jak relikt, świadek podzielonego Berlina, tuż przy samej granicy z Murem.
+  </p>
+  <p>
+    Dopiero po zjednoczeniu Niemiec budynek dostał drugie życie. Brytyjski architekt Norman Foster zrobił lifting wszech czasów: dołożył futurystyczną <strong>szklaną kopułę</strong>, która stała się symbolem przejrzystości demokracji. Teraz możesz wejść na dach i podziwiać widoki 360° na Berlin – i to za darmo! W środku kręta rampa prowadzi na sam szczyt, a pod stopami masz widok na salę obrad – tak, można dosłownie patrzeć politykom na ręce.
+  </p>
+  <p>
+    <strong>Jak się dostać?</strong> Wstęp do kopuły jest darmowy, ale trzeba <em>zarejestrować się online z wyprzedzeniem</em> (albo liczyć na cud i wolne miejsca na miejscu). Zabierz dowód tożsamości i przygotuj się na kontrolę, jak na lotnisku – w końcu to miejsce, gdzie podejmowane są decyzje o miliardach euro.
+  </p>
+  <p>
+    <em>Pro tip:</em> Wybierz się o zachodzie słońca – wtedy Berlin wygląda najlepiej, a szklana kopuła pięknie odbija ostatnie promienie. I pamiętaj, że z góry widać też Bramę Brandenburską – więc dwie atrakcje za jednym wjazdem windą!
+  </p>
 </details>
 
 
@@ -277,19 +306,22 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </div>
     
     <p>
-      Góra zrobiona ze śmieci wojennych (serio), na której stoi amerykańska stacja nasłuchowa z czasów zimnej wojny. 
-      Dziś to mekka dla artystów i fanów "urban exploration". Wchodzisz na własne ryzyko – i z własną butelką wody.
-    </p>
-  </details>
+    Nazwa brzmi jak miejsce z bajki braci Grimm, ale rzeczywistość jest jeszcze dziwniejsza. Teufelsberg, czyli <strong>Diabelska Góra</strong>, to nie tylko najwyższe wzniesienie Berlina (120 metrów n.p.m.), ale też góra... śmieci. Serio. Powstała ze ściągniętych po wojnie ruin Berlina – miliony ton gruzu zniszczonego miasta zostały usypane właśnie tutaj. A żeby było ciekawiej: pod spodem znajduje się niedokończony budynek nazistowskiego wydziału techniki wojennej. Zamiast go burzyć – zasypano go. Bo Berlin potrafi w symbolikę.
+  </p>
+  <p>
+    Na szczycie tej hałdy historii w latach 60. Amerykanie postawili <strong>stację nasłuchową NSA</strong> z charakterystycznymi białymi kulami-radarami (wyglądają trochę jak kosmiczne igloo). Tu szpiegowano, podsłuchiwano i zbierano dane o całym bloku wschodnim. Czyli – oficjalnie – najzimniejszy punkt Zimnej Wojny.
+  </p>
+  <p>
+    Dziś Teufelsberg to mekka fanów urbexu, alternatywnych klimatów i sztuki ulicznej. Można wejść na teren dawnej stacji (za opłatą), zobaczyć industrialne ruiny, pomalowane od stóp do głów muralami, oraz wejść na dachy z niesamowitym widokiem na zieloną stronę Berlina. Gdy wieje, kopuły wydają dziwaczne dźwięki, które dodają całemu miejscu postapokaliptycznego klimatu.
+  </p>
+  <p>
+    <strong>Jak się dostać?</strong> Najlepiej podjechać S-Bahn do stacji Heerstraße i stamtąd pieszo przez las Grunewald (ok. 30 minut spaceru w górę). To trochę jak wyprawa do opuszczonej bazy w „Stranger Things” – tylko z mniejszą ilością potworów.
+  </p>
+  <p>
+    <em>Pro tip:</em> Weź dobre buty, bo to nie deptak. Sprawdź godziny otwarcia – teren nie jest dostępny całą dobę. A jeśli masz drona – to jedno z najbardziej fotogenicznych miejsc w Berlinie z lotu ptaka!
+  </p>
+</details>
 
-  <details>
-    <summary><strong>💡 DDR Museum – dotknij komunizmu bez wychodzenia z UE</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5180° N, 13.4010° E</em></p>
-    <p>
-      Interaktywne muzeum NRD, gdzie możesz usiąść w Trabancie, posłuchać propagandy i zobaczyć, co się jadało, gdy nic nie było. 
-      Świetna lekcja historii dla młodszych – i momenty nostalgii dla tych, co pamiętają „Octavia to luksus”.
-    </p>
-  </details>
 
   <details>
     <summary><strong>🚪 Brama Brandenburska</strong></summary>
@@ -361,13 +393,24 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 <details>
-    <summary><strong>🚂 Dworzec Hauptbahnhof – czyli stacja kosmiczna Deutsche Bahn</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5251° N, 13.3694° E</em></p>
-    <p>
-      Gdyby Transformersy budowały dworce – wyglądałyby właśnie tak. Stal, szkło, schody ruchome w każdą stronę świata. 
-      Nawet jeśli nigdzie nie jedziesz, wpadnij się pogubić. Bonus: nieoczekiwany koncert akordeonisty na peronie.
-    </p>
-  </details>
+  <summary><strong>🚄 Berlin Hauptbahnhof – Dworzec Główny</strong></summary>
+  <p>📍 Współrzędne: 52.5251° N, 13.3694° E</p>
+  <p>
+    Jeśli wyobrażasz sobie dworzec jako miejsce z jedną halą, dwoma peronami i gołębiami kręcącymi się przy budce z preclami – to Berlin Hauptbahnhof wyśmieje tę wizję w pięciu językach i trzech poziomach. To największy i najnowocześniejszy dworzec w Niemczech – taki, który wygląda bardziej jak <strong>szklana katedra technologii</strong> niż miejsce, gdzie wsiadasz do pociągu.
+  </p>
+  <p>
+    Otwarty w 2006 roku, zbudowany został na miejscu dawnego Lehrter Bahnhof. Nowy Hauptbahnhof ma <strong>5 poziomów</strong>, <strong>54 tory</strong> i tysiące ludzi, którzy wydają się zawsze gdzieś pędzić. Pociągi jeżdżą tu nie tylko poziomo – ale i pionowo, a S-Bahn, ICE i regionalne śmigają w różnych kierunkach jak dobrze zsynchronizowany balet kolejowy.
+  </p>
+  <p>
+    Ale to nie tylko dworzec – to też <strong>centrum handlowe</strong>, <strong>restauracyjne</strong>, a czasem nawet <strong>hotelowe</strong>. Możesz tu kupić książkę, spodenki, sushi, zjeść currywurst, napić się kawy, a jeśli naprawdę się zagubisz – znaleźć fryzjera i wrócić z nową fryzurą. Witamy w Berlinie.
+  </p>
+  <p>
+    <strong>Ciekawostka architektoniczna:</strong> Fasada to w większości szkło i stal – czyli klasyczna niemiecka „transparentność z nutą high-tech”. Dach o długości 321 metrów robi wrażenie nawet na osobach, które nie interesują się architekturą, bo wygląda jak startowa platforma dla statków z „Gwiezdnych Wojen”.
+  </p>
+  <p>
+    <em>Pro tip:</em> Jeśli masz przesiadkę – zrób sobie spacer na pobliską <strong>rzekę Sprewę</strong> albo rzut beretem do <strong>Reichstagu</strong> i <strong>Bramy Brandenburskiej</strong>. Wszystko w zasięgu kilkunastu minut piechotą. A jeśli zgłodniejesz – berlińskie currywurst na peronie 1 smakuje zaskakująco dobrze.
+  </p>
+</details>
 
   <details>
     <summary><strong>🦴 Muzeum Historii Naturalnej – dinozaury i inne potwory</strong></summary>
@@ -379,12 +422,45 @@ Witaj w przewodniku po Berlinie! Kliknij sekcję, aby ją rozwinąć 👇
   </details>
 
   <details>
-    <summary><strong>📚 Bebelplatz – miejsce, gdzie palono książki, a dziś selfie</strong></summary>
-    <p><strong>Współrzędne:</strong> <em>52.5165° N, 13.3937° E</em></p>
-    <p>
-      Niby tylko plac, ale z historią cięższą niż podręcznik do niemieckiego. W podziemiu znajdziesz pustą bibliotekę – pomnik po paleniu książek. 
-      Można się zatrzymać, zamyślić… i dopiero potem pójść na currywurst.
-    </p>
+  <summary><strong>📚 Bebelplatz</strong></summary>
+  <p>📍 Współrzędne: 52.5153° N, 13.3934° E</p>
+  <p>
+    Na pierwszy rzut oka – spokojny plac otoczony pięknymi budynkami. Na drugi – miejsce, gdzie historia uderza z zaskoczenia. <strong>Bebelplatz</strong> to jeden z najbardziej eleganckich placów w Berlinie, położony tuż przy Unter den Linden, w sąsiedztwie <em>Humboldt-Universität</em>, <em>Staatsoper</em> (Opery Państwowej) i dawnej biblioteki królewskiej. Ale pod brukiem kryje się coś, co sprawia, że robi się cicho.
+  </p>
+  <p>
+    To właśnie tu, 10 maja 1933 roku, odbyło się <strong>słynne palenie książek</strong> zorganizowane przez nazistów. Studenci, profesorowie i działacze NSDAP wrzucili do ogniska ponad 20 tysięcy książek autorów uznanych za „niezgodnych z duchem niemieckim” – m.in. Tomasza Manna, Freuda, Einsteina czy Remarque’a. Cytując Heinricha Heinego (którego książki też spalono): <em>„Tam, gdzie pali się książki, w końcu pali się też ludzi.”</em>
+  </p>
+  <p>
+    Dziś na środku placu znajdziesz subtelną, ale przejmującą instalację artystyczną – <strong>„Bibliotekę” Micha Ullmana</strong>: szklaną płytę w chodniku, pod którą znajduje się pusty, biały pokój z pustymi regałami. Nie ma podpisów, nie ma patosu – tylko cisza i pusta przestrzeń. To działa mocniej niż jakikolwiek pomnik.
+  </p>
+  <p>
+    <strong>Ciekawostka:</strong> Czasem ludzie przechodzą obok i nie zauważają instalacji. Dlatego warto się zatrzymać i spojrzeć w dół – to jedna z tych chwil, kiedy Berlin przypomina, że pamięć bywa ukryta pod warstwą codzienności.
+  </p>
+  <p>
+    <em>Pro tip:</em> Bebelplatz wygląda szczególnie efektownie wieczorem, gdy podświetlone są budynki opery i uniwersytetu. Można tu spokojnie usiąść, odpocząć i pozwolić sobie na chwilę refleksji między kolejnym currywurstem a spacerem do Wyspy Muzeów.
+  </p>
+</details>
+
+<details>
+  <summary><strong>🧻 DDR Museum</strong></summary>
+  <p>📍 Współrzędne: 52.5175° N, 13.4010° E</p>
+  <p>
+    Masz ochotę na podróż w czasie do czasów, gdy wszystko było na kartki, samochody miały silnik z suszarki, a życie toczyło się między talonem a kolejką? <strong>DDR Museum</strong> zabierze Cię prosto do codzienności w byłej Niemieckiej Republice Demokratycznej – bez potrzeby posiadania paszportu z epoki.
+  </p>
+  <p>
+    To nie jest nudne muzeum z podpisami pod gablotami – to <strong>interaktywna kapsuła czasu</strong>. Możesz tu otwierać szuflady, siadać w prawdziwym Trabancie (i kręcić kierownicą!), zaglądać do typowego salonu z telewizorem Rubin i kredensem, a nawet wejść do kuchni, która wygląda jak żywcem wyjęta z mieszkania w Plattenbau z lat 70. Są też ubrania, propaganda, szkolne zeszyty, komunistyczne plansze edukacyjne i... papier toaletowy. Ten szary, sztywny, który każdy starszy Niemiec pamięta z traumą.
+  </p>
+  <p>
+    <strong>Ciekawostka:</strong> Znajdziesz tu też rekonstrukcję celi Stasi i pokaźną kolekcję materiałów szpiegowskich. Można poczuć się jak bohater filmu „Życie na podsłuchu” – tylko że bez dramatycznej muzyki i z większą ilością turystów.
+  </p>
+  <p>
+    <strong>Gdzie?</strong> DDR Museum znajduje się tuż przy rzece Sprewie, naprzeciwko Katedry Berlińskiej. Wejście jest trochę ukryte, więc wypatruj napisu „DDR” i ludzi wychodzących z uśmiechem i lekkim szokiem.
+  </p>
+  <p>
+    <em>Pro tip:</em> Idź rano lub tuż przed zamknięciem – w środku bywa tłoczno. I koniecznie sprawdź automat z kapsułkami – niektóre z nich kryją naprawdę zaskakujące gadżety z epoki.
+  </p>
+</details>
+
 
 </details>
    
