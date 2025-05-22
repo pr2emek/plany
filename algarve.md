@@ -30,7 +30,6 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   <p><em>PS: Nie zapomnij o kapeluszu, przeciwsłonecznych okularach i spokoju ducha – w Algarve to pakiet podstawowy.</em></p>
  
 </details>
-
  
 
 ---
@@ -40,11 +39,29 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
    
   <p>Algarve to nie tylko plaże i chillout – chociaż przyznajmy, to głównie one. Ale jeśli najdzie Cię nagła potrzeba „czegoś więcej”, oto lista atrakcji, które warto ogarnąć między jednym a drugim leżeniem:</p>
 
-  <details>
-  <summary><strong>🌊 Ponta da Piedade</strong></summary>
-      <strong></strong> – <em>37.0802° N, 8.6696° W</em><br>
-      Klify, jaskinie, łuki skalne i woda w kolorze tak błękitnym, że aż podejrzana. Można patrzeć z góry, można dopłynąć łódką. Obowiązkowe „wow”.
-    </li>
+ <details>    
+  <summary><strong>🌅 Ponta da Piedade – klifowy spektakl natury</strong></summary>
+  <p>📍 Współrzędne: 37.0805° N, 8.6696° W</p>
+
+  <p>Jeśli Algarve miałoby swoją wizytówkę, to byłaby nią właśnie <strong>Ponta da Piedade</strong>. Ten spektakularny przylądek tuż przy Lagos wygląda jakby Matka Natura zamówiła specjalnie sesję zdjęciową u najlepszego fotografa. Złociste klify, szmaragdowo-turkusowa woda, łuki skalne, jaskinie, a wszystko to jakby przypadkiem rozsypane w najbardziej malowniczym miejscu na wybrzeżu. I co najważniejsze – zero kiczu. Czyste piękno.</p>
+
+  <p>Na szczycie przylądka znajdziesz latarnię morską (uroczą, ale to nie ona jest gwiazdą) oraz system schodów prowadzących w dół – 182 stopnie do podziwiania klifów z poziomu wody. Ostrzegamy: schody w dół są łatwe, schody w górę… mniej. Ale warto. Serio.</p>
+
+  <p><strong>Najlepszy sposób zwiedzania?</strong> Zdecydowanie z łodzi! W porcie w Lagos codziennie rano startują małe łódki, które wpływają do grot, przepływają pod skalnymi łukami i omijają formacje skalne o wdzięcznych nazwach w stylu "słoń" czy "wielbłąd". Przewodnicy lubią rzucać żarciki – niektóre lepsze, niektóre… portugalskie.</p>
+
+  <p>Jeśli nie lubisz kołysania (lub przewodników), możesz też wynająć kajak lub stand-up paddle i samodzielnie wpłynąć do jaskiń. Dla odważnych – bajka. Dla początkujących – mokre szorty gratis.</p>
+
+  <p><strong>Porady od wyjadaczy:</strong></p>
+  <ul>
+    <li>🕶️ Rano – najlepsze światło i mniej ludzi. Idealne na zdjęcia "na Instagrama, ale bez tłumu w tle".</li>
+    <li>🧴 Słońce praży jak na patelni – krem z filtrem obowiązkowy, chyba że chcesz przybrać barwy skał.</li>
+    <li>🚤 Łódki odpływają z Lagos – nie rezerwuj na ostatnią chwilę w sezonie. Potem zostaje ci tylko machanie innym z klifu.</li>
+    <li>📸 Koniecznie zabierz aparat, powerbank i pojemność w telefonie. Tu nawet kamień wygląda jak dzieło sztuki.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Ponta da Piedade to nie punkt na mapie – to miejsce, które na długo zostaje w pamięci. A jeśli jeszcze trafisz na zachód słońca, to… cóż, pozostaje tylko wzruszyć się i zamówić sangrię na uczczenie widoków.</p>
+</details>
+
     
     <li>
       <strong>🏖️ Praia da Marinha</strong> – <em>37.0906° N, 8.4127° W</em><br>
