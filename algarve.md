@@ -45,7 +45,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p>Jeśli Algarve miałoby swoją wizytówkę, to byłaby nią właśnie <strong>Ponta da Piedade</strong>. Ten spektakularny przylądek tuż przy Lagos wygląda jakby Matka Natura zamówiła specjalnie sesję zdjęciową u najlepszego fotografa. Złociste klify, szmaragdowo-turkusowa woda, łuki skalne, jaskinie, a wszystko to jakby przypadkiem rozsypane w najbardziej malowniczym miejscu na wybrzeżu. I co najważniejsze – zero kiczu. Czyste piękno.</p>
 
-  <p>Na szczycie przylądka znajdziesz latarnię morską (uroczą, ale to nie ona jest gwiazdą) oraz system schodów prowadzących w dół – 182 stopnie do podziwiania klifów z poziomu wody. Ostrzegamy: schody w dół są łatwe, schody w górę… mniej. Ale warto. Serio.</p>
+  <p>Na szczycie przylądka znajdziesz latarnię morską (uroczą, ale to nie ona jest gwiazdą) oraz system schodów prowadzących w dół – 182 stopnie do podziwiania klifów z poziomu wody. Ostrzegam: schody w dół są łatwe, schody w górę… mniej. Ale warto. Serio.</p>
 
   <p><strong>Najlepszy sposób zwiedzania?</strong> Zdecydowanie z łodzi! W porcie w Lagos codziennie rano startują małe łódki, które wpływają do grot, przepływają pod skalnymi łukami i omijają formacje skalne o wdzięcznych nazwach w stylu "słoń" czy "wielbłąd". Przewodnicy lubią rzucać żarciki – niektóre lepsze, niektóre… portugalskie.</p>
 
