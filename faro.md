@@ -4,7 +4,7 @@ title: Faro
 permalink: /plany/faro.html
 ---
 
-# Faro 🇪🇸 
+# Faro 🇵🇹 
 
 Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
@@ -191,7 +191,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 </details>
 
-
+</details>
 ---
 
 <details>
