@@ -30,6 +30,15 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
   <p>
     <em>Pro tip:</em> W Faro życie toczy się wolno – nie przyjeżdżaj tu z zegarkiem, bo się obrazi. Lepszy będzie kapelusz, sok z pomarańczy i plan „zobaczyć co się da, a resztę jutro”.
+
+    <p>
+  Faro to świetna baza wypadowa, ale jeśli chcesz poczuć prawdziwego ducha południowej Portugalii, zapraszam Cię do ucieczki poza miasto i odkrywania całego regionu Algarve. Tam czeka na Ciebie mnóstwo plaż, ukrytych zatoczek, malowniczych miasteczek i sekretów, które nie są jeszcze znane masowej turystyce.
+</p>
+
+<p>
+  Na moim blogu znajdziesz <a href="/przewodnik-algarve" title="Przewodnik po Algarve">kompletny przewodnik po Algarve</a>, w którym krok po kroku oprowadzę Cię po najpiękniejszych miejscach tego regionu – od Lagos i Taviry, przez Sagres, aż po urokliwe miasteczka i dzikie plaże. Wyrusz ze mną na przygodę, która pokaże Ci Algarve z zupełnie innej strony!
+</p>
+
   </p>
 </details>
 
