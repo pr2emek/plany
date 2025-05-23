@@ -63,7 +63,325 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 
   
 </details>
- 
+
+
+ <details>    
+  <summary><strong>🏖️ Praia da Marinha – złota królowa plaż Algarve</strong></summary>
+  <p>📍 Współrzędne: 37.0906° N, 8.4126° W</p>
+
+  <p>To nie jest zwykła plaża. <strong>Praia da Marinha</strong> to ta plaża, którą pokazują w katalogach biur podróży, gdy chcą ci sprzedać "rajski wypoczynek w Portugalii" – i, o dziwo, tym razem nie kłamią. To naprawdę jedna z <em>najpiękniejszych plaż Europy</em>, według CNN, TripAdvisora i twojej sąsiadki Grażyny, która była tu trzy razy.</p>
+
+  <p>Z góry wygląda jak obraz – złociste klify, woda w odcieniach turkusu i szmaragdu, i charakterystyczne skały w kształcie łuków oraz wież, które wyglądają jak zamki z piasku, tylko zrobione przez Posejdona. Możesz je podziwiać z punktu widokowego tuż przy parkingu – idealne miejsce na zdjęcia typu "spontan w długiej sukience z rozwianym włosem" (czyli tak naprawdę 45 minut pozowania).</p>
+
+  <p>Zejście na plażę prowadzi po schodkach wykutych w skale – nie są trudne, ale po drodze można zgubić klapki, dziecko i cierpliwość. Na dole czeka cię raj – miękki piasek, woda przejrzysta jak łza i formacje skalne, które tworzą małe zatoczki, idealne do kąpieli, snurkowania i... romantycznych selfie.</p>
+
+  <p><strong>Bonus dla aktywnych:</strong> plaża leży na trasie słynnego <strong>szlaku siedmiu wiszących dolin (Sete Vales Suspensos)</strong> – można dojść tu pieszo z Benagil lub dalej, a po drodze zbierać widoki jak pokemony. Tylko zrób zapas wody i kremu z filtrem, bo słońce nie bierze jeńców.</p>
+
+  <p><strong>Praktyczne rady od plażowego guru:</strong></p>
+  <ul>
+    <li>🥾 Rano – najlepiej. Mniej ludzi, lepsze światło, więcej miejsca na ręcznik.</li>
+    <li>🧺 Brak restauracji na dole – zabierz kanapki, owoce i coś do picia (prosecco? nie osądzam).</li>
+    <li>🚻 Toalety są przy parkingu – skorzystaj <em>przed</em> zejściem, serio.</li>
+    <li>🌊 Prądy bywają mocne – pływaj przy brzegu, nie udawaj delfina.</li>
+    <li>📸 Drony są mile widziane – ale tylko jeśli umiesz nimi latać i nie wlecisz komuś w głowę.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Praia da Marinha to złoty standard portugalskiego wybrzeża. Jeśli masz tylko jeden dzień na plażowanie w Algarve – przyjedź właśnie tutaj. I weź dużo pamięci w telefonie, bo każde 5 metrów to inne zdjęcie warte tapety na pulpicie.</p>
+</details>
+
+
+<details>    
+  <summary><strong>🏰 Zamek w Silves – czerwony gigant z czasów Maurów</strong></summary>
+  <p>📍 Współrzędne: 37.1895° N, 8.4384° W</p>
+
+  <p>Jeśli Algarve kojarzy Ci się tylko z plażami i klifami, to <strong>Silves</strong jest tu po to, żeby to zmienić. To małe, klimatyczne miasteczko leży trochę w głębi lądu, z dala od parawanów i piasku w butach, i skrywa <strong>prawdziwą perełkę z czasów, gdy w Portugalii rządzili Maurowie</strong> – monumentalny, ceglano-czerwony zamek, który wygląda, jakby wciąż czekał na powrót sułtana (albo ekipy Netflixa kręcącej serial).</p>
+
+  <p>Sam <strong>zamek w Silves</strong> to największa mauretańska twierdza w Algarve. Z murów rozciąga się widok na całe miasto i okoliczne doliny – można z tego miejsca spokojnie planować podbój regionu albo po prostu zjeść kanapkę z serem i podziwiać cyprysy.</p>
+
+  <p>W środku zamku czeka kilka niespodzianek: potężne zbiorniki na wodę (maurów nie dało się zaskoczyć suszą), wykopaliska archeologiczne, po których można chodzić jak po sali muzealnej na świeżym powietrzu, oraz klimatyczny dziedziniec z pomarańczami. A jeśli masz wyobraźnię – usłyszysz echa dawnych bitew, szelest jedwabnych szat i stukot sandałów (albo to po prostu turyści w japonkach).</p>
+
+  <p>Po zamku warto zejść do miasteczka – brukowane uliczki, białe domy z kolorowymi ramkami wokół okien, kawiarenki z pastel de nata i ludzie, którzy nigdzie się nie spieszą. Obok zamku znajduje się także imponująca <strong>katedra Sé de Silves</strong> – gotycka, zbudowana na fundamentach dawnego meczetu. Historia? Mieszanka totalna. I właśnie to jest piękne.</p>
+
+  <p><strong>Wskazówki od zamkowego skauta:</strong></p>
+  <ul>
+    <li>🎫 Wstęp do zamku to zaledwie kilka euro – taniej niż kawa w Paryżu, a widoki lepsze.</li>
+    <li>🕰️ Unikaj popołudnia latem – zamek nagrzewa się jak piekarnik z funkcją termoobiegu.</li>
+    <li>📷 Weź aparat. Serio. Te czerwone mury na tle błękitnego nieba to fotogeniczny jackpot.</li>
+    <li>🍊 W sezonie dojrzewają pomarańcze – pachnie bajką, a niektórzy twierdzą, że to właśnie tu narodził się pomysł na sok pomarańczowy.</li>
+    <li>🚗 Najlepiej dojechać autem. Transport publiczny? Jest, ale działa jakby miał sjestę przez cały dzień.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Silves to Algarve z zupełnie innej bajki – mniej plażowej, bardziej historycznej, klimatycznej i… cichszej. Idealne miejsce, by odpocząć od tłumów i zanurzyć się w średniowiecznej opowieści. A przy okazji – zrobić trochę kroków na murach zamku. Twoje buty będą zadowolone.</p>
+</details>
+
+
+<details>    
+  <summary><strong>⛱️ Benagil Cave – dziura w dachu, która podbiła Internet</strong></summary>
+  <p>📍 Współrzędne: 37.0877° N, 8.4251° W</p>
+
+  <p>To nie jest zwykła jaskinia. <strong>Benagil Cave</strong>, znana też jako Algar de Benagil, to <em>gwiazda Instagrama, Pinterestu i folderów „bucket list”</em> – i nie bez powodu. Ta olbrzymia grota wyrzeźbiona przez ocean wygląda jak coś pomiędzy świątynią natury a ukrytą bazą Batmana. A w suficie… magiczne okno! Wielka dziura, przez którą wpada światło, oświetlając złoty piasek i turkusową wodę wewnątrz. Efekt? Kosmos.</p>
+
+  <p><strong>Jak tam się dostać?</strong> No właśnie – to najczęstsze pytanie. Bo Benagil Cave to diva – piękna, ale niełatwa w obsłudze. Nie da się do niej <strong>zejść z klifu</strong> (choć wielu próbowało – z pomocą karetki). Najbezpieczniejsze opcje to:</p>
+  <ul>
+    <li>🚤 <strong>Rejs łodzią</strong> z plaży Benagil lub z Portimão – najwygodniejsza opcja, często z przewodnikiem, który zna 12 dowcipów o skałach.</li>
+    <li>🛶 <strong>Kajakiem</strong> – dla sportowców lub tych, którzy lubią, jak woda chlupie za kołnierzem.</li>
+    <li>🏄‍♂️ <strong>Stand-up paddle</strong> – bardziej ryzykowna opcja dla równowagowych ninja.</li>
+  </ul>
+
+  <p><strong>Uwaga!</strong> <em>Nie</em> próbuj dopłynąć wpław. Serio. Fale, skały i prądy potrafią pokazać, że to ocean, a nie basen w kurorcie. Poza tym – zabierzesz telefon? Selfie z wnętrza jaskini to obowiązek.</p>
+
+  <p>Wewnątrz groty jest plaża – mała, piaszczysta, otoczona przez monumentalne skały i bajeczne kolory. Akustyka jak w operze, widoki jak z pocztówki, a uczucie? Jakbyś odkrył sekret, o którym wiedzą tylko bogowie oceanu i kilku influencerów z dronem.</p>
+
+  <p><strong>Porady od ludzi, którzy już tam byli i przeżyli:</strong></p>
+  <ul>
+    <li>⏰ Wybierz poranek – mniej ludzi, lepsze światło, mniejsze fale.</li>
+    <li>🎟️ Zarezerwuj wycieczkę wcześniej, zwłaszcza w sezonie – inaczej zostaniesz na brzegu z rozczarowaniem i gofrem.</li>
+    <li>🩴 Weź wodoodporne buty i rzeczy, które mogą się zamoczyć – chyba że lubisz wracać z plecakiem, który pachnie jak łódź rybacka.</li>
+    <li>📸 Najlepsze zdjęcia? Stań pod dziurą i spójrz w górę – światło robi robotę. Bonus: 50% szans, że trafisz na czyjegoś drona w kadrze.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Benagil Cave to jedna z tych atrakcji, które wyglądają jak fejk, a są całkowicie prawdziwe. Magiczna, unikatowa, kapryśna – ale jak już tam staniesz i spojrzysz w górę, wiesz, że właśnie dotknąłeś portugalskiego cudu natury. I będzie Ci się śniła po powrocie do domu.</p>
+</details>
+
+
+<details>    
+  <summary><strong>🦩 Ria Formosa – Algarve w wersji dzikiej i zaskakująco różowej</strong></summary>
+  <p>📍 Współrzędne (centrum parku): 37.0172° N, 7.7745° W</p>
+
+  <p>Ria Formosa to <strong>park narodowy z innej bajki</strong> – nie klify, nie jaskinie, nie zamki... tylko wielki, rozległy labirynt <strong>lagun, mokradeł, wysp i kanałów</strong>, gdzie Algarve pokazuje swoją <em>zielono-niebieską, dziką twarz</em>. Dla miłośników natury – raj. Dla dzieci – przygoda. Dla flamingów – dom.</p>
+
+  <p>Ten nadmorski ekosystem ciągnie się wzdłuż wybrzeża, od Faro po Tavirę, i wygląda zupełnie inaczej w zależności od pory dnia i... przypływu. W jednej chwili idziesz po suchej ścieżce, a dwie godziny później masz już jezioro pod nogami. Nuda? Tu nie istnieje.</p>
+
+  <p>Główne atrakcje? <strong>Flamingi, kormorany, wydmy, wyspy z dzikimi plażami</strong>, tradycyjne łodzie rybackie i szlaki, na których nie spotkasz ani McDonalda, ani tłumu turystów. Za to możesz natknąć się na... <strong>kraby przemykające bokiem przez ścieżkę</strong>, świnie błotne (nie oceniamy), a nawet ludzi zbierających małże z błota – od pokoleń.</p>
+
+  <p><strong>Jak zwiedzać?</strong> Ria Formosa to nie jeden punkt na mapie – to cały świat. Najlepsze opcje:</p>
+  <ul>
+    <li>🛶 <strong>Rejs łodzią</strong> z Faro lub Olhão – różne trasy, niektóre zahaczają o dzikie wyspy z plażami, które wyglądają jak Karaiby (bez kokosów).</li>
+    <li>🚶‍♀️ <strong>Wędrówki piesze</strong> – zwłaszcza w okolicach <strong>Ludo Trail</strong> (obok lotniska w Faro), gdzie można spotkać flamingi, bociany i ludzi robiących zdjęcia każdej mewie.</li>
+    <li>🚲 <strong>Rowerem</strong> – wiele ścieżek rowerowych prowadzi przez parki, pola i mosty z widokiem na wodę. Zero nudnych kilometrów.</li>
+  </ul>
+
+  <p><strong>Wyspy w Ria Formosa</strong> to osobna liga. <strong>Ilha Deserta</strong> to – jak nazwa wskazuje – pusta wyspa z niesamowitą plażą i jednym barem (serio, <em>jednym</em>). <strong>Ilha do Farol</strong> to wioska z latarnią morską i domkami jak z pocztówek. <strong>Ilha da Culatra</strong> – spokojne rybackie życie, zero asfaltu, piasek zamiast chodników.</p>
+
+  <p><strong>Porady od obserwatorów ptaków (i ludzi):</strong></p>
+  <ul>
+    <li>🕊️ Najwięcej flamingów wczesnym rankiem lub przy zachodzie słońca – i nie, nie są różowe jak guma balonowa, tylko bardziej w kolorze „łososiowej elegancji”.</li>
+    <li>🌊 Przypływy zmieniają wszystko – sprawdź tabelę pływów, jeśli planujesz wędrówki przybrzeżne.</li>
+    <li>🧢 Słońce pali – nawet wiosną. Weź kapelusz, krem, dużo wody i coś do jedzenia (bo na szlaku nie ma Żabki).</li>
+    <li>🚤 Rejsy są różne – od szybkich łodzi motorowych po spokojne łódki rybackie. Wybierz zgodnie z temperamentem i tolerancją na bryzgającą wodę.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Ria Formosa to Algarve bez parasoli plażowych i plastikowych pamiątek. To miejsce, gdzie natura rządzi, flamingi mają priorytet, a człowiek musi się dostosować – i dobrze. Bo takich miejsc na mapie Europy już niewiele zostało.</p>
+</details>
+
+<details>    
+  <summary><strong>🌊 Sagres & Przylądek Świętego Wincentego – koniec świata, a jednak początek przygody</strong></summary>
+  <p>📍 Współrzędne: 37.0246° N, 8.9957° W</p>
+
+  <p>Wyobraź sobie, że stoisz na skraju Europy. Dalej już tylko ocean, wiatr i legendy o tym, że kiedyś właśnie tu kończył się świat. Witamy w <strong>Sagres</strong> i na <strong>Cabo de São Vicente</strong> – miejscu, gdzie historia, natura i „wiatr urywający głowę” spotykają się na herbatce.</p>
+
+  <p><strong>Sagres</strong> to spokojne, nieco senne miasteczko, które w średniowieczu było centrum <em>nawigacyjnego geniuszu</em>. To właśnie tu książę Henryk Żeglarz (tak, ten od wielkich odkryć) założył swoją szkołę morską. Dziś po Henryku zostało muzeum, twierdza i mnóstwo gołębi, ale klimat odkrywcy wciąż unosi się w powietrzu.</p>
+
+  <p><strong>Fortaleza de Sagres</strong> to punkt obowiązkowy. Wchodzisz na wielką skalistą platformę, otoczoną oceanem, gdzie znajduje się potężna forteca z XVIII wieku. W środku – <strong>róża wiatrów</strong>, tajemniczy kompas wielkości boiska i widoki, które wyglądają jak tło do reklamy perfum „Wolność i sól morska”.</p>
+
+  <p>Potem pora na crème de la crème, czyli <strong>Przylądek Świętego Wincentego</strong>. To <em>najbardziej na południowy zachód wysunięty punkt Europy kontynentalnej</em>. Klify tu są potężne, ocean grzmi jak basista w kapeli metalowej, a latarnia morska stoi na straży od 1846 roku. I uwaga: nadal działa! W nocy błyska jak gwiazda rocka na tournée.</p>
+
+  <p><strong>Co robić?</strong></p>
+  <ul>
+    <li>📸 Fotografuj – najlepiej o zachodzie słońca, kiedy niebo płonie, a selfie nabierają epickiego znaczenia.</li>
+    <li>🍔 Zjedz hot-doga w budce przy latarni – serio, lokalny klasyk. Nazywają go „<em>The Last Sausage Before America</em>”.</li>
+    <li>🧭 Posłuchaj wiatru – nie masz wyjścia. Nosi czapki, okulary i dzieci. Przygotuj się na fryzurę „po portugalsku”, czyli: burza na głowie.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🧥 Weź kurtkę – nawet latem. Serio. To <em>jedno z najbardziej wietrznych miejsc w Europie</em>, i nie mów, że nie ostrzegałem.</li>
+    <li>🚗 Najlepiej dojechać samochodem – autobusy tu zaglądają, ale raczej z ciekawości niż regularnie.</li>
+    <li>🥾 Jeśli masz czas, przejdź kawałek szlakiem Rota Vicentina – widoki jak z katalogu National Geographic, tylko z większą ilością kurzu w butach.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Sagres i Cabo de São Vicente to nie tylko „końcówka mapy”, ale miejsce, gdzie naprawdę <strong>czuć potęgę natury</strong>, historię odkrywców i urok dzikiego Algarve. Po wizycie tutaj człowiek nabiera respektu do żywiołów… i porządnego apetytu.</p>
+</details>
+
+<details>    
+  <summary><strong>🏛️ Praça da República w Tavirze – główny plac, który zna wszystkie plotki</strong></summary>
+  <p>📍 Współrzędne: 37.1255° N, 7.6459° W</p>
+
+  <p>Jeśli Tavira to serce wschodniego Algarve, to <strong>Praça da República</strong> jest jego bicie – rytmiczne, leniwe i bardzo portugalskie. To nie tylko plac, to <em>scena życia miejskiego</em>: z jednej strony kawiarnie i lodziarnie, z drugiej neoklasyczny ratusz, w tle odgłosy rozmów, stukot filiżanek i… szum palmy, która widziała więcej niż niejeden przewodnik.</p>
+
+  <p>W dzień – miejsce na kawkę, odpoczynek i obserwowanie emerytów grających w domino. Wieczorem – romantyczna sceneria do zdjęć, spacerów i śpiewów z lokalnego festiwalu, jeśli trafisz. Atmosfera? <strong>100% slow life</strong> – tu nikt się nie spieszy, a jeśli ktoś biegnie, to pewnie zgubił kapelusz przy przeciągu z Ria Formosa.</p>
+
+  <p>W centrum placu stoi <strong>pomnik żołnierzy poległych w I wojnie światowej</strong>, a kilka kroków dalej płynie <strong>rzeka Gilão</strong> z zabytkowym rzymskim mostem, który też wszystko widział, ale nie zdradzi. W sezonie odbywają się tu koncerty, festiwale i nocne spacery z lodami – obowiązkowo z bakaliowym.</p>
+
+  <p><strong>Co zobaczyć wokół?</strong></p>
+  <ul>
+    <li>⛪ <strong>Igreja da Misericórdia</strong> – barokowy kościółek z błękitnymi azulejos wewnątrz. Niewielki, ale WOW.</li>
+    <li>🌉 <strong>Ponte Romana</strong> – most niby rzymski, ale raczej średniowieczny. Za to widoki na rzekę i kamieniczki – pocztówkowe.</li>
+    <li>☕ Kawiarnie z widokiem – usiądź, zamów <em>galão</em> (portugalską kawę z mlekiem) i zachwyć się, że życie może być takie proste.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🕰️ Najlepszy czas na wizytę? Tuż przed zachodem słońca – złote światło i chłodniejszy klimat sprawiają, że Tavira wygląda jak z katalogu „Idealne życie nad rzeką”.</li>
+    <li>🍦 Lody? Idź w stronę domowych smaków – figi, migdały, miód. Algarve na języku.</li>
+    <li>🪑 Nie bój się usiąść na ławce i po prostu popatrzeć – Tavira to miasto, które nagradza cierpliwych obserwatorów.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Praça da República to nie tylko plac. To <strong>miejsce spotkań, smaków i chwil bez pośpiechu</strong>. Nie musisz tu nic robić – wystarczy być. A to w Tavirze uznaje się za sukces dnia.</p>
+</details>
+
+
+<details>    
+  <summary><strong>⛪ Igreja de São Lourenço – niepozorna z zewnątrz, oszałamiająca w środku</strong></summary>
+  <p>📍 Współrzędne: 37.0841° N, 8.0246° W</p>
+
+  <p>Nie daj się zwieść – ta niewielka, biała kapliczka w miasteczku Almancil wygląda z zewnątrz jak wiele innych portugalskich kościołów: skromna fasada, cicha uliczka, zero blasku. Ale wystarczy przekroczyć próg <strong>Igreja de São Lourenço</strong>, żeby… opaść z wrażenia.</p>
+
+  <p>Wnętrze to prawdziwa <strong>eksplozja niebiesko-białych azulejos</strong> z XVIII wieku. Każda ściana, sufit, kopuła – pokryte są ręcznie malowaną ceramiką, tworząc niekończące się opowieści o życiu św. Wawrzyńca (czyli São Lourenço), który – jak głosi legenda – zginął śmiercią męczeńską na ruszcie. Ale spokojnie, w kościele nie czuć spalenizny, tylko <em>zachwyt i szacunek do portugalskiego kunsztu dekoracji</em>.</p>
+
+  <p>To jedno z najlepszych przykładów baroku „z kafelków” w całym Algarve. Gra światła na bieli i błękicie, złocenia, rzeźbiony ołtarz – wszystko to sprawia, że wnętrze kościółka wygląda bardziej jak królewska komnata niż miejsce modlitwy w niewielkim miasteczku.</p>
+
+  <p><strong>Dlaczego warto?</strong></p>
+  <ul>
+    <li>🎨 Azulejos – to nie są tylko dekoracje. To <em>cała Biblia na płytkach</em>. Sceny z życia świętego, symbole, rośliny i aniołki. Możesz podziwiać godzinami.</li>
+    <li>📷 Idealne miejsce na zdjęcia „wow”, choć <strong>zakaz fotografowania</strong> bywa egzekwowany – aparat lepiej schować, a chłonąć wzrokiem.</li>
+    <li>🧘 Cisza i spokój – mimo rosnącej popularności, miejsce wciąż jest intymne i niezatłoczone. Idealne na chwilę zadumy lub po prostu… odpoczynku od upału.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🎟️ Wstęp jest płatny (ok. 2-3 €), ale <strong>warto każdej monety</strong>. Gotówka może się przydać, bo nie zawsze działa terminal.</li>
+    <li>🕰️ Sprawdź godziny otwarcia – kościół często zamknięty w porze sjesty (13:00–15:00) i w niedziele.</li>
+    <li>🚗 Najlepiej podjechać autem – Almancil nie jest dużym miasteczkiem, ale komunikacja publiczna raczej omija to miejsce.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Igreja de São Lourenço to <strong>klejnot barokowego Algarve</strong>, który pokazuje, że nie wszystko, co imponujące, musi być ogromne. To jedna z tych atrakcji, po których wychodzisz i mówisz tylko: „wow”. I masz rację.</p>
+</details>
+
+<details>    
+  <summary><strong>🏖️ Praia do Camilo – 200 schodów do raju (i tyle samo z powrotem)</strong></summary>
+  <p>📍 Współrzędne: 37.0911° N, 8.6696° W</p>
+
+  <p>Jeśli Algarve miałoby wybrać swoje ulubione selfie, to byłoby zrobione właśnie tutaj – na <strong>Praia do Camilo</strong>, jednej z najbardziej fotogenicznych plaż w całym regionie. Ukryta między skalistymi klifami Lagos, oferuje <em>widoki jak z folderu biura podróży</em>, tylko że prawdziwe.</p>
+
+  <p>Żeby się tu dostać, trzeba zejść po drewnianych schodach. Dokładnie 200 stopni w dół – liczysz przy pierwszym zejściu, przy powrocie raczej sapiesz. Ale warto, bo na dole czeka <strong>złoty piasek, turkusowa woda</strong> i magiczne formacje skalne, które wyrzeźbił sam ocean… albo bardzo ambitny artysta natury.</p>
+
+  <p><strong>Dlaczego wszyscy tu przychodzą?</strong></p>
+  <ul>
+    <li>📸 <strong>Widok z góry</strong> – ten moment, gdy stoisz u szczytu schodów i widzisz plażę wciśniętą między pomarańczowe klify i lazurową wodę… <em>natychmiastowa potrzeba zrobienia zdjęcia</em>.</li>
+    <li>⛱️ <strong>Relaks w stylu boutique</strong> – plaża jest nieduża, ale dzięki temu intymna. Dwie zatoczki połączone wydrążonym w skale tunelem tworzą coś na kształt sekretnego resortu natury.</li>
+    <li>🌊 <strong>Snorkeling</strong> – przejrzysta woda i skaliste dno to raj dla fanów maski i rurki. Może nie Wielka Rafa, ale rybki są, kraby też, i czasem nawet cień ośmiornicy.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🕒 Najlepiej przyjść rano – wtedy jeszcze są miejsca i słońce idealnie oświetla wodę. W sezonie robi się tu naprawdę tłoczno!</li>
+    <li>🥤 Weź wodę i przekąski – na dole nie ma żadnych barów. Natura mówi: „Zrelaksuj się, ale przygotuj sam.”</li>
+    <li>🌅 Zachód słońca z góry schodów? <strong>Najlepszy Instagram moment Algarve</strong>. Usiądź, zachwyć się i… nie zbliżaj się za bardzo do krawędzi.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Praia do Camilo to <strong>mała plaża z wielkim efektem „wow”</strong>. Idealna na poranny chill, snorkeling i zachwyty estetyczne. Schody Cię zmęczą, ale serducho powie: „Dzięki, że tu przyszliśmy.”</p>
+</details>
+
+<details>    
+  <summary><strong>🌆 Albufeira – imprezowa stolica Algarve z duszą rybackiej wioski</strong></summary>
+  <p>📍 Współrzędne: 37.0891° N, 8.2479° W</p>
+
+  <p>Kiedyś cicha wioska rybacka z białymi domkami i suszącymi się ośmiornicami, dziś – <strong>centrum rozrywki, plażowania i nocnego życia</strong> w Algarve. Albufeira to miasto, które nigdy nie śpi (albo przynajmniej robi przerwę tylko w porze sjesty).</p>
+
+  <p>To miejsce, gdzie rano spacerujesz po wąskich uliczkach starego miasta z kawą i pastel de nata, w południe chillujesz na plaży z drinkiem w kokosie, a wieczorem… no cóż, <strong>tańczysz do białego rana na The Strip</strong> – czyli najbardziej imprezowej ulicy Algarve, gdzie każda knajpa ryczy innym beatem, a neonów więcej niż w Las Vegas (tylko z większą ilością sandałów).</p>
+
+  <p><strong>Co warto zobaczyć w Albufeirze?</strong></p>
+  <ul>
+    <li>🏖️ <strong>Praia dos Pescadores</strong> – plaża rybaków z widokiem na klify i kolorowe łodzie. Idealna do zdjęć, opalania i testowania poziomu piasku między palcami.</li>
+    <li>⛪ <strong>Stare miasto</strong> – białe domy, brukowane uliczki, muzyka na żywo, sklepy z kapeluszami, które nigdy nie będą pasować, ale musisz je kupić.</li>
+    <li>🚡 <strong>Windy panoramiczne</strong> – tak, są tu windy miejskie! Możesz podjechać z poziomu plaży na klify i poczuć się jak w futurystycznym filmie wakacyjnym.</li>
+  </ul>
+
+  <p><strong>Dla kogo jest Albufeira?</strong></p>
+  <ul>
+    <li>🎉 Dla imprezowiczów – w lipcu i sierpniu miasto zamienia się w jedno wielkie party. Jeśli szukasz ciszy – wybierz Tavirę.</li>
+    <li>👨‍👩‍👧‍👦 Dla rodzin – mimo reputacji, Albufeira ma też sporo atrakcji dla dzieci, zwłaszcza w ciągu dnia (plaże, parki wodne w pobliżu, rejsy z delfinami).</li>
+    <li>🏖️ Dla plażowiczów – w mieście i wokół niego znajdziesz mnóstwo plaż: od tłocznych i kolorowych po ukryte zatoczki dla zakochanych i introwertyków.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🚕 Po „The Strip” lepiej wrócić taksówką niż na piechotę – nogi nie wytrzymają samby do 4 rano.</li>
+    <li>🍽️ Zaskakująco dobra kuchnia w bocznych uliczkach – nie zniechęcaj się turystycznym zgiełkiem, bo między barami kryją się perełki z domowymi daniami.</li>
+    <li>📅 Poza sezonem (maj, wrzesień) miasto zwalnia – plaże są puste, a słońce nadal działa. Ideał.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Albufeira to <strong>wakacyjna mieszanka słońca, muzyki, smażonego dorsza i neonów</strong>. Idealna dla tych, którzy chcą połączyć plażing z imprezingiem – i nie boją się odrobiny hałasu w zamian za dużo przygód.</p>
+</details>
+
+
+<details>    
+  <summary><strong>⚓ Lagos – historia, klify i zachody słońca, które zatrzymują czas</strong></summary>
+  <p>📍 Współrzędne: 37.1017° N, 8.6742° W</p>
+
+  <p>Jeśli Algarve miałoby własną pocztówkę, to byłaby zrobiona właśnie tutaj – w <strong>Lagos</strong>, mieście łączącym portugalską duszę, piracką przeszłość i instagramowe klify w jedno niezapomniane miejsce.</p>
+
+  <p>To dawne miasto portowe miało sporo przygód: statki, odkrywcy, handlarze… a dziś? <strong>Turyści, artyści i surferzy</strong>. Lagos jest żywe, ale nie hałaśliwe, piękne, ale nie sztuczne – po prostu idealne na wakacyjny romans z Portugalią.</p>
+
+  <p><strong>Co tu robić?</strong></p>
+  <ul>
+    <li>⛰️ <strong>Ponta da Piedade</strong> – klify, które wyglądają jakby zostały stworzone specjalnie do folderów biur podróży. Najlepiej zobaczyć je z łodzi albo o zachodzie słońca – <em>gwarantowane „wow”</em>.</li>
+    <li>🏖️ <strong>Praia do Camilo</strong> – 200 schodków do plaży marzeń. Mała, urocza, idealna na zdjęcia i relaks (i zadyszkę przy powrocie).</li>
+    <li>🏰 <strong>Stare miasto</strong> – pełne kolorowych domów, brukowanych uliczek, klimatycznych knajpek i murali, które próbują przekonać Cię, żebyś został tu na zawsze.</li>
+    <li>⛵ <strong>Rejsy po jaskiniach</strong> – wsiadasz do małej łódki, wpływasz do skalnych korytarzy i przez chwilę czujesz się jak portugalski Indiana Jones (z kamizelką ratunkową).</li>
+  </ul>
+
+  <p><strong>Dla kogo jest Lagos?</strong></p>
+  <ul>
+    <li>⛵ Dla romantyków – zachody słońca na klifach to czyste złoto.</li>
+    <li>🏄 Dla surferów i aktywnych – w okolicy znajdziesz świetne fale, trasy rowerowe i piesze.</li>
+    <li>📷 Dla fanów zdjęć – Lagos to jedna wielka sesja zdjęciowa: ściany w pastelowych kolorach, stare drzwi, kaktusy i kwiaty rosnące tam, gdzie nikt ich nie zaprosił.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🕒 O poranku idź na Praia do Camilo, przed tłumem i słońcem jak z piekarnika.</li>
+    <li>🍦 Spróbuj lokalnych lodów figowych – smak Algarve w wersji mrożonej.</li>
+    <li>🚗 Parking w centrum? Lepiej nie. Zostaw auto kawałek dalej i przespaceruj się przez piękne uliczki.</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Lagos to <strong>esencja Algarve w pigułce</strong>: historia, plaże, klify i luz. Jedziesz na chwilę, a zostajesz w sercu na długo. Idealne na zachwyty, spacery i przypomnienie sobie, jak to jest naprawdę odpoczywać.</p>
+</details>
+
+
+<details>
+  <summary><strong>🚤 Portimão – serce Algarve z maritimowym charakterem i sportową duszą</strong></summary>
+  <p>📍 Współrzędne: 37.1360° N, 8.5390° W</p>
+
+  <p>Portimão to miasto, które łączy w sobie nowoczesny puls Algarve z tradycją rybackiego portu i sportowych emocji. To tutaj znajdziesz szerokie plaże, tętniące życiem promenady i… ogromne jachty, które przypominają, że na południu Portugalii potrafią się bawić na całego.</p>
+
+  <p><strong>Co warto zobaczyć?</strong></p>
+  <ul>
+    <li>🏖️ <strong>Praia da Rocha</strong> – jedna z najbardziej znanych i rozległych plaż Algarve, z piaskiem miękkim jak chmurka i klifami, które robią wrażenie.</li>
+    <li>⚓ <strong>Portimão Marina</strong> – idealne miejsce na spacer wśród jachtów, restauracji i barów z widokiem na morze. Wieczorem to centrum życia towarzyskiego miasta.</li>
+    <li>🏛️ <strong>Muzeum Portimão</strong> – dawna fabryka konserw rybnych, teraz miejsce pełne historii, sztuki i ciekawostek o regionie.</li>
+    <li>🚤 <strong>Sporty wodne</strong> – jeśli lubisz adrenalinę, Portimão oferuje jet-ski, windsurfing, a nawet wyścigi motorówek – miejscowi traktują to niemal jak religię.</li>
+  </ul>
+
+  <p><strong>Dla kogo jest Portimão?</strong></p>
+  <ul>
+    <li>🌞 Dla miłośników plażowania – Praia da Rocha nie zawiedzie żadnego fana słońca i piasku.</li>
+    <li>🏄 Dla aktywnych – sporty wodne i bliskość tras rowerowych i spacerowych.</li>
+    <li>🍴 Dla smakoszy – rybne restauracje nad mariną serwują świeże, prosto z oceanu smakołyki.</li>
+    <li>🎉 Dla tych, którzy chcą trochę życia nocnego, ale bez dzikiego imprezowego chaosu.</li>
+  </ul>
+
+  <p><strong>Pro tipy:</strong></p>
+  <ul>
+    <li>🌅 Zarezerwuj stolik w restauracji na molo na zachód słońca – widok wart każdej ceny.</li>
+    <li>🚶‍♂️ Warto przejść się do mniejszej, kameralnej plaży Praia do Vau – spokój gwarantowany.</li>
+    <li>🎟️ Sprawdź lokalne wydarzenia sportowe – czasem trafisz na coś naprawdę spektakularnego!</li>
+  </ul>
+
+  <p><em>Podsumowując:</em> Portimão to idealne miejsce, jeśli szukasz połączenia plażowego luzu z aktywnością i odrobiną miejskiego zgiełku – wszystko okraszone świeżym, oceanicznym powietrzem i portugalską gościnnością.</p>
+</details>
+
 
 
 
