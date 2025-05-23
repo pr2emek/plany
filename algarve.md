@@ -143,6 +143,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Benagil Cave to jedna z tych atrakcji, które wyglądają jak fejk, a są całkowicie prawdziwe. Magiczna, unikatowa, kapryśna – ale jak już tam staniesz i spojrzysz w górę, wiesz, że właśnie dotknąłeś portugalskiego cudu natury. I będzie Ci się śniła po powrocie do domu.</p>
+
 </details>
 
 
@@ -174,6 +175,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Ria Formosa to Algarve bez parasoli plażowych i plastikowych pamiątek. To miejsce, gdzie natura rządzi, flamingi mają priorytet, a człowiek musi się dostosować – i dobrze. Bo takich miejsc na mapie Europy już niewiele zostało.</p>
+
 </details>
 
 <details>    
@@ -435,7 +437,6 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>PS: Jeśli zapytasz miejscowych o drogę do tych miejsc, zazwyczaj powiedzą: „Ooo, tam ładnie, ale nie ma po co jechać.” To znaczy, że trafiasz idealnie.</em></p>
-
 
 </details>
 
