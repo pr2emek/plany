@@ -53,6 +53,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🗼 Wieża Eiffla – żelazna dama Paryża</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8584° N, 2.2945° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/eiffel.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Nie ma Paryża bez Wieży Eiffla. Serio, spróbuj zrobić zdjęcie stolicy Francji bez tej wielkiej kratownicy – nie da się. To symbol romantyzmu, inżynieryjnego geniuszu i cierpliwości w kolejkach do windy.</p>
 
   <h4>📜 Krótkie tło historyczne</h4>
