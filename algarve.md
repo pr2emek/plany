@@ -61,7 +61,6 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><em>Podsumowując:</em> Ponta da Piedade to nie punkt na mapie – to miejsce, które na długo zostaje w pamięci. A jeśli jeszcze trafisz na zachód słońca, to… cóż, pozostaje tylko wzruszyć się i zamówić sangrię na uczczenie widoków.</p>
 
-  
 </details>
 
 
@@ -111,8 +110,8 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
     <li>🚗 Najlepiej dojechać autem. Transport publiczny? Jest, ale działa jakby miał sjestę przez cały dzień.</li>
   </ul>
 
-  <p><em>Podsumowując:</em> Silves to Algarve z zupełnie innej bajki – mniej plażowej, bardziej historycznej, klimatycznej i… cichszej. Idealne miejsce, by odpocząć od tłumów i zanurzyć się w średniowiecznej opowieści. A przy okazji – zrobić trochę kroków na murach zamku. Twoje buty będą zadowolone.</p>
-
+  <p><em>Podsumowując:</em> Silves to Algarve z zupełnie innej bajki – mniej plażowej, bardziej historycznej, klimatycznej i… cichszej. Idealne miejsce, by odpocząć od tłumów i zanurzyć się w średniowiecznej opowieści. A przy okazji – zrobić trochę kroków na murach zamku. Twoje buty będą zadowolone.
+  </p>
 </details>
 
 
