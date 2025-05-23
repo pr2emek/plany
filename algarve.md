@@ -112,6 +112,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Silves to Algarve z zupełnie innej bajki – mniej plażowej, bardziej historycznej, klimatycznej i… cichszej. Idealne miejsce, by odpocząć od tłumów i zanurzyć się w średniowiecznej opowieści. A przy okazji – zrobić trochę kroków na murach zamku. Twoje buty będą zadowolone.</p>
+
 </details>
 
 
@@ -201,6 +202,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Sagres i Cabo de São Vicente to nie tylko „końcówka mapy”, ale miejsce, gdzie naprawdę <strong>czuć potęgę natury</strong>, historię odkrywców i urok dzikiego Algarve. Po wizycie tutaj człowiek nabiera respektu do żywiołów… i porządnego apetytu.</p>
+  
 </details>
 
 <details>    
@@ -228,6 +230,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Praça da República to nie tylko plac. To <strong>miejsce spotkań, smaków i chwil bez pośpiechu</strong>. Nie musisz tu nic robić – wystarczy być. A to w Tavirze uznaje się za sukces dnia.</p>
+  
 </details>
 
 
@@ -256,6 +259,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Igreja de São Lourenço to <strong>klejnot barokowego Algarve</strong>, który pokazuje, że nie wszystko, co imponujące, musi być ogromne. To jedna z tych atrakcji, po których wychodzisz i mówisz tylko: „wow”. I masz rację.</p>
+  
 </details>
 
 <details>    
@@ -347,6 +351,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Lagos to <strong>esencja Algarve w pigułce</strong>: historia, plaże, klify i luz. Jedziesz na chwilę, a zostajesz w sercu na długo. Idealne na zachwyty, spacery i przypomnienie sobie, jak to jest naprawdę odpoczywać.</p>
+  
 </details>
 
 
@@ -380,10 +385,8 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Portimão to idealne miejsce, jeśli szukasz połączenia plażowego luzu z aktywnością i odrobiną miejskiego zgiełku – wszystko okraszone świeżym, oceanicznym powietrzem i portugalską gościnnością.</p>
+  
 </details>
-
-
-
 
 
 <details>
@@ -430,7 +433,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><em>PS: Jeśli zapytasz miejscowych o drogę do tych miejsc, zazwyczaj powiedzą: „Ooo, tam ładnie, ale nie ma po co jechać.” To znaczy, że trafiasz idealnie.</em></p>
 
- 
+</details>
 </details>
 
 </details>
