@@ -64,7 +64,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
- <details>    
+<details>    
   <summary><strong>🏖️ Praia da Marinha – złota królowa plaż Algarve</strong></summary>
   <p>📍 Współrzędne: 37.0906° N, 8.4126° W</p>
 
@@ -86,6 +86,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Praia da Marinha to złoty standard portugalskiego wybrzeża. Jeśli masz tylko jeden dzień na plażowanie w Algarve – przyjedź właśnie tutaj. I weź dużo pamięci w telefonie, bo każde 5 metrów to inne zdjęcie warte tapety na pulpicie.</p>
+
 </details>
 
 
@@ -112,6 +113,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><em>Podsumowując:</em> Silves to Algarve z zupełnie innej bajki – mniej plażowej, bardziej historycznej, klimatycznej i… cichszej. Idealne miejsce, by odpocząć od tłumów i zanurzyć się w średniowiecznej opowieści. A przy okazji – zrobić trochę kroków na murach zamku. Twoje buty będą zadowolone.
   </p>
+
 </details>
 
 
