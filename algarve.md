@@ -94,7 +94,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏰 Zamek w Silves – czerwony gigant z czasów Maurów</strong></summary>
   <p>📍 Współrzędne: 37.1895° N, 8.4384° W</p>
 
-  <p>Jeśli Algarve kojarzy Ci się tylko z plażami i klifami, to <strong>Silves</strong jest tu po to, żeby to zmienić. To małe, klimatyczne miasteczko leży trochę w głębi lądu, z dala od parawanów i piasku w butach, i skrywa <strong>prawdziwą perełkę z czasów, gdy w Portugalii rządzili Maurowie</strong> – monumentalny, ceglano-czerwony zamek, który wygląda, jakby wciąż czekał na powrót sułtana (albo ekipy Netflixa kręcącej serial).</p>
+  <p>Jeśli Algarve kojarzy Ci się tylko z plażami i klifami, to <strong>Silves</strong> jest tu po to, żeby to zmienić. To małe, klimatyczne miasteczko leży trochę w głębi lądu, z dala od parawanów i piasku w butach, i skrywa <strong>prawdziwą perełkę z czasów, gdy w Portugalii rządzili Maurowie</strong> – monumentalny, ceglano-czerwony zamek, który wygląda, jakby wciąż czekał na powrót sułtana (albo ekipy Netflixa kręcącej serial).</p>
 
   <p>Sam <strong>zamek w Silves</strong> to największa mauretańska twierdza w Algarve. Z murów rozciąga się widok na całe miasto i okoliczne doliny – można z tego miejsca spokojnie planować podbój regionu albo po prostu zjeść kanapkę z serem i podziwiać cyprysy.</p>
 
