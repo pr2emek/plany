@@ -100,6 +100,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🎨 Luwr – muzealny gigant z Mona Lisą w środku</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8606° N, 2.3376° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/luwr.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Powiedzmy sobie szczerze: jeśli chcesz „szybko zobaczyć Luwr”, to jakbyś chciał obejrzeć całą „Grę o Tron” w jedno popołudnie – niby da się, ale po co? To <strong>największe muzeum sztuki na świecie</strong>, więc dobrze zapnij sandały (lub inne wygodne buty).</p>
 
   <h4>🏛️ Krótkie tło historyczne</h4>
@@ -138,6 +144,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>⛪ Katedra Notre-Dame – gotycka perła Paryża</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8529° N, 2.3500° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/notredame.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Kiedy mówimy „Notre-Dame”, myślimy o gotyckim cudzie, który stał się jednym z najbardziej rozpoznawalnych symboli Paryża. <strong>Wzniesiona w XII wieku</strong> i przez wieki inspirowała artystów, pisarzy i turystów. Dziś, choć nieco uszkodzona w wyniku pożaru w 2019 roku, nadal budzi podziw swoją monumentalnością. A jak będzie po renowacji? O, to dopiero będzie magia!</p>
 
   <h4>🏰 Krótkie tło historyczne</h4>
@@ -175,6 +187,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⛰️ Montmartre i bazylika Sacré-Cœur – artystyczna dusza Paryża</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8867° N, 2.3431° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/montmarte.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>Witamy na <strong>najbardziej romantycznym wzgórzu Paryża</strong>, gdzie bohema artystyczna spotyka pielgrzymów, a każdy zakręt wygląda jak kadr z francuskiego filmu. Montmartre to dzielnica, która z miłością przyjęła Picassa, Moneta, Toulouse-Lautreca i setki turystów dziennie, którzy chcą poczuć „ten klimat”.</p>
 
@@ -218,6 +236,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🌳 Ogród Luksemburski – zielona duma lewego brzegu</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3372° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/ogrodluksemburski.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Jeśli Paryż czasem męczy Cię zgiełkiem, korkami i kolejką do Luwru, <strong>Ogród Luksemburski</strong> jest jak łagodna herbata ziołowa dla duszy. Znajdziesz tu wszystko: równo przycięte żywopłoty, fontanny, kaczki, dzieci bawiące się miniaturowymi żaglówkami, emerytów czytających gazetę i studentów filozofii zastanawiających się, czy życie ma sens.</p>
 
   <p>Ogród powstał na zlecenie <strong>królowej Marii Medycejskiej</strong> w XVII wieku i do dziś wygląda jak połączenie włoskiego splendoru z francuską precyzją. Otacza go pałac (dziś siedziba Senatu), a cały teren liczy ponad 20 hektarów wypielęgnowanego szczęścia.</p>
@@ -259,6 +283,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🧱 Łuk Triumfalny – wielka brama francuskiej dumy</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8738° N, 2.2950° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/luktriumfalnyparyz.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>Łuk Triumfalny to taki pomnik, który mówi: „Patrzcie, jesteśmy wielcy!” – i trudno się z tym nie zgodzić. Powstał z rozkazu <strong>Napoleona Bonapartego</strong>, który chciał uhonorować swoich żołnierzy walczących „za ojczyznę i cesarza” (czyli głównie za niego). Budowa trwała <strong>30 lat</strong> – Napoleon jej nawet nie doczekał, ale jego zwłoki paradowały pod łukiem pośmiertnie. Jak się bawić, to z rozmachem.</p>
 
@@ -343,6 +373,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>⏱️ Musée d'Orsay – dworzec, który został świątynią impresjonizmu</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8599° N, 2.3266° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/muzeumorsay.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Musée d'Orsay to prawdopodobnie jedyne muzeum na świecie, w którym możesz zachwycać się obrazami Moneta, stojąc pod gigantycznym zegarem... w byłym <strong>dworcu kolejowym</strong>. Brzmi dziwnie? Witamy w Paryżu, gdzie nawet pociągi przeszły na sztukę.</p>
 
   <h4>🎨 Co tu znajdziesz?</h4>
@@ -384,6 +420,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>⚰️ Cmentarz Père-Lachaise – spacer wśród sław... po tamtej stronie</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8614° N, 2.3933° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/cmentarzparyz.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>Nie brzmi to może jak klasyczny punkt wycieczki, ale w Paryżu nawet cmentarz to atrakcja. <strong>Père-Lachaise</strong> to nie tylko miejsce wiecznego spoczynku, ale też gigantyczne muzeum pod gołym niebem – tylko z mniejszą liczbą selfie i większą zadumą.</p>
 
@@ -432,6 +474,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🚤 Kanał Saint-Martin – paryski chill z wodą w tle</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8722° N, 2.3654° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/kanalsainmartin.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Jeśli masz już dość muzeów, tłumów przy Wieży Eiffla i zastanawiasz się, gdzie w Paryżu oddychać spokojnie i popatrzeć, jak życie płynie... dosłownie, to <strong>Kanał Saint-Martin</strong> jest właśnie dla Ciebie.</p>
 
   <p>Zbudowany w XIX wieku z myślą o zaopatrzeniu Paryża w wodę pitną, dziś jest to miejsce absolutnie urocze i <strong>zaskakująco hipsterskie</strong>. Nad kanałem przesiadują lokalsi, grający w bule, pijący kawę z termosu i patrzący z politowaniem na turystów z selfie-stickami. Ale spokojnie, nikt tu nikogo nie ocenia.</p>
@@ -464,6 +512,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏛️ Panteon – miejsce, gdzie Francja chowa swoich ulubieńców</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8462° N, 2.3450° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/panteonparyz.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p><strong>Panteon</strong> to takie miejsce, które wygląda jak rzymska świątynia, brzmi jak grecki dramat, a w rzeczywistości jest francuskie do szpiku kości. Położony w samym sercu <strong>Dzielnicy Łacińskiej</strong>, na wzgórzu Sainte-Geneviève, wznosi się dumnie nad Paryżem i daje znać, że tu spoczywają najwięksi z wielkich. I to dosłownie.</p>
 
@@ -537,6 +591,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>⚔️ Pałac Inwalidów – Napoleon ma tu swoją „małą” miejscówkę</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8569° N, 2.3125° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/palacinwalidow.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Jeśli myślisz, że „pałac inwalidów” to dom opieki z historią – to nie do końca. <strong>Les Invalides</strong> to gigantyczny kompleks z XVII wieku, który Ludwik XIV stworzył dla swoich weteranów wojennych, by nie musieli spać pod mostem po powrocie z frontu. Bo jak wiadomo, „Król Słońce” lubił robić rzeczy z rozmachem.</p>
 
   <p>Dziś to jedno z najciekawszych miejsc w Paryżu, łączące funkcję muzeum, mauzoleum i architektonicznego cacka z kopułą jak z Watykanu (serio – inspirowana Św. Piotrem). A w środku? <strong>Grób Napoleona</strong>. Tak, tego Napoleona. I tak, jest większy niż Twoje mieszkanie.</p>
@@ -578,6 +638,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🎨 Centre Pompidou – rury, kolory i sztuka nowoczesna</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8606° N, 2.3522° E</em></p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/centrepompidou.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>Wyobraź sobie muzeum, które wygląda jakby było zbudowane... na opak. Wszystkie rury, przewody i konstrukcje – na zewnątrz. A w środku? Sztuka współczesna, która potrafi zaskoczyć, zachwycić albo wywołać zdziwione „serio?”. Tak właśnie działa <strong>Centre Pompidou</strong>, czyli mekka nowoczesności w sercu Paryża.</p>
 
   <p>Projekt Jeana Nouvela i Renzo Piano z lat 70. to coś, co nadal dzieli opinię publiczną: „arcydzieło czy plac budowy?”. Ale niezależnie od gustów – nikt nie przechodzi obok obojętnie. A jeśli sztuka współczesna to dla Ciebie nie tylko „biała plama na płótnie” – koniecznie wejdź do środka.</p>
@@ -617,6 +683,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>💃 Moulin Rouge – czerwona legenda kabaretu</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8841° N, 2.3324° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/moulinrouge.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>Znajdziesz go bez problemu – ten czerwony wiatrak świeci jak latarnia dla wszystkich spragnionych paryskiego blichtru. <strong>Moulin Rouge</strong> to nie tylko kabaret, to ikona nocnego życia, pocztówkowa klasyka i miejsce, gdzie nogi wirują szybciej niż metro w godzinach szczytu.</p>
 
@@ -697,6 +769,12 @@ Witaj w przewodniku po Paryżu! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>👑 Wersal – pałac, który powiedział: „zróbcie miejsce, idę błyszczeć”</strong></summary>
   <p><strong>Współrzędne:</strong> <em>48.8049° N, 2.1204° E</em></p>
+
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/wersal.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>Wersal to nie pałac. To PAŁAC – taki z wielkich liter, złotych bram, nieprzyzwoicie rozległych ogrodów i wnętrz, które wyglądają, jakby ktoś wziął barok i powiedział mu: „przesadź mocniej”.</p>
 
