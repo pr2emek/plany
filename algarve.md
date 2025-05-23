@@ -39,7 +39,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
    
   <p>Algarve to nie tylko plaże i chillout – chociaż przyznajmy, to głównie one. Ale jeśli najdzie Cię nagła potrzeba „czegoś więcej”, oto lista atrakcji, które warto ogarnąć między jednym a drugim leżeniem:</p>
 
- <details>    
+<details>    
   <summary><strong>🌅 Ponta da Piedade – klifowy spektakl natury</strong></summary>
   <p>📍 Współrzędne: 37.0805° N, 8.6696° W</p>
 
@@ -286,6 +286,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Praia do Camilo to <strong>mała plaża z wielkim efektem „wow”</strong>. Idealna na poranny chill, snorkeling i zachwyty estetyczne. Schody Cię zmęczą, ale serducho powie: „Dzięki, że tu przyszliśmy.”</p>
+
 </details>
 
 <details>    
@@ -318,6 +319,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
   </ul>
 
   <p><em>Podsumowując:</em> Albufeira to <strong>wakacyjna mieszanka słońca, muzyki, smażonego dorsza i neonów</strong>. Idealna dla tych, którzy chcą połączyć plażing z imprezingiem – i nie boją się odrobiny hałasu w zamian za dużo przygód.</p>
+
 </details>
 
 
@@ -434,7 +436,7 @@ Witaj w przewodniku po Algarve! Kliknij sekcję, aby ją rozwinąć 👇
 
   <p><em>PS: Jeśli zapytasz miejscowych o drogę do tych miejsc, zazwyczaj powiedzą: „Ooo, tam ładnie, ale nie ma po co jechać.” To znaczy, że trafiasz idealnie.</em></p>
 
-</details>
+
 </details>
 
 </details>
