@@ -54,6 +54,12 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>⛪ Sé de Faro - katedra z duszą</strong></summary>
      <p>📍 Współrzędne: 37.0139° N, 7.9337° W</p>
 
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/sedefaro.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>
     Sé de Faro, czyli lokalna katedra, to taki architektoniczny miks: trochę gotyku, trochę renesansu, szczypta baroku i... ślad po bombardowaniu przez Anglików w XVIII wieku (ups). Mimo to – a może właśnie dlatego – miejsce ma swój urok i pazur. Z zewnątrz może nie krzyczy „wow!”, ale wnętrze zaskakuje klimatem i detalami.
   </p>
@@ -76,6 +82,12 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>💀 Capela dos Ossos – czyli trochę makabry na rozjaśnienie dnia</strong></summary>
   <p>📍 Współrzędne: 37.0175° N, 7.9336° W</p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/capeladosossos.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>
     Jeśli masz już dość cukierkowych kościółków i palmowych alejek, to oto coś z zupełnie innej beczki (a właściwie z krypt). Capela dos Ossos w Faro to mała kaplica, w której ściany wyłożone są… ludzkimi kośćmi. Tak, prawdziwymi. I nie – to nie dekoracje z Halloweenu.
@@ -122,6 +134,12 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🌿 Parque Natural da Ria Formosa – natura, która zachwyca i uspokaja</strong></summary>
   <p>📍 Współrzędne: 37.0131° N, 7.8435° W</p>
+
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/parkfaro.jpg' | relative_url }}" 
+       style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
   <p>
     Parque Natural da Ria Formosa to prawdziwa oaza spokoju, złożona z lagun, wysp, płycizn i kanałów, które tworzą jeden z najpiękniejszych ekosystemów południowej Portugalii. Jeśli myślisz, że Algarve to tylko plaże i imprezy, to park przywróci Ci wiarę w to, że natura ma swoje miejsce także na wakacjach.
