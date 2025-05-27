@@ -233,6 +233,11 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 <details>
   <summary><strong>🏰 Zamek Gibralfaro</strong> </summary>
    <p>📍 Współrzędne: 36.7231° N, 4.4133° W</p>
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/gibralfaro.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Jeśli masz ochotę na odrobinę historii, garść widoków i test kondycji w jednym, to <strong>Gibralfaro</strong> jest dokładnie tym, czego potrzebujesz. Położony na wzgórzu z widokiem na całą Malagę, ten stary mauretański zamek wygląda jakby ktoś wziął mur obronny, zawinął go wokół szczytu i powiedział: „Voilà, teraz można się bronić i podziwiać widoki jednocześnie”.
   </p>
