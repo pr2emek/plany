@@ -80,7 +80,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
   <div style="text-align: center; margin: 20px 0;">
   <img 
-    src="{{ '/assets/images/teatrmalaga.jpg' | relative_url }}" 
+    src="{{ '/assets/images/teatromalaga.jpg' | relative_url }}" 
         style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
   <p>Teatro Romano w Maladze to prawdziwa perełka dla miłośników historii. Zbudowany w I wieku p.n.e. przez cesarza Augusta, był jednym z najważniejszych miejsc rozrywki w starożytnym Rzymie. Choć przez wieki zapomniany, dziś można podziwiać jego imponujące ruiny, które świetnie odzwierciedlają życie kulturalne ówczesnych mieszkańców Malagi.</p>
@@ -123,7 +123,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 
   <details>
-    <summary><strong>⛪ Katedra – bo Malaga też ma swój gotyk z twistem</strong></summary>
+    <summary><strong>⛪ Katedra</strong></summary>
     <p>📍 Współrzędne: 36.7210° N, 4.4214° W</p>
 
     <div style="text-align: center; margin: 20px 0;">
@@ -136,6 +136,12 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🪑 Plaza de la Merced</strong> — czyli Picasso, gołębie i sangria w cieniu palm</summary>
+  <p>📍 Współrzędne: 36.7223° N, 4.4180° W</p>
+      <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/plazadelamerced.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>
     Witamy na <strong>Plaza de la Merced</strong> – jednym z najbardziej klimatycznych placów Malagi, gdzie <strong>historia spotyka tapas</strong>, a Picasso siedzi na ławce i chętnie pozuje do zdjęć. Serio – jest tu rzeźba młodego Pabla Picassa z notatnikiem i zadumanym spojrzeniem, jakby właśnie wymyślał kubizm albo planował co zjeść na kolację.
   </p>
@@ -145,9 +151,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     W środku placu stoi obelisk – pomnik generała Torrijosa, który miał dość burzliwe życie i jeszcze bardziej burzliwy koniec. Ale nie martw się, nikt nie przyjeżdża tu dla polityki. <strong>Ludzie przychodzą tu, żeby chłonąć klimat miasta</strong>, zjeść coś dobrego i popatrzeć na życie Malagi toczące się swoim andaluzyjskim tempem.
   </p>
-  <p>
-    <strong>Lokalizacja:</strong> <code>36.7223° N, 4.4180° W</code> – w samym sercu dzielnicy Centro Histórico, parę kroków od Alcazaby.
-  </p>
+
   <p>
     <strong>Wskazówka lokalna:</strong> Usiądź na ławce obok Picassa, zrób zdjęcie i udawaj, że dyskutujecie o sztuce. Następnie zamów café con leche w jednej z kawiarni – najlepiej tej z widokiem na pomnik. Idealne miejsce na przerwę w zwiedzaniu!
   </p>
