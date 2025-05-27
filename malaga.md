@@ -264,6 +264,12 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🐟 Pomnik El Cenachero</strong></summary>
   <p>📍 Współrzędne: 36.7174° N, 4.4203° W</p>
 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/cenachero.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
   <p>
     W centrum Malagi, między uliczkami i palmami, stoi on — <strong>El Cenachero</strong>. Brązowy jegomość z szerokim kapeluszem, trzymający dwa kosze pełne ryb. Nie, to nie nowy food truck. To <strong>symbol starej Malagi</strong>, hołd dla rybaków, którzy kiedyś chodzili po mieście i sprzedawali świeże owoce morza prosto z wiklinowych koszy.
   </p>
@@ -281,29 +287,6 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   </p>
   <p>
     <strong>Czy warto?</strong> Zdecydowanie. To nie jest tylko pomnik – to <strong>mały kawałek andaluzyjskiej duszy</strong>, z brązu, z historią, z charakterem. I bez smrodu ryb – co też się liczy.
-  </p>
-</details>
-
-<details>
-  <summary><strong>🌀 Dziwny pomnik na Plaza de la Marina</strong></summary>
-   <p>📍 Współrzędne: 36.7177° N, 4.4195° W</p>
-
-    
-  <p>
-    Stoisz sobie spokojnie na Plaza de la Marina, wiatr rozwiewa włosy, mewa krzyczy coś po andaluzyjsku… i nagle widzisz <strong>to coś</strong>. Gigantyczny, metalowy pomnik, który wygląda jak <strong>skrzyżowanie śruby okrętowej z fidget spinnerem po siłowni</strong>. Oficjalnie to „Monumento al Marqués de Larios” – ale większość turystów pyta: „Czy to wentylator? Antena? UFO?”.
-  </p>
-  <p>
-    Ten pomnik to <strong>dzieło sztuki współczesnej</strong>, co automatycznie daje mu prawo do bycia niezrozumianym. Miejscowi przywykli, turyści robią sobie zdjęcia w stylu „z ręką na spirali”, a dzieci... cóż, myślą, że to jakiś futurystyczny plac zabaw (nie próbuj wspinać się na to, ochrona patrzy).
-  </p>
-  <p>
-    <strong>Co to symbolizuje?</strong> Oficjalnie: <em>siłę, ruch, dynamikę miasta i otwartość Malagi na morze</em>. Nieoficjalnie: <strong>temat dyplomatycznie omijany przez przewodników</strong>. Każdy widzi coś innego – i właśnie o to chodzi. Sztuka.
-  </p>
-  <p>
-    <strong>Warto?</strong> Absolutnie tak – nie dlatego, że to arcydzieło, ale dlatego, że <strong>to jeden z tych punktów, które sprawiają, że Malaga jest sobą</strong>. Trochę szalona, trochę stylowa, trochę niezrozumiała. Jak sen po paelli i dwóch kieliszkach sangrii.
-  </p>
-
-  <p>
-    <strong>Fun fact:</strong> Jeśli obejdziesz go dookoła trzy razy, wypowiadając „Tapas!” za każdym razem, podobno dostajesz zniżkę na cervezę. (Nieprawda, ale kto Ci zabroni spróbować?)
   </p>
 </details>
 
