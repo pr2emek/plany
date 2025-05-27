@@ -160,7 +160,14 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🎨 Dom Picassa (Casa Natal de Picasso)</strong> — miejsce, gdzie urodził się mistrz kubizmu</summary>
-  <p>
+         <p>📍 Współrzędne: 36.7223° N, 4.4180° W</p>
+
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/dompicassa.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+ <p>
     W samym sercu Malagi, na <strong>Plaza de la Merced</strong>, znajduje się skromny dom, w którym przyszedł na świat sam <strong>Pablo Picasso</strong> – geniusz, który zamienił świat sztuki na zawsze. To właśnie tutaj, w 1881 roku, zaczęła się historia jednego z najważniejszych artystów XX wieku.
   </p>
   <p>
@@ -169,11 +176,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     W środku znajdziesz kolekcję obrazów z różnych okresów życia Picassa, fotografie i osobiste pamiątki. To trochę jak spacer po pamiętniku, tylko bez nudnych stron.
   </p>
-  <p>
-    <strong>Adres:</strong> Plaza de la Merced, 15, 29012 Málaga  
-    <strong>Współrzędne:</strong> <code>36.7223° N, 4.4180° W</code>
-  </p>
-  <p>
+    <p>
     <strong>Godziny otwarcia:</strong> Zwykle od 10:00 do 18:00, ale warto sprawdzić aktualności na oficjalnej stronie, bo czasem muzeum ma wolne.
   </p>
   <p>
@@ -221,8 +224,6 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
     <strong>Czy warto?</strong> Jak najbardziej. Playa de la Malagueta to połączenie miejskiego luzu, śródziemnomorskiego klimatu i idealnego miejsca na popołudniowe nicnierobienie. Nie jest to dzika plaża z pocztówki, ale ma w sobie ten urok: trochę gwaru, trochę słońca i dużo piasku we wszystkich zakamarkach.
   </p>
 </details>
-
-
   
 
 <details>
@@ -255,10 +256,10 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 
-
-
 <details>
-  <summary><strong>🐟 Pomnik El Cenachero</strong> — chłop z rybami, duma Malagi i ikona z brązu</summary>
+  <summary><strong>🐟 Pomnik El Cenachero</strong></summary>
+  <p>📍 Współrzędne: 36.7174° N, 4.4203° W</p>
+
   <p>
     W centrum Malagi, między uliczkami i palmami, stoi on — <strong>El Cenachero</strong>. Brązowy jegomość z szerokim kapeluszem, trzymający dwa kosze pełne ryb. Nie, to nie nowy food truck. To <strong>symbol starej Malagi</strong>, hołd dla rybaków, którzy kiedyś chodzili po mieście i sprzedawali świeże owoce morza prosto z wiklinowych koszy.
   </p>
@@ -280,7 +281,10 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 </details>
 
 <details>
-  <summary><strong>🌀 Dziwny pomnik na Plaza de la Marina</strong> — czyli sztuka współczesna vs. zdrowy rozsądek</summary>
+  <summary><strong>🌀 Dziwny pomnik na Plaza de la Marina</strong></summary>
+   <p>📍 Współrzędne: 36.7177° N, 4.4195° W</p>
+
+    
   <p>
     Stoisz sobie spokojnie na Plaza de la Marina, wiatr rozwiewa włosy, mewa krzyczy coś po andaluzyjsku… i nagle widzisz <strong>to coś</strong>. Gigantyczny, metalowy pomnik, który wygląda jak <strong>skrzyżowanie śruby okrętowej z fidget spinnerem po siłowni</strong>. Oficjalnie to „Monumento al Marqués de Larios” – ale większość turystów pyta: „Czy to wentylator? Antena? UFO?”.
   </p>
@@ -293,9 +297,7 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <p>
     <strong>Warto?</strong> Absolutnie tak – nie dlatego, że to arcydzieło, ale dlatego, że <strong>to jeden z tych punktów, które sprawiają, że Malaga jest sobą</strong>. Trochę szalona, trochę stylowa, trochę niezrozumiała. Jak sen po paelli i dwóch kieliszkach sangrii.
   </p>
-  <p>
-    <strong>Lokalizacja:</strong> <code>36.7177° N, 4.4195° W</code> – czyli na samym środku głównego placu przy porcie. Nie da się przeoczyć. Nawet jeśli bardzo próbujesz.
-  </p>
+
   <p>
     <strong>Fun fact:</strong> Jeśli obejdziesz go dookoła trzy razy, wypowiadając „Tapas!” za każdym razem, podobno dostajesz zniżkę na cervezę. (Nieprawda, ale kto Ci zabroni spróbować?)
   </p>
@@ -305,6 +307,13 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
 
 <details>
   <summary><strong>🟥 Centre Pompidou Málaga</strong> — czyli francuska sztuka w hiszpańskim kubiku</summary>
+<p>📍 Współrzędne: 36.7187° N, 4.4128° W</p>
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/centrepompidoumalaga.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+  
   <p>
     Jeśli spacerując po porcie w Maladze zobaczysz kolorowy szklany sześcian, który wygląda jak gigantyczna kostka Rubika, to wiedz, że to nie nowa atrakcja lunaparku, ale <strong>Centre Pompidou Málaga</strong> – pierwsza filia paryskiego muzeum poza Francją. Oficjalnie tymczasowa, ale od 2015 roku nigdzie się nie wybiera, bo kto by chciał opuszczać słoneczną Andaluzję?
   </p>
@@ -347,10 +356,6 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
     <strong>Czy warto?</strong> Bardzo. Bo czasem zamiast kolejnego muzeum, wystarczy <strong>drzewo, cień i ławeczka</strong>. A Parque de Málaga to najlepsze miejsce, żeby usiąść, odpocząć i zastanowić się, czy nie zostać tu do emerytury.
   </p>
 </details>
-
- 
- 
- 
 
  
 <details>
