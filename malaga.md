@@ -49,6 +49,13 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🏰 Alcazaba – pałac w sercu Malagi</strong></summary>
 
   <p>📍 Współrzędne: 36.7213° N, 4.4151° W</p>
+ 
+ <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/alcazaba.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+  
   <p>Alcazaba to jeden z najważniejszych symboli Malagi, a zarazem jeden z najlepiej zachowanych przykładów mauretańskiej architektury w Hiszpanii. Wznosi się dumnie na wzgórzu, oferując niezrównany widok na miasto i port. To nie tylko zamek, ale i pałac, który był rezydencją arabskich władców, kiedy Malaga była częścią Kalifatu Kordoby.</p>
 
   <p>Choć dziś pełni funkcję turystyczną, w przeszłości Alcazaba była twierdzą obronną. Zbudowana w XI wieku, przez wiele lat była jednym z głównych ośrodków administracyjnych i wojskowych regionu. Dwa wewnętrzne dziedzińce, pięknie utrzymane ogrody i fontanny tworzą atmosferę spokoju i elegancji. Spacerując po jej murach, łatwo poczuć się jak średniowieczny książę lub księżniczka, podziwiając panoramę Malagi z wysokości.</p>
@@ -70,6 +77,12 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <summary><strong>🎭 Teatro Romano – antyczny teatr w sercu Malagi</strong></summary>
 
   <p>📍 Współrzędne: 36.7180° N, 4.4154° W</p>
+
+  <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/teatrmalaga.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
   <p>Teatro Romano w Maladze to prawdziwa perełka dla miłośników historii. Zbudowany w I wieku p.n.e. przez cesarza Augusta, był jednym z najważniejszych miejsc rozrywki w starożytnym Rzymie. Choć przez wieki zapomniany, dziś można podziwiać jego imponujące ruiny, które świetnie odzwierciedlają życie kulturalne ówczesnych mieszkańców Malagi.</p>
 
   <p>Teatr mógł pomieścić do 2200 widzów, a jego konstrukcja wciąż zachwyca – od spektakularnych murów po wyjątkowo dobrze zachowaną scenę. Choć teatr był używany do przedstawień teatralnych, organizowano tam również walki gladiatorów i inne wydarzenia rozrywkowe. Dziś jest jednym z głównych punktów turystycznych w Maladze.</p>
@@ -112,26 +125,231 @@ Witaj w przewodniku po Maladze! Kliknij sekcję, aby ją rozwinąć 👇
   <details>
     <summary><strong>⛪ Katedra – bo Malaga też ma swój gotyk z twistem</strong></summary>
     <p>📍 Współrzędne: 36.7210° N, 4.4214° W</p>
+
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/katedramalaga.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
     <p>Oficjalnie: La Santa Iglesia Catedral Basílica de la Encarnación. Nieoficjalnie: „Jednoręka Dama”, bo druga wieża nigdy nie powstała. Powód? Pieniądze poszły na coś innego – podobno na amerykańską niepodległość. Wewnątrz: barok, renesans, cisza i majestat. Na zewnątrz: idealne tło do wakacyjnej sesji.</p>
   </details>
+
+<details>
+  <summary><strong>🪑 Plaza de la Merced</strong> — czyli Picasso, gołębie i sangria w cieniu palm</summary>
+  <p>
+    Witamy na <strong>Plaza de la Merced</strong> – jednym z najbardziej klimatycznych placów Malagi, gdzie <strong>historia spotyka tapas</strong>, a Picasso siedzi na ławce i chętnie pozuje do zdjęć. Serio – jest tu rzeźba młodego Pabla Picassa z notatnikiem i zadumanym spojrzeniem, jakby właśnie wymyślał kubizm albo planował co zjeść na kolację.
+  </p>
+  <p>
+    To tutaj Picasso się urodził – dosłownie rzut oliwką stąd znajduje się jego dom rodzinny, dziś przekształcony w muzeum. Plac tętni życiem: dzieci biegają za piłką, artyści szkicują, a kelnerzy lawirują z tacami pełnymi kawy i tostów z jamón serrano.
+  </p>
+  <p>
+    W środku placu stoi obelisk – pomnik generała Torrijosa, który miał dość burzliwe życie i jeszcze bardziej burzliwy koniec. Ale nie martw się, nikt nie przyjeżdża tu dla polityki. <strong>Ludzie przychodzą tu, żeby chłonąć klimat miasta</strong>, zjeść coś dobrego i popatrzeć na życie Malagi toczące się swoim andaluzyjskim tempem.
+  </p>
+  <p>
+    <strong>Lokalizacja:</strong> <code>36.7223° N, 4.4180° W</code> – w samym sercu dzielnicy Centro Histórico, parę kroków od Alcazaby.
+  </p>
+  <p>
+    <strong>Wskazówka lokalna:</strong> Usiądź na ławce obok Picassa, zrób zdjęcie i udawaj, że dyskutujecie o sztuce. Następnie zamów café con leche w jednej z kawiarni – najlepiej tej z widokiem na pomnik. Idealne miejsce na przerwę w zwiedzaniu!
+  </p>
+  <p>
+    <strong>Fun fact:</strong> Plac ma tak dużo gołębi, że spokojnie można by nakręcić sequel „Ptaków” Hitchcocka. Na szczęście zamiast grozy dostajesz tu tylko gwar, zapach kwiatów i dobrego espresso.
+  </p>
+</details>
+
+
+
+<details>
+  <summary><strong>🎨 Dom Picassa (Casa Natal de Picasso)</strong> — miejsce, gdzie urodził się mistrz kubizmu</summary>
+  <p>
+    W samym sercu Malagi, na <strong>Plaza de la Merced</strong>, znajduje się skromny dom, w którym przyszedł na świat sam <strong>Pablo Picasso</strong> – geniusz, który zamienił świat sztuki na zawsze. To właśnie tutaj, w 1881 roku, zaczęła się historia jednego z najważniejszych artystów XX wieku.
+  </p>
+  <p>
+    Dziś dom jest muzeum, które pozwala podejrzeć życie rodzinne Picassa, jego pierwsze szkice i narzędzia pracy, a także poznać hiszpańskie korzenie artysty. Nie jest to ogromna rezydencja, ale każdy zakamarek tchnie historią i kreatywnością.
+  </p>
+  <p>
+    W środku znajdziesz kolekcję obrazów z różnych okresów życia Picassa, fotografie i osobiste pamiątki. To trochę jak spacer po pamiętniku, tylko bez nudnych stron.
+  </p>
+  <p>
+    <strong>Adres:</strong> Plaza de la Merced, 15, 29012 Málaga  
+    <strong>Współrzędne:</strong> <code>36.7223° N, 4.4180° W</code>
+  </p>
+  <p>
+    <strong>Godziny otwarcia:</strong> Zwykle od 10:00 do 18:00, ale warto sprawdzić aktualności na oficjalnej stronie, bo czasem muzeum ma wolne.
+  </p>
+  <p>
+    <strong>Tip dla zwiedzających:</strong> Wejdź na chwilę, nawet jeśli nie jesteś fanem sztuki – bo to jak odwiedzenie domku z dzieciństwa człowieka, który zmienił zasady gry. A poza tym, zaraz za rogiem czeka Plaza de la Merced i najlepsza kawa w okolicy.
+  </p>
+  <p>
+    <strong>Fun fact:</strong> Picasso ponoć powiedział kiedyś, że Malaga to dla niego „miejsce narodzin i inspiracji” – i chociaż podróżował po świecie, to zawsze wracał myślami do tego właśnie domu.
+  </p>
+</details>
+
 
   <details>
     <summary><strong>🏖️ Playa de la Malagueta – klasyka wypoczynku</strong></summary>
     <p>📍 Współrzędne: 36.7158° N, 4.4066° W</p>
-    <p>Najpopularniejsza plaża w Maladze – ładna, czysta, z palmami i chiringuito (czytaj: barami z rybami i piwem). Woda ciepła, piasek miękki, a widok na miasto w tle działa jak pocztówka na żywo. Tu można odpocząć, zdrzemnąć się lub spalić barki jak raczek po godzinie bez kremu.</p>
-  </details>
 
-  <details>
-    <summary><strong>🌅 Gibralfaro – widoki warte każdego jęku</strong></summary>
-    <p>📍 Współrzędne: 36.7231° N, 4.4133° W</p>
-    <p>Zamek na wzgórzu z widokiem na całą Malagę, stadion i port. Możesz tu dojść pieszo (dla ambitnych) albo podjechać autobusem (dla rozsądnych). Idealne miejsce na zachód słońca, refleksję nad życiem i jeszcze jedno zdjęcie na Instagrama, zanim padnie bateria.</p>
-  </details>
+    <div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="{{ '/assets/images/playamalaga.jpg' | relative_url }}" 
+        style="width: 100%; max-width: 600px; height: auto; border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+  
+  <p>
+    Playa de la Malagueta to <strong>najbardziej znana plaża w Maladze</strong>, czyli coś w rodzaju miejskiego salonu pod chmurką. Położona dosłownie kilka kroków od centrum, zaraz za portem, to idealne miejsce, żeby rzucić się w piasek po intensywnym zwiedzaniu (albo po intensywnym nicnierobieniu – kto co lubi).
+  </p>
+  <p>
+    <strong>Co ją wyróżnia?</strong> Przede wszystkim: <strong>lokalizacja</strong>. Z jednej strony masz port i palmy, z drugiej – góry w tle i stare miasto tuż obok. Można leżeć na ręczniku i patrzeć na panoramę jak z katalogu podróży. Sama plaża jest <strong>szeroka, piaszczysta</strong> (choć czasem trochę szorstka, więc mata plażowa to Twój przyjaciel), z palmami, które robią świetne zdjęcia i jeszcze lepszy cień.
+  </p>
+  <p>
+    <strong>Dla kogo?</strong> Dla wszystkich. Dla rodzin z dziećmi (są place zabaw), dla lokalnych dziadków w kapeluszach, dla turystów w sandałach, dla influencerów z kokosem w ręce, i dla Ciebie – niezależnie czy masz ze sobą książkę, napój z lodem czy tylko marzenie o opaleniźnie.
+  </p>
+  <p>
+    <strong>Infrastruktura?</strong> Pełna cywilizacja. Są <strong>toalety, prysznice, wypożyczalnie leżaków</strong>, bary (czytaj: <em>chiringuitos</em>), gdzie kupisz <strong>tinto de verano</strong> albo smażone sardynki prosto z rusztu. Woda w morzu? Zaskakująco czysta jak na plażę miejską, choć orzeźwiająca – zwłaszcza jak wchodzisz z krzykiem.
+  </p>
+  <p>
+    <strong>Ciekawostka:</strong> To właśnie tu stoi słynny napis <strong>“Malagueta”</strong> z wielkich liter – obowiązkowe tło do zdjęć na Instagram, najlepiej z udawaną spontanicznością i filtrem #sunsetvibes.
+  </p>
+  <p>
+    <strong>Uwaga praktyczna:</strong> W sezonie (czytaj: od kwietnia do października, czyli zawsze) bywa tłoczno. Jak chcesz mieć dobry kawałek piasku, przyjdź wcześniej. Albo później. Albo zaprzyjaźnij się z mewą, która ci coś zarezerwuje.
+  </p>
+  <p>
+    <strong>Dojazd:</strong> Spacerem z centrum – 10 minut max, nawet jeśli idziesz jak bohater telenoweli. Można też dojechać autobusem miejskim lub rowerem. Malaga to miasto przyjazne dla dwóch kółek i sandałów.
+  </p>
+ 
+  <p>
+    <strong>Czy warto?</strong> Jak najbardziej. Playa de la Malagueta to połączenie miejskiego luzu, śródziemnomorskiego klimatu i idealnego miejsca na popołudniowe nicnierobienie. Nie jest to dzika plaża z pocztówki, ale ma w sobie ten urok: trochę gwaru, trochę słońca i dużo piasku we wszystkich zakamarkach.
+  </p>
+</details>
 
-  <details>
+
+  
+
+<details>
+  <summary><strong>🏰 Zamek Gibralfaro</strong> </summary>
+   <p>📍 Współrzędne: 36.7231° N, 4.4133° W</p>
+  <p>
+    Jeśli masz ochotę na odrobinę historii, garść widoków i test kondycji w jednym, to <strong>Gibralfaro</strong> jest dokładnie tym, czego potrzebujesz. Położony na wzgórzu z widokiem na całą Malagę, ten stary mauretański zamek wygląda jakby ktoś wziął mur obronny, zawinął go wokół szczytu i powiedział: „Voilà, teraz można się bronić i podziwiać widoki jednocześnie”.
+  </p>
+  <p>
+    Zamek został zbudowany w XIV wieku przez Jusufa I z Granady, który uznał, że <strong>Alcazaba to za mało</strong> i potrzebna jest druga warstwa ochrony – najlepiej z panoramą na port. I trzeba mu przyznać: <strong>widok z Gibralfaro to absolutna czołówka Malagi</strong>. Można tu zobaczyć całe miasto, morze, góry i ludzi na plaży próbujących udawać, że nie są czerwoni od słońca.
+  </p>
+  <p>
+    <strong>Wejście?</strong> Dwie opcje: ambitna – pieszo stromą ścieżką (spacerek pełen potu i przekleństw, ale z pięknymi przystankami widokowymi) lub wygodna – autobusem nr 35 albo taksówką, jeśli Twoje wakacje są w stylu „all inclusive, ale bez potu”.
+  </p>
+  <p>
+    <strong>Na miejscu:</strong> Zamek sam w sobie to głównie <strong>mury obronne, wieże, dziedziniec i spacer po koronach murów</strong>, który daje uczucie bycia strażnikiem Malagi (albo smokiem z „Gry o Tron”). Jest też małe muzeum wojskowe, gdzie można zobaczyć zbroje, mapy i stare armaty, które wyglądają, jakby czekały na piratów z Karaibów.
+  </p>
+  <p>
+    <strong>Bilety:</strong> Około 3,50 € solo, ale lepiej kupić <strong>bilet łączony z Alcazabą</strong> (ok. 5,50 €), bo i tak oba miejsca są ze sobą powiązane historycznie i geograficznie. Dzieci, studenci i seniorzy płacą mniej – bo kręte schody i palące słońce to już wystarczająca kara.
+  </p>
+  <p>
+    <strong>Godziny otwarcia:</strong> Od rana (zwykle 9:00) do popołudnia, ale najlepiej iść rano lub późnym popołudniem – w południe możesz poczuć się jak tost w piekarniku.
+  </p>
+  <p>
+    <strong>Ciekawostka:</strong> Nazwa „Gibralfaro” pochodzi od arabskiego „Jabal-Faruk” – czyli „góra latarni”. Bo ponoć kiedyś tu paliła się latarnia morska. Dziś zamiast światła masz Insta stories i filtry słoneczne.
+  </p>
+    <p>
+    <strong>Czy warto?</strong> Zdecydowanie. Gibralfaro to <strong>Malaga z lotu ptaka</strong>, historia w wersji panoramicznej i trochę cardio w jednym. Idealne miejsce na zdjęcia, piknik na murku i zastanowienie się, czy przypadkiem nie zostajesz tu na stałe.
+  </p>
+</details>
+
+
+
+
+<details>
+  <summary><strong>🐟 Pomnik El Cenachero</strong> — chłop z rybami, duma Malagi i ikona z brązu</summary>
+  <p>
+    W centrum Malagi, między uliczkami i palmami, stoi on — <strong>El Cenachero</strong>. Brązowy jegomość z szerokim kapeluszem, trzymający dwa kosze pełne ryb. Nie, to nie nowy food truck. To <strong>symbol starej Malagi</strong>, hołd dla rybaków, którzy kiedyś chodzili po mieście i sprzedawali świeże owoce morza prosto z wiklinowych koszy.
+  </p>
+  <p>
+    „Cenachero” to w dialekcie andaluzyjskim właśnie taki wędrowny sprzedawca ryb – zawód dziś już niemal zapomniany, ale w sercach malagueños zajmujący specjalne miejsce. Pomnik przedstawia jednego z nich w pełnej gotowości do handlu: postawa jak z plakatu reklamowego, spojrzenie jakby właśnie wycenił Ci sardynek.
+  </p>
+  <p>
+    <strong>Gdzie to stoi?</strong> Kiedyś na Plaza de la Marina, dziś przeniesiony kawałek dalej — <code>36.7188° N, 4.4212° W</code>, przy Alameda Principal. Wciąż w centrum, nadal rybny.
+  </p>
+  <p>
+    <strong>Wskazówka:</strong> Zrób sobie zdjęcie obok i spróbuj naśladować jego pozę. Łatwiej powiedzieć niż zrobić, szczególnie jeśli nie masz dwóch koszy z sardynkami. Ale za to masz styl.
+  </p>
+  <p>
+    <strong>Fun fact:</strong> Tak bardzo ukochany przez mieszkańców, że El Cenachero trafił nawet do logo miasta. Bo nic nie mówi „Malaga” tak dobrze, jak uśmiechnięty facet z rybą.
+  </p>
+  <p>
+    <strong>Czy warto?</strong> Zdecydowanie. To nie jest tylko pomnik – to <strong>mały kawałek andaluzyjskiej duszy</strong>, z brązu, z historią, z charakterem. I bez smrodu ryb – co też się liczy.
+  </p>
+</details>
+
+<details>
+  <summary><strong>🌀 Dziwny pomnik na Plaza de la Marina</strong> — czyli sztuka współczesna vs. zdrowy rozsądek</summary>
+  <p>
+    Stoisz sobie spokojnie na Plaza de la Marina, wiatr rozwiewa włosy, mewa krzyczy coś po andaluzyjsku… i nagle widzisz <strong>to coś</strong>. Gigantyczny, metalowy pomnik, który wygląda jak <strong>skrzyżowanie śruby okrętowej z fidget spinnerem po siłowni</strong>. Oficjalnie to „Monumento al Marqués de Larios” – ale większość turystów pyta: „Czy to wentylator? Antena? UFO?”.
+  </p>
+  <p>
+    Ten pomnik to <strong>dzieło sztuki współczesnej</strong>, co automatycznie daje mu prawo do bycia niezrozumianym. Miejscowi przywykli, turyści robią sobie zdjęcia w stylu „z ręką na spirali”, a dzieci... cóż, myślą, że to jakiś futurystyczny plac zabaw (nie próbuj wspinać się na to, ochrona patrzy).
+  </p>
+  <p>
+    <strong>Co to symbolizuje?</strong> Oficjalnie: <em>siłę, ruch, dynamikę miasta i otwartość Malagi na morze</em>. Nieoficjalnie: <strong>temat dyplomatycznie omijany przez przewodników</strong>. Każdy widzi coś innego – i właśnie o to chodzi. Sztuka.
+  </p>
+  <p>
+    <strong>Warto?</strong> Absolutnie tak – nie dlatego, że to arcydzieło, ale dlatego, że <strong>to jeden z tych punktów, które sprawiają, że Malaga jest sobą</strong>. Trochę szalona, trochę stylowa, trochę niezrozumiała. Jak sen po paelli i dwóch kieliszkach sangrii.
+  </p>
+  <p>
+    <strong>Lokalizacja:</strong> <code>36.7177° N, 4.4195° W</code> – czyli na samym środku głównego placu przy porcie. Nie da się przeoczyć. Nawet jeśli bardzo próbujesz.
+  </p>
+  <p>
+    <strong>Fun fact:</strong> Jeśli obejdziesz go dookoła trzy razy, wypowiadając „Tapas!” za każdym razem, podobno dostajesz zniżkę na cervezę. (Nieprawda, ale kto Ci zabroni spróbować?)
+  </p>
+</details>
+
+
+
+<details>
+  <summary><strong>🟥 Centre Pompidou Málaga</strong> — czyli francuska sztuka w hiszpańskim kubiku</summary>
+  <p>
+    Jeśli spacerując po porcie w Maladze zobaczysz kolorowy szklany sześcian, który wygląda jak gigantyczna kostka Rubika, to wiedz, że to nie nowa atrakcja lunaparku, ale <strong>Centre Pompidou Málaga</strong> – pierwsza filia paryskiego muzeum poza Francją. Oficjalnie tymczasowa, ale od 2015 roku nigdzie się nie wybiera, bo kto by chciał opuszczać słoneczną Andaluzję?
+  </p>
+  <p>
+    W środku czeka na Ciebie ponad 80 dzieł sztuki XX i XXI wieku, w tym prace takich artystów jak <strong>Picasso, Frida Kahlo, Magritte, Giacometti, Bacon</strong> i wielu innych. To jak podróż przez współczesną sztukę bez konieczności przesiadek w Paryżu.
+  </p>
+  <p>
+    <strong>Wystawy</strong> są podzielone tematycznie, więc możesz zanurzyć się w "Metamorfozy", "Ciało w kawałkach" czy "Ciało polityczne". Brzmi poważnie? Spokojnie, to tylko sztuka – czasem dziwna, czasem piękna, zawsze inspirująca.
+  </p>
+  <p>
+    <strong>Godziny otwarcia:</strong> Od środy do niedzieli, 9:30–20:00. W poniedziałki zamknięte – nawet sztuka potrzebuje dnia wolnego.
+  </p>
+  <p>
+    <strong>Adres:</strong> <code>Passage Doctor Carrillo Casaux, 29016 Málaga</code>. Znajdziesz go na Muelle Uno – nie da się przegapić tej kolorowej kostki.
+  </p>
+  <p>
+    <strong>Czy warto?</strong> Zdecydowanie! To idealne miejsce, by poczuć się kulturalnie, schronić przed upałem i zrobić zdjęcie, które zaskoczy Twoich znajomych: "Byłem w Pompidou!" – i nie musisz nawet jechać do Paryża.
+  </p>
+</details>
+
+ <details>
     <summary><strong>🌳 Parque de Málaga – tropiki w środku miasta</strong></summary>
     <p>📍 Współrzędne: 36.7177° N, 4.4175° W</p>
-    <p>Palmy, papugi, fontanny, cień i ławki. Jeśli szukasz przerwy między jedną atrakcją a drugą – to idealne miejsce, by usiąść i przekąsić bocadillo. Czasem występują tam też koncerty, pokazy lub dzieci w trybie turbo – ale generalnie spokój i zieleń.</p>
-  </details>
+  <p>
+    Parque de Málaga, zwany też po prostu <strong>Parque</strong>, to taka <strong>zielona oaza pomiędzy hałasem ulic a błękitem morza</strong>. Leży idealnie – z jednej strony masz port i plażę, z drugiej historyczne centrum, a po środku… egzotyczna alejka, jakby ktoś postanowił posadzić całą południowoamerykańską roślinność wzdłuż jednej alei.
+  </p>
+  <p>
+    <strong>Co tu znajdziesz?</strong> Palmy, bananowce, gigantyczne paprocie, ale też <strong>ławki, fontanny, pomniki, ptaki i babcie karmiące gołębie</strong>. Są też sceny teatralne, mini plac zabaw, a nawet... koty (bo Malaga ma kota na punkcie kotów).
+  </p>
+  <p>
+    Idealne miejsce na: <strong>popołudniową sjestę w cieniu, przechadzkę z lodem w ręce, rozprostowanie nóg po wspinaczce na Gibralfaro</strong>, albo po prostu chwilę ciszy, kiedy chcesz uciec od hałasu tapas barów i wszechobecnych skuterów.
+  </p>
+  <p>
+    <strong>Długość?</strong> Park ciągnie się wzdłuż Avenida de Cervantes, ma kilka wejść i ścieżki krzyżujące się jak labirynt z tropików. Spokojnie można się zgubić… ale w bardzo przyjemny sposób.
+  </p>
+  <p>
+    <strong>Ciekawostka:</strong> Część roślin przyjechała tu z Kuby i Filipin, bo kiedyś Hiszpania miała więcej kolonii niż lodówek. Dzięki temu teraz ty możesz robić zdjęcia przy palmie królewskiej i udawać, że jesteś na Bali.
+  </p>
+   <p>
+    <strong>Czy warto?</strong> Bardzo. Bo czasem zamiast kolejnego muzeum, wystarczy <strong>drzewo, cień i ławeczka</strong>. A Parque de Málaga to najlepsze miejsce, żeby usiąść, odpocząć i zastanowić się, czy nie zostać tu do emerytury.
+  </p>
+</details>
+
+ 
+ 
  
 
  
